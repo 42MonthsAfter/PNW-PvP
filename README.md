@@ -16,5 +16,4 @@ We use the following mods on this server, you can find their types.xml files in 
 - [Pacific Northwest Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2935471426)
 - [Expansion Mod Licensed](https://steamcommunity.com/sharedfiles/filedetails/?id=2116157322&searchtext=DayZ-Expansion-Licensed)
 - [Expansion Mod Bundle](https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007&searchtext=DayZ-Expansion-Bundle)
-- [MuchStufPack](https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984&searchtext=MuchStuffPack)
 - [Gebs Fish](https://steamcommunity.com/sharedfiles/filedetails/?id=2757509117&searchtext=gebsfish)
