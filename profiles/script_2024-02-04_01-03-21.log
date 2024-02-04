@@ -1,0 +1,8 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Documents\PNW-PvP\servers\Production\profiles\script_2024-02-04_01-03-21.log started at 04.02. 01:03:21
+
+SCRIPT       : Registered 326 temporary action enum(s), UAN==326
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,635": Missing ';' at the end of line
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,637": Missing ';' at the end of line
+SCRIPT       : [EditorLoader] No files found, exiting
