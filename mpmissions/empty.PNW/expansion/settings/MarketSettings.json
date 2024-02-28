@@ -7,7 +7,7 @@
     "MaxDepositMoney": 1000000,
     "DefaultDepositMoney": 0,
     "ATMPlayerTransferEnabled": 1,
-    "ATMPartyLockerEnabled": 1,
+    "ATMPartyLockerEnabled": 0,
     "MaxPartyDepositMoney": 1000000,
     "UseWholeMapForATMPlayerList": 1,
     "SellPricePercent": 75.0,

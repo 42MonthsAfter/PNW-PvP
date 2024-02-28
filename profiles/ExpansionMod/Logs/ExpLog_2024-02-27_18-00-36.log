@@ -362,3 +362,11 @@
 20:48:10.210 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
 20:49:11.078 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hey bunker
 20:49:16.500 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): loving this map!
+21:02:14.328 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+21:02:14.343 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+21:02:14.343 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+21:02:15.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+21:06:11.718 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Medical
+21:12:44.460 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=
+21:12:44.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:16:02.046 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)

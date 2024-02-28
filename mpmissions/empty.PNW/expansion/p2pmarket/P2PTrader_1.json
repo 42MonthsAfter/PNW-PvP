@@ -3,23 +3,11 @@
     "m_TraderID": 1,
     "m_ClassName": "ExpansionP2PTraderAIIrena",
     "m_Position": [],
-    "m_Orientation": [
-        0.0,
-        0.0,
-        0.0
-    ],
+    "m_Orientation": [],
     "m_LoadoutFile": "YellowKingLoadout",
     "m_VehicleSpawnPosition": [],
-    "m_WatercraftSpawnPosition": [
-        0.0,
-        0.0,
-        0.0
-    ],
-    "m_AircraftSpawnPosition": [
-        0.0,
-        0.0,
-        0.0
-    ],
+    "m_WatercraftSpawnPosition": [],
+    "m_AircraftSpawnPosition": [],
     "m_DisplayName": "Unknown",
     "m_DisplayIcon": "Deliver",
     "m_Faction": "InvincibleObservers",

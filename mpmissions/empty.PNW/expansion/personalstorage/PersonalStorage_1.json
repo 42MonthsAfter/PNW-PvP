@@ -5,11 +5,7 @@
     "DisplayName": "Personal Storage",
     "DisplayIcon": "Backpack",
     "Position": [],
-    "Orientation": [
-        0.0,
-        0.0,
-        0.0
-    ],
+    "Orientation": [],
     "QuestID": -1,
     "Reputation": 0,
     "Faction": "",
