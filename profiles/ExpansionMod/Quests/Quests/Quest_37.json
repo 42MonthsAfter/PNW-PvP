@@ -21,7 +21,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
+            "Amount": 350,
             "Attachments": [],
             "DamagePercent": 0,
             "QuestID": -1,

@@ -17,7 +17,7 @@
         {
             "Name": "Manhattan Project",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -70,7 +70,7 @@
         {
             "Name": "Vagabond Army",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -123,7 +123,7 @@
         {
             "Name": "Trench 94",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -176,7 +176,7 @@
         {
             "Name": "Indian Island",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -229,7 +229,7 @@
         {
             "Name": "National Guard",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -287,7 +287,7 @@
         {
             "Name": "Airfield",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -340,7 +340,7 @@
         {
             "Name": "Police Academy",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -393,7 +393,7 @@
         {
             "Name": "FOB Alpha",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
@@ -446,7 +446,7 @@
         {
             "Name": "Orting",
             "Faction": "Shamans",
-            "Formation": "Line",
+            "Formation": "File",
             "FormationLooseness": 3.0,
             "LoadoutFile": "",
             "Units": [],
