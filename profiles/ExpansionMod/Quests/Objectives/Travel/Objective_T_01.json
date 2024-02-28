@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Clallam Bay",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        647.664, 
+        34.445, 
+        3437.86
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Clallam Bay",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

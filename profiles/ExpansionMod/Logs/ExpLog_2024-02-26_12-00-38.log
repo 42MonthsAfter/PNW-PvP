@@ -1,0 +1,174 @@
+12:03:20.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+12:03:20.703 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:03:20.703 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+12:08:23.105 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Basebuilding
+12:13:57.082 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:13:57.093 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:13:57.093 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 4
+12:13:57.093 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:13:57.101 [AI Patrol] Spawning 2 Orting bots at <5237.017090, 220.263428, 4926.351563>
+12:13:58.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:23:18.691 [Expansion Quests] - CompleteQuest - Player with UID iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= has completed quest 99
+12:23:27.722 [Safezone] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= pos=<6657.380371, 21.836582, 3670.751465>) Entered the safezone
+12:23:38.617 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 99
+12:23:42.984 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6580.919922, 21.531649, 3687.361816>) Entered the safezone
+12:23:57.484 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6563.575195, 21.688677, 3658.581299>) Left the safezone
+12:23:59.207 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6574.921875, 21.520166, 3661.119385>) Entered the safezone
+12:25:50.132 [Market] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:25:50.355 [Market] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:31:20.425 [Market] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) has send a requested to purchase ammobox_762x54tracer_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:31:20.652 [Market] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) has bought ammobox_762x54tracer_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+12:35:53.550 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6656.584961, 21.438156, 3627.310547>) Left the safezone
+12:35:57.031 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6644.427246, 21.297377, 3634.807861>) Entered the safezone
+12:36:21.382 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6539.762207, 22.244459, 3628.045654>) Left the safezone
+12:37:00.785 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6576.202148, 21.496721, 3660.149414>) Entered the safezone
+12:37:24.183 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6538.042969, 22.225992, 3634.774902>) Left the safezone
+12:38:52.136 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6582.458008, 21.365860, 3649.180664>) Entered the safezone
+12:41:23.773 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6687.485840, 22.609522, 3624.792236>) Left the safezone
+12:54:20.781 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6656.268555, 21.777658, 3667.024414>) Entered the safezone
+12:55:04.453 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6567.687500, 21.624258, 3658.655518>) Left the safezone
+12:55:05.679 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6575.931641, 21.500534, 3660.018311>) Entered the safezone
+13:07:14.156 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6643.089844, 21.309654, 3639.181396>) Entered the safezone
+13:07:30.156 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= for quest 31
+13:07:50.074 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6548.914551, 21.971689, 3652.442383>) Left the safezone
+13:09:20.664 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6583.504395, 21.333109, 3643.965332>) Entered the safezone
+13:16:38.710 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6682.980957, 22.294502, 3623.683350>) Left the safezone
+13:29:35.585 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6618.927734, 21.045162, 3624.058350>) Entered the safezone
+13:29:51.687 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6585.285156, 22.745586, 3623.093018>) Left the safezone
+13:32:16.863 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.648926, 21.460112, 3657.020020>) Entered the safezone
+13:35:43.191 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Basebuilding
+13:40:15.039 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6547.853027, 21.939466, 3636.439453>) Left the safezone
+13:40:37.765 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6582.178711, 21.362160, 3647.786377>) Entered the safezone
+13:43:34.242 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6673.766113, 21.849123, 3618.931396>) Left the safezone
+13:46:56.750 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6644.917480, 21.338657, 3638.989990>) Entered the safezone
+13:47:18.253 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 31
+13:47:31.218 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:47:31.320 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+13:47:33.144 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:47:33.246 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+13:48:08.167 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:48:08.265 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+13:48:08.835 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:48:08.933 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+13:48:45.195 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase mag_vss_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:48:45.281 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought mag_vss_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 220.
+13:54:22.593 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:54:22.687 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+13:54:23.417 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:54:23.523 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+14:07:15.265 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:36:41.007 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6623.968750, 21.492762, 3672.311035>) Entered the safezone
+14:36:41.007 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:36:41.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:36:41.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:36:41.988 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:38:26.960 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= for quest 32
+14:39:12.781 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6670.967285, 21.742132, 3617.070557>) Left the safezone
+14:47:28.699 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6645.579102, 21.354639, 3639.589600>) Entered the safezone
+14:48:46.015 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6562.523926, 25.022869, 3643.796143>) Left the safezone
+14:50:04.531 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6581.183594, 21.362862, 3645.928223>) Entered the safezone
+14:53:46.949 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.422852, 21.324522, 3626.820068>) Left the safezone
+14:59:19.679 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6576.742188, 21.468931, 3655.796875>) Entered the safezone
+15:02:59.195 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer
+15:07:41.019 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+15:07:41.019 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+15:08:25.035 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed_Enoch<65b32700> at <5223.37, 56.88, 2222.63> EXPLOSION range 20 dropoff 5
+15:19:17.007 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5329.280762, 56.142471, 2161.657471>) uncovered vehicle "BMW_rust" (GlobalID=80000000800000008000000080001481 pos=<5332.062988, 56.049713, 2162.950439>)!
+15:19:30.640 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5329.280762, 56.142471, 2161.657471>) used the  ExpansionCarKey to unlock BMW_rust (id=04E3155B094EA19E6179E994EC967C97 pos=<5332.062012, 56.049713, 2162.950439>)
+15:19:32.132 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5329.280762, 56.142471, 2161.657471>) used the  ExpansionCarKey to lock BMW_rust (id=04E3155B094EA19E6179E994EC967C97 pos=<5332.062012, 56.049713, 2162.950439>)
+15:19:33.101 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5329.280762, 56.142471, 2161.657471>) used the  ExpansionCarKey to unlock BMW_rust (id=04E3155B094EA19E6179E994EC967C97 pos=<5332.062012, 56.049713, 2162.950439>)
+15:19:55.167 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle BMW (rust) (id=04E3155B094EA19E6179E994EC967C97 pos=<5332.062012, 56.049747, 2162.950439>) as driver
+15:20:19.492 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (id=04E3155B094EA19E6179E994EC967C97 pos=<5332.060059, 56.049744, 2162.950439>)
+15:20:53.847 [AI Patrol] Spawning 2 Police Academy bots at <5159.539551, 56.129997, 2233.068848>
+15:26:27.449 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle BMW (rust) (id=04E3155B094EA19E6179E994EC967C97 pos=<6496.972168, 23.100214, 3605.150635>)
+15:26:35.312 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6496.205566, 23.206816, 3604.173584>) used the  ExpansionCarKey to lock BMW_rust (id=04E3155B094EA19E6179E994EC967C97 pos=<6496.972168, 23.100210, 3605.149658>)
+15:26:45.988 [VehicleDeleted] BMW_rust (id=04E3155B094EA19E6179E994EC967C97 pos=<6496.972168, 23.100210, 3605.149658>)
+15:26:45.988 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6496.046387, 23.207045, 3603.831055>) covered vehicle "BMW_rust" (GlobalID=80000000800000008000000080001481 pos=<6496.972168, 23.100210, 3605.149658>)!
+15:27:12.593 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6589.723145, 21.231777, 3634.567871>) Entered the safezone
+15:45:11.503 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:45:11.511 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:45:11.511 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:45:11.515 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:45:12.476 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:48:33.031 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 31
+15:48:56.304 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6539.921387, 22.272110, 3624.870605>) Left the safezone
+15:50:43.074 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:50:43.089 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:50:43.093 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+15:50:44.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:00:36.656 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6653.886719, 21.834711, 3677.622803>) Entered the safezone
+16:00:58.675 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 31
+16:01:27.578 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:01:27.679 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:01:30.511 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:01:30.585 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:01:31.128 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:01:31.210 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:01:33.773 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:01:33.859 [Market] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:08:14.527 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6633.920410, 22.037899, 3751.027100>) Left the safezone
+16:13:20.726 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+16:30:29.203 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Basebuilding
+16:54:55.730 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6610.996582, 21.492947, 3667.754150>) Entered the safezone
+16:54:55.734 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:54:55.742 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+16:54:55.742 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:54:56.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:58:26.843 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+16:58:26.843 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+16:58:39.296 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I have a VC going if you wanna hop in.
+17:00:11.867 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= for quest 55
+17:00:53.292 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6665.312012, 22.787239, 3742.572021>) Left the safezone
+17:00:55.929 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:07:23.468 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.419373, 27.314148, 3483.561523>) as driver
+17:07:25.308 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.419434, 27.314144, 3483.561523>)
+17:07:30.070 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.419373, 27.314140, 3483.561523>)
+17:27:46.335 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.505981, 27.316303, 3483.559082>) as driver
+17:27:47.687 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.505981, 27.316305, 3483.559082>)
+17:27:51.320 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.505859, 27.316301, 3483.559082>)
+17:27:55.421 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.505859, 27.316298, 3483.559082>)
+17:28:30.652 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.505981, 27.316303, 3483.559082>) as driver
+17:28:32.320 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle MotorHome rust (id=09F76B3F7D4614E72FECF1AAAD697BE8 pos=<556.505920, 27.316301, 3483.559082>)
+17:39:00.773 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=
+17:39:00.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:40:01.757 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=
+17:40:01.757 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:40:49.468 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6512.976074, 161.108459, 7200.372559>) used the  ExpansionCarKey to unlock Offroad_02 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>)
+17:41:13.703 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) joinded the party "Servantsofares" (id=7 ownerUID= ownerName=)
+17:41:13.707 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) created a party named Servantsofares (ARES)
+17:41:14.703 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 7
+17:41:19.101 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>) as driver
+17:41:23.621 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) invited the player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=)to the party named Servantsofares
+17:41:25.496 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) invited the player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=)to the party named Servantsofares
+17:41:34.226 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:41:34.265 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>)
+17:41:35.226 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:41:39.253 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>)
+17:41:49.652 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>)
+17:41:57.414 [Party] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:41:58.414 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:42:22.398 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>) as driver
+17:42:25.351 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<6512.019531, 161.125687, 7202.219727>)
+17:43:49.921 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<7229.664063, 65.088554, 7547.584961>)
+17:43:56.914 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<7232.233398, 64.657990, 7548.128418>)
+17:44:20.984 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<7232.233398, 64.657997, 7548.128418>) as driver
+17:44:24.035 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<7232.233398, 64.657990, 7548.128418>)
+17:46:16.515 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+17:46:16.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:47:04.843 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) invited the player "Gen" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=)to the party named Servantsofares
+17:47:07.179 [Party] Player "Gen" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:47:08.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:47:21.039 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9345.174805, 3.915744, 6775.694824>)
+17:47:30.906 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9345.174805, 3.915740, 6775.694824>) as driver
+17:47:34.234 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9345.174805, 3.915744, 6775.694824>)
+17:47:45.789 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9349.215820, 4.163380, 6793.168945>)
+17:47:50.785 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M1025 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9349.215820, 4.163359, 6793.168945>)
+17:49:54.062 [AI Patrol] Spawning 2 Airfield bots at <6719.783691, 18.596022, 1696.261841>
+17:51:17.988 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<9351.699219, 4.122800, 6793.541016>) used the  ExpansionCarKey to lock Offroad_02 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9349.215820, 4.163361, 6793.168945>)
+17:53:23.355 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:57:19.203 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer
+17:58:39.398 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:00:00.894 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+18:00:00.898 [Party] Player "Gen" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+18:00:00.898 [Party] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+18:00:00.902 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)

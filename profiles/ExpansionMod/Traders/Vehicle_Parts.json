@@ -1,0 +1,18 @@
+{
+    "m_Version": 12,
+    "DisplayName": "VEHICLE PARTS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Vehicle_Parts:0"
+    ],
+    "Items": {}
+}

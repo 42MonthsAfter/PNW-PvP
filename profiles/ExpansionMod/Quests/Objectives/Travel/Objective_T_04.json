@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Ocean Shores",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1871.66, 
+        8.24623,  
+        1017.75
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Ocean Shores",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

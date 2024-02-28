@@ -1,0 +1,14 @@
+01:14:35.148 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+01:14:35.149 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+01:19:26.705 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+01:19:26.706 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+01:19:26.707 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+01:19:44.063 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Basebuilding
+01:19:54.061 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+01:20:42.541 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 99
+01:20:42.972 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6601.050293, 21.217253, 3652.808594>) Entered the safezone
+01:21:44.949 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 54
+01:22:13.520 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2398.741211, 4.736680, 619.527649>) Left the safezone
+01:23:01.023 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6589.363281, 21.281006, 3646.961670>) Entered the safezone
+01:24:21.448 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 54
+01:25:40.033 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9369.980469, 4.014997, 6300.949707>) Left the safezone

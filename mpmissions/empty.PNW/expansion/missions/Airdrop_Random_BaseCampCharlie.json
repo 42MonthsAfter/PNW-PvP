@@ -1,0 +1,25 @@
+{
+    "m_Version": 1,
+    "Enabled": 1,
+    "Weight": 934.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_BaseCampCharlie",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 2675.06,
+        "z": 2487.12,
+        "Name": "Base Camp Charlie",
+        "Radius": 100.0
+    },
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1,
+    "Loot": []
+}

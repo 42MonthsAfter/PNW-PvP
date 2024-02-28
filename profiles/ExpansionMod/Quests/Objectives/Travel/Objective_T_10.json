@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 10,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visti the Drive In",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3124.54, 
+        282.164, 
+        6446.25
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Visit the Drive In",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

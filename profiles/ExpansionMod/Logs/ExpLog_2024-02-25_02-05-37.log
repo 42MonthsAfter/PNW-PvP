@@ -1,0 +1,31 @@
+02:13:53.315 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:13:53.315 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+02:19:00.368 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Military
+02:23:05.032 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6581.918945, 21.362690, 3647.378906>) Entered the safezone
+02:36:57.437 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+02:36:57.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+02:36:57.445 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+02:36:57.446 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+02:36:58.425 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+02:47:13.620 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+02:47:13.620 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+02:49:22.250 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID= ownerName=)
+02:49:22.250 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) created a party named dirtymike (dmbs)
+02:49:23.250 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+02:50:56.818 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+02:51:09.272 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named dirtymike
+02:51:15.623 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:51:16.622 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:19:48.366 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:19:49.360 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:45:24.365 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer_Military
+04:22:43.052 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<1014.922119, 5.608495, 1013.461426>) as driver
+04:22:46.351 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<1014.923706, 5.608493, 1013.462219>)
+04:43:18.187 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<1014.924377, 5.608469, 1013.462769>) as driver
+04:43:24.144 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<1014.925903, 5.608448, 1013.464478>)
+04:44:04.875 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<1014.926392, 5.608446, 1013.464966>) as driver
+04:44:10.158 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<1014.927612, 5.608421, 1013.465698>)
+04:45:10.894 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=C7D87AA7E64C18FD75F57A83CFC57756 pos=<805.005859, 14.009233, 1200.270752>)
+04:46:28.546 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+05:11:53.371 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+05:29:47.291 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

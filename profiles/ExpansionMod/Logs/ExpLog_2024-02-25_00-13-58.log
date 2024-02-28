@@ -1,0 +1,9 @@
+00:14:44.387 [VehicleDeleted] Hatchback_02_Black (id=94AE0D92304BDFD4E1B70399D928FFC4 pos=<6520.415039, 58.260727, 11312.943359>)
+00:14:44.389 [VehicleDeleted] Hatchback_02_Blue (id=B10D1874614E43F4895C9D8DA7DACC99 pos=<3405.312744, 109.205315, 12238.955078>)
+00:16:09.848 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+00:16:09.849 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:16:37.817 [VehicleDeleted] Hatchback_02_Black (id=74BDAE3FEE400B232B409EBB236F6F7D pos=<6520.507813, 57.607910, 11312.989258>)
+00:16:37.820 [VehicleDeleted] Hatchback_02_Black (id=0F00FC3760470C6DD6C17FA2F19210E1 pos=<3405.337402, 108.502274, 12239.048828>)
+00:16:45.778 [Safezone] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<6591.059570, 21.283445, 3650.696289>) Entered the safezone
+00:21:17.979 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+00:21:37.973 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Medical

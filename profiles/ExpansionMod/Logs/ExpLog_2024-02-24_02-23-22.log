@@ -1,0 +1,22 @@
+02:26:39.719 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:26:39.720 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+02:27:13.079 [VehicleDestroyed] Hatchback_02_Black (id=2A3B96B168419F98C63DC8B25FD558F7 pos=<9254.834961, -28.434788, 10865.320313>)
+02:27:17.824 [VehicleDeleted] Hatchback_02_Black (id=2A3B96B168419F98C63DC8B25FD558F7 pos=<9254.834961, -28.434788, 10865.320313>)
+02:29:36.182 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:29:36.182 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+02:29:36.182 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:31:43.082 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:31:43.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+02:31:43.082 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:33:33.521 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:33:33.521 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+02:33:33.521 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:35:03.728 [AI Patrol] Spawning 2 West bots at <4139.215820, 224.555679, 6141.201660>
+02:35:03.820 [AI Patrol] Spawning 1 East bots at <3443.851074, 278.248138, 6095.847168>
+02:35:03.829 [AI Patrol] Spawning 3 East bots at <4190.565918, 225.250565, 6115.456543>
+02:35:03.836 [AI Patrol] Spawning 3 East bots at <4187.975586, 225.176788, 6127.023926>
+02:35:03.845 [AI Patrol] Spawning 1 East bots at <3369.210449, 278.247498, 6121.869141>
+02:35:03.853 [AI Patrol] Spawning 1 East bots at <3375.980225, 278.247498, 6155.609863>
+02:35:03.863 [AI Patrol] Spawning 2 East bots at <3399.582764, 278.247498, 6160.930664>
+02:35:03.872 [AI Patrol] Spawning 2 East bots at <3403.004150, 278.247498, 6212.943848>
+02:35:08.560 [AI Patrol] Spawning 3 East bots at <5118.737305, 220.681198, 5176.218262>

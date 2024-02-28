@@ -1,0 +1,153 @@
+02:58:25.549 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6612.957520, 21.478264, 3663.551514>) Entered the safezone
+02:58:25.553 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:58:25.553 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+02:58:25.553 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+03:01:04.216 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<647.663696, 34.445034, 3437.860840>) Left the safezone
+03:02:06.599 [AI Patrol] Spawning 2 East bots at <3429.552002, 278.247498, 6091.207031>
+03:02:06.693 [AI Patrol] Spawning 2 East bots at <3371.718506, 278.247498, 6112.878418>
+03:02:06.703 [AI Patrol] Spawning 2 East bots at <3402.683350, 278.247498, 6158.483398>
+03:03:28.684 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Medical
+03:03:33.135 [AI Patrol] Spawning 2 East bots at <4192.153809, 225.246185, 6120.894043>
+03:03:33.148 [AI Patrol] Spawning 1 West bots at <4140.488770, 224.593796, 6120.084473>
+03:03:33.157 [AI Patrol] Spawning 3 East bots at <4176.412109, 225.064056, 6128.875000>
+03:03:33.373 [AI Patrol] Spawning 1 East bots at <3399.851318, 278.247498, 6210.878418>
+03:03:33.573 [AI Patrol] Spawning 3 East bots at <3132.945557, 282.111206, 6485.360840>
+03:03:33.775 [AI Patrol] Spawning 1 East bots at <3378.817871, 278.247498, 6153.703125>
+03:03:34.021 [AI Patrol] Spawning 3 East bots at <3380.717041, 278.247498, 6206.542969>
+12:33:00.296 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+12:33:00.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:33:04.691 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Military
+12:34:56.480 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+12:34:56.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:34:56.484 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+12:36:00.207 [AI Patrol] Spawning 1 East bots at <5445.447266, 219.748138, 5216.014160>
+12:36:24.722 [AI Patrol] Spawning 1 East bots at <5390.414551, 56.129997, 2310.264160>
+12:36:24.730 [AI Patrol] Spawning 2 East bots at <5387.403809, 56.129997, 2269.009277>
+12:36:24.734 [AI Patrol] Spawning 1 East bots at <5390.958008, 56.129997, 2255.317871>
+12:36:24.746 [AI Patrol] Spawning 3 East bots at <5388.818848, 56.129997, 2275.428955>
+12:36:24.753 [AI Patrol] Spawning 3 East bots at <5452.868652, 55.757660, 2409.377197>
+12:36:24.761 [AI Patrol] Spawning 2 East bots at <5383.365234, 56.129997, 2298.857666>
+12:36:24.769 [AI Patrol] Spawning 2 East bots at <5388.187012, 56.129997, 2313.855713>
+12:36:24.777 [AI Patrol] Spawning 2 East bots at <5389.231934, 56.129997, 2309.410156>
+12:36:24.785 [AI Patrol] Spawning 1 East bots at <5401.397461, 56.129997, 2287.538086>
+12:36:24.792 [AI Patrol] Spawning 2 East bots at <5352.189941, 56.129997, 2318.304443>
+12:36:24.804 [AI Patrol] Spawning 2 East bots at <5391.071289, 56.129997, 2288.052979>
+12:36:24.812 [AI Patrol] Spawning 2 East bots at <5441.909668, 56.085541, 2425.805420>
+12:36:37.210 [Expansion Quests] - CompleteQuest - Player with UID OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= has completed quest 99
+14:04:50.410 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:04:50.410 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+14:04:54.691 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Medical
+14:06:36.621 [AI Patrol] Spawning 2 East bots at <1734.362671, 5.957148, 793.912415>
+14:06:36.628 [AI Patrol] Spawning 1 East bots at <1729.650024, 5.966558, 796.410461>
+14:06:36.632 [AI Patrol] Spawning 3 East bots at <1730.882935, 5.998186, 803.844177>
+14:06:36.640 [AI Patrol] Spawning 2 East bots at <1737.631836, 6.207139, 848.035950>
+14:06:36.648 [AI Patrol] Spawning 3 East bots at <1729.848755, 6.252013, 862.020874>
+14:06:36.652 [AI Patrol] Spawning 3 East bots at <1562.462280, 7.883369, 1046.853516>
+14:07:47.976 [AI Patrol] Spawning 3 East bots at <1094.009155, 5.369400, 1025.040527>
+14:07:49.160 [AI Patrol] Spawning 3 East bots at <1086.438354, 5.348361, 1026.024048>
+14:07:50.640 [AI Patrol] Spawning 1 East bots at <1075.482544, 5.576375, 998.862732>
+14:07:52.402 [AI Patrol] Spawning 1 East bots at <1139.901245, 4.207048, 1339.043213>
+14:11:20.875 [AI Patrol] Spawning 1 East bots at <922.371033, 6.197637, 761.396912>
+14:11:48.839 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<fdef7700> at <1855.8, 9.56, 1038.02> EXPLOSION range 20 dropoff 5
+14:12:15.542 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<20ed5b0> at <1849.25, 9.67, 1050.27> EXPLOSION range 20 dropoff 5
+14:12:25.417 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<20edec0> at <1852.56, 9.62, 1044.11> EXPLOSION range 20 dropoff 5
+14:19:26.683 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:19:26.683 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+14:20:44.441 [AI Patrol] Spawning 1 East bots at <1921.539185, 9.549938, 1172.954712>
+14:20:45.394 [AI Patrol] Spawning 1 East bots at <1931.378418, 9.303269, 1138.522583>
+14:20:46.691 [AI Patrol] Spawning 3 East bots at <1925.636475, 9.349850, 1131.769897>
+14:26:19.363 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID= ownerName=)
+14:26:19.363 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created a party named ddd (ddddd)
+14:26:20.363 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+14:26:26.457 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named ddd
+14:26:41.296 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+14:26:42.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:30:25.375 [Killfeed] Captain Chaos got killed by (ADMIN)BLUE with MP5A3 (9x19) from a distance of 3 m.
+14:30:59.472 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+14:31:00.472 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:55:46.753 [AI Patrol] Spawning 1 East bots at <7071.945313, 4.291525, 641.110168>
+14:55:46.761 [AI Patrol] Spawning 2 East bots at <7076.537598, 4.603750, 648.338379>
+15:00:32.253 [Killfeed] Captain Chaos got killed by Survivor (East) with CR-61 Skorpion from a distance of 9 m.
+15:01:01.320 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+15:01:02.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:08:54.203 [AI Patrol] Spawning 3 East bots at <6763.743652, 18.588547, 1704.756958>
+15:08:54.210 [AI Patrol] Spawning 2 East bots at <6805.920410, 18.358721, 1670.633789>
+15:19:00.625 [VehicleDestroyed] Offroad_02 (id=A96209EFF443041BAB4A29A4D4D7738B pos=<6797.052246, 18.549902, 1730.628540>)
+15:19:29.773 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<6817.072266, 18.605404, 1735.712524>) as pilot
+15:19:33.011 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<6817.072266, 18.605404, 1735.712524>) as passenger
+15:19:37.101 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<6817.072266, 18.605404, 1735.712524>)
+15:23:41.171 [AI Patrol] Spawning 2 East bots at <4004.941895, 212.757584, 3126.032959>
+15:24:21.246 [VehicleDeleted] Offroad_02 (id=A96209EFF443041BAB4A29A4D4D7738B pos=<6797.051270, 18.549822, 1730.631470>)
+15:26:02.148 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] stopped vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3658.215088, 338.970886, 4909.187988>)
+15:26:05.085 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3658.140381, 338.673553, 4909.538086>)
+15:26:16.039 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3658.140625, 338.673553, 4909.538086>)
+15:27:41.117 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3658.140625, 338.673523, 4909.538086>) as pilot
+15:27:43.050 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3658.140625, 338.673523, 4909.538086>)
+15:27:51.230 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3656.605957, 338.677399, 4910.608887>) as passenger
+15:29:53.664 [AI Patrol] Spawning 3 East bots at <3179.503174, 99.884567, 7694.645020>
+15:31:21.339 [AI Patrol] Spawning 3 East bots at <3443.907227, 99.884567, 7982.527344>
+15:31:54.726 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+15:32:05.066 [AI Patrol] Spawning 3 West bots at <3707.973389, 99.884567, 8748.186523>
+15:32:28.738 [AI Patrol] Spawning 3 West bots at <2839.167480, 99.884567, 8766.870117>
+15:32:54.316 [AI Patrol] Spawning 3 East bots at <3088.273926, 99.884567, 9268.891602>
+15:32:55.781 [AI Patrol] Spawning 2 East bots at <3085.292969, 99.884567, 9286.526367>
+15:33:14.519 [AI Patrol] Spawning 2 East bots at <4423.219727, 103.615700, 9411.593750>
+15:33:14.621 [AI Patrol] Spawning 2 East bots at <4427.926758, 103.632057, 9408.836914>
+15:33:15.484 [AI Patrol] Spawning 2 East bots at <4417.417480, 102.980331, 9442.277344>
+15:33:53.757 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] stopped vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3703.161621, 100.105644, 8732.147461>)
+15:33:56.355 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3703.148438, 99.935379, 8732.149414>)
+15:33:56.921 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3703.148438, 99.935425, 8732.149414>)
+15:35:09.914 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+15:35:45.085 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+15:35:45.089 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:35:45.089 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:35:45.089 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:35:46.066 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:36:44.691 [AI Patrol] Spawning 1 East bots at <1922.746338, 99.884567, 8950.054688>
+15:38:19.945 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3703.148193, 99.935509, 8732.149414>) as pilot
+15:38:21.996 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3703.148193, 99.935471, 8732.149414>)
+15:38:30.218 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3703.148193, 99.935478, 8732.149414>) as passenger
+15:39:43.000 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] stopped vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3123.012939, 108.880287, 9281.457031>)
+15:39:44.808 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3123.012695, 108.880569, 9281.457031>)
+15:39:45.906 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Gyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3123.012695, 108.880569, 9281.457031>)
+15:44:08.812 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<d5f21520> at <3208.7, 99.96, 9269.75> EXPLOSION range 12 dropoff 3
+15:44:19.613 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<d5f20910> at <3213.09, 99.96, 9282.28> EXPLOSION range 12 dropoff 3
+15:44:28.449 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<d5f1b4a0> at <3204.3, 99.92, 9298.38> EXPLOSION range 12 dropoff 3
+15:44:28.449 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<d5f22d40> at <3202.8, 100.33, 9300.53> EXPLOSION range 12 dropoff 3
+15:46:56.410 [VehicleDeleted] OffroadHatchback (id=6C3800CCFC46C463466B868ACBD38D73 pos=<3192.156738, 99.935272, 9249.692383>)
+15:46:56.410 [VehicleDeleted] OffroadHatchback (id=2C157DA8454B656F580E7286F88F144E pos=<3190.455322, 99.989304, 9252.830078>)
+15:46:56.410 [VehicleDeleted] OffroadHatchback (id=EA9BBBD0D24D33246BEEDEB526D597B0 pos=<3188.026367, 99.932129, 9255.441406>)
+15:46:56.410 [VehicleDeleted] OffroadHatchback (id=AE3481B00E4D2F3610EC93BB664D9D91 pos=<3192.132080, 100.193642, 9247.379883>)
+15:46:56.414 [VehicleDeleted] Hatchback_02_Black (id=3CE0C786D9429EFFD194B888CEF840B5 pos=<3191.111328, 99.924515, 9259.238281>)
+15:47:00.265 [VehicleDeleted] OffroadHatchback (id=A2B02301BA45A0C1BB0DD3BB4C4390C9 pos=<3192.703613, 99.889496, 9255.141602>)
+15:47:00.265 [VehicleDeleted] Hatchback_02_Black (id=2892D87B1E4D99A98AB76C803EA46181 pos=<3194.007568, 100.509270, 9255.146484>)
+15:47:00.265 [VehicleDeleted] Hatchback_02_Black (id=63A5E440FA4E49AC78E3B18708F7D9C5 pos=<3196.408447, 99.929771, 9261.675781>)
+15:47:03.722 [VehicleDeleted] OffroadHatchback (id=07036773D4447BD6F2A8AA904F53E6FE pos=<3188.310547, 99.925278, 9253.361328>)
+15:47:03.722 [VehicleDeleted] Hatchback_02_Black (id=22DC6C5402485330074E3F97BEABFB63 pos=<3189.930664, 99.908257, 9257.418945>)
+15:47:03.722 [VehicleDeleted] Hatchback_02_Black (id=95AF1DAAA348437B95A7909B6DF127C5 pos=<3187.839111, 99.992508, 9261.941406>)
+15:47:03.722 [VehicleDeleted] Hatchback_02_Black (id=2AE5BAF7CB47438DE4F54E9E22851A76 pos=<3183.980225, 101.478653, 9257.244141>)
+15:47:05.003 [VehicleDeleted] Hatchback_02_Black (id=85368024AC41CA444BCE5B9F9ACE36D2 pos=<3192.769043, 101.695366, 9258.602539>)
+15:47:11.859 [VehicleDeleted] OffroadHatchback (id=37BE4B471147540BEBBC1482D28F0286 pos=<3190.410400, 99.891762, 9246.338867>)
+15:47:11.859 [VehicleDeleted] ExpansionBigGyrocopter (id=D8BF0D3742418E727C7F18ABC2786B31 pos=<3123.010986, 108.880707, 9281.457031>)
+15:47:11.859 [VehicleDeleted] Hatchback_02_Black (id=46C741EE524DF43D24083A8BE2C33549 pos=<3153.220703, 101.720284, 9258.878906>)
+15:47:11.859 [VehicleDeleted] Hatchback_02_Black (id=C81A1CD8E042AD3A6A95E59C9CF0B33E pos=<3151.623047, 102.954376, 9258.860352>)
+15:47:16.066 [VehicleDeleted] OffroadHatchback (id=1026491487450D73E52EA9849ECA80DE pos=<3177.678467, 99.925323, 9248.249023>)
+15:47:16.066 [VehicleDeleted] ExpansionUh1h_Green (id=30376E3E124DC1DF4C7749AD5F1DDF33 pos=<3172.226318, 101.789642, 9251.408203>)
+15:47:16.066 [VehicleDeleted] OffroadHatchback (id=F0C8249C434435A962141489063644BE pos=<3091.406006, 99.925270, 9298.197266>)
+15:47:20.433 [VehicleDeleted] Hatchback_02_Black (id=002C78DD594AEC4569EE189B7BB70215 pos=<3184.476318, 99.928108, 9253.740234>)
+15:47:39.074 [VehicleDestroyed] OffroadHatchback (id=A2C639CA424A25AF6AF097A13BBEE116 pos=<3181.066406, 101.721375, 9252.095703>)
+15:47:50.601 [VehicleDestroyed] OffroadHatchback (id=92051A0C4F4CA011A09AACB341BF4427 pos=<3182.610107, 99.966057, 9247.919922>)
+15:47:52.320 [VehicleDeleted] OffroadHatchback (id=A2C639CA424A25AF6AF097A13BBEE116 pos=<3181.066406, 101.721367, 9252.095703>)
+15:47:57.074 [VehicleDeleted] OffroadHatchback (id=92051A0C4F4CA011A09AACB341BF4427 pos=<3183.172607, 99.947281, 9247.787109>)
+15:48:07.714 [VehicleDestroyed] OffroadHatchback (id=A5160DB6124D7EE3BCCD279E69892A1E pos=<3184.112305, 100.115486, 9249.299805>)
+15:48:50.507 [VehicleDeleted] OffroadHatchback (id=A5160DB6124D7EE3BCCD279E69892A1E pos=<3185.775391, 99.866920, 9248.872070>)
+15:49:39.164 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle UH-1H (id=EE138E7C364C04B8943983828A14D9F9 pos=<3148.122314, 99.977608, 9182.578125>) as pilot
+15:49:48.027 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached UH-1H Right Door (type=ExpansionUh1hDoor_1_2) from vehicle UH-1H(id=EE138E7C364C04B8943983828A14D9F9 pos=<3148.122559, 99.979050, 9182.577148>)
+15:49:53.285 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle UH-1H (id=EE138E7C364C04B8943983828A14D9F9 pos=<3148.122803, 99.979057, 9182.577148>)
+15:49:58.406 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached UH-1H Left Door (type=ExpansionUh1hDoor_1_1) from vehicle UH-1H(id=EE138E7C364C04B8943983828A14D9F9 pos=<3148.123047, 99.977371, 9182.578125>)
+15:50:14.128 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle UH-1H (id=EE138E7C364C04B8943983828A14D9F9 pos=<3148.118896, 99.949806, 9182.681641>) as passenger
+15:52:07.921 [AI Patrol] Spawning 3 East bots at <1515.682861, 190.498672, 6466.847168>
+15:53:17.726 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle UH-1H (id=EE138E7C364C04B8943983828A14D9F9 pos=<516.758057, 285.998413, 6682.890625>)
+15:53:31.289 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle UH-1H (id=EE138E7C364C04B8943983828A14D9F9 pos=<492.762146, 126.022614, 6677.213867>)
+15:58:44.414 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+16:00:17.089 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)

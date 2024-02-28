@@ -1,0 +1,48 @@
+21:24:38.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+21:24:38.507 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+21:24:38.507 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+21:29:38.882 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Medical
+21:41:07.031 [AI Patrol] Spawning 3 East bots at <931.975281, 6.238147, 758.167603>
+21:41:07.257 [AI Patrol] Spawning 1 East bots at <1070.375977, 5.486278, 1010.583984>
+21:41:07.281 [AI Patrol] Spawning 2 East bots at <1092.169434, 5.328609, 1029.806152>
+21:41:07.296 [AI Patrol] Spawning 2 East bots at <1087.870728, 5.354942, 1025.511353>
+21:41:07.320 [AI Patrol] Spawning 1 East bots at <1148.164185, 4.197542, 1340.599609>
+21:43:00.640 [VehicleDeleted] ExpansionUh1h_Green (id=EE138E7C364C04B8943983828A14D9F9 pos=<490.210266, 125.990791, 6678.113770>)
+21:45:44.093 [AI Patrol] Spawning 3 East bots at <3135.735596, 282.111084, 6484.984375>
+21:47:56.968 [AI Patrol] Spawning 3 East bots at <1525.619141, 110.797371, 4714.071777>
+21:51:04.351 [AI Patrol] Spawning 1 East bots at <537.323120, 149.609985, 5849.998535>
+21:56:30.125 [AI Patrol] Spawning 2 West bots at <8974.356445, 12.723310, 7494.389160>
+21:58:27.859 [AI Patrol] Spawning 1 East bots at <9210.529297, 45.782860, 3347.173096>
+21:58:27.882 [AI Patrol] Spawning 2 East bots at <9106.236328, 45.789143, 3414.252197>
+21:58:27.898 [AI Patrol] Spawning 3 East bots at <9042.844727, 46.439011, 3542.174805>
+21:58:27.921 [AI Patrol] Spawning 2 East bots at <9103.495117, 46.599678, 3621.706543>
+22:00:28.328 [AI Patrol] Spawning 2 East bots at <1723.189941, 5.929049, 787.143066>
+22:00:28.351 [AI Patrol] Spawning 3 East bots at <1717.635864, 5.964564, 796.207886>
+22:00:28.375 [AI Patrol] Spawning 1 East bots at <1731.962158, 6.006984, 806.074036>
+22:00:28.382 [AI Patrol] Spawning 1 East bots at <1869.840576, 6.947003, 823.185120>
+22:00:28.406 [AI Patrol] Spawning 3 East bots at <1875.717896, 7.048182, 826.759277>
+22:00:28.421 [AI Patrol] Spawning 3 East bots at <1733.162231, 6.289486, 867.831543>
+22:00:28.429 [AI Patrol] Spawning 3 East bots at <1872.891724, 7.083385, 834.598389>
+22:00:28.445 [AI Patrol] Spawning 1 East bots at <1726.015137, 6.197401, 853.215942>
+22:00:28.460 [AI Patrol] Spawning 3 East bots at <1804.511719, 7.555935, 971.884460>
+22:00:28.484 [AI Patrol] Spawning 1 East bots at <1826.052002, 7.302919, 933.737793>
+22:00:28.492 [AI Patrol] Spawning 2 East bots at <1929.321899, 9.542847, 1173.551147>
+22:00:28.507 [AI Patrol] Spawning 2 East bots at <1930.217163, 9.313219, 1137.225220>
+22:00:28.515 [AI Patrol] Spawning 3 East bots at <1926.106323, 9.336727, 1134.565796>
+22:00:28.531 [AI Patrol] Spawning 1 East bots at <3288.651611, 3.219454, 1173.547363>
+22:00:44.710 [AI Patrol] Spawning 3 East bots at <1561.947876, 7.883369, 1048.110718>
+22:04:14.257 [AI Patrol] Spawning 2 East bots at <9614.272461, 3.172027, 4381.198242>
+22:04:14.265 [AI Patrol] Spawning 2 East bots at <9592.784180, 3.189735, 4385.308594>
+22:04:14.281 [AI Patrol] Spawning 2 East bots at <9646.195313, 3.034364, 4395.489746>
+22:06:07.429 [AI Patrol] Spawning 3 East bots at <6236.981934, 65.212715, 8142.888672>
+22:06:07.445 [AI Patrol] Spawning 1 Raiders bots at <6495.562500, 88.595337, 6504.994629>
+22:13:32.015 [AI Patrol] Spawning 1 West bots at <2838.275391, 99.884567, 8798.053711>
+22:16:11.585 [AI Patrol] Spawning 1 East bots at <3608.365479, 99.884567, 8327.640625>
+22:32:32.750 [AI Patrol] Spawning 1 East bots at <5987.932617, 192.986877, 5914.266113>
+22:37:21.343 [AI Patrol] Spawning 3 West bots at <621.039978, 126.840431, 6423.357422>
+22:39:24.781 [AI Patrol] Spawning 2 East bots at <1693.070313, 10.406503, 2636.573242>
+22:46:06.210 [AI Patrol] Spawning 1 East bots at <1516.821777, 190.513199, 6465.489258>
+22:50:28.679 [AI Patrol] Spawning 1 East bots at <3380.384766, 278.247498, 6197.764648>
+22:50:29.062 [AI Patrol] Spawning 1 East bots at <3401.966309, 278.247498, 6172.080566>
+22:50:29.257 [AI Patrol] Spawning 1 East bots at <3401.564941, 278.247498, 6214.776367>
+22:54:17.929 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Medical

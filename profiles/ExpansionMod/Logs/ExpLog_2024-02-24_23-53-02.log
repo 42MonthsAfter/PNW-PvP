@@ -1,0 +1,9 @@
+23:53:47.937 [VehicleDeleted] Hatchback_02 (id=48E49839AE40579442F31BA1B50499E6 pos=<3405.312744, 109.205315, 12238.955078>)
+23:55:21.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+23:55:21.382 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+23:57:48.523 [VehicleDeleted] Hatchback_02 (id=C2DF77DC5D4662A4C39DB382BEDCBAFF pos=<3405.337402, 108.502274, 12239.048828>)
+23:58:42.320 [VehicleDeleted] Hatchback_02_Blue (id=EBA0E526824F7DB13A8D90A76FC649C4 pos=<6520.507813, 57.607910, 11312.989258>)
+23:59:36.125 [VehicleDeleted] Hatchback_02_Black (id=A0EAE3925C4FBB5262F4C1B58458A247 pos=<3405.330566, 108.549103, 12239.063477>)
+00:00:21.406 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Basebuilding
+00:00:41.398 [MissionAirdrop] An airdrop is heading towards "Harvard" (pos=<5933.540039, 0.000000, 8281.790039> type=Random_Harvard) with a ExpansionAirdropContainer_Medical
+00:00:56.820 [VehicleDeleted] Hatchback_02_Blue (id=50F283FC664FB5FC59B86183472DFF1E pos=<3639.302002, 113.852722, 11802.868164>)
