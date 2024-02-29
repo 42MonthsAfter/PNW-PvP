@@ -370,3 +370,47 @@
 21:12:44.460 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=
 21:12:44.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
 21:16:02.046 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+22:42:48.226 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux Red (id=6D72A081CC4C8A8D3ACA2FA9F0FB2229 pos=<9860.804688, 2.554964, 6836.542480>)
+22:43:13.875 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux Red (id=6D72A081CC4C8A8D3ACA2FA9F0FB2229 pos=<9860.799805, 2.554887, 6836.544922>) as driver
+22:43:15.640 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle ToyotaHilux Red (id=6D72A081CC4C8A8D3ACA2FA9F0FB2229 pos=<9860.802734, 2.554933, 6836.543457>)
+22:43:29.484 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux Red (id=6D72A081CC4C8A8D3ACA2FA9F0FB2229 pos=<9866.395508, 2.365654, 6847.390137>)
+22:46:14.546 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+22:47:22.929 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:53:17.359 [Killfeed] Zalazaz311 got beaten to a pulp by Airfield with bare hands.
+23:03:37.023 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:03:37.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:03:37.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:03:38.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:05:02.929 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:06:44.421 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:06:44.429 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:06:44.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:06:45.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:08:28.921 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:11:53.054 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:11:53.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:11:53.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:11:54.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:13:40.992 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9865.566406, 3.899742, 6808.371582>) Left the safezone
+23:17:54.148 [VehicleDeleted] MotorHome_rust (id=562818379B4C4DCB382B86BA7662F03B pos=<9857.965820, 2.289450, 6806.766113>)
+23:18:04.851 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9854.561523, 2.527486, 6808.125977>) paired a  ExpansionCarKey to MotorHome_rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9852.083008, 2.693314, 6805.133789>)
+23:18:06.828 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9853.714844, 2.527493, 6805.869141>) used the  ExpansionCarKey to lock MotorHome_rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9852.083008, 2.693314, 6805.133789>)
+23:18:08.453 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9854.486328, 2.527492, 6805.436523>) used the  ExpansionCarKey to unlock MotorHome_rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9852.083008, 2.693314, 6805.133789>)
+23:18:26.757 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle MotorHome rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9852.083008, 2.693330, 6805.133789>) as driver
+23:18:28.210 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle MotorHome rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9852.083008, 2.693330, 6805.133789>)
+23:19:14.046 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6640.587402, 21.243444, 3635.465576>) Entered the safezone
+23:26:19.953 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle MotorHome rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9814.269531, 2.686212, 6802.383301>)
+23:26:25.156 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle MotorHome rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9814.264648, 2.693329, 6802.447754>)
+23:40:22.093 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9MprddAhJOSM3QQFNXN-UrKiwKd2CZ_aJJkWf9jd8ts=
+23:40:22.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:40:22.093 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 9MprddAhJOSM3QQFNXN-UrKiwKd2CZ_aJJkWf9jd8ts=
+23:42:23.914 [AI Patrol] Spawning 2 Police Academy bots at <5248.231934, 56.129997, 2305.630371>
+23:43:47.976 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:43:47.984 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:43:47.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:43:48.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:55:24.429 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6527.127930, 22.901352, 3605.050293>) Left the safezone
+23:55:48.468 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6584.983398, 21.330698, 3646.421143>) Entered the safezone
+23:56:27.476 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6582.387695, 22.577518, 3654.166016>) Entered the safezone
+23:56:52.859 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:58:24.828 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
