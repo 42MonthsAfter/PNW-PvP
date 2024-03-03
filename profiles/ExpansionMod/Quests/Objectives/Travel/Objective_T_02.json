@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 2,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Reactor",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1969.97, 
+        99.897, 
+        8860.39
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "The Reactor",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

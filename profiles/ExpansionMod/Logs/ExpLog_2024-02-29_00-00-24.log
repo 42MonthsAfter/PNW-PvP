@@ -1,0 +1,100 @@
+00:02:15.481 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:15.486 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:02:15.486 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:02:15.723 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:15.729 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:02:15.729 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:16.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:16.717 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:40.311 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:40.315 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:02:40.315 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:41.294 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:45.011 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<1263.218262, 80.082550, 4153.592773>) as driver
+00:02:47.969 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<1263.074097, 80.058327, 4153.535156>) as passenger
+00:02:49.379 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<1263.005249, 80.046722, 4153.507324>)
+00:05:33.392 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:05:33.396 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:05:33.396 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:05:34.383 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:06:53.404 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: K_5MMo82UkRTwkyQ7wr9Ws4zDWqKdBQUH5d7DsB8iWE=
+00:06:53.404 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:06:53.404 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: K_5MMo82UkRTwkyQ7wr9Ws4zDWqKdBQUH5d7DsB8iWE=
+00:07:18.016 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Medical
+00:10:04.419 [AI Patrol] Spawning 2 Airfield bots at <6585.636230, 19.403751, 1881.620605>
+00:13:33.953 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<3681.770020, 338.590881, 4938.640625>)
+00:13:34.891 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<3681.770020, 338.590790, 4938.640625>)
+00:13:37.285 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<3681.770508, 338.590790, 4938.640625>)
+00:19:41.223 [AI Patrol] Spawning 2 Police Academy bots at <5180.936523, 56.129997, 2198.453613>
+00:21:19.646 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<3681.770752, 338.590790, 4938.640625>) as driver
+00:22:43.257 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<3681.788086, 338.590759, 4938.640625>) as passenger
+00:22:44.994 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<3681.788086, 338.590790, 4938.640625>)
+00:33:32.033 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<467.323914, 126.231575, 6816.690430>)
+00:35:08.637 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<637.204468, 125.631035, 6666.168945>) as passenger
+00:36:28.300 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<147.884964, 105.304367, 7050.955566>)
+00:36:29.112 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<147.889038, 105.304184, 7050.955566>)
+00:36:31.203 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<147.899857, 105.303856, 7050.955566>)
+00:56:55.319 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:05:54.407 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:06:24.588 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:08:12.501 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<137.181656, 105.474358, 7059.443848>) as driver
+01:08:15.406 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<137.199554, 105.473625, 7059.443848>)
+01:08:28.849 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<140.260483, 105.363426, 7059.509766>)
+01:32:18.028 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+01:54:36.992 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<147.925018, 105.304741, 7050.859863>) as driver
+01:54:40.334 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<147.939484, 105.304291, 7050.857422>)
+01:55:03.791 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<139.483337, 105.536652, 7053.833984>)
+02:45:58.778 [BaseRaiding] BBP_LGate (<156.802963, 104.944351, 7054.151367>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <155.016586, 105.140373, 7055.217285>) and the code is 1776
+03:05:51.484 [BaseRaiding] BBP_LGate (<158.021545, 104.944351, 7048.491211>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <155.464279, 105.162483, 7049.426270>) and the code is 1776
+03:05:53.032 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+03:59:52.350 [BaseRaiding] BBP_BWindow (<154.376831, 104.944351, 7050.667969>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <152.890045, 105.201263, 7050.821777>) and the code is 1776
+04:06:52.483 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:06:52.489 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:06:52.489 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+04:06:53.432 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:31:12.434 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<139.490494, 105.535988, 7053.847656>) as driver
+04:31:15.716 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<139.506790, 105.535408, 7053.847656>)
+04:31:19.033 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+04:31:44.414 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<156.779755, 105.103638, 7052.209473>)
+04:31:51.724 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<156.779388, 105.103546, 7052.209473>) as driver
+04:31:53.199 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<156.779510, 105.103554, 7052.209473>)
+04:32:02.380 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<158.946777, 105.223793, 7038.665527>)
+04:32:21.880 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<158.946045, 105.225922, 7038.663086>) as driver
+04:32:23.620 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<158.944489, 105.225975, 7038.664551>)
+04:35:09.490 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<739.326294, 126.013565, 6355.795410>)
+04:35:25.611 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2287.765137, 112.258270, 5285.736816>) used the  ExpansionCarKey to unlock CivilianSedan_Black (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2287.978516, 112.246590, 5282.175781>)
+04:36:44.240 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<739.325867, 126.013596, 6355.795898>) as driver
+04:36:52.767 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<739.324158, 126.013687, 6355.795410>)
+04:37:42.580 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<794.495972, 133.550201, 6383.071777>)
+04:38:36.750 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<794.420837, 133.535736, 6382.985352>) as driver
+04:38:52.511 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<794.075745, 133.482635, 6382.514648>)
+04:41:08.267 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2287.978516, 112.246590, 5282.175781>) as driver
+04:41:11.464 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2287.978516, 112.246597, 5282.175781>)
+04:41:30.988 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<159.648575, 105.347496, 7035.553223>)
+04:41:44.003 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<159.647461, 105.347511, 7035.553711>) as driver
+04:41:46.792 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<159.645966, 105.347519, 7035.554688>)
+04:42:09.480 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<138.750397, 105.512161, 7055.962891>)
+04:42:27.705 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2301.649170, 112.241776, 5306.557617>)
+04:42:36.101 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2301.649170, 112.241783, 5306.557617>) as driver
+04:42:39.845 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2301.649170, 112.241806, 5306.557617>)
+04:42:52.554 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2308.135742, 111.668648, 5319.999512>)
+04:43:09.255 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2308.135742, 111.668671, 5319.999512>) as driver
+04:43:12.498 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2308.135742, 111.668648, 5319.999512>)
+04:46:04.025 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2938.814697, 288.480774, 5865.298340>)
+04:46:16.820 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2938.062500, 288.351746, 5867.018555>) used the  ExpansionCarKey to lock CivilianSedan_Black (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2938.811035, 288.480560, 5865.298340>)
+04:54:52.863 [BaseRaiding] BBP_SGate (<156.783127, 105.102348, 7054.038574>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <156.485352, 105.113571, 7055.320801>) and the code is 1776
+04:57:47.056 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2938.377197, 288.358002, 5867.259766>) used the  ExpansionCarKey to unlock CivilianSedan_Black (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2938.811035, 288.480560, 5865.298340>)
+05:01:04.849 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2938.807617, 288.480377, 5865.298340>) as driver
+05:01:08.748 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2938.780518, 288.478729, 5865.298828>)
+05:03:48.802 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2295.704346, 111.695259, 5321.978516>)
+05:04:25.060 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2292.733643, 111.719994, 5322.979980>) used the  ExpansionCarKey to lock CivilianSedan_Black (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2295.704346, 111.695267, 5321.978516>)
+05:06:24.160 [BaseRaiding] BBP_BDoor (<150.937332, 104.944351, 7052.888672>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <150.346939, 105.225563, 7054.895020>) and the code is 1776
+05:38:43.128 [AI Patrol] Spawning 2 Vagabond Army bots at <3637.531738, 99.731804, 7909.815918>
+05:49:20.072 [Killfeed] Captain Chaos got killed by Vagabond Army with M4-A1 from a distance of 2 m.
+05:49:42.841 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+05:55:03.560 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:55:03.572 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+05:55:03.572 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:55:04.525 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:56:06.199 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:59:16.009 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

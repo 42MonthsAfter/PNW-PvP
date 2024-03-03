@@ -1,17 +1,9 @@
 {
     "m_Version": 5,
-    "BaseBuildingRaidMode": 1,
+    "BaseBuildingRaidMode": 0,
     "ExplosionTime": 30.0,
     "ExplosiveDamageWhitelist": [
-        "Expansion_C4_Explosion",
-        "Expansion_RPG_Explosion",
-        "Expansion_LAW_Explosion",
-        "M79",
-        "RGD5Grenade",
-        "M67Grenade",
-        "FlashGrenade",
-        "Land_FuelStation_Feed",
-        "Land_FuelStation_Feed_Enoch"
+        "ExpansionSatchel"
     ],
     "EnableExplosiveWhitelist": 1,
     "ExplosionDamageMultiplier": 50.0,
@@ -21,6 +13,7 @@
     "SafeExplosionDamageMultiplier": 17.0,
     "SafeProjectileDamageMultiplier": 1.0,
     "SafeRaidTools": [
+        "Hacksaw",
         "ExpansionPropaneTorch"
     ],
     "SafeRaidToolTimeSeconds": 600,
@@ -28,6 +21,7 @@
     "SafeRaidToolDamagePercent": 100.0,
     "CanRaidBarbedWire": 1,
     "BarbedWireRaidTools": [
+        "Hacksaw",
         "ExpansionBoltCutters"
     ],
     "BarbedWireRaidToolTimeSeconds": 300,
@@ -37,8 +31,8 @@
     "CanRaidLocksOnFences": 1,
     "CanRaidLocksOnTents": 1,
     "LockRaidTools": [
-        "ExpansionBoltCutters"
-    ],
+        "Hacksaw",
+        "ExpansionPropaneTorch"],
     "LockOnWallRaidToolTimeSeconds": 900,
     "LockOnFenceRaidToolTimeSeconds": 900,
     "LockOnTentRaidToolTimeSeconds": 600,
@@ -47,6 +41,7 @@
     "CanRaidLocksOnContainers": 1,
     "LockOnContainerRaidUseSchedule": 1,
     "LockOnContainerRaidTools": [
+        "Hacksaw",
         "ExpansionPropaneTorch"
     ],
     "LockOnContainerRaidToolTimeSeconds": 600,

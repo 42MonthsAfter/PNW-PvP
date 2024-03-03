@@ -1,0 +1,157 @@
+00:01:23.694 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:01:23.699 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:23.699 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:01:24.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:01:51.904 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6618.625488, 21.493683, 3668.923340>) Entered the safezone
+00:01:51.915 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:01:51.915 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:03:25.973 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6549.949219, 22.063564, 3618.204102>) Left the safezone
+00:03:42.746 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6586.857910, 21.298796, 3643.072998>) Entered the safezone
+00:05:11.613 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:05:11.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:05:11.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:05:12.600 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:05:29.941 [BaseRaiding] BBP_SDoor (<9843.251953, 2.619124, 6838.008789>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <9843.668945, 2.527477, 6836.289551>) and the code is 1776
+00:05:40.935 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=
+00:05:40.935 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:05:40.935 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=
+00:06:01.772 [BaseRaiding] BBP_RGate (<9851.801758, 2.663355, 6772.101563>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <9851.243164, 2.527485, 6772.787109>) and the code is 1776
+00:06:32.984 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer
+00:06:53.453 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=3E7264CAB54EADCBF1688891C5CC90ED pos=<9812.412109, 2.273456, 6734.451660>) as driver
+00:07:06.136 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=
+00:07:06.136 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:07:06.136 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=
+00:07:06.357 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=3E7264CAB54EADCBF1688891C5CC90ED pos=<9812.409180, 2.268843, 6734.326660>)
+00:08:53.253 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=3E7264CAB54EADCBF1688891C5CC90ED pos=<9812.407227, 2.290946, 6734.318359>) as driver
+00:08:54.852 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=3E7264CAB54EADCBF1688891C5CC90ED pos=<9812.407227, 2.290941, 6734.318359>)
+00:08:56.963 [AI Patrol] Spawning 2 Orting bots at <5238.367188, 219.703445, 5170.264648>
+00:08:59.943 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=3E7264CAB54EADCBF1688891C5CC90ED pos=<9812.407227, 2.290929, 6734.318359>)
+00:12:12.347 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:12:12.352 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:12:12.352 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:12:13.327 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:15:04.700 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9852.853516, 2.645977, 6767.249023>) used the  ExpansionCarKey to unlock Offroad_02 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9851.315430, 2.675745, 6766.153809>)
+00:15:24.805 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9853.320313, 2.645961, 6766.848145>) used the  ExpansionCarKey to lock Offroad_02 (id=42432F923340170A05FD8D8A0C1A7366 pos=<9851.315430, 2.675745, 6766.153809>)
+00:34:02.819 [AI Patrol] Spawning 2 Police Academy bots at <5247.456055, 56.129997, 2240.270264>
+00:38:29.269 [ExplosionDamageSystem] About to explode Explosion_NonLethal from ExplosionTest<b7a8a980> at <3473.99, 273.23, 6339.93> EXPLOSION range 4 dropoff 1
+00:39:24.369 [ExplosionDamageSystem] About to explode Explosion_NonLethal from ExplosionTest<c9218bc0> at <4431.91, 272.7, 5456.58> EXPLOSION range 4 dropoff 1
+00:45:46.494 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Car Battery (type=CarBattery) from vehicle M1025(id=5AFAD4246741BC5DE77B9AB7C2F7AFAE pos=<4091.628662, 221.269653, 6269.645996>)
+00:46:59.607 [Expansion Quests] - CompleteQuest - Player with UID gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= has completed quest 99
+00:47:06.814 [Safezone] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= pos=<6580.543945, 21.366514, 3645.450928>) Entered the safezone
+00:47:15.647 [Expansion Quests] - CompleteQuest - Player with UID 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= has completed quest 99
+00:47:19.021 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6581.804688, 21.342979, 3642.733643>) Entered the safezone
+00:52:32.489 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= for quest 1
+00:52:47.812 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= for quest 1
+00:53:08.077 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6580.271973, 21.379047, 3647.706543>) Entered the safezone
+00:54:41.118 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6575.731445, 21.433567, 3644.305420>) Left the safezone
+00:54:42.886 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6579.411133, 21.392323, 3648.045166>) Entered the safezone
+00:55:07.348 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6528.456055, 22.914305, 3602.703125>) Left the safezone
+00:55:14.650 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6522.611328, 23.147932, 3600.952637>) as driver
+00:55:41.247 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6522.611328, 23.147930, 3600.952637>)
+00:56:55.874 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6584.839844, 22.647060, 3639.950195>) Entered the safezone
+00:56:57.724 [Party] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=) joinded the party "Baked Potatos " (id=8 ownerUID= ownerName=)
+00:56:57.724 [Party] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=) created a party named Baked Potatos  (High)
+00:56:58.724 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 8
+00:57:02.033 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] stopped vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6597.561035, 21.350712, 3639.184082>)
+00:57:20.383 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6597.561035, 21.350721, 3639.184082>)
+00:57:33.110 [Party] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=) invited the player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=)to the party named Baked Potatos 
+00:57:43.393 [Party] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=) joinded the party "Baked Potatos " (id=8 ownerUID=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= ownerName=Zalazaz311)
+00:57:44.393 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 8
+00:57:51.392 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6597.561035, 21.350721, 3639.184082>) as driver
+00:57:57.563 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6597.561035, 21.350721, 3639.184082>)
+00:58:40.335 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] stopped vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6605.380371, 21.306179, 3637.229004>)
+00:58:43.539 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6606.135254, 21.305376, 3637.067627>)
+00:59:10.205 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332293, 3631.527344>)
+00:59:22.267 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>) as passenger
+00:59:25.906 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>)
+00:59:29.781 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>) as passenger
+00:59:46.658 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>)
+00:59:53.082 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>) as passenger
+01:00:01.132 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>) as driver
+01:00:08.788 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6633.630859, 21.332289, 3631.527344>)
+01:00:20.383 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6670.166504, 22.735792, 3580.702881>) Left the safezone
+01:00:21.263 [Safezone] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= pos=<6670.773438, 22.780689, 3578.439697>) Left the safezone
+01:06:26.093 [AI Patrol] Spawning 2 Airfield bots at <6600.909180, 20.236286, 1944.794189>
+01:07:55.922 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] stopped vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<4403.056641, 3.305368, 710.066528>)
+01:07:58.441 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<4400.041504, 3.304027, 714.027405>)
+01:11:51.139 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] stopped vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1116.509644, 11.548509, 2570.580566>)
+01:11:54.538 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1116.509644, 11.548510, 2570.580566>)
+01:11:57.131 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1116.509644, 11.548510, 2570.580566>)
+01:14:27.833 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1116.510376, 11.548537, 2570.580566>) as driver
+01:14:39.851 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1116.510376, 11.548538, 2570.580566>)
+01:14:45.827 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1115.854370, 11.432941, 2571.848145>) as passenger
+01:14:55.417 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1112.775757, 10.981422, 2576.508545>)
+01:14:59.624 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<1112.775757, 10.981422, 2576.508545>) as passenger
+01:16:20.303 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<615.954346, 32.704777, 3488.001709>)
+01:16:22.412 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<615.954468, 32.704784, 3488.001709>)
+01:19:20.966 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<9814.342773, 3.568809, 6802.219727>) used the  ExpansionCarKey to lock MotorHome_rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9814.264648, 2.693329, 6802.447754>)
+01:19:44.697 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<9816.439453, 2.527487, 6805.546387>) used the  ExpansionCarKey to unlock MotorHome_rust (id=0819D745624E9CED10FF14B3E83AA995 pos=<9814.264648, 2.693329, 6802.447754>)
+01:21:09.143 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:21:10.141 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:21:56.155 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:29:51.565 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:29:51.569 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+01:29:51.569 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:29:52.542 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:30:38.151 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:34:31.229 [AI Patrol] Spawning 2 FOB Alpha bots at <378.228363, 146.877243, 4934.486328>
+01:39:35.055 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer_Basebuilding
+01:47:32.187 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<627.554810, 71.972473, 4233.264160>) as driver
+01:47:43.549 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<627.555908, 71.972496, 4233.264160>)
+01:47:45.803 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<627.556091, 71.972488, 4233.264160>) as passenger
+01:50:14.219 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<607.090881, 32.174271, 3495.387695>)
+01:50:18.502 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<607.091187, 32.174274, 3495.387695>)
+01:50:22.083 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<615.954346, 32.704781, 3488.001709>) as driver
+01:50:25.410 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<615.954407, 32.704781, 3488.001709>)
+01:50:30.797 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<615.951843, 32.704628, 3488.006836>) as passenger
+01:51:45.778 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.160095, 38.559383, 3516.670410>)
+01:51:48.062 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.160095, 38.559402, 3516.670410>)
+01:52:39.187 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.160095, 38.559402, 3516.670410>) as passenger
+01:52:52.724 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.160095, 38.559402, 3516.670410>)
+01:57:40.149 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.164795, 38.559891, 3516.682861>) as passenger
+01:57:43.210 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.164795, 38.559898, 3516.682861>) as driver
+01:57:45.485 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<850.164734, 38.559910, 3516.682861>)
+02:07:07.658 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6908.055664, 38.753078, 3755.637939>)
+02:07:15.722 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6908.055664, 38.753078, 3755.637939>)
+02:12:03.537 [VehicleEnter] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6908.055664, 38.753078, 3755.637939>) as passenger
+02:12:07.795 [VehicleEnter] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] entered vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6908.055664, 38.753078, 3755.637939>) as driver
+02:12:26.409 [VehicleEngine] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] started vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6908.055664, 38.753075, 3755.637939>)
+02:13:28.062 [Safezone] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= pos=<6645.366211, 22.730883, 3636.707031>) Entered the safezone
+02:13:28.062 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6643.400879, 22.675219, 3639.941406>) Entered the safezone
+02:13:36.647 [VehicleLeave] Player greasysnowball2000 [uid=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6616.618652, 21.379629, 3652.799805>)
+02:13:39.644 [VehicleLeave] Player Zalazaz311 [uid=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=] left vehicle MotorHome rust (id=BB45C215FC44BC84DDC5CB98D174B7CA pos=<6616.618652, 21.379627, 3652.799805>)
+02:14:00.973 [Expansion Quests] - CompleteQuest - Player with UID 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= has completed quest 1
+02:14:14.172 [Expansion Quests] - CompleteQuest - Player with UID gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= has completed quest 1
+02:14:33.861 [Party] Player "Zalazaz311" (id=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ=) left the party "Baked Potatos " (id=8 ownerUID=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= ownerName=Zalazaz311)
+02:16:37.669 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+02:16:37.682 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+02:16:37.683 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+02:16:38.636 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:19:52.570 [Party] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=) left the party "Baked Potatos " (id=8 ownerUID=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= ownerName=Zalazaz311)
+02:48:45.845 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+03:38:27.156 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+03:38:27.160 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+03:38:27.162 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+03:38:28.119 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+03:38:36.055 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Basebuilding
+04:56:17.535 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227249, 5298.075684>) as driver
+04:56:26.039 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227242, 5298.075684>)
+04:57:16.115 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2306.552002, 111.618668, 5318.535156>)
+04:57:41.574 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2306.552002, 111.618675, 5318.535156>) as driver
+04:57:44.994 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2306.552002, 111.618668, 5318.534668>)
+05:00:18.667 [AI Patrol] Spawning 2 Vagabond Army bots at <3634.741699, 99.884567, 7986.497559>
+05:03:48.628 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3329.887939, 100.395775, 7848.686035>)
+05:04:04.968 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3329.393311, 100.538925, 7850.259277>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3329.887939, 100.395775, 7848.686035>)
+05:05:22.080 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer
+05:09:32.410 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3329.984375, 100.308739, 7846.576660>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3329.887939, 100.395775, 7848.686035>)
+05:09:47.009 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3329.887939, 100.395798, 7848.686035>) as driver
+05:09:50.419 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3329.887939, 100.395813, 7848.686523>)
+05:10:31.210 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2986.921875, 99.855995, 7960.726074>)
+05:15:17.273 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2986.921631, 99.855995, 7960.726074>) as driver
+05:15:21.005 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2986.921631, 99.855995, 7960.726074>)
+05:15:53.900 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3175.017090, 99.855995, 8111.660645>)
+05:16:04.357 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3173.664551, 99.897057, 8113.067383>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3175.017090, 99.855995, 8111.660645>)
+05:54:49.228 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3174.121582, 99.897049, 8113.649414>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3175.017090, 99.855995, 8111.660645>)
+05:54:58.728 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3175.017090, 99.855995, 8111.660645>) as driver
+05:55:02.054 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<3175.017090, 99.855995, 8111.660645>)
+05:59:15.236 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

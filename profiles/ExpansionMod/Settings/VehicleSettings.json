@@ -1,12 +1,12 @@
 {
     "m_Version": 19,
     "VehicleSync": 0,
-    "VehicleRequireKeyToStart": 1,
-    "VehicleRequireAllDoors": 1,
+    "VehicleRequireKeyToStart": 0,
+    "VehicleRequireAllDoors": 0,
     "VehicleLockedAllowInventoryAccess": 0,
     "VehicleLockedAllowInventoryAccessWithoutDoors": 0,
     "MasterKeyPairingMode": 2,
-    "MasterKeyUses": 5,
+    "MasterKeyUses": 2,
     "CanPickLock": 0,
     "PickLockTools": [
         "Lockpick"
@@ -24,7 +24,7 @@
     "VehicleRoadKillDamageMultiplier": 1.0,
     "CollisionDamageIfEngineOff": 0,
     "CollisionDamageMinSpeedKmh": 30.0,
-    "CanChangeLock": 1,
+    "CanChangeLock": 0,
     "ChangeLockTools": [
         "Screwdriver"
     ],
@@ -33,13 +33,13 @@
     "PlacePlayerOnGroundOnReconnectInVehicle": 2,
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 0,
-    "ExplodingVehicleDropsAttachments": 1,
+    "ExplodingVehicleDropsAttachments": 0,
     "DesyncInvulnerabilityTimeoutSeconds": 3.0,
     "DamagedEngineStartupChancePercent": 100.0,
     "EnableVehicleCovers": 1,
-    "AllowCoveringDEVehicles": 0,
+    "AllowCoveringDEVehicles": 1,
     "CanCoverWithCargo": 1,
-    "UseVirtualStorageForCoverCargo": 0,
+    "UseVirtualStorageForCoverCargo": 1,
     "VehicleAutoCoverTimeSeconds": 0.0,
     "VehicleAutoCoverRequireCamonet": 0,
     "EnableAutoCoveringDEVehicles": 0,
@@ -55,7 +55,7 @@
         },
         {
             "ClassName": "ExpansionUAZ",
-            "CanPlayerAttach": 1,
+            "CanPlayerAttach": 0,
             "LockComplexity": 1.0
         },
         {
@@ -90,12 +90,12 @@
         },
         {
             "ClassName": "ExpansionMh6",
-            "CanPlayerAttach": 1,
+            "CanPlayerAttach": 0,
             "LockComplexity": 3.0
         },
         {
             "ClassName": "ExpansionUh1h",
-            "CanPlayerAttach": 1,
+            "CanPlayerAttach": 0,
             "LockComplexity": 2.5
         }
     ]

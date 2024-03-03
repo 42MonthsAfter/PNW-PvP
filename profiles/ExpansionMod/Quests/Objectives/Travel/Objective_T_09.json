@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 9,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Rising Ridge Estates",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3855.85, 
+        186.583, 
+        7028.37
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Visit Rising Ridge Estates",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

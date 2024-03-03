@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 3,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Police Academy",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5229.12, 
+        56.13, 
+        2279.42
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Police Academy",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

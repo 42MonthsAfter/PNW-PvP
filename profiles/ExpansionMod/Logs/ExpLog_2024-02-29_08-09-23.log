@@ -1,0 +1,129 @@
+08:15:59.378 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:15:59.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+08:15:59.382 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+08:16:00.345 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:21:07.410 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Medical
+08:35:26.806 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:35:26.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+08:35:26.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:35:26.820 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+08:35:27.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:39:35.003 [AI Patrol] Spawning 2 Manhattan Project bots at <1995.466797, 99.884567, 8859.055664>
+08:43:48.912 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:43:48.919 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+08:43:48.919 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:43:48.919 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+08:43:49.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:50:05.326 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Nachoz" (ID = "fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=" at <2290.727295, 111.719978, 5317.932617>) failed to enter the correct code.
+08:50:05.326 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 4774
+08:50:57.636 [AI Patrol] Spawning 2 Trench 94 bots at <3164.842773, 99.884567, 9281.191406>
+08:51:35.683 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (Locked) (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2300.526367, 111.587029, 5279.767578>) as driver
+08:51:42.921 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (Locked) (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2300.558594, 111.585297, 5279.787109>)
+08:51:58.050 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] stopped vehicle M3S Covered (Locked) (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.255127, 111.420280, 5282.793457>)
+08:52:01.166 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (Locked) (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.269531, 111.419281, 5282.824707>)
+08:55:55.888 [VehicleCarKey] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I= pos=<2305.227295, 111.344315, 5285.316895>) used the  ExpansionCarKey to unlock Truck_01_Covered_Blue (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.270752, 111.419159, 5282.828613>)
+08:56:41.052 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.278320, 111.418617, 5282.843750>) as driver
+08:57:04.912 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.395996, 111.410149, 5283.071777>)
+08:57:10.355 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.404053, 111.409554, 5283.091309>) as driver
+08:57:12.794 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2303.416260, 111.408684, 5283.114258>)
+08:57:46.935 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2314.907227, 111.357887, 5312.325195>)
+08:58:10.628 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2314.906738, 111.357872, 5312.324219>) as driver
+08:58:13.792 [AI Patrol] Spawning 2 Vagabond Army bots at <3512.882324, 99.884567, 8041.477539>
+08:58:19.042 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2314.908203, 111.357903, 5312.325195>)
+08:59:02.974 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:59:02.984 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:59:02.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:59:03.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:01:02.048 [VehicleCarKey] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4= pos=<2295.925781, 112.255852, 5297.358887>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.039551, 112.227318, 5297.975098>)
+09:01:09.550 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.039551, 112.227318, 5297.975098>) as driver
+09:01:13.716 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.039551, 112.227318, 5297.975098>)
+09:01:20.929 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.039551, 112.227318, 5297.975098>)
+09:01:35.140 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+09:01:35.146 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+09:01:35.148 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+09:01:36.121 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+09:01:56.003 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.027588, 112.227325, 5297.983887>) as driver
+09:02:07.531 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.027588, 112.227318, 5297.983887>)
+09:02:20.912 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2295.742676, 112.226753, 5300.740234>)
+09:02:31.785 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2295.728516, 112.226753, 5300.746582>) as driver
+09:02:33.248 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2295.728516, 112.226761, 5300.746582>)
+09:02:46.515 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.496094, 111.508522, 5315.595703>)
+09:02:55.281 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.496094, 111.508522, 5315.595703>) as driver
+09:02:58.152 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.496094, 111.508522, 5315.595703>)
+09:03:25.533 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:04:31.728 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2053.205811, 158.981873, 5994.853516>)
+09:04:37.167 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2053.194824, 158.975784, 5994.814453>) as driver
+09:04:40.015 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2053.180420, 158.967178, 5994.759277>)
+09:05:12.287 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2330.903564, 207.129288, 6436.075195>)
+09:05:16.386 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2330.903564, 207.129303, 6436.075195>) as driver
+09:05:19.103 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2330.903809, 207.129288, 6436.075195>)
+09:06:35.929 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:06:35.933 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+09:06:35.933 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:06:35.933 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+09:06:36.886 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:09:08.367 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2862.405762, 99.855995, 8028.746094>) as passenger
+09:09:11.367 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2862.405762, 99.855995, 8028.746094>) as passenger
+09:13:25.976 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2306.148926, 111.678925, 5321.762695>)
+09:13:35.218 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2306.129395, 111.678925, 5321.762207>) as driver
+09:13:36.429 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2306.129150, 111.678925, 5321.762207>)
+09:13:52.417 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>)
+09:14:17.898 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>)
+09:14:20.347 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>)
+09:14:32.843 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>) as driver
+09:14:37.078 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228020, 5293.959961>)
+09:14:45.945 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3300.347656, 294.866791, 5533.044922>)
+09:14:56.816 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3300.337646, 294.866547, 5533.045410>) as driver
+09:15:03.710 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3300.303711, 294.865814, 5533.045410>)
+09:16:12.085 [VehicleAttachments] Player Hawk (uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) detached Spark Plug (type=SparkPlug) from vehicle PONTIAC (rust)(id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>)
+09:16:17.847 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>) as driver
+09:16:20.011 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.118896, 112.228027, 5293.959961>)
+09:16:35.878 [VehicleAttachments] Player Hawk (uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) detached Car Battery (type=CarBattery) from vehicle PONTIAC (rust)(id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.119141, 112.228020, 5293.959961>)
+09:18:07.539 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103516, 112.228027, 5293.962402>) as driver
+09:18:10.703 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103516, 112.228020, 5293.962402>)
+09:18:30.484 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103760, 112.228027, 5293.962402>) as driver
+09:18:32.937 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103760, 112.228027, 5293.962402>)
+09:19:44.683 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103760, 112.228027, 5293.962402>) as driver
+09:20:15.617 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3729.640625, 337.998383, 4932.024902>)
+09:21:15.082 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103760, 112.228027, 5293.962402>)
+09:25:17.378 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached Капот от PONTIAC (type=PONTIAC_Doors_hood_blue) from vehicle PONTIAC (rust)(id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103516, 112.228027, 5293.962402>)
+09:25:58.214 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103516, 112.228027, 5293.962402>) as driver
+09:26:02.382 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103760, 112.228027, 5293.962402>)
+09:26:24.316 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] stopped vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103516, 112.228027, 5293.962402>)
+09:26:27.675 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103516, 112.228027, 5293.962402>)
+09:28:48.511 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3729.650146, 337.998322, 4932.023926>) as driver
+09:28:51.308 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3729.656006, 337.998322, 4932.024414>)
+09:31:46.945 [AI Patrol] Spawning 2 Orting bots at <5334.065430, 219.777451, 5267.577148>
+09:34:16.515 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4442.120117, 203.544235, 6461.704102>)
+09:34:19.472 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4442.148438, 203.533936, 6461.762207>)
+09:37:53.210 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4442.162598, 203.527359, 6461.800781>) as driver
+09:37:59.406 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4442.219727, 203.506104, 6461.922363>)
+09:41:07.160 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4529.755859, 189.232971, 7293.071289>)
+09:41:10.949 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4529.757324, 189.231476, 7293.051758>) as driver
+09:41:17.308 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<4529.755859, 189.226883, 7292.989746>)
+09:42:17.742 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:43:55.207 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:47:29.363 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2295.712158, 112.255898, 5297.153809>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2293.103760, 112.228020, 5293.962402>)
+09:47:52.406 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Medical
+09:48:07.187 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<3902.516113, 155.942795, 7237.873047>)
+09:50:47.066 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:04:17.542 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:05:38.574 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.500671, 105.306854, 7069.291504>) as driver
+10:05:40.332 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.500946, 105.306847, 7069.291504>)
+10:06:22.085 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<158.303925, 105.355217, 7037.141113>)
+10:06:33.988 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<158.303879, 105.355217, 7037.141113>) as driver
+10:07:55.558 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<925.497131, 151.451843, 7125.360840>)
+10:08:56.941 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<925.495300, 151.451599, 7125.370605>) as driver
+10:08:58.402 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<925.495300, 151.451599, 7125.370605>)
+10:17:24.101 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4967.926270, 225.684113, 5212.435547>)
+10:17:27.128 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4967.926270, 225.684128, 5212.436035>)
+10:23:11.699 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+10:23:11.699 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:27:59.992 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4967.926270, 225.684128, 5212.435547>) as driver
+10:28:01.519 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4967.926270, 225.684143, 5212.435547>)
+10:28:59.265 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:28:59.265 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+10:29:02.691 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5436.681152, 219.740723, 5190.140625>)
+10:29:05.207 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5436.681152, 219.740723, 5190.140625>)
+10:31:55.929 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<badd8700> at <3456.25, 101.04, 8043.95> EXPLOSION range 20 dropoff 5
+10:39:21.566 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

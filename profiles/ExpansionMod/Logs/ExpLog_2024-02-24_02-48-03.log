@@ -1,0 +1,4 @@
+02:48:53.228 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6616.415527, 21.493767, 3665.931152>) Entered the safezone
+02:48:53.235 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+02:48:53.236 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+02:48:53.236 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=

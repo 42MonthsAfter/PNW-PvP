@@ -1,7 +1,7 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_AMMOBOXES",
-    "Icon": "Deliver",
+    "DisplayName": "AMMO BOXES",
+    "Icon": "Gun Bullets",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,
@@ -250,6 +250,28 @@
             "Variants": []
         },
         {
+            "ClassName": "ammobox_expansion_338_15rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_ammobox_8mm_15rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "TWP_AmmoBox_20x76_10rnd",
             "MaxPriceThreshold": 48,
             "MinPriceThreshold": 24,
@@ -405,6 +427,28 @@
         },
         {
             "ClassName": "TWP_AmmoBox_792x57_20Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_500SW_15Rnd",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TWP_AmmoBox_338Lapua_20Rnd",
             "MaxPriceThreshold": 48,
             "MinPriceThreshold": 24,
             "SellPricePercent": -1.0,

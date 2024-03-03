@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Sweet Water",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4611.79, 
+        102.695, 
+        9231.1
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Sweet Water",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

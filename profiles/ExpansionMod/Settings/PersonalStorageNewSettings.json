@@ -11,7 +11,7 @@
                 "Legs",
                 "Back"
             ],
-            "AllowAttachmentCargo": 1
+            "AllowAttachmentCargo": 0
         },
         "2": {
             "ReputationRequirement": -1,
@@ -22,7 +22,7 @@
                 "Legs",
                 "Back"
             ],
-            "AllowAttachmentCargo": 1
+            "AllowAttachmentCargo": 0
         },
         "3": {
             "ReputationRequirement": -1,
@@ -33,7 +33,7 @@
                 "Legs",
                 "Back"
             ],
-            "AllowAttachmentCargo": 1
+            "AllowAttachmentCargo": 0
         },
         "4": {
             "ReputationRequirement": -1,
@@ -44,7 +44,7 @@
                 "Legs",
                 "Back"
             ],
-            "AllowAttachmentCargo": 1
+            "AllowAttachmentCargo": 0
         },
         "5": {
             "ReputationRequirement": -1,
@@ -55,7 +55,7 @@
                 "Legs",
                 "Back"
             ],
-            "AllowAttachmentCargo": 1
+            "AllowAttachmentCargo": 0
         },
         "6": {
             "ReputationRequirement": -1,

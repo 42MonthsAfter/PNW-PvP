@@ -1,0 +1,200 @@
+13:41:51.507 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:41:51.511 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+13:41:51.511 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+13:41:52.488 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:43:05.347 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:43:05.351 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+13:43:05.351 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+13:43:06.316 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+13:47:01.019 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer
+13:47:51.835 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6611.303711, 21.535894, 3668.603516>) Entered the safezone
+13:47:51.839 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:48:23.851 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 31
+13:48:43.453 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6563.964844, 24.707430, 3642.810303>) Left the safezone
+13:49:51.585 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): omw chuck just 2k out
+13:52:26.734 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): cool. im just trying to kill 10 zombs
+13:52:41.683 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that you i heard shooting lol
+13:53:04.550 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): yeah hahaha spending ammo to make money for more ammo
+13:53:18.539 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): sounds about right lol
+13:55:37.691 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i swear they programed it to stop spawning them here when you hit 8 kills
+13:55:54.492 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6586.402344, 21.295671, 3641.450439>) Entered the safezone
+13:56:16.792 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6639.370117, 21.203985, 3631.498535>) Entered the safezone
+13:57:10.960 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6574.800781, 21.521980, 3661.092041>) Entered the safezone
+14:01:03.214 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6564.864258, 24.383780, 3644.300781>) Left the safezone
+14:04:46.484 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:04:46.632 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:04:48.218 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:04:48.324 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:04:48.714 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6584.650391, 21.323460, 3644.125732>) Entered the safezone
+14:05:02.085 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 31
+14:05:17.726 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+14:05:23.640 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:23.691 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:23.957 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:23.996 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:25.417 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:25.496 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:25.808 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:25.890 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:28.101 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:28.183 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:56.273 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:56.312 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:06:25.562 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): see ya
+14:17:04.726 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:22:37.628 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:22:37.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+14:22:37.640 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:22:38.605 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:25:14.769 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yo dirty
+14:26:18.972 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6599.541504, 21.520109, 3713.095459>) Left the safezone
+14:26:36.000 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6601.914551, 21.487377, 3704.624268>) Entered the safezone
+14:27:36.277 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yo
+14:27:38.449 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): still wanna have that secret talk? lol
+14:27:44.421 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya where you at
+14:27:49.035 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): holler
+14:28:09.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you?
+14:28:11.921 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok 73 out lol
+14:28:15.421 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6599.911621, 21.519073, 3713.205322>) Left the safezone
+14:28:30.808 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i can wait lol
+14:28:35.914 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): driving or running?
+14:28:38.425 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6590.562988, 21.506140, 3697.611328>) Entered the safezone
+14:28:43.632 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): on foot lol
+14:28:51.734 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): thats fine i will wait lol
+14:29:08.343 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ill drive once i figure out how to get out of my base
+14:29:21.367 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lmao
+14:29:29.582 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<139.690506, 105.514580, 7053.740234>) as driver
+14:29:49.636 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): how do you make the bbp crafting table?
+14:30:06.910 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): Planks and a book
+14:30:09.703 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<139.894119, 105.506790, 7053.740234>)
+14:30:12.300 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotcha
+14:30:25.894 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<155.626785, 105.097702, 7054.309570>)
+14:30:31.910 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<155.626816, 105.097702, 7054.309082>) as driver
+14:30:45.191 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<160.624741, 105.177879, 7037.916504>)
+14:31:06.308 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<160.587570, 105.178619, 7037.927734>) as driver
+14:31:10.644 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6586.175293, 21.597939, 3718.595215>) Left the safezone
+14:32:28.578 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6592.601074, 21.489807, 3696.674561>) Entered the safezone
+14:33:14.968 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6656.616211, 21.427469, 3625.942139>) Left the safezone
+14:33:19.269 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6646.447754, 21.347267, 3636.916748>) Entered the safezone
+14:35:24.308 [AI Patrol] Spawning 2 FOB Alpha bots at <103.837540, 146.883499, 4940.658691>
+14:35:31.746 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<579.370239, 149.586014, 5816.542480>)
+14:35:35.988 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): so if you are on foot you are looking at 30 min or so?
+14:35:44.441 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<579.368774, 149.586014, 5816.542480>) as driver
+14:35:48.640 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): in my car
+14:35:49.839 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= for quest 31
+14:35:54.218 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): kk
+14:36:29.000 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.416992, 23.489920, 3649.476563>) Left the safezone
+14:37:44.476 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.951172, 24.051260, 3651.221680>) Entered the safezone
+14:38:27.816 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6558.412598, 23.979158, 3643.200195>) Left the safezone
+14:38:39.156 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.322266, 23.755690, 3650.975098>) Entered the safezone
+14:40:31.378 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6582.179688, 21.275652, 3629.384766>) Left the safezone
+14:40:40.968 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6586.950684, 21.278936, 3638.946289>) Entered the safezone
+14:40:56.058 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6585.351074, 21.300264, 3640.350098>) Left the safezone
+14:40:56.257 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6585.507324, 21.299950, 3640.595947>) Entered the safezone
+14:41:52.855 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6579.320313, 21.345350, 3637.391113>) Left the safezone
+14:42:15.835 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6584.501465, 21.314674, 3641.856445>) Entered the safezone
+14:42:39.281 [AI Patrol] Spawning 2 Orting bots at <5319.230469, 219.924713, 4917.624023>
+14:45:45.863 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.863770, 24.002008, 3650.239502>) Entered the safezone
+14:45:56.179 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6578.254395, 24.045801, 3650.444580>) Entered the safezone
+14:46:15.144 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6640.599609, 21.784130, 3637.863037>) Entered the safezone
+14:46:21.011 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6614.124512, 21.205477, 3657.136475>)
+14:46:23.429 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6614.124023, 21.205490, 3657.136475>)
+14:46:47.523 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): Can you hear me
+14:46:55.339 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): hold on
+14:47:25.359 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): STUPID AUDIO
+14:47:30.175 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+14:47:33.328 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): give me a sec
+14:47:38.062 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): no rush man
+14:49:07.218 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): God damn it lol
+14:49:13.226 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i heard you for a second lol
+14:50:34.613 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): SAME THING I CAN HEAR YOU SAY HELLO FOR A SECOND LOL
+14:50:41.058 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): whoops caps
+14:51:15.246 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): can you not hear me anymore?
+14:51:59.746 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no
+15:00:08.378 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6614.124023, 21.205496, 3657.136475>) as driver
+15:00:10.621 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6614.124023, 21.205467, 3657.136475>)
+15:00:12.164 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6614.124023, 21.205475, 3657.136475>) as passenger
+15:00:32.910 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6709.186035, 25.851208, 3635.650146>) Left the safezone
+15:00:32.960 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6709.979980, 25.934364, 3635.507568>) Left the safezone
+15:01:24.085 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6939.602051, 43.969322, 3888.386230>)
+15:01:26.636 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6939.602051, 43.968967, 3888.395020>)
+15:02:02.699 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6939.602051, 43.968319, 3888.409668>) as driver
+15:02:05.179 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6939.602051, 43.967354, 3888.432861>)
+15:02:21.964 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6895.568848, 34.826775, 3980.974365>)
+15:03:09.843 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6894.847168, 34.714241, 3981.883301>) as driver
+15:03:28.792 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): NOT IN THE CAR LOL
+15:04:16.597 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<6877.646973, 29.994986, 4032.904053>) as passenger
+15:07:19.453 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<5714.845703, 224.551407, 5515.925781>)
+15:07:20.417 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<5714.846191, 224.549622, 5515.906738>)
+15:11:10.726 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<5715.887695, 224.113266, 5511.424316>) as driver
+15:11:15.503 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<5715.996582, 224.096710, 5511.279297>) as passenger
+15:12:48.015 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+15:21:56.875 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:21:56.886 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:21:56.886 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:21:57.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:23:52.445 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<161.895523, 105.235466, 7035.916992>)
+15:24:00.125 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<161.885681, 105.235443, 7035.923340>)
+15:24:03.851 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<161.881180, 105.235428, 7035.926758>) as driver
+15:24:15.621 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<142.630554, 105.358681, 7055.607422>)
+15:24:17.726 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<142.648315, 105.358101, 7055.607422>)
+15:27:41.476 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): cap what the hell are you doing down there 
+15:28:06.535 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I dont wanna talk about it lmao
+15:28:11.152 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): 10-4
+15:28:21.812 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): VC?
+15:28:33.269 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya
+15:33:45.875 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): this place is fucking dope
+15:36:36.863 [Territory] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) created territory Reapers Hideaway at <922.901428, 151.454361, 7143.958008>
+15:37:14.046 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): alright set up here fyi. reapers hideaway is the name
+15:37:14.238 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:38:03.921 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:38:03.925 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:38:03.925 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:38:04.910 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:41:12.132 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=
+15:41:12.132 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=
+15:41:32.925 [BaseRaiding] BBP_SDoor (<921.660278, 151.422089, 7137.078125>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <921.550781, 151.492325, 7138.494629>) and the code is 1505
+15:43:21.937 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6623.827148, 21.492754, 3672.385498>) Entered the safezone
+15:43:21.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+15:45:13.066 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:45:13.074 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+15:45:13.074 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:45:14.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:45:34.734 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6573.782227, 21.731489, 3737.547363>) Left the safezone
+15:47:26.722 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): anyone in cherno!?
+15:47:59.597 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): no electro
+15:48:04.820 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): bet
+15:48:27.476 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): meet me in stonington 
+15:48:32.566 [BaseRaiding] BBP_SGate (<915.451294, 151.449570, 7135.154297>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <914.891235, 151.472916, 7136.296875>) and the code is 1505
+15:49:13.953 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i know exactly three place names here. exploring PNW is a blast
+15:53:27.808 [BaseRaiding] BBP_SGate (<916.281555, 151.439377, 7135.079590>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <915.148071, 151.472870, 7136.028320>) and the code is 1505
+15:59:21.316 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ahahHAHAhaHAH! MOO!
+16:07:45.152 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:07:45.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+16:07:45.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:07:46.128 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:09:13.597 [AI Patrol] Spawning 2 Vagabond Army bots at <3708.506836, 99.884567, 7972.662109>
+16:10:40.492 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lou
+16:10:51.511 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yo
+16:10:59.992 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): can you see my proxy
+16:11:02.429 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): chat
+16:11:08.847 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): no
+16:16:17.320 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6617.084473, 21.493517, 3668.961426>) Entered the safezone
+16:16:17.332 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+16:19:23.093 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6580.582031, 22.946133, 3652.820313>) Entered the safezone
+16:21:34.617 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6573.427246, 23.035528, 3649.570068>) Left the safezone
+16:21:35.375 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6577.856934, 24.054358, 3650.864502>) Entered the safezone
+16:26:10.308 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6577.416016, 24.005970, 3651.085938>) Entered the safezone
+16:28:39.808 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<8127.795410, 2.173564, 794.418213>) as driver
+16:28:41.714 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<8127.795410, 2.173127, 794.405640>)
+16:31:18.148 [BaseRaiding] BBP_SDoor (<915.896118, 151.415009, 7140.055176>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <917.056152, 151.489914, 7140.519531>) and the code is 1505
+16:35:28.769 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+16:41:14.085 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+16:44:53.894 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+16:51:37.757 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<436.460175, 124.744614, 6433.763672>)
+16:52:16.402 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:53:10.488 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<436.278046, 124.733604, 6433.762207>)
+16:58:22.273 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<147.919815, 105.232635, 7057.105957>)
+17:00:06.250 [Airdrop] A player called airdrop is heading toward <3695.938477, 0.000000, 4926.101563> with a ExpansionAirdropContainer_Military
+17:00:28.664 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6615.238770, 21.493301, 3664.678223>) Entered the safezone
+17:03:45.207 [BaseRaiding] BBP_SWindow (<134.477493, 105.819901, 7077.720703>) Code set by player "Sharkparty" (ID = "2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=" at <134.504715, 106.137009, 7076.658691>) and the code is 1776

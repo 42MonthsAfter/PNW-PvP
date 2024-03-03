@@ -1,0 +1,626 @@
+12:02:07.550 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+12:02:07.558 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+12:02:07.558 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 7
+12:02:07.558 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+12:02:08.527 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:04:30.238 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<7313.439941, 114.940788, 5397.577637>) as driver
+12:04:31.675 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<7313.435547, 114.941093, 5397.580078>)
+12:05:11.789 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<7185.617188, 102.684738, 5559.264160>)
+12:05:49.425 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<7185.619141, 102.684944, 5559.258789>) as driver
+12:07:00.175 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6719.773926, 144.588852, 5827.358887>)
+12:07:14.281 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer
+12:08:00.476 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6719.773926, 144.588852, 5827.351563>) as driver
+12:08:40.957 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6442.930176, 154.876907, 5920.557129>)
+12:09:04.351 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6442.930176, 154.880081, 5920.486328>) as driver
+12:09:55.929 [AI Patrol] Spawning 2 Orting bots at <5251.149414, 219.719849, 5205.867676>
+12:10:42.769 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6074.191895, 209.389954, 5413.125000>)
+12:11:08.675 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6074.187988, 209.390030, 5413.123047>) as driver
+12:12:37.000 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5503.581543, 226.034271, 5554.592773>)
+12:14:09.968 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5503.597656, 226.035995, 5554.598633>) as driver
+12:14:15.367 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5503.619141, 226.037170, 5554.598633>)
+12:14:41.050 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5464.114258, 220.017838, 5275.740723>)
+12:14:49.687 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<5466.012695, 220.035416, 5276.601074>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5464.114258, 220.017822, 5275.740723>)
+12:20:55.734 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6607.019043, 21.492695, 3667.847168>) Entered the safezone
+12:20:55.734 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:20:55.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:20:55.750 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:20:55.750 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:20:56.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:21:39.808 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.020020, 21.423964, 3646.697998>) Left the safezone
+12:21:50.296 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6580.620117, 21.378897, 3648.378174>) Entered the safezone
+12:22:08.675 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6558.305176, 22.134619, 3609.270752>) Left the safezone
+12:22:42.960 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6582.967773, 21.328310, 3641.803711>) Entered the safezone
+12:24:45.804 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:24:45.812 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+12:24:45.812 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+12:24:46.761 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:25:17.671 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase vitaminbottle x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:25:17.742 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought vitaminbottle x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 460.
+12:32:45.433 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:34:27.671 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<5466.157227, 220.033005, 5275.959473>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5464.114258, 220.017822, 5275.740723>)
+12:34:33.636 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5464.117676, 220.017868, 5275.740723>) as driver
+12:34:35.035 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5464.117188, 220.017853, 5275.740723>)
+12:35:21.328 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5351.582520, 219.685135, 5101.805176>)
+12:36:03.070 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5351.582031, 219.685181, 5101.805664>) as driver
+12:36:17.597 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5362.312988, 219.685226, 5068.782715>)
+12:36:53.253 [Expansion Quests] - CancelQuestServer - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has cancelled quest 55
+12:36:59.464 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5362.312988, 219.685226, 5068.777832>) as driver
+12:37:15.500 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5372.587402, 219.693665, 5007.912109>)
+12:37:53.597 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5372.584961, 219.693329, 5007.922852>) as driver
+12:38:05.183 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] stopped vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5373.962891, 219.691422, 5014.773438>)
+12:38:07.414 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5373.960938, 219.691391, 5014.773438>)
+12:38:46.546 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5373.957520, 219.691406, 5014.773438>) as driver
+12:38:48.351 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5373.957520, 219.691406, 5014.773438>)
+12:39:49.402 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:39:49.406 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+12:39:49.406 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:39:50.363 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:41:14.433 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:41:26.035 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+12:41:26.035 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:42:30.117 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.862305, 250.279388, 5730.057617>)
+12:42:39.613 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<4405.679199, 250.706268, 5728.857910>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.863281, 250.279846, 5730.055664>)
+12:43:48.324 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6496.154297, 23.196430, 3603.350586>) uncovered vehicle "BMW_rust" (GlobalID=80000000800000008000000080001481 pos=<6496.972168, 23.100210, 3605.149658>)!
+12:43:52.476 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6496.154297, 23.196430, 3603.350586>) used the  ExpansionCarAdminKey to unlock BMW_rust (id=F63798925547720FDD955D9183869FAE pos=<6496.976074, 23.100080, 3605.148438>)
+12:44:46.277 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6498.445801, 23.151951, 3603.014648>) used the  ExpansionCarAdminKey to lock BMW_rust (id=F63798925547720FDD955D9183869FAE pos=<6496.976074, 23.100080, 3605.148438>)
+12:44:58.718 [VehicleDeleted] BMW_rust (id=F63798925547720FDD955D9183869FAE pos=<6496.976074, 23.100080, 3605.148438>)
+12:44:58.718 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6498.253418, 23.154848, 3602.614746>) covered vehicle "BMW_rust" (GlobalID=80000000800000008000000080001481 pos=<6496.976074, 23.100080, 3605.148438>)!
+12:45:07.800 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6617.929199, 26.908031, 3663.315430>) Entered the safezone
+12:46:33.406 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+12:54:25.054 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6572.451172, 21.730686, 3724.519043>) Left the safezone
+12:55:32.500 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:55:32.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+12:55:32.507 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:55:33.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:57:01.445 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:03:55.660 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+13:03:55.667 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+13:03:55.667 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+13:03:55.667 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+13:03:56.636 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+13:05:35.312 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:05:35.316 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+13:05:35.316 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:05:36.273 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:08:48.078 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<4408.024414, 250.699646, 5731.880371>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.863281, 250.279846, 5730.055664>)
+13:10:11.835 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=
+13:10:11.839 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:10:11.839 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=
+13:18:31.382 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:21:28.515 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<4407.933594, 250.657761, 5732.130859>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.863281, 250.279846, 5730.055664>)
+13:33:59.281 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Medical
+13:40:03.332 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+13:44:09.937 [VehicleEnter] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] entered vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2459.215088, 4.739620, 655.076477>) as driver
+13:44:14.304 [VehicleEngine] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] started vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2459.214844, 4.739621, 655.076355>)
+13:44:30.546 [VehicleLeave] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] left vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2455.093994, 4.750805, 661.736450>)
+13:46:43.039 [VehicleEnter] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] entered vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2455.094238, 4.750806, 661.736450>) as driver
+13:46:46.437 [VehicleEngine] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] started vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2455.094238, 4.750805, 661.736450>)
+13:47:04.218 [VehicleLeave] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] left vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2512.590088, 4.528338, 745.200439>)
+13:50:17.792 [VehicleEnter] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] entered vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2512.590088, 4.528338, 745.200806>) as driver
+13:50:22.042 [VehicleEngine] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] started vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2512.590088, 4.528338, 745.200806>)
+13:51:04.320 [VehicleLeave] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] left vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2607.956543, 3.878706, 950.675842>)
+13:51:24.070 [VehicleEnter] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] entered vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2607.956543, 3.878706, 950.675781>) as driver
+13:51:27.304 [VehicleEngine] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] started vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2607.956543, 3.878706, 950.675842>)
+13:51:51.191 [VehicleLeave] Player KronicBluntMan209 [uid=LFXtzaIDWwoLRqKnhCoWNCoaFXpPZliLqd2ufeCb30U=] left vehicle Ada 4x4 (id=1C8C7C12C1402D8FCDBACDAB952BFFD8 pos=<2538.125244, 3.926456, 953.728821>)
+14:00:30.464 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+14:00:30.468 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+14:00:30.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:00:30.468 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+14:00:31.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:09:20.410 [Party] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+14:09:20.421 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+14:09:20.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:09:20.421 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+14:09:21.386 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:12:46.402 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+14:15:12.480 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+14:15:12.488 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=
+14:15:12.488 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:15:12.488 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=
+14:15:13.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:15:24.765 [BaseRaiding] BBP_SDoor (<9870.505859, 4.144180, 6808.870605>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <9871.936523, 4.184161, 6809.345703>) and the code is 1776
+14:17:49.109 [Party] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+14:17:49.117 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=
+14:17:49.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:17:49.117 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=
+14:17:50.085 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:24:20.828 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): capt you raid my base last night?
+14:24:59.472 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): CHAOS
+14:25:34.406 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I have been dealing with my game crashing since last night.  I really don't do much
+14:26:09.593 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): Well i can help with the crashing thing Dm me on Discord Servantofares IM a modder 
+14:27:35.929 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I appreciate it.  I think I might have it now, I have been able to play for the past 45 mins.  If it comes up again though I'll sure hit you up
+14:28:04.808 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): Yeah im Always around someone raided my base last night. so someones in trouble 
+14:30:37.750 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Ill keep an eye and ear out.
+14:31:04.093 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): its okey its against the rules anyways so an admin will figure it out for me. 
+14:33:13.421 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): This server is full PVP raid any time, I believe.
+14:33:41.117 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): nah 
+14:33:49.714 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): its actually only weekends
+14:34:31.441 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): Base RaidingRaiding will be limited to the weekends. There are no non-raidable zones. 
+14:35:13.742 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Well thanks for letting me know before I did do something stupid.
+14:35:20.406 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): does no one read rules on here there are almost no but the 3 there are no one reads??
+14:36:02.468 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): guess as a modder avid player and server owner i just expect people to follow the rules 
+14:37:59.613 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): and your welcome 
+14:38:47.953 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): at least you wont ruin some poor fellows day by taking all the stuff he and his 3 friends gathered from a whole lot of grinding
+14:39:11.566 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): it be different if the rules were raid always we wouldnt be upset
+14:39:55.761 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): I understand the grind.  I'm sure the Admins will make it all right.  They are a good group of guys.
+14:40:16.187 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): i know i the teacher of one of them :P
+14:40:25.734 [Chat - Global]("Ares"(id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=)): i am 
+14:44:13.281 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+14:44:13.285 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+14:44:13.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:44:13.285 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+14:44:14.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+14:44:37.140 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<4404.028320, 250.544586, 5728.138672>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.863281, 250.279846, 5730.055664>)
+14:44:42.382 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.863770, 250.279800, 5730.055176>) as driver
+14:44:48.289 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<4403.863770, 250.279770, 5730.055664>)
+14:47:10.140 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+14:47:10.148 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:47:10.148 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+14:47:11.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:49:06.902 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5777.582520, 121.907776, 4098.653809>)
+14:49:14.488 [Expansion Quests] - CompleteQuest - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has completed quest 99
+14:49:22.046 [Expansion Quests] - CompleteQuest - Player with UID iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= has completed quest 99
+14:49:37.203 [Expansion Quests] - CompleteQuest - Player with UID AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= has completed quest 99
+14:49:37.867 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6654.298828, 21.592257, 3650.637695>) Entered the safezone
+14:49:40.386 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6653.148438, 21.544235, 3647.703369>) Entered the safezone
+14:49:45.429 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6651.376465, 21.571232, 3654.189697>) Entered the safezone
+14:49:50.699 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5777.581055, 121.907913, 4098.653809>) as driver
+14:51:12.882 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 31
+14:51:17.296 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:51:44.734 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= for quest 1
+14:53:03.312 [Expansion Quests] - CompleteQuest - Player with UID ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= has completed quest 99
+14:53:07.085 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6640.834473, 22.419981, 3635.818359>) Entered the safezone
+14:53:16.515 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.060547, 21.226387, 3641.610840>)
+14:53:25.585 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6633.385742, 21.219275, 3639.719238>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.060059, 21.226357, 3641.609131>)
+14:53:33.125 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 56
+14:55:19.730 [Expansion Quests] - CancelQuestServer - Player with UID iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= has cancelled quest 1
+14:55:20.796 [Expansion Quests] - CancelQuestServer - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has cancelled quest 31
+14:55:27.281 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6633.334473, 21.218437, 3639.644043>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.059570, 21.226381, 3641.609619>)
+14:55:43.796 [Expansion Quests] - CancelQuestServer - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has cancelled quest 56
+14:55:48.945 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 33
+14:58:07.570 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= for quest 1
+14:58:32.972 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2293.242432, 112.257202, 5290.098145>) used the  ExpansionCarKey to unlock CivilianSedan_Black (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2291.874512, 112.244926, 5290.977539>)
+14:58:41.773 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2291.874512, 112.244911, 5290.977539>) as driver
+14:58:44.492 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2291.874756, 112.244888, 5290.977539>)
+14:59:31.359 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2306.613037, 112.241371, 5306.886719>)
+14:59:43.113 [Expansion Quests] - CancelQuestServer - Player with UID ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= has cancelled quest 1
+14:59:52.382 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= for quest 56
+15:00:20.925 [Expansion Quests] - CancelQuestServer - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has cancelled quest 33
+15:00:22.480 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= for quest 44
+15:00:27.734 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 56
+15:00:35.796 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= for quest 56
+15:00:39.289 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+15:01:20.011 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= for quest 56
+15:01:35.429 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.059570, 21.226421, 3641.609131>) as passenger
+15:01:45.824 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.058594, 21.226345, 3641.607178>) as passenger
+15:02:00.421 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.061035, 21.226389, 3641.611328>) as passenger
+15:03:04.859 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.059082, 21.226370, 3641.607910>) as driver
+15:03:07.644 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.060547, 21.226372, 3641.609375>)
+15:03:21.351 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2306.613037, 112.241371, 5306.886719>) as driver
+15:03:22.125 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.060059, 21.226355, 3641.607422>)
+15:03:24.046 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2306.612793, 112.241394, 5306.886719>)
+15:03:49.109 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Olga 24 (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2287.978516, 112.246590, 5282.175781>)
+15:04:13.855 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.059082, 21.226503, 3641.607666>) as passenger
+15:04:22.078 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6634.059570, 21.226524, 3641.608398>) as driver
+15:04:40.921 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6672.345703, 22.942263, 3615.677490>) Left the safezone
+15:04:40.945 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6671.037598, 22.823175, 3614.758545>) Left the safezone
+15:04:40.945 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6672.307617, 22.930147, 3614.639160>) Left the safezone
+15:04:40.945 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6671.134766, 22.839865, 3615.821777>) Left the safezone
+15:05:06.492 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2288.901855, 112.258324, 5284.930664>) used the  ExpansionCarKey to lock CivilianSedan_Black (id=F21BBEC70541FAFFD71C1DB57F7DA208 pos=<2287.978516, 112.246590, 5282.175781>)
+15:07:42.789 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8009.454590, 50.423058, 5255.454590>)
+15:07:47.101 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8009.455078, 50.423069, 5255.454590>)
+15:08:03.195 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8009.454590, 50.423141, 5255.457031>) as passenger
+15:08:10.488 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8009.454590, 50.423172, 5255.458008>) as driver
+15:09:14.417 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.692383, 20.617300, 5229.951660>)
+15:09:33.328 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2293.361328, 112.256386, 5295.115723>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227242, 5298.075684>)
+15:09:44.199 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>)
+15:09:51.859 [VehicleLeave] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>)
+15:10:45.160 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<8662.635742, 20.341955, 5231.819824>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>)
+15:16:02.007 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227249, 5298.075684>) as driver
+15:16:07.015 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227249, 5298.075684>)
+15:16:16.539 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227242, 5298.075684>)
+15:16:21.210 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227264, 5298.075684>) as driver
+15:16:22.835 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] stopped vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227242, 5298.075684>)
+15:16:26.347 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227249, 5298.075684>)
+15:21:47.640 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2297.132080, 112.255753, 5297.482910>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2294.876953, 112.227242, 5298.075684>)
+15:27:14.335 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<8662.256836, 20.408812, 5231.038574>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>)
+15:27:19.359 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>)
+15:27:56.976 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:29:20.992 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:29:21.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:29:21.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:29:21.980 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:30:34.453 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:38:15.425 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:38:15.429 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:38:15.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:38:16.414 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:55:23.515 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>) as passenger
+15:55:51.093 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>) as passenger
+16:01:45.292 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617067, 5229.953613>) as passenger
+16:03:45.945 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.616993, 5229.954102>) as driver
+16:03:53.726 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.694336, 20.617220, 5229.953125>)
+16:04:09.750 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.691406, 20.617424, 5229.951660>)
+16:05:38.726 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617191, 5229.952148>) as driver
+16:05:41.921 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617146, 5229.951172>)
+16:05:45.410 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8660.695313, 20.617270, 5229.950195>) as passenger
+16:09:15.816 [AI Patrol] Spawning 2 Indian Island bots at <8557.566406, 12.723310, 8789.243164>
+16:09:28.273 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6828.365234, 38.550999, 3722.364502>)
+16:09:29.078 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6828.365723, 38.550999, 3722.364258>)
+16:13:43.195 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6828.363770, 38.550972, 3722.367432>) as passenger
+16:18:01.062 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6828.363770, 38.550976, 3722.367920>) as driver
+16:18:03.562 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6828.363770, 38.550972, 3722.367920>)
+16:18:37.160 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6640.474121, 22.445696, 3640.352539>) Entered the safezone
+16:18:37.160 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6642.091797, 22.406940, 3640.065674>) Entered the safezone
+16:18:37.160 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6641.256836, 22.467010, 3641.033691>) Entered the safezone
+16:18:37.160 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6641.283691, 22.387281, 3639.367920>) Entered the safezone
+16:18:43.851 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227953, 3655.764404>)
+16:18:46.742 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>)
+16:19:00.636 [VehicleLeave] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>)
+16:19:14.082 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6620.785645, 21.244814, 3657.344482>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>)
+16:19:15.000 [Expansion Quests] - CompleteQuest - Player with UID iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= has completed quest 56
+16:19:25.468 [Expansion Quests] - CompleteQuest - Player with UID AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= has completed quest 56
+16:20:23.867 [Expansion Quests] - CancelQuestServer - Player with UID ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= has cancelled quest 56
+16:20:33.167 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= for quest 57
+16:24:25.976 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:24:26.078 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:24:26.558 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:24:26.660 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:24:27.250 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:24:27.328 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:24:27.917 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:24:28.046 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:24:28.562 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:24:28.644 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:24:29.492 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:24:29.578 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+16:25:05.492 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>)
+16:26:39.406 [Expansion Quests] - CancelQuestServer - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has cancelled quest 56
+16:26:41.375 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 57
+16:26:54.402 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= for quest 57
+16:27:16.289 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer
+16:27:17.390 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6620.448730, 21.219002, 3653.504639>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>)
+16:27:19.625 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6623.491211, 21.240364, 3653.723389>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>)
+16:28:05.808 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>) as passenger
+16:28:48.296 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= for quest 57
+16:28:48.906 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>) as passenger
+16:29:06.328 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227955, 3655.760986>) as passenger
+16:31:29.734 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6592.371582, 21.208147, 3634.633789>) Entered the safezone
+16:31:37.753 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227947, 3655.761230>) as driver
+16:31:40.156 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6620.053711, 21.227947, 3655.761230>)
+16:32:17.414 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6677.888184, 23.608543, 3663.641113>) Left the safezone
+16:32:17.414 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6679.222656, 23.577745, 3662.682373>) Left the safezone
+16:32:17.414 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6678.888184, 23.645079, 3663.916016>) Left the safezone
+16:32:17.414 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6678.192383, 23.542233, 3662.403809>) Left the safezone
+16:35:26.687 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.267090, 197.444397, 3826.893555>)
+16:35:28.570 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>)
+16:35:30.617 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>)
+16:35:31.523 [VehicleLeave] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>)
+16:35:42.382 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<5199.324707, 197.543289, 3825.359375>) used the  ExpansionCarKey to lock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>)
+16:44:52.273 [BaseRaiding] BBP_BDoor (<5104.685547, 202.082428, 3934.505127>) player "Ares" (ID = "iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=" at <5105.896973, 201.917480, 3934.612793>) failed to enter the correct code.
+16:44:52.273 [BaseRaiding] BBP_BDoor (<5104.685547, 202.082428, 3934.505127>) The correct code was 736669 and the player tried 123456
+16:49:00.597 [Killfeed] Captain Chaos got killed by Indian Island with M4-A1 from a distance of 2 m.
+16:49:59.039 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:50:00.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:50:12.171 [VehicleCarKey] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<5198.974121, 197.611603, 3825.505615>) used the  ExpansionCarKey to unlock SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>)
+16:50:18.390 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>) as passenger
+16:50:24.750 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444763, 3826.891846>) as passenger
+16:52:35.667 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444458, 3826.888672>) as driver
+16:52:38.441 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.267578, 197.444046, 3826.890137>)
+16:53:01.476 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<5200.265625, 197.444473, 3826.888428>) as passenger
+16:53:29.234 [Expansion Quests] - CancelQuestServer - Player with UID iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= has cancelled quest 57
+16:55:42.617 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6637.276855, 22.412266, 3639.584229>) Entered the safezone
+16:55:42.617 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6638.898438, 22.352501, 3639.325439>) Entered the safezone
+16:55:42.640 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6637.875977, 22.420361, 3640.501709>) Entered the safezone
+16:55:42.640 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6637.917969, 22.347393, 3638.835938>) Entered the safezone
+16:55:47.652 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.380371, 21.273552, 3651.487061>)
+16:55:48.015 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.380859, 21.273554, 3651.487549>)
+16:55:57.359 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>)
+16:56:01.531 [VehicleLeave] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>)
+16:56:07.394 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= for quest 31
+16:56:08.164 [Expansion Quests] - CancelQuestServer - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has cancelled quest 57
+16:56:13.500 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 33
+16:56:27.953 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>) as passenger
+16:56:37.609 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= for quest 33
+16:57:06.472 [Expansion Quests] - CancelQuestServer - Player with UID iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= has cancelled quest 33
+16:57:10.156 [Expansion Quests] - CancelQuestServer - Player with UID AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= has cancelled quest 57
+16:57:13.269 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= for quest 32
+16:57:23.406 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= for quest 31
+16:57:30.070 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= for quest 32
+16:59:02.988 [Party] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+16:59:41.187 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6636.542480, 21.341770, 3653.861816>) Entered the safezone
+16:59:41.187 [Party] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+16:59:41.187 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=
+16:59:41.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+16:59:41.187 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=
+16:59:41.187 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=
+16:59:42.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:00:16.312 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:00:16.414 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+17:01:07.250 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6638.728516, 21.202284, 3631.877686>) Entered the safezone
+17:01:33.375 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to sell cp_cannabisbagfuture x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:01:33.480 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has sold cp_cannabisbagfuture x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 2250.
+17:01:34.898 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to sell cp_cannabisbagkush x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:01:34.980 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has sold cp_cannabisbagkush x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 1500.
+17:01:36.031 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to sell cp_cannabisbags1 x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:01:36.132 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has sold cp_cannabisbags1 x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 2437.
+17:01:37.429 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:01:37.531 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+17:01:37.968 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:01:38.046 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+17:01:51.785 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>) as passenger
+17:02:31.328 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase bloodtestkit x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:02:31.433 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought bloodtestkit x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 50.
+17:02:31.976 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase bloodtestkit x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:02:32.078 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought bloodtestkit x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 50.
+17:02:34.187 [VehicleLeave] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>)
+17:02:49.851 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6666.778320, 21.571905, 3613.366455>) Left the safezone
+17:03:16.820 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>)
+17:03:27.085 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6644.230957, 21.323853, 3638.584961>) Entered the safezone
+17:03:43.007 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6647.739258, 21.348402, 3634.417969>) Left the safezone
+17:03:59.515 [Expansion Quests] - CancelQuestServer - Player with UID ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= has cancelled quest 33
+17:04:01.242 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= for quest 31
+17:04:11.851 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>) as passenger
+17:05:06.117 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6644.638184, 21.324682, 3637.854980>) Entered the safezone
+17:06:59.890 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6652.398926, 21.399059, 3631.086182>) Left the safezone
+17:07:16.554 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>) as passenger
+17:09:47.109 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>)
+17:11:40.941 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6644.615234, 21.327608, 3638.258789>) Entered the safezone
+17:11:47.972 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:11:48.078 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:11:48.945 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:11:49.023 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:11:49.765 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:11:49.843 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:11:50.710 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:11:50.800 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:11:51.613 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:11:51.726 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:11:52.902 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:11:52.984 [Market] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:12:48.804 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:12:48.906 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+17:13:02.140 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6661.928711, 21.569950, 3629.141846>) Left the safezone
+17:13:39.144 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6559.212402, 22.149708, 3608.109375>) Left the safezone
+17:13:39.593 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:13:39.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:13:39.609 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+17:13:40.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:14:29.292 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6587.208496, 21.297436, 3643.478516>) Entered the safezone
+17:14:29.292 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6643.573730, 21.301441, 3637.191895>) Entered the safezone
+17:16:01.382 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6643.940430, 21.316467, 3638.276855>) Entered the safezone
+17:16:27.566 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:16:27.652 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+17:16:49.335 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:16:49.414 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 220.
+17:17:01.679 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory codered at <5910.996094, 98.652374, 4189.919922>
+17:17:30.210 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:30.324 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:30.570 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:30.667 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:30.968 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:31.066 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:31.371 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:31.468 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:31.687 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:31.781 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:31.996 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:32.117 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:32.343 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:32.468 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:32.617 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:32.703 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:36.652 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>)
+17:17:52.875 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:52.992 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:53.273 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:53.355 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:53.609 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:53.691 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:54.023 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:54.125 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:54.457 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:54.546 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:54.933 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:55.054 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:55.539 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:55.636 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:55.968 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:56.054 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:56.488 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:56.582 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:56.980 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:57.070 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:57.570 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:57.648 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:58.039 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:58.148 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:58.640 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:58.757 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:17:59.234 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:17:59.332 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:18:00.679 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:18:00.785 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:18:06.125 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6660.747070, 21.560299, 3632.423096>) Left the safezone
+17:18:29.601 [BaseRaiding] BBP_LGate (<5919.183105, 98.554688, 4195.719727>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <5917.572266, 98.692375, 4195.299316>) and the code is 1776
+17:19:05.250 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:19:05.332 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 220.
+17:19:05.968 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:19:06.070 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 220.
+17:20:17.085 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6660.653809, 21.552290, 3631.796631>) Left the safezone
+17:20:34.296 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6645.390137, 21.343081, 3638.564941>) Entered the safezone
+17:21:20.882 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6657.999023, 21.442232, 3624.920166>) Left the safezone
+17:21:27.664 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6648.760742, 21.406103, 3639.374756>) Entered the safezone
+17:22:14.453 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6642.881348, 21.286879, 3636.760498>) Entered the safezone
+17:22:47.402 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6643.404297, 21.261175, 3631.699219>) Left the safezone
+17:22:54.183 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6644.002930, 21.289331, 3634.566406>) Entered the safezone
+17:22:55.074 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6642.567383, 21.271593, 3635.177002>) Entered the safezone
+17:23:11.257 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6641.504395, 21.212467, 3628.712646>) Left the safezone
+17:23:13.617 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6640.608887, 21.230062, 3633.404053>) Entered the safezone
+17:23:43.015 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6537.066406, 22.592745, 3624.076904>) Left the safezone
+17:24:14.726 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6645.952148, 21.290609, 3630.307373>) Left the safezone
+17:24:25.554 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6593.372559, 21.180658, 3630.977539>) Entered the safezone
+17:25:13.460 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:13.546 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:13.898 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:13.996 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:14.179 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:14.265 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:14.398 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:14.492 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:14.531 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:14.628 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:14.687 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:14.792 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:14.835 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:14.933 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:14.960 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:15.046 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:15.101 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:15.199 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+17:25:18.531 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:18.628 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:18.683 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:18.765 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:18.843 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:18.925 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:18.984 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:19.078 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:19.148 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:19.437 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:19.511 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:19.632 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:19.742 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:32.742 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:32.878 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 480.
+17:25:34.226 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:34.328 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 480.
+17:25:35.679 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6641.028809, 21.228287, 3632.177979>) Entered the safezone
+17:25:37.730 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:37.828 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:37.882 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:37.976 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.039 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:38.125 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.218 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:38.320 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.351 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:38.449 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.480 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:38.578 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.636 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:38.750 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.789 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:38.875 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:38.937 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:39.046 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:39.085 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:39.179 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:40.460 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:40.562 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:40.660 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:40.769 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:40.812 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:40.914 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:41.136 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:41.226 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:41.406 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:41.476 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:41.562 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:25:41.664 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+17:25:50.859 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>) as passenger
+17:26:08.507 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6645.247070, 21.342329, 3638.765381>) Entered the safezone
+17:26:19.964 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378418, 21.273546, 3651.486328>) as passenger
+17:26:23.792 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.378906, 21.273533, 3651.487061>) as driver
+17:26:28.656 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6631.377441, 21.273525, 3651.486328>)
+17:26:43.890 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6591.962402, 21.269476, 3649.445801>) Entered the safezone
+17:26:46.593 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6662.422852, 21.482708, 3618.190430>) as passenger
+17:26:49.539 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6663.922363, 22.704288, 3617.699219>) Left the safezone
+17:26:49.539 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6663.339355, 22.680027, 3616.841553>) Left the safezone
+17:26:49.539 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6662.892578, 22.614660, 3618.447021>) Left the safezone
+17:26:53.250 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): come back
+17:26:56.742 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ares
+17:27:11.453 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6634.650879, 22.256943, 3628.326172>) Entered the safezone
+17:27:11.531 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6632.889648, 22.319218, 3629.948975>) Entered the safezone
+17:27:11.531 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6633.875977, 22.330387, 3630.270752>) Entered the safezone
+17:27:11.531 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6633.250000, 22.249443, 3628.727051>) Entered the safezone
+17:27:18.093 [VehicleLeave] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>)
+17:27:18.093 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>)
+17:27:21.957 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>)
+17:27:22.628 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>)
+17:27:27.890 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): hold on
+17:28:58.546 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6650.667969, 21.356003, 3629.364990>) Left the safezone
+17:29:48.484 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6622.416992, 21.063545, 3625.255859>) Entered the safezone
+17:30:03.718 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6581.253418, 22.135288, 3625.141113>) Left the safezone
+17:31:20.343 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6598.011230, 21.132349, 3629.719971>) Entered the safezone
+17:31:29.726 [VehicleEnter] Player YourGoof [uid=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>) as passenger
+17:32:19.906 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>) as passenger
+17:32:32.281 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>)
+17:33:48.570 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>) as passenger
+17:34:40.046 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:34:40.191 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+17:34:41.226 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has send a requested to purchase twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+17:34:41.308 [Market] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) has bought twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+17:35:19.507 [VehicleLeave] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.080566, 21.227623, 3643.843262>)
+17:35:23.671 [VehicleEnter] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] entered vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.081055, 21.227152, 3643.843750>) as driver
+17:35:26.269 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] started vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<6632.081055, 21.227154, 3643.843750>)
+17:35:28.335 [VehicleEnter] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] entered vehicle UH-1H (id=F952CC26DD4BC762B69CD58CC3068ACD pos=<6641.959961, 21.460417, 3650.797852>) as pilot
+17:35:29.605 [VehicleAttachments] Player Potato (uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) detached UH-1H Right Door (type=ExpansionUh1hDoor_1_2) from vehicle UH-1H(id=F952CC26DD4BC762B69CD58CC3068ACD pos=<6641.959961, 21.460417, 3650.797852>)
+17:35:35.242 [VehicleEngine] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] started vehicle UH-1H (id=F952CC26DD4BC762B69CD58CC3068ACD pos=<6641.959961, 21.460417, 3650.797852>)
+17:35:35.882 [VehicleEnter] Player Potato [uid=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=] entered vehicle UH-1H (id=F952CC26DD4BC762B69CD58CC3068ACD pos=<6641.959961, 21.460417, 3650.797852>) as passenger
+17:35:49.710 [Safezone] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y= pos=<6698.120605, 25.198189, 3637.130371>) Left the safezone
+17:35:49.757 [Safezone] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY= pos=<6698.347168, 25.370481, 3638.905029>) Left the safezone
+17:35:58.203 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6555.432617, 23.336142, 3639.166748>) Left the safezone
+17:36:55.773 [Safezone] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= pos=<6787.351563, 97.272469, 3823.666748>) Left the safezone
+17:36:55.773 [Safezone] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE= pos=<6788.000977, 97.246559, 3822.803223>) Left the safezone
+17:38:17.621 [VehicleEngine] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] stopped vehicle UH-1H (id=F952CC26DD4BC762B69CD58CC3068ACD pos=<8562.980469, 20.327579, 5103.447754>)
+17:38:22.132 [VehicleLeave] Player Ares [uid=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=] left vehicle UH-1H (id=F952CC26DD4BC762B69CD58CC3068ACD pos=<8562.973633, 20.344156, 5103.439453>)
+17:39:20.515 [VehicleEngine] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] stopped vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8445.577148, 21.130829, 5128.006836>)
+17:39:28.937 [VehicleLeave] Player HEAVYTECH [uid=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=] left vehicle SUV (id=7F479247EF45DED11822B99E909D85DE pos=<8445.579102, 21.132187, 5127.994141>)
+17:39:45.464 [Party] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:40:12.972 [Party] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:40:12.976 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+17:40:12.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:40:12.976 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+17:40:13.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:41:37.464 [Party] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:42:51.554 [Party] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:42:51.566 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+17:42:51.566 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:42:51.566 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=
+17:42:52.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:42:58.472 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:43:01.464 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:43:33.820 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:43:33.828 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:43:33.828 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:43:34.816 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:43:44.851 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) joinded the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+17:43:44.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+17:43:44.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:43:44.859 [Expansion Quests] - Create new quest instance for quest: 44 - Player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+17:43:44.859 [Expansion Quests] - Create new quest instance for quest: 57 - Player UID: ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=
+17:43:45.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+17:45:24.484 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:46:02.960 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:46:02.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:46:02.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:46:03.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:47:27.468 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:49:38.171 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:49:38.191 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:49:38.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:49:38.191 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:49:39.148 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:51:07.484 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:54:52.289 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer_Medical
+17:56:12.945 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:56:12.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:56:12.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:56:13.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:57:41.468 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+18:00:00.464 [Party] Player "Ares" (id=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+18:00:00.484 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:00:00.488 [Party] Player "YourGoof" (id=AdTTRp3Tbu7W-QptdjKnA3ND8opLrQc525jizPupv_Y=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+18:00:00.492 [Party] Player "Potato" (id=ciH3beKNtz1tlLLZKrKjK5GYBzrmoKmVOdlGkQaY8LE=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)
+18:00:00.496 [Party] Player "HEAVYTECH" (id=ZvFB4Iq7S3xLir1St-aloNDPJctjdiPr_rmh75OZDwY=) left the party "Servantsofares" (id=7 ownerUID=iTo8sT5I8_b86yF1DwFroON7Zj4Kq_gp0UA46l9HR-0= ownerName=Ares)

@@ -1,5 +1,5 @@
 {
-    "m_Version": 4,
+    "m_Version": 5,
     "EnableStatusTab": 1,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 1,
@@ -33,44 +33,24 @@
                 {
                     "RuleParagraph": "One Base Per Player / Group",
                     "RuleText": "Groups & individual players are allowed one (1) base at a time."
-                },
-                {
-                    "RuleParagraph": "Base Raiding Rules",
-                    "RuleText": "Only bases within PvP zones can be raided. Only groups & players who base in PvP zones can raid other bases."
-                },
-                {
-                    "RuleParagraph": "Base Raiding Times",
-                    "RuleText": "Base raiding is only on the weekends from Friday at 6 pm EST to Sunday at 11:59 pm EST."
-                },
-                {
-                    "RuleParagraph": "Unsecured Tents / Stashes in PvE Zones",
-                    "RuleText": "Unsecured tents / stashes in PvE areas are open to raiding."
                 }
             ]
         },
         {
             "CategoryName": "Base Raiding Rules",
             "Rules": [
-                {
-                    "RuleParagraph": "No PvE Base Raiding",
-                    "RuleText": "Bases with flags in PvE zones CAN NOT be raided, even if you access them."
-                },
-                {
-                    "RuleParagraph": "PvP Bases",
-                    "RuleText": "Only bases within PvP zones can be raided."
-                },
-                {
-                    "RuleParagraph": "Who Can Raid",
-                    "RuleText": "Only players / groups who base in PvP zones can raid other bases."
-                }
+            {
+                "RuleParagraph": "Base Raiding Rules",
+                "RuleText": "Base raiding is only allowed on the weekends from 6 pm EST to midnight Monday mornings. Camping bases or shooting at players in bases is considered raiding."
+            }
             ]
         },
         {
-            "CategoryName": "Vehicles + Helis",
+            "CategoryName": "Vehicles",
             "Rules": [
                 {
                     "RuleParagraph": "Us at Your Own Risk",
-                    "RuleText": "DayZ vehicles + helis are a mess, always have been, there for all are use at your own risk."
+                    "RuleText": "DayZ vehicles are a mess, always have been, there for all are use at your own risk."
                 },
                 {
                     "RuleParagraph": "Admin Help",
@@ -86,12 +66,8 @@
             "CategoryName": "PvP Rules",
             "Rules": [
                 {
-                    "RuleParagraph": "PvE Zones",
-                    "RuleText": "There is no killing of other players in PvE zones."
-                },
-                {
-                    "RuleParagraph": "PvP Zones",
-                    "RuleText": "Anything goes in PvP zones including kill on sight. Be warned."
+                    "RuleParagraph": "The whole map is PvP",
+                    "RuleText": "Anything goes in PvP including kill on sight. Be warned."
                 }
             ]
         }
@@ -197,37 +173,37 @@
     "Links": [
         {
             "Name": "Homepage",
-            "URL": "https://www.42MonthsAfter.com/",
+            "URL": "http://www.42MonthsAfter.com/",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
         {
             "Name": "Feedback",
-            "URL": "https://discord.42MonthsAfter.com",
+            "URL": "http://discord.42MonthsAfter.com",
             "IconName": "Forums",
             "IconColor": -14473430
         },
         {
             "Name": "Discord",
-            "URL": "https://discord.42MonthsAfter.com/",
+            "URL": "http://discord.42MonthsAfter.com/",
             "IconName": "Discord",
             "IconColor": -9270822
         },
         {
             "Name": "Reddit",
-            "URL": "https://www.reddit.com/user/42_Months_After",
+            "URL": "http://www.reddit.com/user/42_Months_After",
             "IconName": "Reddit",
             "IconColor": -12386303
         },
         {
             "Name": "GitHub",
-            "URL": "https://github.com/42MonthsAfter",
+            "URL": "http://github.com/42MonthsAfter",
             "IconName": "GitHub",
             "IconColor": -16777216
         },
         {
             "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
+            "URL": "http://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
             "IconName": "YouTube",
             "IconColor": -65536
         }
@@ -243,7 +219,7 @@
                     "DescriptionText": "We are self hosted meaning our servers run on individual rigs that we own, maintain and (every so often) upgrade. This is how we get maximum performance."
                 },
                 {
-                    "DescriptionText": "We host 3 PC servers, 1 Xbox and 1 PlayStation server. Be sure to check out our other 100% custom flavors of DayZ! www.42MonthsAfter.com"
+                    "DescriptionText": "We host 8 PC servers, 1 Xbox and 1 PlayStation server. Be sure to check out our other 100% custom flavors of DayZ! www.42MonthsAfter.com"
                 }
             ]
         }
@@ -401,5 +377,6 @@
                 "improvisedsuppressor"
             ]
         }
-    ]
+    ],
+    "EnableCraftingRecipesTab": 1
 }

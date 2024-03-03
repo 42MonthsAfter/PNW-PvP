@@ -1,0 +1,10 @@
+00:24:03.050 [Safezone] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<6616.272949, 21.493868, 3666.257324>) Entered the safezone
+00:24:03.061 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+00:24:03.062 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:24:16.562 [Market] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to sell pelt_goldenelder x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:24:16.609 [Market] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has sold pelt_goldenelder x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 11250.
+00:24:42.151 [Market] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has send a requested to purchase twp_kacpdw_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:24:42.189 [Market] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=) has bought twp_kacpdw_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 500.
+00:25:46.591 [Safezone] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<4718.824219, 6.330916, 729.175293>) Left the safezone
+00:29:03.791 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+00:29:13.786 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Military

@@ -1,0 +1,37 @@
+10:43:38.597 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+10:43:38.605 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+10:43:38.605 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+10:43:39.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+10:48:45.917 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer
+10:50:28.332 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:50:28.332 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:53:20.273 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5436.681152, 219.740723, 5190.140625>) as driver
+10:53:22.562 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5436.681152, 219.740723, 5190.140625>)
+10:54:40.632 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5436.681152, 219.740723, 5190.140625>) as driver
+10:54:41.980 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5436.681152, 219.740707, 5190.140625>)
+10:54:58.199 [AI Patrol] Spawning 2 Orting bots at <5263.609375, 220.018463, 4926.527344>
+10:55:22.839 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5533.048828, 235.996078, 5591.334961>)
+10:55:25.472 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5533.048828, 235.996048, 5591.334961>)
+10:59:18.425 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5533.048828, 235.996048, 5591.334961>) as driver
+10:59:34.335 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<5533.048828, 235.996017, 5591.334961>)
+11:01:56.035 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<6840.013184, 20.466848, 4211.413574>)
+11:01:58.605 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<6840.013184, 20.466843, 4211.413574>)
+11:04:51.480 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<6840.013184, 20.466845, 4211.413574>) as driver
+11:04:53.296 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<6840.013184, 20.466850, 4211.413574>)
+11:16:06.160 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1084.806519, 183.661163, 6827.382324>)
+11:16:11.117 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1084.806641, 183.661133, 6827.382324>)
+11:18:36.746 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6598.891113, 21.508926, 3669.049072>) Entered the safezone
+11:18:42.628 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1084.806641, 183.661133, 6827.381836>) as driver
+11:18:48.796 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1084.806641, 183.661133, 6827.382324>)
+11:20:50.992 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<159.680984, 105.284225, 7037.551270>)
+11:21:00.726 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<159.681534, 105.284210, 7037.551270>) as driver
+11:21:02.324 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<159.681534, 105.284210, 7037.551270>)
+11:21:13.742 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<157.393387, 105.135857, 7051.216309>)
+11:21:25.468 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<157.393173, 105.135864, 7051.216309>) as driver
+11:21:27.824 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<157.393524, 105.135857, 7051.216309>)
+11:21:45.593 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<157.393799, 105.135849, 7051.216309>) as driver
+11:21:47.230 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<157.393753, 105.135849, 7051.216309>)
+11:23:13.867 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<155.867233, 105.306847, 7067.021484>)
+11:23:16.457 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<155.867203, 105.306854, 7067.021484>)
+11:42:37.402 [BaseRaiding] ExpansionSafeLarge (<147.533875, 105.819901, 7076.084961>) Code set by player "Sharkparty" (ID = "2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=" at <146.762573, 105.859886, 7077.387207>) and the code is 1776
+11:57:34.660 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

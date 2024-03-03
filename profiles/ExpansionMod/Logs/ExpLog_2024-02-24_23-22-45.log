@@ -1,0 +1,6 @@
+23:24:56.671 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+23:24:56.671 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+23:26:14.359 [Expansion Quests] - CompleteQuest - Player with UID BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= has completed quest 99
+23:26:14.757 [Safezone] Player "[Admin] Bunker" (id=BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc= pos=<6599.539063, 21.233486, 3654.891602>) Entered the safezone
+23:29:58.429 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+23:30:08.421 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Basebuilding
