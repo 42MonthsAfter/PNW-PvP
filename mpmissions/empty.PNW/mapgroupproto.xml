@@ -20052,4 +20052,43 @@
             <point pos="0.878849 -0.900024 -0.231583" range="0.366364" height="0.920135" flags="32" />
     </container>
 </group>
+<group name="Land_armaHUT" lootmax="4">
+	<usage name="Hunting" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="3.850944 -1.312825 -1.778951" range="1" height="1" /> 
+		<point pos="-1.099200 -0.286264 -2.056828" range="1" height="1" /> 
+		<point pos="-5.308316 -1.331998 -1.009243" range="1" height="1" /> 
+	</container>
+</group>
+<group name="Land_CampingHUT" lootmax="4">
+	<usage name="Hunting" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="2.103133 -1.373492 -0.348592" range="1" height="1" /> 
+		<point pos="-5.338920 -1.331998 -2.238273" range="1" height="1" /> 
+		<point pos="-2.089039 -1.336585 0.755951" range="1" height="1" /> 
+	</container>
+</group>
+<group name="Land_battary_rawlins" lootmax="4">
+	<usage name="Hunting" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="-18.634808 0.022132 13.284361" range="1" height="1" /> 
+		<point pos="-9.694209 0.022117 -4.252144" range="1" height="1" /> 
+		<point pos="2.192087 -2.979574 6.764896" range="1" height="1" /> 
+		<point pos="14.292666 -2.979574 3.610006" range="1" height="1" /> 
+		<point pos="-1.301716 -2.979574 -6.956542" range="1" height="1" /> 
+		<point pos="7.699674 -2.979574 -1.182705" range="1" height="1" /> 
+	</container>
+</group>
+<group name="Land_battary_rawlins_reversed" lootmax="4">
+	<usage name="Hunting" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="-0.545295 -2.979574 5.887722" range="1" height="1" /> 
+		<point pos="3.916455 -2.979574 -3.586472" range="1" height="1" /> 
+		<point pos="-10.930646 -2.979574 -7.728632" range="1" height="1" /> 
+		<point pos="8.181259 4.103976 -12.888365" range="1" height="1" /> 
+		<point pos="-20.298296 0.022136 7.026337" range="1" height="1" /> 
+		<point pos="-6.554181 0.022129 -15.527889" range="1" height="1" /> 
+		<point pos="6.082853 -2.979574 3.511911" range="1" height="1" /> 
+	</container>
+</group>
 </prototype>
