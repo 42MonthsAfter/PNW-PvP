@@ -3440,7 +3440,7 @@
     </type>
 	<!-- EXPLOSIVES -->
 	<type name="ExpansionSatchel">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>10800</restock>
         <min>1</min>

@@ -41,15 +41,18 @@
         "Crowbar"
     ],
     "BBP_Tier1RaidTools": [
+        "ExpansionSatchel",
         "SledgeHammer",
         "FirefighterAxe",
         "WoodAxe"
     ],
     "BBP_Tier2RaidTools": [
+        "ExpansionSatchel",
         "SledgeHammer",
         "FirefighterAxe"
     ],
     "BBP_Tier3RaidTools": [
+        "ExpansionSatchel",
         "SledgeHammer"
     ],
     "BBP_CementMixerTime": 252,

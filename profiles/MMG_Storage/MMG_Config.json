@@ -3,8 +3,9 @@
     "ToolsDamageOnRaid": 100,
     "EnableAttach": "true",
     "EnableRaid": "true",
-    "DeleteLockAfterRaid": "false",
+    "DeleteLockAfterRaid": "true",
     "RaidingTools": [
-        "mmg_raid_driver"
+        "Hacksaw",
+        "ExpansionBoltCutters"
     ]
 }
