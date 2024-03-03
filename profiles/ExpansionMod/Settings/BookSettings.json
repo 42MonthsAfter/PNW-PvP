@@ -32,7 +32,7 @@
             "Rules": [
                 {
                     "RuleParagraph": "One Base Per Player / Group",
-                    "RuleText": "Groups & individual players are allowed one (1) base at a time."
+                    "RuleText": "Groups & individual players are allowed one (1) base at a time. If you're in a group, you must base together and have a single (1) base. This is to help server performance."
                 }
             ]
         },
