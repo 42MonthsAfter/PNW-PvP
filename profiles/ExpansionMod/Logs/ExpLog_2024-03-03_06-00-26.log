@@ -1,0 +1,172 @@
+06:01:14.500 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:01:14.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:01:14.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:01:14.507 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:01:15.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:02:50.472 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:02:50.476 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:02:50.476 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:02:50.476 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:02:51.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:04:23.187 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+06:04:23.187 [BaseBuildingRaiding] Player "wiggy" (ID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) at <5920.85, 98.57, 4194.49> damaged ExpansionCodeLock at <5919.18, 98.55, 4195.72>
+06:04:23.189 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with ExpansionPropaneTorch
+06:04:23.189 [BaseBuildingRaiding]  hitpoints decreased from 60 to 40
+06:04:23.189 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+06:06:21.164 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer
+06:07:23.224 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+06:07:23.224 [BaseBuildingRaiding] Player "wiggy" (ID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) at <5920.85, 98.57, 4194.49> damaged ExpansionCodeLock at <5919.18, 98.55, 4195.72>
+06:07:23.224 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with ExpansionPropaneTorch
+06:07:23.224 [BaseBuildingRaiding]  hitpoints decreased from 40 to 20
+06:07:23.226 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+06:09:01.943 [AI Patrol] Spawning 2 Orting bots at <5403.959473, 219.687363, 5167.731934>
+06:10:38.898 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5942.690430, 98.472221, 4204.270508>) used the  ExpansionCarKey to unlock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5943.009277, 98.360741, 4202.613770>)
+06:11:15.767 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5942.961426, 98.114944, 4200.541016>) used the  ExpansionCarKey to lock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5943.009277, 98.360741, 4202.613770>)
+06:14:03.199 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+06:14:03.199 [BaseBuildingRaiding] Player "wiggy" (ID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) at <5920.78, 98.57, 4194.74> damaged ExpansionCodeLock at <5919.18, 98.55, 4195.72>
+06:14:03.199 [BaseBuildingRaiding] They dealt 19 * 1 = 19 damage with ExpansionPropaneTorch
+06:14:03.201 [BaseBuildingRaiding]  hitpoints decreased from 20 to 1
+06:14:03.201 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+06:17:23.447 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:17:48.601 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5942.894531, 98.465324, 4204.603516>) used the  ExpansionCarKey to unlock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5943.009277, 98.360741, 4202.613770>)
+06:18:38.371 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5943.009277, 98.360977, 4202.616211>) as driver
+06:18:42.050 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5943.010254, 98.360695, 4202.614746>)
+06:19:51.839 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:19:51.843 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:19:51.843 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:19:51.843 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:19:52.802 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:20:12.939 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5960.389160, 95.576553, 4204.763672>) as passenger
+06:23:36.822 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6641.387207, 22.181696, 3637.949219>) Entered the safezone
+06:23:36.953 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6640.199707, 22.174038, 3637.975586>) Entered the safezone
+06:23:45.212 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.440918, 21.295881, 3649.311768>)
+06:23:47.441 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.440918, 21.295881, 3649.311768>)
+06:24:54.029 [Expansion Quests] - CompleteQuest - Player with UID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= has completed quest 58
+06:25:01.357 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 200 on his ATM account.
+06:25:25.839 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6644.840820, 21.344944, 3639.913574>) Entered the safezone
+06:27:11.035 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 58
+06:27:18.822 [ATM] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 200 on his ATM account.
+06:27:45.287 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 31
+06:28:09.552 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 32
+06:29:36.710 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has withdrawn 27099 from his ATM account.
+06:31:01.291 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6623.229004, 21.222958, 3651.171631>) used the  ExpansionCarKey to lock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.440918, 21.295881, 3649.311768>)
+06:34:55.603 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:34:55.736 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:34:56.804 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:34:56.953 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:34:57.589 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:34:57.742 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:34:58.289 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:34:58.437 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:34:59.214 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:34:59.353 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:35:00.242 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:35:00.365 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:35:01.072 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:35:01.255 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:35:01.857 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:35:02.013 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:35:02.683 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+06:35:02.835 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+06:40:34.695 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6623.073242, 21.199492, 3647.519043>) used the  ExpansionCarKey to unlock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.440918, 21.295881, 3649.311768>)
+06:40:40.767 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.440918, 21.295885, 3649.312012>) as driver
+06:40:45.068 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.440918, 21.295885, 3649.312012>)
+06:40:58.242 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<6623.382324, 21.295494, 3649.312012>) as passenger
+06:41:15.015 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6717.793945, 27.497986, 3648.960205>) Left the safezone
+06:41:15.015 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6717.103027, 27.423151, 3649.449463>) Left the safezone
+06:47:26.574 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5368.877930, 219.793289, 5212.692871>)
+06:49:00.607 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5368.500000, 219.792282, 5212.666016>) as passenger
+06:50:30.917 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.571777, 201.997330, 4185.054688>)
+06:51:02.183 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.571289, 201.997330, 4185.054688>)
+06:51:07.011 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.570313, 201.997330, 4185.057129>) as driver
+06:51:13.351 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.569824, 201.997330, 4185.057129>)
+06:51:26.078 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5158.564941, 201.914139, 4184.243164>) used the  ExpansionCarKey to lock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.570313, 201.997314, 4185.057129>)
+06:53:54.267 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5157.854492, 201.914154, 4184.293457>) used the  ExpansionCarKey to unlock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.570313, 201.997314, 4185.057129>)
+06:54:00.376 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.570313, 201.997314, 4185.057129>) as passenger
+06:54:04.214 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.572754, 201.997330, 4185.054199>) as driver
+06:54:07.472 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5156.573242, 201.997330, 4185.054199>)
+06:55:05.730 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5046.718750, 238.280167, 4656.001465>)
+06:55:13.673 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5046.707031, 238.280670, 4656.001465>) as driver
+06:55:16.914 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<5046.674805, 238.281982, 4656.001465>)
+07:00:14.478 [AI Patrol] Spawning 2 FOB Alpha bots at <370.169128, 146.661545, 4962.126953>
+07:08:37.080 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.219299, 127.217987, 6898.567871>)
+07:08:40.896 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.216919, 127.218300, 6898.565918>)
+07:09:46.388 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.217346, 127.218147, 6898.567383>) as driver
+07:09:49.839 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.217346, 127.218140, 6898.567383>)
+07:10:04.078 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.215820, 127.218338, 6898.566406>)
+07:11:45.095 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.218201, 127.217964, 6898.567871>) as driver
+07:11:48.226 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<667.216553, 127.218178, 6898.566895>)
+07:12:24.300 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<663.904724, 120.602409, 6946.436035>)
+07:14:33.414 [Territory] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) created territory Blue Waffles. at <651.853394, 118.640236, 6956.272949>
+07:15:05.177 [Territory] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<654.456177, 118.896004, 6955.792480>) was invited to join the territory Blue Waffles. at <651.853394, 118.640236, 6956.272949> by the player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)
+07:17:13.330 [BaseRaiding] mmg_armored_cabinet_grey (<654.807617, 118.703697, 6958.052246>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <655.746643, 118.915619, 6956.856934>) and the code is 7477
+07:17:53.328 [BaseRaiding] ExpansionSafeMedium (<655.360229, 118.698448, 6958.420410>) Code set by player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <656.502197, 118.975113, 6956.802734>) and the code is 7477
+07:20:45.509 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <657.246399, 119.125511, 6955.981445>) and the code is 7477
+07:32:15.191 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<663.902893, 120.602409, 6946.435547>) as driver
+07:32:18.082 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<663.901123, 120.602432, 6946.435059>)
+07:32:58.742 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Nissan warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<659.920288, 118.528542, 6962.916016>)
+07:33:10.505 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<658.289917, 118.383575, 6962.167480>) used the  ExpansionCarKey to lock Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<659.920166, 118.528549, 6962.916016>)
+07:33:31.164 [MissionAirdrop] An airdrop is heading towards "Rising Ridge" (pos=<3847.399902, 0.000000, 7061.879883> type=Random_RisingRidge) with a ExpansionAirdropContainer_Basebuilding
+07:34:58.300 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:35:16.726 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:40:43.851 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+07:40:43.865 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+07:40:43.865 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+07:40:43.865 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+07:40:44.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:23:32.410 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+08:23:32.421 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+08:23:32.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:23:32.423 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+08:23:33.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:29:39.732 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1295.572144, 137.623505, 7388.087891>) as driver
+08:29:43.650 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1295.570313, 137.623489, 7388.087891>)
+08:36:29.951 [AI Patrol] Spawning 2 Vagabond Army bots at <3591.581543, 99.971291, 7850.152344>
+08:44:25.685 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+08:44:25.693 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+08:44:25.693 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 10
+08:44:25.693 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+08:44:26.675 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:59:42.185 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer
+09:29:34.843 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+09:32:59.007 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+09:43:09.148 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:43:09.148 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:46:26.894 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6591.695801, 21.532715, 3661.843018>) Entered the safezone
+09:47:20.308 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6551.152832, 21.927389, 3654.013672>) Left the safezone
+09:47:24.292 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+09:47:24.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+09:47:24.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:47:24.296 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+09:47:25.273 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:47:56.308 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+09:48:16.960 [AI Patrol] Spawning 2 Police Academy bots at <5348.718750, 56.129997, 2289.295166>
+09:48:20.019 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+09:54:32.238 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6581.557129, 21.565510, 3650.073975>) Entered the safezone
+09:56:42.156 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6585.183105, 22.766092, 3623.944092>) Left the safezone
+10:00:41.960 [AI Patrol] Spawning 2 Airfield bots at <6773.717773, 18.261761, 1638.874023>
+10:11:13.152 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+10:11:13.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+10:11:13.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:11:13.156 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+10:11:14.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:15:08.554 [Killfeed] Chuck_N_Biskitz got killed by Airfield with Pioneer from a distance of 3 m.
+10:16:58.914 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:18:07.394 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): dang it i need to restart the 50 zombie mission now
+10:18:20.980 [Chat - Global]("tearsofdawn1066"(id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)): rip
+10:19:08.835 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ai knocked me out, i came too and his buddy just walked up with a 12g and finished me. gentlmanly to let me wake up  to watch it
+10:19:22.285 [Chat - Global]("tearsofdawn1066"(id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)): lol
+10:19:30.121 [Chat - Global]("tearsofdawn1066"(id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)): bad luck 
+10:19:47.851 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): meh 3k back to the body, and if i die again it wasnt my gear just my turn with it
+10:20:41.718 [Chat - Global]("tearsofdawn1066"(id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)): w
+10:20:45.125 [Chat - Global]("tearsofdawn1066"(id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=)): fair
+10:26:33.187 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Basebuilding
+10:29:43.503 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): got a shotgun and a dream. lets send it
+11:26:57.250 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+11:57:27.812 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:57:27.816 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+11:57:27.816 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+11:57:27.816 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+11:57:28.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+11:57:29.187 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Basebuilding
+11:59:15.523 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)

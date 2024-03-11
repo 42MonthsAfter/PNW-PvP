@@ -1,0 +1,167 @@
+00:02:20.501 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:20.505 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:02:20.506 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:02:20.506 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:02:20.509 [AI Patrol] Spawning 2 Trench 94 bots at <3238.934814, 99.884567, 9359.625977>
+00:02:20.601 [AI Patrol] Spawning 2 Manhattan Project bots at <1865.193970, 99.884567, 8887.899414>
+00:02:21.478 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:30.810 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:30.814 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:02:30.814 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:31.784 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:58.193 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:58.198 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:02:58.198 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:58.198 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:02:59.163 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:02.695 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:03:02.700 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+00:03:02.700 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:02.701 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+00:03:03.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:04:34.691 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:04:34.697 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:04:34.699 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:04:35.662 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:05:06.996 [AI Patrol] Spawning 2 Vagabond Army bots at <3412.304443, 99.884567, 7956.007324>
+00:07:29.961 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Military
+00:11:14.325 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3242.886963, 99.850960, 8546.507813>) as driver
+00:11:16.076 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached HAMMER_H1 Wheel (type=HAMMER_Wheel) from vehicle HAMMER_H1 black(id=A80F8DEE27472334D00117B608970D20 pos=<3242.886963, 99.850960, 8546.507813>)
+00:11:16.280 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3242.886963, 99.850960, 8546.507813>)
+00:11:25.515 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3242.886963, 99.924919, 8546.355469>) as passenger
+00:11:36.599 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3242.886719, 99.924919, 8546.355469>) as passenger
+00:12:07.298 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3222.231445, 100.725815, 8218.565430>)
+00:12:10.539 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3219.999512, 100.726280, 8216.792969>)
+00:12:12.708 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3219.999512, 100.726273, 8216.792969>)
+00:12:14.995 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3219.999512, 100.726273, 8216.792969>)
+00:15:22.630 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3219.999512, 100.726273, 8216.792969>) as driver
+00:15:24.354 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3219.999512, 100.726280, 8216.792969>)
+00:17:20.670 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3485.450928, 99.924919, 7840.020508>)
+00:19:43.966 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3485.450928, 99.924919, 7840.020508>) as driver
+00:20:09.357 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3485.450928, 99.924919, 7840.020508>) as passenger
+00:20:23.363 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3485.450928, 99.924919, 7840.020508>)
+00:20:39.256 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3485.450928, 99.924919, 7840.020508>) as passenger
+00:21:06.131 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3485.450928, 99.924919, 7840.020508>) as passenger
+00:24:50.528 [AI Patrol] Spawning 2 FOB Alpha bots at <380.598450, 146.752762, 4945.869141>
+00:26:03.786 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<533.895874, 149.649048, 5707.869141>)
+00:26:06.659 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<533.799377, 149.650345, 5707.852539>)
+00:26:06.922 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<533.799377, 149.650345, 5707.852539>)
+00:26:08.743 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<533.799377, 149.650345, 5707.852539>)
+00:35:34.347 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<533.799377, 149.650330, 5707.852539>) as driver
+00:35:36.446 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<533.799377, 149.650330, 5707.852539>)
+00:36:05.717 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542419, 149.650330, 5800.029785>)
+00:39:13.391 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542358, 149.650345, 5800.029785>) as passenger
+00:41:09.564 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542480, 149.650330, 5800.029785>) as driver
+00:41:12.228 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542542, 149.650330, 5800.029785>)
+00:41:18.238 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542297, 149.650330, 5800.029785>) as passenger
+00:41:21.840 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542419, 149.650330, 5800.029785>) as driver
+00:41:24.046 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<526.542419, 149.650330, 5800.029785>)
+00:43:47.877 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<222.980453, 102.799255, 7064.250488>)
+00:43:57.517 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<222.980423, 102.799255, 7064.250488>) as passenger
+00:44:26.371 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<312.825470, 98.264313, 7146.968750>)
+00:45:42.322 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<779.548950, 137.620285, 7528.778809>)
+00:45:44.917 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<779.548950, 137.620300, 7528.778809>)
+00:47:08.787 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<779.548950, 137.620285, 7528.778809>) as passenger
+00:48:53.520 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<779.548950, 137.620285, 7528.778809>) as driver
+00:48:55.415 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<779.548950, 137.620300, 7528.778809>)
+00:50:19.882 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<154.169006, 105.218185, 7057.842285>)
+00:50:23.769 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<154.168900, 105.218185, 7057.842285>)
+01:07:49.655 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<141.831757, 105.374901, 7057.608398>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<138.914948, 105.507149, 7057.033691>)
+01:08:00.883 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<141.831757, 105.374901, 7057.608398>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<138.914948, 105.507149, 7057.033691>)
+01:20:16.819 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.205292, 105.372581, 7067.894043>) as driver
+01:20:20.304 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.207626, 105.372589, 7067.894043>)
+01:27:43.131 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<137.877243, 106.048393, 7054.167480>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<138.914948, 105.507149, 7057.033691>)
+01:28:40.280 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<154.169800, 105.218048, 7057.842285>) as driver
+01:28:55.133 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085266, 105.282562, 7058.455566>) as driver
+01:28:59.046 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085220, 105.282570, 7058.455566>)
+01:29:47.665 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085190, 105.282562, 7058.455566>) as driver
+01:29:53.113 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085190, 105.282562, 7058.455566>)
+01:29:59.111 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<154.213669, 105.216301, 7057.842773>) as passenger
+01:30:08.408 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085205, 105.282562, 7058.455566>) as driver
+01:30:10.288 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085220, 105.282570, 7058.455566>)
+01:30:14.389 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085220, 105.282562, 7058.455566>)
+01:30:18.441 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085220, 105.282570, 7058.455566>) as driver
+01:30:19.540 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085220, 105.282562, 7058.455566>)
+01:30:22.128 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085251, 105.282562, 7058.455566>)
+01:30:29.440 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<154.235870, 105.215721, 7057.843262>) as passenger
+01:30:41.635 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<154.244980, 105.215378, 7057.843262>)
+01:31:33.227 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<163.137009, 105.523643, 7030.633789>) as passenger
+01:32:29.777 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:37:56.753 [AI Patrol] Spawning 2 Orting bots at <5203.544434, 223.003387, 4898.968262>
+01:40:57.989 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer
+01:41:39.730 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425526, 5433.346191>)
+01:41:39.790 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425507, 5433.346191>)
+01:41:40.771 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425488, 5433.346191>)
+01:41:41.832 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425526, 5433.346191>)
+01:42:40.883 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425526, 5433.346191>) as passenger
+01:42:49.155 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425526, 5433.346191>) as passenger
+01:42:58.314 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425526, 5433.346191>) as passenger
+01:43:00.799 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425522, 5433.346191>) as driver
+01:43:02.795 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8417.485352, 56.425522, 5433.346191>)
+01:43:55.499 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>)
+01:43:57.081 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>)
+01:43:57.097 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>)
+01:44:00.189 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>)
+01:50:51.802 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <9079.854492, 71.603470, 4688.602539>) failed to enter the correct code.
+01:50:51.802 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) The correct code was 061342 and the player tried 1989
+01:50:58.495 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <9079.854492, 71.603470, 4688.602539>) failed to enter the correct code.
+01:50:58.495 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) The correct code was 061342 and the player tried 1776
+01:51:35.804 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) player "MaxCaliber" (ID = "s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=" at <9081.053711, 71.645813, 4687.828125>) failed to enter the correct code.
+01:51:35.805 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) The correct code was 061342 and the player tried 1776
+01:51:46.789 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <9079.728516, 71.603470, 4688.761230>) failed to enter the correct code.
+01:51:46.789 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) The correct code was 061342 and the player tried 6969
+02:14:48.699 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:20:38.142 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>) as passenger
+02:24:30.192 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>)
+02:25:43.755 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:25:43.755 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <8498.86, 22.03, 5052.37> damaged ExpansionCodeLock at <8498.44, 21.99, 5051.47>
+02:25:43.755 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+02:25:43.755 [BaseBuildingRaiding]  hitpoints decreased from 74.6571 to 54.6571
+02:25:43.756 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:27:43.819 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:27:43.819 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <8498.86, 22.03, 5052.37> damaged ExpansionCodeLock at <8498.44, 21.99, 5051.47>
+02:27:43.819 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+02:27:43.820 [BaseBuildingRaiding]  hitpoints decreased from 54.6571 to 34.6571
+02:27:43.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:29:43.891 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:29:43.891 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <8498.86, 22.03, 5052.37> damaged ExpansionCodeLock at <8498.44, 21.99, 5051.47>
+02:29:43.892 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+02:29:43.892 [BaseBuildingRaiding]  hitpoints decreased from 34.6571 to 14.6571
+02:29:43.892 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:31:43.961 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:31:43.961 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <8498.86, 22.03, 5052.37> damaged ExpansionCodeLock at <8498.44, 21.99, 5051.47>
+02:31:43.962 [BaseBuildingRaiding] They dealt 13.6571 * 1 = 13.6571 damage with Hacksaw
+02:31:43.962 [BaseBuildingRaiding]  hitpoints decreased from 14.6571 to 1
+02:31:43.962 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:40:37.045 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:40:37.045 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <8497.51, 22.03, 5052.79> damaged ExpansionCodeLock at <8497.07, 22.29, 5051.77>
+02:40:37.045 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+02:40:37.045 [BaseBuildingRaiding]  hitpoints decreased from 100 to 80
+02:40:37.045 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:40:50.533 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:42:36.478 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:42:36.478 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <8497.51, 22.03, 5052.79> damaged ExpansionCodeLock at <8497.07, 22.29, 5051.77>
+02:42:36.478 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+02:42:36.478 [BaseBuildingRaiding]  hitpoints decreased from 80 to 60
+02:42:36.479 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:42:36.777 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>) as driver
+02:42:47.078 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147163, 5074.263184>)
+02:42:54.582 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8510.176758, 21.147161, 5074.263184>) as passenger
+02:54:34.305 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<159.888885, 105.204102, 7039.579590>)
+02:54:57.214 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<153.002090, 105.187141, 7059.795898>)
+02:56:38.007 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:00:45.628 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<155.975815, 105.277176, 7063.958496>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.204697, 105.372581, 7067.894043>)
+03:01:06.047 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<145.844193, 105.304298, 7055.239258>) used the  ExpansionCarKey to lock BMW_X5_white (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<142.008240, 105.431808, 7054.534180>)
+03:01:15.321 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<142.015488, 105.382263, 7057.030273>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<138.915131, 105.546898, 7057.036133>)
+03:01:58.310 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085281, 105.282562, 7058.455566>) as driver
+03:02:00.808 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085327, 105.282562, 7058.455566>)
+03:02:08.915 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085373, 105.282562, 7058.455566>) as driver
+03:02:10.697 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.085342, 105.282562, 7058.455566>)
+03:02:57.115 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<156.522263, 105.222740, 7054.692871>)
+03:04:26.037 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+05:40:24.593 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:40:24.605 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+05:40:24.607 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+05:40:25.548 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:40:33.025 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Medical
+05:42:20.640 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

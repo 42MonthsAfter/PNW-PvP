@@ -1,0 +1,493 @@
+19:16:30.351 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:16:30.351 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+19:16:30.359 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+19:16:30.359 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+19:16:31.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:16:36.234 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:16:36.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+19:16:36.242 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+19:16:36.242 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+19:16:37.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:16:38.031 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:16:38.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+19:16:38.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:16:38.039 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+19:16:38.914 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:16:38.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+19:16:38.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:16:39.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:16:39.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:16:42.570 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6623.904785, 21.242762, 3653.670898>) Entered the safezone
+19:16:42.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+19:17:13.382 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:17:13.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+19:17:13.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:17:13.390 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+19:17:14.375 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:18:07.554 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:18:07.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+19:18:07.554 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:18:07.554 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+19:18:08.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:18:27.500 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+19:18:27.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+19:18:27.507 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 11
+19:18:27.507 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+19:18:27.507 [AI Patrol] Spawning 2 Police Academy bots at <5309.836914, 56.129997, 2198.528809>
+19:18:28.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+19:20:19.101 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:20:19.101 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+19:20:19.101 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:20:19.101 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+19:20:20.078 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:20:26.109 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<4167.823730, 283.816437, 5327.713867>) used the  ExpansionCarKey to unlock BMW_X5_white (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<4170.615234, 283.682037, 5328.123535>)
+19:20:33.312 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<4170.615234, 283.682007, 5328.123535>) as driver
+19:20:37.640 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle BMW X5 White  (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<4170.615234, 283.681915, 5328.123535>)
+19:20:38.664 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<4170.615234, 283.681946, 5328.123535>) as passenger
+19:20:59.109 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+19:20:59.117 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+19:20:59.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+19:20:59.117 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+19:21:00.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+19:21:34.156 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer
+19:21:42.335 [VehicleDeleted] Gaz71 (id=58C00F9B5C40C94CF81B6A906F640398 pos=<6621.403809, 21.214329, 3654.865479>)
+19:22:34.390 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+19:22:34.398 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+19:22:34.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+19:22:34.398 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+19:22:35.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+19:23:45.187 [AI Patrol] Spawning 2 Airfield bots at <6754.050781, 18.598215, 1727.288208>
+19:25:11.929 [VehicleDeleted] GazTigr_flecktarn (id=4C2DDD7F3E4BD260DD5A42B2338769E4 pos=<6622.927246, 21.163221, 3652.898438>)
+19:27:40.070 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<143.769806, 105.323471, 7057.591797>)
+19:29:23.734 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle BMW X5 White  (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<140.923355, 105.515617, 7052.787598>)
+19:29:27.734 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<140.923355, 105.515625, 7052.787598>)
+19:29:29.398 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:29:41.804 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<137.195923, 105.690369, 7052.002930>) used the  ExpansionCarKey to lock BMW_X5_white (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<140.923401, 105.515617, 7052.787109>)
+19:29:54.484 [VehicleDeleted] BMW_X5_white (id=1F8BD9C29D4A3D67A2658D964664DCA2 pos=<140.923401, 105.515617, 7052.787109>)
+19:29:54.484 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<137.347778, 105.674828, 7052.394043>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<140.923401, 105.515617, 7052.787109>)!
+19:30:04.656 [VehicleDeleted] HEMTT_flecktarn (id=A74EE148854795BE882FA0A4E52FC748 pos=<6623.699219, 21.318096, 3650.977295>)
+19:30:41.867 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<150.661453, 105.223274, 7054.252930>) used the  ExpansionCarKey to lock OffroadHatchback (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>)
+19:31:05.968 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<152.278961, 105.184555, 7056.136719>) used the  ExpansionCarKey to unlock OffroadHatchback (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>)
+19:31:36.007 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:31:36.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+19:31:36.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:31:36.015 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+19:31:37.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:38:26.101 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:38:26.109 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:38:26.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:38:26.109 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+19:38:27.078 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:50:45.484 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:54:15.109 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:54:30.695 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:54:51.617 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>) as passenger
+19:54:52.546 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] switched seats in vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>) to passenger
+19:55:06.609 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] switched seats in vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>) to passenger
+19:55:10.882 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>)
+19:56:13.929 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yo
+19:58:08.609 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:58:08.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+19:58:08.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:58:08.609 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+19:58:09.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:00:00.554 [Chat - Global]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): What up?
+20:00:15.062 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): not much u guys?
+20:00:34.250 [Chat - Global]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): Just chillin. Everything good?
+20:00:51.820 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya man all good
+20:02:28.406 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<140.450684, 105.493935, 7054.856934>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<140.923401, 105.515617, 7052.787109>)!
+20:02:36.484 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<137.284012, 105.921425, 7052.404785>) used the  ExpansionCarKey to unlock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<140.924438, 105.515541, 7052.788574>)
+20:04:54.257 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<155.518250, 105.277168, 7065.085449>) used the  ExpansionCarKey to unlock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074554, 105.306847, 7068.958984>)
+20:05:38.062 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<155.603043, 105.277168, 7065.722168>) used the  ExpansionCarKey to lock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074554, 105.306847, 7068.958984>)
+20:06:00.132 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<155.903412, 105.277168, 7064.898926>) used the  ExpansionCarKey to unlock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074554, 105.306847, 7068.958984>)
+20:06:05.953 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<155.572327, 105.277184, 7065.724121>) used the  ExpansionCarKey to lock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074554, 105.306847, 7068.958984>)
+20:06:55.835 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550049, 105.265030, 7055.464355>) as passenger
+20:07:35.609 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550186, 105.265030, 7055.464355>) as driver
+20:07:37.757 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<149.550171, 105.265030, 7055.464355>)
+20:08:21.304 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776733, 105.159058, 7050.991699>)
+20:08:43.625 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776855, 105.159050, 7050.991699>)
+20:08:46.218 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776810, 105.159050, 7050.991699>)
+20:12:47.742 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you good? lol. sounds like ww3 over there
+20:12:58.664 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): white stag
+20:13:00.359 [Chat - Global]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): Just a lil hunting lol
+20:13:08.656 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776352, 105.159065, 7050.991699>) as passenger
+20:13:10.859 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): nice catch
+20:14:12.226 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776352, 105.159065, 7050.991699>) as passenger
+20:14:13.773 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<140.924423, 105.515549, 7052.788574>) as driver
+20:14:15.359 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776352, 105.159065, 7050.991699>)
+20:14:16.382 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<140.924469, 105.515549, 7052.788086>)
+20:14:38.007 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776352, 105.159065, 7050.991699>)
+20:14:43.140 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776352, 105.159065, 7050.991699>) as passenger
+20:14:54.210 [Chat - Global]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): Missed it for the coup de grace
+20:15:09.960 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776291, 105.159088, 7050.991699>) as driver
+20:15:11.500 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.776321, 105.159081, 7050.991699>)
+20:15:21.429 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that blows lol
+20:15:35.046 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<161.533554, 105.319160, 7034.985352>) as passenger
+20:17:18.960 [Chat - Global]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): Might be close to you now lol
+20:17:58.265 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): come and get it I have need for it lol. Just killed 2 cows and have meat for days lol
+20:18:11.046 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): somethiing sounds close to here lol
+20:20:19.117 [BaseRaiding] BBP_SDoor (<920.672607, 151.452209, 7140.480469>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <920.142151, 151.492188, 7141.983398>) and the code is 1505
+20:21:26.820 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:21:29.148 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:21:30.976 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:22:54.570 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2305.229492, 111.641296, 5317.237793>)
+20:22:56.210 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2305.229492, 111.641304, 5317.237305>)
+20:22:56.757 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<2318.529297, 111.216301, 5306.982910>) uncovered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2315.840088, 111.037842, 5300.289551>)!
+20:22:57.570 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2305.229492, 111.641304, 5317.237793>)
+20:24:52.453 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2291.271484, 111.719986, 5316.891113>) failed to enter the correct code.
+20:24:52.453 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 0420
+20:24:53.390 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2291.271484, 111.719986, 5316.891113>) failed to enter the correct code.
+20:24:53.390 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 0420
+20:24:56.289 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2291.271484, 111.719986, 5316.891113>) failed to enter the correct code.
+20:24:56.289 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 6969
+20:26:23.343 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<2348.735107, 111.719994, 5408.776855>) used the  ExpansionCarKey to lock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:26:47.078 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<2346.954834, 111.719986, 5408.728516>) used the  ExpansionCarKey to unlock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:26:56.890 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<2347.165771, 111.719986, 5409.086914>) used the  ExpansionCarKey to lock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:27:44.875 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:29:01.820 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you guys looking for another truck?
+20:29:23.140 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): what kind
+20:29:27.796 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): What kind of truck?
+20:29:32.000 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ms3
+20:29:44.617 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): nah
+20:29:48.210 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): thanks though
+20:29:51.765 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok np
+20:29:55.882 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:29:55.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+20:29:55.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:29:55.890 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+20:29:56.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:30:28.187 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:30:28.187 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2304.34, 112.09, 5311.7> damaged ExpansionCodeLock at <2303.85, 112.21, 5310.68>
+20:30:28.187 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with ExpansionPropaneTorch
+20:30:28.187 [BaseBuildingRaiding]  hitpoints decreased from 82.1807 to 62.1807
+20:30:28.187 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:32:45.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+20:32:45.007 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+20:33:28.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:33:28.250 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2304.34, 112.09, 5311.7> damaged ExpansionCodeLock at <2303.85, 112.21, 5310.68>
+20:33:28.250 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with ExpansionPropaneTorch
+20:33:28.250 [BaseBuildingRaiding]  hitpoints decreased from 62.1807 to 42.1807
+20:33:28.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:33:59.484 [VehicleEnter] Player Red [uid=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=] entered vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.795410, 56.040653, 2304.670898>) as driver
+20:34:07.054 [VehicleLeave] Player Red [uid=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=] left vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.801270, 56.040871, 2304.667725>)
+20:36:28.382 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:36:28.390 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2304.34, 112.09, 5311.7> damaged ExpansionCodeLock at <2303.85, 112.21, 5310.68>
+20:36:28.390 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with ExpansionPropaneTorch
+20:36:28.390 [BaseBuildingRaiding]  hitpoints decreased from 42.1807 to 22.1807
+20:36:28.390 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:37:34.945 [AI Patrol] Spawning 2 FOB Alpha bots at <210.336578, 146.877243, 5057.593750>
+20:39:28.437 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:39:28.437 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2304.34, 112.09, 5311.7> damaged ExpansionCodeLock at <2303.85, 112.21, 5310.68>
+20:39:28.437 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with ExpansionPropaneTorch
+20:39:28.437 [BaseBuildingRaiding]  hitpoints decreased from 22.1807 to 2.18074
+20:39:28.437 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:40:38.414 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:40:38.414 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <2287.54, 111.72, 5315.19> damaged ExpansionCodeLock at <2287.08, 112.89, 5314.41>
+20:40:38.414 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+20:40:38.414 [BaseBuildingRaiding]  hitpoints decreased from 50.1848 to 30.1848
+20:40:38.414 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:42:39.835 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:42:39.835 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2304.31, 112.14, 5311.52> damaged ExpansionCodeLock at <2303.85, 112.21, 5310.68>
+20:42:39.835 [BaseBuildingRaiding] They dealt 1.18074 * 1 = 1.18074 damage with Hacksaw
+20:42:39.835 [BaseBuildingRaiding]  hitpoints decreased from 2.18074 to 1
+20:42:39.835 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:43:38.421 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:43:38.421 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <2287.54, 111.72, 5315.19> damaged ExpansionCodeLock at <2287.08, 112.89, 5314.41>
+20:43:38.421 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+20:43:38.421 [BaseBuildingRaiding]  hitpoints decreased from 30.1848 to 10.1848
+20:43:38.421 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:46:38.468 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:46:38.468 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <2287.54, 111.72, 5315.19> damaged ExpansionCodeLock at <2287.08, 112.89, 5314.41>
+20:46:38.468 [BaseBuildingRaiding] They dealt 9.18483 * 1 = 9.18483 damage with Hacksaw
+20:46:38.468 [BaseBuildingRaiding]  hitpoints decreased from 10.1848 to 1
+20:46:38.476 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:48:13.171 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer
+20:49:02.992 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:49:03.000 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2290.43, 111.72, 5306.62> damaged ExpansionSafeMedium at <2291.3, 111.71, 5305.95>
+20:49:03.000 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with ExpansionPropaneTorch
+20:49:03.000 [BaseBuildingRaiding]  hitpoints decreased from 15000 to 12030
+20:49:03.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:49:32.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): shark you end up doing what we talked about last night?
+20:49:55.093 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:49:55.093 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <2289.8, 111.72, 5305.68> damaged ExpansionSafeLarge at <2291.06, 111.71, 5305.33>
+20:49:55.093 [BaseBuildingRaiding] They dealt 3960 * 1 = 3960 damage with Hacksaw
+20:49:55.093 [BaseBuildingRaiding]  hitpoints decreased from 11453.8 to 7493.75
+20:49:55.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:49:58.664 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): doing it now
+20:50:34.859 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<2349.435303, 111.719994, 5407.743164>) used the  ExpansionCarKey to unlock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:51:34.070 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): so thats why both those doors are open lol
+20:51:55.156 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:51:55.156 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <2289.8, 111.72, 5305.68> damaged ExpansionSafeLarge at <2291.06, 111.71, 5305.33>
+20:51:55.156 [BaseBuildingRaiding] They dealt 3960 * 1 = 3960 damage with Hacksaw
+20:51:55.156 [BaseBuildingRaiding]  hitpoints decreased from 7493.75 to 3533.75
+20:51:55.156 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:52:36.062 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<2349.601074, 111.719994, 5409.200684>) used the  ExpansionCarKey to lock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+20:52:43.265 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:52:43.265 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2290.51, 111.72, 5307.03> damaged ExpansionSafeMedium at <2291.3, 111.71, 5305.95>
+20:52:43.265 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+20:52:43.265 [BaseBuildingRaiding]  hitpoints decreased from 12030 to 9060
+20:52:43.265 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:53:55.210 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:53:55.210 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <2289.8, 111.72, 5305.68> damaged ExpansionSafeLarge at <2291.06, 111.71, 5305.33>
+20:53:55.210 [BaseBuildingRaiding] They dealt 3333.75 * 1 = 3333.75 damage with Hacksaw
+20:53:55.210 [BaseBuildingRaiding]  hitpoints decreased from 3533.75 to 200
+20:53:55.210 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:54:42.179 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:54:42.179 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2290.51, 111.72, 5307.03> damaged ExpansionSafeMedium at <2291.3, 111.71, 5305.95>
+20:54:42.179 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+20:54:42.179 [BaseBuildingRaiding]  hitpoints decreased from 9060 to 6090
+20:54:42.179 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:55:55.570 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i see you lol
+20:56:06.367 [AI Patrol] Spawning 2 Manhattan Project bots at <1962.257080, 99.884567, 8885.634766>
+20:56:11.296 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol
+20:56:41.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:56:41.078 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2290.51, 111.72, 5307.03> damaged ExpansionSafeMedium at <2291.3, 111.71, 5305.95>
+20:56:41.078 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+20:56:41.078 [BaseBuildingRaiding]  hitpoints decreased from 6090 to 3120
+20:56:41.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:56:41.875 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): from car to building and back lol
+20:57:00.890 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): whoever has the binos boom lol
+20:57:02.984 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): youre hidden pretty good lol
+20:57:16.578 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): you have any raid tools
+20:57:22.320 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i do lol
+20:57:26.296 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): come help
+20:57:31.921 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): won't shoot?
+20:57:36.234 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no
+20:57:44.234 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): come into red barn
+20:58:00.976 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol kk coming in from ne
+20:58:02.085 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): come get some loot 
+20:58:40.023 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+20:58:40.023 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <2290.51, 111.72, 5307.03> damaged ExpansionSafeMedium at <2291.3, 111.71, 5305.95>
+20:58:40.023 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+20:58:40.023 [BaseBuildingRaiding]  hitpoints decreased from 3120 to 150
+20:58:40.023 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+20:58:48.445 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): shooting once in air so you know it's me
+20:58:53.500 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok
+21:02:27.429 [AI Patrol] Spawning 2 Indian Island bots at <8531.579102, 12.723310, 8890.696289>
+21:02:41.835 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:02:41.835 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <2283.65, 111.78, 5307.77> damaged ExpansionSafeMini at <2285.13, 111.78, 5307.46>
+21:02:41.835 [BaseBuildingRaiding] They dealt 1980 * 1 = 1980 damage with Hacksaw
+21:02:41.835 [BaseBuildingRaiding]  hitpoints decreased from 9045.49 to 7065.49
+21:02:41.835 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:05:08.203 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:05:08.203 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <2284.01, 111.78, 5308.05> damaged ExpansionSafeMini at <2285.13, 111.78, 5307.46>
+21:05:08.203 [BaseBuildingRaiding] They dealt 1980 * 1 = 1980 damage with Hacksaw
+21:05:08.210 [BaseBuildingRaiding]  hitpoints decreased from 7065.49 to 5085.49
+21:05:08.210 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:06:16.257 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=3A36CE9D1A4050A2F7E7219061CBF7E3 pos=<2293.083008, 112.175102, 5296.807129>) as driver
+21:06:18.484 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=3A36CE9D1A4050A2F7E7219061CBF7E3 pos=<2293.083008, 112.175117, 5296.807129>)
+21:07:08.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:07:08.281 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <2284.01, 111.78, 5308.05> damaged ExpansionSafeMini at <2285.13, 111.78, 5307.46>
+21:07:08.281 [BaseBuildingRaiding] They dealt 1980 * 1 = 1980 damage with Hacksaw
+21:07:08.281 [BaseBuildingRaiding]  hitpoints decreased from 5085.49 to 3105.49
+21:07:08.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:09:08.343 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:09:08.343 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <2284.01, 111.78, 5308.05> damaged ExpansionSafeMini at <2285.13, 111.78, 5307.46>
+21:09:08.343 [BaseBuildingRaiding] They dealt 1980 * 1 = 1980 damage with Hacksaw
+21:09:08.343 [BaseBuildingRaiding]  hitpoints decreased from 3105.49 to 1125.49
+21:09:08.343 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:11:08.406 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:11:08.406 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <2284.01, 111.78, 5308.05> damaged ExpansionSafeMini at <2285.13, 111.78, 5307.46>
+21:11:08.406 [BaseBuildingRaiding] They dealt 1025.49 * 1 = 1025.49 damage with Hacksaw
+21:11:08.406 [BaseBuildingRaiding]  hitpoints decreased from 1125.49 to 100
+21:11:08.406 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:11:59.796 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:11:59.796 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+21:11:59.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+21:11:59.796 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+21:12:00.757 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+21:16:32.492 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<2316.809326, 111.170273, 5305.792969>) used the  ExpansionCarKey to unlock Truck_01_Covered_Blue (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2315.837891, 111.037872, 5300.285645>)
+21:17:04.078 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2315.837158, 111.037483, 5300.285156>) as driver
+21:17:11.093 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2315.837646, 111.037483, 5300.284180>)
+21:18:25.679 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2311.243164, 111.679344, 5330.947754>)
+21:18:29.375 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2311.242188, 111.679398, 5330.947266>)
+21:19:06.570 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<2350.590088, 111.719994, 5409.598145>) used the  ExpansionCarKey to unlock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+21:22:09.343 [BaseRaiding] mmg_locker02_tan (<2286.683350, 111.707497, 5317.203613>) player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2286.156738, 111.719994, 5316.436523>) failed to enter the correct code.
+21:22:09.343 [BaseRaiding] mmg_locker02_tan (<2286.683350, 111.707497, 5317.203613>) The correct code was 7477 and the player tried 1942
+21:22:12.554 [BaseRaiding] mmg_locker02_tan (<2286.683350, 111.707497, 5317.203613>) player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2286.156738, 111.719994, 5316.436523>) failed to enter the correct code.
+21:22:12.554 [BaseRaiding] mmg_locker02_tan (<2286.683350, 111.707497, 5317.203613>) The correct code was 7477 and the player tried 1776
+21:22:46.570 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+21:22:55.554 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+21:24:49.007 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+21:24:50.203 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:28:06.046 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:28:06.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+21:28:06.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+21:28:06.054 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+21:28:07.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+21:30:26.867 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2305.229492, 111.641304, 5317.237793>) as driver
+21:30:39.945 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2311.242676, 111.679390, 5330.946777>) as driver
+21:30:42.140 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2311.242188, 111.679367, 5330.945801>)
+21:30:45.281 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2305.229492, 111.641296, 5317.237305>)
+21:31:24.367 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>) as passenger
+21:31:38.851 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>) as driver
+21:31:40.828 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2347.662354, 111.708130, 5411.563965>)
+21:33:39.671 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:33:40.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+21:34:16.132 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2098.415283, 176.955566, 6112.115234>)
+21:35:00.312 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2103.039307, 193.923752, 6224.914063>)
+21:35:28.875 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<2105.546387, 193.702011, 6224.667969>) used the  ExpansionCarKey to lock Truck_01_Covered_Blue (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2103.043213, 193.922409, 6224.906250>)
+21:35:40.757 [VehicleDeleted] Truck_01_Covered_Blue (id=0027CB320E44DC1AFF2FB49778E34369 pos=<2103.043213, 193.922409, 6224.906250>)
+21:35:40.757 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<2107.210205, 193.150375, 6221.703613>) covered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2103.043213, 193.922409, 6224.906250>)!
+21:35:52.117 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2110.337402, 191.679642, 6215.092773>) as passenger
+21:36:30.671 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2098.415283, 176.955582, 6112.114746>) as passenger
+21:40:34.937 [AI Patrol] Spawning 2 Orting bots at <5393.118164, 204.687759, 4860.133301>
+21:42:39.156 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346031, 3983.686523>)
+21:42:41.187 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346039, 3983.686523>)
+21:42:47.953 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6577.730469, 137.426422, 4967.736328>)
+21:43:31.765 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346039, 3983.686523>) as driver
+21:43:54.242 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346031, 3983.686523>)
+21:44:06.757 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346043, 3983.686523>) as passenger
+21:44:08.609 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346043, 3983.686523>) as driver
+21:44:09.382 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Ada 4x4 Wheel (type=HatchbackWheel_Ruined) from vehicle Ada 4x4(id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6577.730469, 137.426422, 4967.736328>)
+21:44:10.984 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6890.641602, 34.346031, 3983.686523>)
+21:45:14.687 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Ada 4x4 Wheel (type=HatchbackWheel) from vehicle Ada 4x4(id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6577.730469, 137.426407, 4967.736328>)
+21:45:24.406 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6641.417480, 22.123808, 3641.343506>) Entered the safezone
+21:45:24.429 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6641.832031, 22.137524, 3642.142578>) Entered the safezone
+21:45:29.906 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203560, 3652.249268>)
+21:45:32.226 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203562, 3652.249268>)
+21:45:33.968 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203560, 3652.249268>)
+21:45:39.632 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6616.177246, 21.211004, 3652.305664>) used the  ExpansionCarKey to lock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203560, 3652.249268>)
+21:45:53.171 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6529.968262, 23.445711, 3622.603271>) Left the safezone
+21:45:55.968 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Ada 4x4 Wheel (type=HatchbackWheel) from vehicle Ada 4x4(id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6577.730469, 137.426407, 4967.736328>)
+21:45:57.851 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6527.963867, 22.568026, 3627.965820>) Left the safezone
+21:46:46.687 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6577.730469, 137.426407, 4967.736328>)
+21:47:06.609 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6585.105469, 21.314425, 3643.023926>) Entered the safezone
+21:47:06.632 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6581.275879, 21.357616, 3644.940674>) Entered the safezone
+21:47:15.375 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6616.622070, 21.209394, 3652.087891>) used the  ExpansionCarKey to unlock BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203560, 3652.249268>)
+21:47:20.062 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203560, 3652.249268>) as passenger
+21:47:22.265 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203558, 3652.249268>) as driver
+21:47:24.640 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6620.525391, 21.203560, 3652.249268>)
+21:47:46.093 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6732.833496, 30.501150, 3682.971924>) Left the safezone
+21:47:46.093 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6733.652832, 30.588919, 3682.714355>) Left the safezone
+21:48:34.257 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6881.227051, 30.585190, 4027.149170>)
+21:48:45.703 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6856.857910, 27.866512, 4052.936035>)
+21:48:47.656 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+21:48:47.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+21:48:47.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+21:48:47.656 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+21:48:48.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+21:49:55.820 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6856.786133, 27.863825, 4052.935303>) as driver
+21:50:04.234 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6856.786133, 27.863815, 4052.935303>)
+21:50:28.039 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6856.786133, 27.863817, 4052.935303>) as driver
+21:50:30.578 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6856.786133, 27.863815, 4052.935303>) as passenger
+21:51:23.546 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6594.169922, 132.631500, 4960.467285>)
+21:52:15.476 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:52:50.531 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6597.135742, 131.979218, 4958.389648>) as driver
+21:52:54.390 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6597.133301, 131.978378, 4958.385254>) as passenger
+21:52:58.914 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<6585.512695, 133.078781, 4957.879395>) as passenger
+21:57:46.617 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2153.091553, 186.611588, 6204.463867>)
+21:57:49.109 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<2156.333008, 186.280228, 6202.095215>)
+21:58:11.156 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<2105.538086, 193.927460, 6226.338867>) uncovered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2103.043213, 193.922409, 6224.906250>)!
+21:58:20.296 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<2106.430176, 193.695694, 6223.460449>) used the  ExpansionCarKey to unlock Truck_01_Covered_Blue (id=6E1505058D4B2F0FD014C2A10B409469 pos=<2103.078857, 193.913269, 6224.860352>)
+21:58:27.273 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<2103.096191, 193.906998, 6224.827637>) as driver
+21:58:39.390 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<2103.225342, 193.863358, 6224.591797>)
+21:58:50.218 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<2103.250000, 193.855728, 6224.551758>) as driver
+21:58:55.710 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (Locked) (id=6E1505058D4B2F0FD014C2A10B409469 pos=<2103.312500, 193.835556, 6224.444824>)
+21:58:56.031 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<2153.091553, 186.611572, 6204.463867>) as passenger
+22:03:37.351 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<159.574799, 105.266907, 7037.385742>)
+22:03:58.992 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<140.222580, 105.518425, 7053.765625>)
+22:04:02.359 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle BMW X5 White  (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<140.222534, 105.518410, 7053.765625>)
+22:06:20.023 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<138.868683, 105.615555, 7057.182617>)
+22:06:23.187 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<138.868774, 105.615570, 7057.182617>)
+22:07:02.773 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle M3S Covered (Locked) (id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.960358, 105.097397, 7052.412109>)
+22:07:10.632 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.959778, 105.097435, 7052.412598>)
+22:07:51.632 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:08:38.351 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached M3S Dual Wheel (type=Truck_01_WheelDouble_Ruined) from vehicle M3S Covered(id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.960739, 105.097366, 7052.412598>)
+22:09:05.515 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached M3S Dual Wheel (type=Truck_01_WheelDouble) from vehicle M3S Covered(id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<137.696808, 105.433502, 7059.889648>)
+22:11:58.859 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:11:58.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+22:11:58.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:11:58.875 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+22:11:59.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:15:08.171 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer
+22:16:17.671 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+22:20:51.742 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+22:20:51.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+22:20:51.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:20:51.750 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+22:20:52.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:21:05.992 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+22:21:06.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+22:21:06.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:21:06.007 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+22:21:06.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:23:01.492 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+22:23:01.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+22:23:01.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:23:01.500 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+22:23:02.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:25:30.843 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+22:36:15.578 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+22:36:15.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+22:36:15.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+22:36:15.578 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+22:36:16.539 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+22:38:03.343 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.957520, 105.117157, 7052.412598>) as driver
+22:39:51.773 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.957870, 105.117210, 7052.413086>)
+22:51:20.398 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): rain rain go away
+22:53:59.968 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): do ykall inow any scary storys 
+22:54:32.281 [BaseRaiding] BBP_SDoor (<925.404175, 154.556519, 7141.729980>) Code set by player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <925.036255, 154.596466, 7142.196289>) and the code is 1505
+22:56:59.765 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:58:55.718 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+22:59:18.890 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): any one lookig for some rifles
+23:00:37.312 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+23:01:47.054 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+23:05:35.843 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) joinded the party "ShadowCo" (id=12 ownerUID= ownerName=)
+23:05:35.843 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) created a party named ShadowCo (HSI)
+23:05:36.843 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 12
+23:09:50.000 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+23:09:50.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+23:09:50.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+23:09:50.000 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+23:09:50.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+23:21:47.679 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.957626, 105.117195, 7052.413086>) as driver
+23:21:49.960 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<155.957901, 105.117188, 7052.413086>)
+23:22:24.656 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<129.624435, 106.049622, 7048.220703>)
+23:22:29.726 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M3S Covered (id=6E1505058D4B2F0FD014C2A10B409469 pos=<129.624054, 106.049873, 7048.220703>)
+23:27:41.257 [Expansion Quests] - CompleteQuest - Player with UID AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= has completed quest 99
+23:27:46.414 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6589.911133, 21.258299, 3640.187256>) Entered the safezone
+23:28:16.445 [Expansion Quests] - CompleteQuest - Player with UID MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= has completed quest 99
+23:28:20.765 [Safezone] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= pos=<6579.486816, 21.436249, 3658.157227>) Entered the safezone
+23:29:33.382 [Expansion Quests] - CompleteQuest - Player with UID P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= has completed quest 99
+23:29:50.062 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= for quest 45
+23:29:51.203 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6577.203613, 21.481907, 3660.429443>) Entered the safezone
+23:31:40.070 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= for quest 31
+23:32:30.789 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<138.868668, 105.615578, 7057.182617>) as driver
+23:32:32.492 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<138.868683, 105.615578, 7057.182617>)
+23:32:34.250 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= for quest 31
+23:32:56.195 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.302017, 105.275887, 7039.949707>) as passenger
+23:33:03.398 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= for quest 44
+23:34:15.117 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= for quest 32
+23:35:17.046 [Safezone] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= pos=<6676.935547, 21.921949, 3616.652832>) Left the safezone
+23:35:36.648 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6648.061523, 21.345575, 3633.414795>) Left the safezone
+23:35:59.617 [AI Patrol] Spawning 2 Vagabond Army bots at <3575.446777, 99.884567, 8044.632813>
+23:36:32.632 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6660.904297, 21.526690, 3627.724121>) Left the safezone
+23:36:37.335 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6645.062988, 21.353636, 3640.566895>) Entered the safezone
+23:37:43.531 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6678.955078, 22.024796, 3620.434814>) Left the safezone
+23:41:10.171 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer_Basebuilding
+23:41:34.546 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6621.772949, 21.225874, 3653.205078>) Entered the safezone
+23:41:34.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+23:44:18.734 [VehicleDeleted] Kamaz_4350 (id=B316407CF54922122ED5A8B93FCCE65A pos=<6621.176758, 21.232105, 3654.621582>)
+23:48:33.445 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7516.926270, 115.932922, 5270.312012>)
+23:48:35.570 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7516.926270, 115.932922, 5270.312012>)
+23:49:54.921 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6647.029297, 21.259762, 3623.208008>) Left the safezone
+23:50:28.500 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6643.666504, 21.290670, 3635.536621>) Entered the safezone
+23:53:44.039 [VehicleDeleted] Kamaz_4350 (id=E5D48710E74DE337D417F98E5580D619 pos=<6622.185547, 21.252363, 3656.723877>)
+23:55:16.906 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): base building airdrop at the black lake campground, if anyone wants it, we didnt take anything
+23:56:20.671 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): omy
+23:56:45.773 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7516.926758, 115.932961, 5270.312012>) as driver
+23:56:49.156 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7516.926270, 115.932945, 5270.312012>)
+23:56:49.976 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7516.926270, 115.932930, 5270.312012>) as passenger
+23:57:08.750 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7395.889648, 117.316917, 5295.850098>)
+23:57:11.140 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7395.889648, 117.316895, 5295.850098>)
+23:57:13.515 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<7395.889648, 117.316895, 5295.850098>)
+23:57:19.335 [VehicleDeleted] Kraz_6322 (id=B3E81C93524F48A42CD8DEAF2A27E3FF pos=<6623.950195, 21.278996, 3655.459717>)
+23:57:47.367 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:58:05.914 [VehicleDeleted] LUAZ_rust (id=7E7A31453D462B01EE6122B2714BF97E pos=<6628.869629, 21.308311, 3654.515869>)
+23:58:49.921 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:15.718 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:15.718 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) left the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)
+23:59:15.742 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+23:59:15.750 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+23:59:15.750 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )

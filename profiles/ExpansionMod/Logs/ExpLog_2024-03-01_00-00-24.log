@@ -1,0 +1,244 @@
+00:01:29.493 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:01:29.498 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:29.498 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:01:30.471 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:01:42.519 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4107.916016, 2.719615, 894.327393>) as passenger
+00:01:44.400 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:01:44.400 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:02:34.784 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:34.788 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:02:34.788 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:34.789 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:02:35.764 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:56.832 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:56.837 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:02:56.837 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:56.837 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:02:57.810 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:32.045 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4107.916016, 2.719617, 894.327332>) as driver
+00:03:33.529 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4107.916016, 2.719615, 894.327393>)
+00:03:41.073 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4107.916016, 2.719615, 894.327393>) as passenger
+00:06:37.650 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer
+00:07:02.155 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501972, 2050.669434>)
+00:07:04.522 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>)
+00:07:05.092 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501801, 2050.669189>)
+00:07:06.117 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>)
+00:07:12.829 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+00:07:12.833 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:07:12.834 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+00:07:12.834 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:07:13.801 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:07:18.520 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4349.221191, 45.595760, 2053.652344>) used the  ExpansionCarKey to lock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>)
+00:09:13.187 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4348.356445, 45.592751, 2051.808350>) used the  ExpansionCarKey to unlock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>)
+00:09:25.693 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4348.297852, 45.615387, 2053.039795>) used the  ExpansionCarKey to lock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>)
+00:15:29.370 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+00:15:29.370 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+00:18:29.105 [Safezone] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU= pos=<6625.933105, 21.895889, 3672.636719>) Entered the safezone
+00:18:29.106 [Party] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=) joinded the party "Baked Potatos " (id=8 ownerUID=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= ownerName=Zalazaz311)
+00:18:29.119 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=
+00:18:29.119 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 8
+00:18:30.080 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 8
+00:19:04.640 [AI Patrol] Spawning 2 Airfield bots at <6574.163086, 20.185406, 1917.575195>
+00:19:45.208 [ATM] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=) has deposited 100 on his ATM account.
+00:20:22.481 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:20:22.481 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:24:17.528 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4351.969238, 45.489689, 2052.646484>) used the  ExpansionCarKey to unlock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>)
+00:24:21.863 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>) as passenger
+00:24:31.321 [Party] Player "greasysnowball2000" (id=0MJA1jaYf39bl2G5fe8nU9hxXi8UqbrqJNO98oO7lhU=) left the party "Baked Potatos " (id=8 ownerUID=gq4X7Zsah5PLerdfQXp-fH-YdJJSQPoTHbvPmf8X8QQ= ownerName=Zalazaz311)
+00:24:57.085 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669434>) as passenger
+00:25:09.021 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501801, 2050.669189>) as driver
+00:25:10.600 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<4351.041992, 45.501804, 2050.669189>)
+00:27:40.505 [Killfeed] {MM} meccmax got killed by Airfield with LE-MAS from a distance of 2 m.
+00:30:46.866 [BaseRaiding] BBP_BDoor (<2286.415771, 111.707497, 5314.564941>) Code set by player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <2285.909424, 111.719994, 5313.334961>) and the code is 7477
+00:36:20.522 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1499.331055, 190.750931, 6468.850586>)
+00:36:25.289 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1499.330933, 190.750977, 6468.850098>) as driver
+00:36:26.845 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<1499.330933, 190.750977, 6468.850098>)
+00:39:10.492 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<161.182175, 105.177933, 7038.672852>)
+00:39:11.372 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<161.182587, 105.177940, 7038.672852>)
+00:39:38.314 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.120468, 105.306892, 7068.330078>)
+00:39:41.718 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.120499, 105.306847, 7068.330078>)
+00:40:40.442 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.119904, 105.306847, 7068.330078>) as driver
+00:40:42.070 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.120300, 105.306854, 7068.330078>)
+00:40:50.834 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.119949, 105.306854, 7068.330078>)
+00:40:57.635 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.119980, 105.306847, 7068.330078>) as driver
+00:41:01.886 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.119949, 105.306854, 7068.330078>)
+00:41:04.379 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.119980, 105.306854, 7068.330078>)
+00:43:31.974 [Killfeed] {MM} meccmax got killed by Airfield with Pioneer from a distance of 15 m.
+00:56:51.584 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<155.006927, 105.277176, 7065.357422>) used the  ExpansionCarKey to lock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.119873, 105.306854, 7068.330078>)
+00:57:43.702 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:59:32.925 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) joinded the party "Misfits" (id=9 ownerUID= ownerName=)
+00:59:32.926 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) created a party named Misfits (MM)
+00:59:33.925 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 9
+00:59:39.373 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) invited the player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=)to the party named Misfits
+00:59:42.145 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:59:43.145 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+01:12:42.305 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<146.364792, 105.269829, 7054.415039>) as driver
+01:12:45.107 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<146.386932, 105.269218, 7054.415039>)
+01:12:48.973 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<146.419739, 105.268349, 7054.415039>)
+01:13:12.123 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<146.437805, 105.267868, 7054.415039>) as driver
+01:13:18.592 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<146.488312, 105.266502, 7054.415039>)
+01:13:24.525 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<146.535385, 105.265228, 7054.414551>)
+01:13:47.161 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<163.682785, 105.069725, 7037.816895>)
+01:14:03.874 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<163.670670, 105.070190, 7037.817383>) as driver
+01:20:23.383 [AI Patrol] Spawning 2 FOB Alpha bots at <282.352295, 146.867157, 4897.372070>
+01:21:21.761 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1207.511353, 107.951057, 4774.840332>)
+01:21:24.780 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1207.511230, 107.951042, 4774.840332>)
+01:28:29.858 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<138.913605, 105.568085, 7053.235352>) as driver
+01:28:31.243 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<138.920975, 105.567787, 7053.235352>)
+01:28:52.063 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Olga 24 (id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<139.860840, 105.526619, 7053.454102>)
+01:28:57.631 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1207.511230, 107.951042, 4774.840332>) as driver
+01:29:00.429 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1207.511230, 107.951042, 4774.840820>)
+01:29:28.968 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1335.588623, 110.794220, 4619.145996>)
+01:30:51.917 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1335.587891, 110.794228, 4619.145996>) as driver
+01:30:53.615 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1335.587891, 110.794205, 4619.145996>)
+01:31:01.653 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1352.516846, 110.864830, 4610.710449>)
+01:31:24.236 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1352.515015, 110.864845, 4610.710449>) as driver
+01:31:27.066 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<1352.512695, 110.864792, 4610.710449>)
+01:31:34.735 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer_Basebuilding
+01:32:59.618 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<535.975830, 27.265478, 3495.633301>)
+01:33:01.568 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<535.975037, 27.265455, 3495.633301>)
+01:33:54.287 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.880371, 27.826294, 3499.170410>) as driver
+01:33:56.351 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.869080, 27.825838, 3499.170410>)
+01:34:45.737 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.855896, 27.825336, 3499.170410>) as driver
+01:34:47.754 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.844910, 27.824871, 3499.170166>)
+01:35:34.552 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<535.975037, 27.265450, 3495.632813>) as driver
+01:35:36.021 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<535.975220, 27.265450, 3495.632813>)
+01:36:18.754 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<445.336731, 25.617264, 3418.202881>)
+01:38:33.021 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:38:38.173 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:42:08.922 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<445.336975, 25.617275, 3418.201660>) as driver
+01:42:10.824 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<445.336823, 25.617268, 3418.201172>)
+01:42:37.227 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.966492, 27.404665, 3493.285156>)
+01:43:56.107 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.944763, 27.403788, 3493.285156>) as driver
+01:43:57.956 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.927246, 27.403091, 3493.284912>)
+01:44:05.339 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.862366, 27.400492, 3493.284424>)
+01:44:09.390 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.826477, 27.399023, 3493.284180>)
+01:44:18.207 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.803223, 27.398090, 3493.284180>) as driver
+01:44:20.006 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.788147, 27.397499, 3493.283936>)
+01:44:25.005 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.745117, 27.395771, 3493.283447>)
+01:44:38.406 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.635742, 27.391659, 3493.282715>) as driver
+01:44:40.608 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.618286, 27.391119, 3493.282471>)
+01:44:42.911 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Sarka 120 (id=E114AD97A14EF27A0F97B396EA944AF8 pos=<548.598145, 27.390505, 3493.282227>)
+01:48:45.259 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.832764, 27.824389, 3499.170166>) as driver
+01:48:48.225 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.815918, 27.823713, 3499.169922>)
+01:48:52.360 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.793823, 27.822840, 3499.169922>)
+01:49:08.396 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.782410, 27.822422, 3499.169678>) as driver
+01:49:10.997 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<549.766296, 27.821766, 3499.169678>)
+01:50:32.695 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<830.014771, 36.587978, 3470.215820>)
+01:50:38.213 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<832.213989, 36.599285, 3471.180420>)
+01:53:14.932 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<832.206482, 36.599201, 3471.179688>) as driver
+01:53:17.512 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<832.200378, 36.599209, 3471.179688>)
+01:53:50.711 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<917.706604, 37.898769, 3560.908447>)
+01:53:54.565 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<917.705200, 37.898808, 3560.907227>)
+02:06:36.021 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<917.703491, 37.898823, 3560.905273>) as driver
+02:06:39.386 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<917.702271, 37.898869, 3560.904053>)
+02:07:10.271 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<987.249451, 34.382187, 3356.231201>)
+02:07:14.441 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<987.250671, 34.382133, 3356.230225>)
+02:08:22.702 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Olga 24 Wheel (type=CivSedanWheel) from vehicle Olga 24(id=D4E9CA53C0460031D893F6A1CC670A62 pos=<994.225159, 34.372791, 3364.964111>)
+02:09:03.105 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Olga 24 Front Left Door (type=CivSedanDoors_Driver) from vehicle Olga 24(id=D4E9CA53C0460031D893F6A1CC670A62 pos=<994.234375, 34.308319, 3364.974609>)
+02:09:54.539 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<987.251953, 34.382156, 3356.229248>) as driver
+02:09:57.171 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<987.253113, 34.382141, 3356.227539>)
+02:10:30.026 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<977.803162, 33.168610, 3250.041260>)
+02:10:34.021 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<977.807129, 33.168545, 3250.042236>)
+02:13:50.056 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<977.808899, 33.168556, 3250.041992>) as driver
+02:13:52.723 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<977.812012, 33.168495, 3250.043701>)
+02:14:52.424 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<859.891235, 39.250694, 3604.118408>)
+02:14:56.110 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<859.871155, 39.250813, 3604.118652>)
+02:18:33.660 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<859.857849, 39.250874, 3604.118896>) as driver
+02:18:36.009 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<859.843933, 39.250954, 3604.119141>)
+02:19:42.512 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<438.990662, 25.629019, 3423.770996>)
+02:19:48.162 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<438.990753, 25.629000, 3423.772217>)
+02:21:17.614 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<438.990784, 25.628994, 3423.772949>) as driver
+02:21:20.146 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<438.990906, 25.628988, 3423.773193>)
+02:26:15.914 [AI Patrol] Spawning 2 Orting bots at <5254.940430, 219.726517, 5216.298828>
+02:27:11.799 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<3447.719482, 4.300851, 1306.560913>)
+02:29:21.016 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<4219.104492, 3.285457, 767.914124>)
+02:29:25.186 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<4219.104004, 3.285365, 767.908875>)
+02:30:21.452 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<4219.104980, 3.307754, 767.910156>) as driver
+02:30:24.182 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<4219.104980, 3.307768, 767.910156>)
+02:32:59.806 [AI Patrol] Spawning 2 Police Academy bots at <5336.821289, 56.129997, 2316.421143>
+02:34:34.402 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<5375.102051, 56.117767, 2150.197266>)
+02:34:41.370 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<5375.102051, 56.117764, 2150.196533>)
+02:35:54.936 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<5375.102051, 56.117767, 2150.196533>) as driver
+02:35:57.639 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<5375.102051, 56.117764, 2150.196045>)
+02:37:59.075 [Party] Player "FARRIS" (id=Wzy9-i_cgozd3AtiPGeDiPs6j9tHWluwI6ggAhe7Q-Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:39:15.345 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6577.791504, 21.521210, 3673.075684>) Entered the safezone
+02:39:53.873 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:39:54.174 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 3375.
+02:39:57.457 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagblue x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:39:57.757 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagblue x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 1125.
+02:39:59.321 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagblue x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:39:59.666 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagblue x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 1125.
+02:40:02.071 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:40:02.441 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+02:40:03.416 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:40:03.767 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+02:40:23.163 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 38
+02:41:23.599 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:23.888 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+02:41:24.859 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:25.127 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+02:41:26.055 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6643.474121, 21.979160, 3640.057129>) Entered the safezone
+02:41:26.157 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:26.431 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+02:41:27.379 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:27.679 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+02:41:30.389 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6634.173340, 21.241686, 3646.237549>)
+02:41:34.272 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6634.173340, 21.241669, 3646.236816>)
+02:41:41.010 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:41.333 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+02:41:42.202 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:42.526 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+02:41:43.408 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:43.703 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+02:41:44.494 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:41:44.773 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+02:41:53.893 [Expansion Quests] - CompleteQuest - Player with UID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= has completed quest 31
+02:42:14.992 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= for quest 44
+02:42:29.572 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:42:29.772 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6634.173828, 21.241680, 3646.236816>) as driver
+02:42:29.844 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+02:42:30.748 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:42:31.327 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+02:42:32.255 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:42:32.552 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+02:42:33.174 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6634.173828, 21.241686, 3646.236084>)
+02:42:33.468 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:42:33.728 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+02:42:34.651 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:42:34.932 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+02:42:35.864 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+02:42:36.132 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+02:42:51.173 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6719.777344, 27.653381, 3651.746826>) Left the safezone
+02:43:22.797 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 60
+02:45:03.608 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6310.338867, 186.040710, 5281.003906>)
+02:45:05.694 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+02:45:05.910 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6310.343262, 186.040527, 5281.004395>)
+02:48:52.092 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6310.344727, 186.040451, 5281.004883>) as driver
+02:48:54.824 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6310.350586, 186.040176, 5281.005371>)
+02:56:37.682 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6237.047852, 65.203651, 8300.403320>)
+02:58:06.735 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Medical
+03:06:53.590 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6237.047852, 65.203644, 8300.403320>) as driver
+03:06:56.644 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<6237.047852, 65.203621, 8300.403320>)
+03:15:08.717 [AI Patrol] Spawning 2 Trench 94 bots at <3140.347412, 99.884567, 9324.175781>
+03:15:54.549 [AI Patrol] Spawning 2 Vagabond Army bots at <3398.775635, 100.344994, 7853.501465>
+03:16:50.702 [AI Patrol] Spawning 2 Manhattan Project bots at <1993.136108, 99.884567, 8875.949219>
+03:21:24.860 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<146.997940, 105.264008, 7054.835449>)
+03:21:28.550 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Olga 24 (id=56DFBB2B3644B48C7B70B0B26122DE85 pos=<147.008438, 105.263809, 7054.834961>)
+03:39:29.080 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6616.473633, 21.493740, 3667.425293>) Entered the safezone
+03:39:29.081 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+03:39:29.091 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+03:39:29.092 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+03:39:29.092 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+03:39:30.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+03:42:53.857 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+03:42:53.864 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+03:42:53.865 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+03:42:53.865 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+03:42:54.831 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+03:45:51.291 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6673.689453, 21.826010, 3617.049072>) Left the safezone
+03:46:14.542 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:48:54.323 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+04:25:15.598 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6581.946777, 21.522331, 3686.808838>) Entered the safezone
+04:25:48.728 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+04:26:12.834 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

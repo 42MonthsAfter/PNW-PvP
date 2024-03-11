@@ -1,0 +1,116 @@
+12:02:49.445 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:02:49.449 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:02:49.449 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 14
+12:02:50.425 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+12:04:45.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+12:04:45.140 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+12:07:52.714 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+12:17:11.882 [AI Patrol] Spawning 2 Manhattan Project bots at <1890.865601, 99.884567, 8755.781250>
+12:28:45.500 [BaseRaiding] BBP_BDoor (<919.913879, 151.439377, 7133.190430>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <921.603821, 151.466354, 7133.575195>) and the code is 1505
+12:31:11.355 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<919.128540, 151.451233, 7133.790527>) used the  ExpansionCarKey to unlock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.813843, 151.414658, 7132.897949>)
+12:31:13.687 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<915.583679, 151.354462, 7132.237305>) used the  ExpansionCarKey to lock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.813843, 151.414658, 7132.897949>)
+12:31:14.789 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<915.583679, 151.354462, 7132.237305>) used the  ExpansionCarKey to unlock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.813843, 151.414658, 7132.897949>)
+12:31:22.453 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.812256, 151.414001, 7132.898438>) as driver
+12:31:24.054 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.811890, 151.413956, 7132.897949>)
+12:31:33.921 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.728516, 151.754959, 7124.915039>)
+12:31:47.527 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.702148, 151.755264, 7124.915039>) as driver
+12:31:49.937 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.672119, 151.755585, 7124.915039>)
+12:35:28.355 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1713.042969, 124.406563, 10077.627930>)
+12:35:32.398 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<1710.092529, 124.491760, 10078.184570>) used the  ExpansionCarKey to lock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1713.035400, 124.406731, 10077.627930>)
+12:49:18.824 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:49:18.824 [BaseBuildingRaiding] Player "Lou Sassole" (ID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) at <1733.05, 125.72, 10099.4> damaged ExpansionCodeLock at <1731.93, 125.68, 10099.6>
+12:49:18.824 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+12:49:18.824 [BaseBuildingRaiding]  hitpoints decreased from 100 to 80
+12:49:18.824 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:52:18.851 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:52:18.851 [BaseBuildingRaiding] Player "Lou Sassole" (ID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) at <1733.05, 125.72, 10099.4> damaged ExpansionCodeLock at <1731.93, 125.68, 10099.6>
+12:52:18.851 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+12:52:18.851 [BaseBuildingRaiding]  hitpoints decreased from 80 to 60
+12:52:18.851 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:55:18.894 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+12:55:18.894 [BaseBuildingRaiding] Player "Lou Sassole" (ID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) at <1733.05, 125.72, 10099.4> damaged ExpansionCodeLock at <1731.93, 125.68, 10099.6>
+12:55:18.894 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+12:55:18.894 [BaseBuildingRaiding]  hitpoints decreased from 60 to 40
+12:55:18.894 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+12:55:53.808 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:34:15.714 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+13:49:16.140 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: kaFOL0rzXgRf-ktPxbyuOzlmDG__oJ68Lh3R4EEd7xI=
+13:50:17.378 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+13:50:17.382 [AI Patrol] Spawning 2 Orting bots at <5436.850586, 219.753143, 5226.300293>
+13:55:02.742 [AI Patrol] Spawning 2 Airfield bots at <6681.652344, 18.606186, 1775.672119>
+14:09:20.265 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+14:14:06.312 [Killfeed] Stiffy got killed by Orting with LE-MAS from a distance of 2 m.
+14:22:27.539 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: TuY5x2jSsTR-mjQpssr1GI96WDMxX5P-GbNhFkNeggQ=
+14:22:27.539 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: TuY5x2jSsTR-mjQpssr1GI96WDMxX5P-GbNhFkNeggQ=
+14:34:28.511 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:34:28.523 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+14:34:28.523 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+14:34:28.523 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+14:34:29.472 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:37:19.035 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:37:19.042 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+14:37:19.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:37:19.042 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+14:37:20.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:38:29.570 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:47:22.796 [AI Patrol] Spawning 2 Police Academy bots at <5202.095215, 56.129997, 2291.249268>
+14:49:26.945 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:50:31.714 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:50:31.718 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:50:31.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:50:32.687 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:56:36.570 [Killfeed] Dexter got killed by Police Academy with LE-MAS from a distance of 43 m.
+14:57:25.730 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<1711.960449, 124.501823, 10078.645508>) used the  ExpansionCarKey to unlock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1713.035400, 124.406731, 10077.627930>)
+14:57:30.128 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1713.011963, 124.407005, 10077.625977>) as driver
+14:57:32.687 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<1712.977539, 124.407715, 10077.625977>)
+15:00:52.191 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.492493, 151.699203, 7126.612793>)
+15:00:55.292 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<921.365234, 151.745956, 7124.004395>) used the  ExpansionCarKey to lock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.488831, 151.699280, 7126.612793>)
+15:01:17.730 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+15:03:06.394 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<920.926270, 151.746826, 7124.775391>) used the  ExpansionCarKey to unlock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.488831, 151.699280, 7126.612793>)
+15:03:10.796 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.479797, 151.699356, 7126.612793>) as driver
+15:03:12.179 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<920.470093, 151.699432, 7126.612793>)
+15:03:22.953 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.079712, 151.405792, 7132.254883>)
+15:23:16.300 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<918.492737, 151.464600, 7132.638184>) used the  ExpansionCarKey to lock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.078979, 151.405670, 7132.254883>)
+15:23:19.000 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<917.956604, 151.460220, 7132.111816>) used the  ExpansionCarKey to unlock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.078979, 151.405670, 7132.254883>)
+15:23:39.000 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<917.309570, 151.496490, 7130.294434>) used the  ExpansionCarKey to lock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.078979, 151.405670, 7132.254883>)
+15:26:46.566 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<915.308350, 151.396393, 7130.710449>) used the  ExpansionCarKey to unlock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.078979, 151.405670, 7132.254883>)
+15:26:57.773 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.075684, 151.405594, 7132.255859>) as driver
+15:27:00.789 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<916.069702, 151.405319, 7132.256836>)
+15:27:14.351 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<915.992371, 151.636444, 7125.422852>)
+15:27:19.390 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<915.964905, 151.634979, 7125.423340>) as driver
+15:27:21.785 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<915.934021, 151.633347, 7125.423340>)
+15:34:46.636 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<5239.183105, 219.734451, 5207.370605>)
+15:38:55.125 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<6674.194336, 21.960615, 3630.284424>)
+15:38:59.023 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<6674.162598, 21.959530, 3630.284180>) as driver
+15:39:00.324 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] stopped vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<6674.151855, 21.959154, 3630.284180>)
+15:39:03.507 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<6674.125488, 21.958265, 3630.283936>)
+15:39:15.320 [VehicleCarKey] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6673.255859, 21.966717, 3632.883301>) used the  ExpansionCarKey to lock Hatchback_02_Black (id=6E2F8AC09E4A12609B45CBA89F4ABA8D pos=<6674.120605, 21.958122, 3630.283203>)
+15:39:25.351 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6646.278320, 21.349073, 3637.483154>) Entered the safezone
+15:40:14.164 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell geb_northernpike x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:40:14.257 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold geb_northernpike x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 937.
+15:40:15.597 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell geb_trout x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:40:15.695 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold geb_trout x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+15:40:16.378 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to sell geb_trout x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:40:16.480 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has sold geb_trout x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+15:47:05.941 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase twp_mk18_mag_100rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:47:06.046 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought twp_mk18_mag_100rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+15:49:22.062 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_556x45_20rnd x16 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:49:22.148 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_556x45_20rnd x16 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 512.
+15:49:49.027 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_9x39ap_20rnd x10 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:49:49.132 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_9x39ap_20rnd x10 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 640.
+15:49:59.175 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+15:49:59.281 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought mag_stanagcoupled_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 220.
+15:55:45.031 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 165 on his ATM account.
+15:56:09.226 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6659.631836, 21.443007, 3621.679199>) Left the safezone
+16:10:35.382 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6639.481445, 21.228643, 3635.097656>) Entered the safezone
+16:14:39.460 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 809 from his ATM account.
+16:14:51.195 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase mag_pp19_64rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:14:51.273 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought mag_pp19_64rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 100.
+16:15:06.457 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_380_35rnd x6 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+16:15:06.558 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_380_35rnd x6 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 336.
+16:22:31.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:22:31.640 [Expansion Quests] - Create new quest instance for quest: 40 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:23:28.523 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:15:03.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+17:15:03.960 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+17:15:08.734 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military

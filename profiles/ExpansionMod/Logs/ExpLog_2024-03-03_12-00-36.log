@@ -1,0 +1,359 @@
+12:05:41.761 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:05:41.769 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+12:05:41.769 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:05:41.769 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+12:05:42.730 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:07:00.527 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6622.165527, 21.493958, 3667.578125>) Entered the safezone
+12:07:00.539 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+12:07:20.820 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6624.454590, 21.289320, 3659.703857>) used the  ExpansionCarAdminKey to unlock Novator_Camouflage (id=4440DB1ECE41BF0DBDB9F7A526A9E03C pos=<6622.353027, 21.337944, 3659.197510>)
+12:07:25.988 [VehicleEnter] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle  Novator Camouflage (id=4440DB1ECE41BF0DBDB9F7A526A9E03C pos=<6622.357422, 21.337986, 3659.199219>) as driver
+12:07:27.414 [VehicleEngine] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle  Novator Camouflage (id=4440DB1ECE41BF0DBDB9F7A526A9E03C pos=<6622.354980, 21.337948, 3659.197754>)
+12:07:35.277 [VehicleLeave] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle  Novator Camouflage (Locked) (id=4440DB1ECE41BF0DBDB9F7A526A9E03C pos=<6622.635254, 21.336224, 3658.627441>)
+12:07:42.582 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6624.393066, 21.283489, 3658.998047>) used the  ExpansionCarAdminKey to unlock Novator_Camouflage (id=4440DB1ECE41BF0DBDB9F7A526A9E03C pos=<6622.634277, 21.336216, 3658.626953>)
+12:07:45.242 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6624.393066, 21.283489, 3658.998047>) used the  ExpansionCarAdminKey to lock Novator_Camouflage (id=4440DB1ECE41BF0DBDB9F7A526A9E03C pos=<6622.634277, 21.336216, 3658.626953>)
+12:08:10.113 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6617.231934, 21.247858, 3658.412109>) used the  ExpansionCarAdminKey to unlock G65_white (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.894531, 21.167950, 3658.205322>)
+12:08:15.714 [VehicleEnter] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.894531, 21.167952, 3658.205322>) as driver
+12:08:17.136 [VehicleEngine] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.894531, 21.167948, 3658.205322>)
+12:08:23.746 [VehicleLeave] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle G65 White  (Locked) (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.950684, 21.166481, 3657.971680>)
+12:08:27.246 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6617.587891, 21.245438, 3658.053467>) used the  ExpansionCarAdminKey to unlock G65_white (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.950684, 21.166481, 3657.971680>)
+12:08:33.011 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6614.057129, 21.241692, 3657.091797>) used the Admin CarKey to unpair Jeep_Wrangler (id=19D029122A48E9DC0F37038D27CF7FA0 pos=<6612.786621, 21.382915, 3657.231689>)
+12:08:41.511 [VehicleEnter] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle Jeep Wrangler (id=19D029122A48E9DC0F37038D27CF7FA0 pos=<6612.786621, 21.382915, 3657.231689>) as driver
+12:08:42.988 [VehicleEngine] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle Jeep Wrangler (id=19D029122A48E9DC0F37038D27CF7FA0 pos=<6612.786621, 21.382915, 3657.231689>)
+12:08:49.656 [VehicleLeave] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle Jeep Wrangler (id=19D029122A48E9DC0F37038D27CF7FA0 pos=<6612.896484, 21.380474, 3656.845215>)
+12:08:53.953 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6614.519531, 21.242340, 3657.243652>) used the  ExpansionCarAdminKey to lock Jeep_Wrangler (id=19D029122A48E9DC0F37038D27CF7FA0 pos=<6612.896484, 21.380476, 3656.845215>)
+12:10:50.722 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Basebuilding
+12:13:51.121 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6628.450195, 21.300875, 3657.008789>) Entered the safezone
+12:13:51.125 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+12:14:21.933 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9081.279297, 61.465179, 4686.622559>) Left the safezone
+12:17:26.425 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:18:13.367 [Territory] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) created territory Pirate Bay at <9077.065430, 71.563461, 4698.823242>
+12:23:11.113 [BaseRaiding] BBP_BDoor (<9080.155273, 71.781677, 4689.799316>) Code set by player "[Admin] Bunker" (ID = "mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=" at <9079.720703, 71.794785, 4690.873535>) and the code is 061342
+12:33:42.144 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:33:42.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+12:33:42.156 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+12:33:42.156 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+12:33:42.160 [AI Patrol] Spawning 2 Airfield bots at <6743.491699, 18.600704, 1795.358765>
+12:33:43.113 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:42:15.351 [AI Patrol] Spawning 2 National Guard bots at <9194.422852, 45.783791, 3454.721924>
+12:45:16.968 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:45:16.976 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:45:16.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:45:16.976 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:45:17.933 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:47:10.699 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hey dirty
+12:50:36.218 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6648.210449, 21.417549, 3642.056152>) Entered the safezone
+12:52:00.757 [Expansion Quests] - CompleteQuest - Player with UID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= has completed quest 32
+12:52:23.109 [ATM] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has deposited 500 on his ATM account.
+12:52:51.308 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= for quest 33
+12:53:24.976 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6563.556641, 24.659962, 3643.897705>) Left the safezone
+12:54:18.164 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6581.267090, 21.365187, 3646.618164>) Entered the safezone
+12:56:19.769 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): Hey dirty. thanks again to you and the boys for letting me grab stuff. it helps a lot
+12:56:36.066 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): o ya man youre welcome
+12:56:56.992 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we have A LOT of shit lol
+12:57:31.851 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i bet lol
+12:57:35.945 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): Its just fun to raid lol
+12:57:43.085 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): for sure lol
+12:57:55.917 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm not alone anymore. kinda
+12:58:00.570 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): its like trophy hunting now
+12:58:29.304 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): nice.  i thought i seen someone around your place last night
+12:58:44.308 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): they wernt breaking in so i kinda left it alone. 
+12:59:07.011 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6685.615723, 22.466253, 3623.174072>) Left the safezone
+12:59:22.484 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya so mac and talkers are people i used to play with. I told them about the server and they didn't tell me they where joining so had no idea they where here lol
+12:59:43.152 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): LOL!! they almost got shot a couple time over there
+12:59:58.652 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): thats their own damn fault lol
+13:00:00.824 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): but ive seen them over there so i figured you had some one join
+13:01:03.007 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): man i watched you mag dump shadow live last night lol. I was laying in bed and got a notification from discord that he was streaming so i took a peak just in tim
+13:01:10.066 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): time*
+13:01:32.835 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): the fucker had fight in him though eh lol
+13:01:40.703 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): max and i were just gunna tie him up and rob him
+13:01:47.703 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we hit him with the tazer
+13:01:55.500 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i saw that lmao
+13:02:01.507 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): but he pulled out a shotgun and that was that
+13:02:14.511 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): his uncon didn't last very long
+13:02:41.546 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no that was weird.  usualy its like a good 20 seconds
+13:02:47.351 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): well seems like that 
+13:02:54.160 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): when max hits me with it
+13:03:04.789 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya that's usually what it is for me ffs lol
+13:03:18.972 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): he was up in less than 10
+13:03:33.753 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya might be because i didnt get a full hit on him
+13:03:36.410 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): not sure
+13:04:09.453 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): it's possible. if that was me i wopuld have just said rob me i don't wanna go south haha
+13:04:42.089 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): im gunna have to go watch the stream now lol
+13:05:08.625 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): that taser is a sweet sweet tool
+13:05:41.171 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): it's quite a ways in. honestly he should have killed atleast one of you. 
+13:06:18.972 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we stalked him for a min.  saw him up at the drive in first
+13:06:27.207 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): he fully watched you crouch walk up. he could have ducked for cover and waited for you to enter
+13:06:28.308 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i was sure he seen me
+13:06:33.824 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): but must not have
+13:07:01.218 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): naw he didn't. he heard shooting and booms in the distance but didn't see shit
+13:07:06.804 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): o ya i seen that 
+13:07:12.406 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): he had me dead to rights
+13:07:25.488 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): 100 percent you should have been dead
+13:07:46.957 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i thought max had him at the door but he missed his taser shot lol
+13:08:10.273 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): the second i saw you i would have put my dick in the dirt and been ready for a fight lol
+13:08:20.335 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol yep
+13:09:14.281 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): watch out if you go to indian islandm area. I saw him mine up some mil spots in there lol
+13:09:40.300 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol.  i about stepped on a bear trap up at fob yesterday
+13:10:39.937 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): so i walked in there as you left cause i heard the shooting and was going to grab the leftovers lol. I stepped on that fucking trap
+13:10:55.054 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): in the tent 
+13:10:58.226 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): had to crawl to base had nothing to make a splint lmao
+13:11:00.722 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yup
+13:11:08.351 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya lol it about got me 
+13:11:28.460 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): next time do me a favor and step on it for me will ya lol
+13:11:35.640 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol you got it
+13:12:02.824 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): come to trailer park with raid tools
+13:12:22.937 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): kk give me a few to lighten up here then omw
+13:12:28.343 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): all good
+13:15:14.957 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): omw
+13:15:20.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): going to be a bit on foot
+13:15:29.406 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): all good just clearing it out
+13:15:40.250 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): kk
+13:15:44.246 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i might find a tool in here also
+13:17:04.750 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): see what crazed said in dicord this morning lol
+13:17:11.097 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no
+13:17:22.285 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): he said thanks for taking out the trash lol
+13:17:31.367 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol
+13:17:31.562 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): he was part of that base lol
+13:17:46.832 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): hahaha
+13:18:03.761 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): you mean thanks for taking all the good shit
+13:18:16.695 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): right lol
+13:18:30.886 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you ever get in the lockers?
+13:18:36.195 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no
+13:18:54.550 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that blows
+13:18:54.679 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): not sure how to do it or if its even possible
+13:19:24.949 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): tried the claymores and everything?
+13:19:49.136 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): cant place a claymore unless it your place
+13:20:21.914 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): shouldn't be a thing for raiding. weird
+13:20:48.589 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya
+13:21:58.523 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): 3k out
+13:22:44.687 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok found it not sure when the last time they were on flag in in base
+13:23:05.093 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh geez ok. we hopefully stuff didn't despawn
+13:25:09.476 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): right by the well
+13:25:16.058 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok
+13:26:24.617 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): not sure if its worth it 
+13:26:24.906 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): 2k
+13:26:35.152 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): never know till your in
+13:26:41.226 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): looking in the windows looke pretty bland
+13:26:55.980 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotta go to holler anyways so forces me to now being over this way lol
+13:28:48.707 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): im in 
+13:28:55.144 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no raid tools needed lol
+13:29:14.546 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): dude they have a shit ton of sledges
+13:29:25.402 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): wtf lol
+13:31:17.609 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): just got uncon lol
+13:31:26.765 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ai
+13:31:38.062 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): bear and murder kitty at same time
+13:31:44.019 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): fuck lol
+13:31:56.824 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): 1k out
+13:33:01.117 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): now wolves ffs lol
+13:33:36.398 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): where are you
+13:33:44.863 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): NW
+13:33:57.000 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): 400 out
+13:34:37.695 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm good outran them i guess lol
+13:35:49.343 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): 4 sledge hammers
+13:36:03.636 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): best thing in there and didnt have to wast time breaking in
+13:37:26.726 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): too easy
+13:37:48.714 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): DONT HAVE THE STAM LOL
+13:38:02.750 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): goota drop the bag
+13:38:13.718 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Medical
+13:39:28.550 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): not really
+13:39:56.304 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we can check it out
+13:40:38.171 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): think i have that one marked as well
+13:40:48.050 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya
+13:41:21.144 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): have to go all the way round
+13:42:07.328 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): that always sketches me out throwin gear
+13:42:23.253 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol true
+13:44:58.996 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:44:59.003 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+13:44:59.003 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:44:59.003 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+13:44:59.972 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:45:44.476 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok
+13:45:50.125 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): gunna run to main base
+13:45:52.746 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): you raiding that base?
+13:46:05.003 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): you to
+13:46:13.105 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): its been hit
+13:46:24.203 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): also got into the trailer park one
+13:46:36.960 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): damn lol
+13:46:51.398 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): they did a shitty build on the trailer park one
+13:46:57.121 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): didnt even use tools to get in
+13:47:25.082 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): brb shark
+13:47:30.902 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): k
+13:47:39.500 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle Gunter 2 (id=AAD3965F614264F75C6C17B2A16524B1 pos=<6249.645996, 37.299957, 3954.027588>) as driver
+13:47:40.218 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+13:47:40.226 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:47:40.226 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 11
+13:47:40.226 [Expansion Quests] - Create new quest instance for quest: 44 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:47:40.230 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:47:41.199 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+13:47:49.093 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle Gunter 2 (id=AAD3965F614264F75C6C17B2A16524B1 pos=<6249.653809, 37.301628, 3953.975342>)
+13:49:14.789 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6578.634277, 21.509146, 3673.271240>) Entered the safezone
+13:49:56.730 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 33
+13:50:47.339 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase vitaminbottle x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:50:47.437 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought vitaminbottle x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 460.
+13:50:53.691 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has withdrawn 1960 from his ATM account.
+13:51:05.699 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+13:51:05.710 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+13:51:05.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+13:51:05.710 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+13:51:06.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+13:52:53.156 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): dirty not sure how far you got but suggest coming to holler asap!
+13:53:08.417 [Chat - Global]("Garry "(id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=)): w
+13:53:25.472 [Chat - Global]("Garry "(id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=)): oops ha ha 
+13:53:42.121 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.951172, 21.166479, 3657.971436>) as driver
+13:53:46.164 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.951172, 21.166500, 3657.971436>)
+13:54:13.339 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:54:13.437 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought expansioncarkey x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 600.
+13:54:14.734 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+13:54:14.843 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought expansioncarkey x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 600.
+13:54:33.187 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.951172, 21.166519, 3657.970947>) as driver
+13:54:37.187 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.951172, 21.166473, 3657.970947>)
+13:54:43.621 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.950684, 21.166471, 3657.970215>)
+13:55:20.394 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.950684, 21.166473, 3657.970215>) as driver
+13:55:43.617 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6615.951172, 21.166466, 3657.969727>)
+13:56:14.984 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6600.875488, 21.144884, 3651.467285>)
+13:56:48.457 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 1300 on his ATM account.
+13:57:00.953 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6600.875488, 21.144886, 3651.467285>) as driver
+13:57:12.902 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<6600.875488, 21.144888, 3651.467285>)
+13:57:39.089 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): not sure if we are suppose to take these cars but yoink lol
+13:58:24.929 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): shark i started a vc
+13:58:45.953 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6507.817383, 24.058849, 3624.548340>) Left the safezone
+13:59:04.335 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6585.634766, 22.284513, 3643.412354>) Entered the safezone
+13:59:15.093 [AI Patrol] Spawning 2 Orting bots at <5174.921875, 220.019104, 5188.866699>
+14:00:02.429 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6737.756836, 31.207651, 3682.069092>) Left the safezone
+14:02:35.707 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lou was that you 
+14:02:41.773 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya white car
+14:02:42.050 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): in the white car
+14:02:47.722 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): need a lift?
+14:02:55.042 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): sure
+14:03:11.636 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): medical in orting
+14:04:08.175 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<5440.803711, 219.675323, 5216.781738>) as passenger
+14:04:14.960 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): how the hell did you get this lol
+14:04:25.437 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol score
+14:04:45.394 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya
+14:04:59.585 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): 1000 slots damn
+14:05:14.550 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): and barrels and a bag holy shit
+14:10:24.910 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6631.251953, 21.671539, 3703.293945>) Entered the safezone
+14:10:31.308 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6635.041992, 21.704123, 3701.402344>) Entered the safezone
+14:11:39.949 [Expansion Quests] - CompleteQuest - Player with UID AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= has completed quest 32
+14:12:43.460 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<642.578735, 108.937469, 7038.578613>)
+14:12:43.562 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<642.574463, 108.936829, 7038.578613>)
+14:12:45.781 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= for quest 31
+14:13:25.585 [Expansion Quests] - CompleteQuest - Player with UID P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= has completed quest 31
+14:13:58.957 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= for quest 19
+14:14:05.507 [Expansion Quests] - CancelQuestServer - Player with UID P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= has cancelled quest 44
+14:19:04.085 [Expansion Quests] - CancelQuestServer - Player with UID AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= has cancelled quest 31
+14:19:08.121 [Expansion Quests] - CancelQuestServer - Player with UID AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= has cancelled quest 19
+14:19:20.039 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= for quest 10
+14:19:54.875 [ATM] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) has deposited 200 on his ATM account.
+14:20:58.929 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= for quest 10
+14:21:28.550 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6561.950195, 24.660753, 3643.758545>) Left the safezone
+14:22:00.234 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6522.002930, 22.660412, 3637.367432>) Left the safezone
+14:24:16.156 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6583.414551, 21.337709, 3644.813721>) Entered the safezone
+14:24:22.925 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6580.758301, 21.369907, 3646.644531>) Entered the safezone
+14:27:01.898 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6553.088379, 21.911263, 3660.697021>) Left the safezone
+14:27:01.898 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6555.344727, 21.847969, 3657.782959>) Left the safezone
+14:31:03.070 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<642.489197, 108.924583, 7038.578125>) as driver
+14:31:05.359 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<642.393982, 108.910866, 7038.577148>)
+14:31:43.632 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<917.677429, 151.627823, 7124.736328>)
+14:32:15.433 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<917.677490, 151.627823, 7124.736328>) as driver
+14:32:18.382 [VehicleEngine] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] started vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<917.679626, 151.627914, 7124.736328>)
+14:32:33.273 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle G65 White  (id=CD330694FA4EC2EA22C218BA6ACFE66A pos=<915.096191, 151.412643, 7137.686035>)
+14:32:53.156 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+14:32:56.851 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+14:38:13.710 [VehicleDeleted] BMW_X5_white (id=F9ABC38B7A44E00D9F520F9F5CDD0F24 pos=<140.222580, 105.518425, 7053.765625>)
+14:38:13.714 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<141.372650, 105.437042, 7055.774414>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<140.222580, 105.518425, 7053.765625>)!
+14:38:57.125 [VehicleDeleted] Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074554, 105.306847, 7068.958984>)
+14:38:57.125 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<155.082184, 105.277168, 7065.112793>) covered vehicle "Offroad_02" (GlobalID=8000000080000000800000008000000C pos=<156.074554, 105.306847, 7068.958984>)!
+14:50:11.710 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): do you guys have any extra codelocks I can trade you a box of nails for?
+14:50:26.007 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i can look
+14:50:35.742 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok ty
+14:50:58.492 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i do
+14:52:00.316 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): perfect. I have a couple boxes i can bring. omw
+14:52:15.992 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok
+14:53:08.781 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+14:53:34.695 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6575.818848, 21.503122, 3660.257568>) Entered the safezone
+14:53:59.234 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 33
+14:54:27.328 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6683.125000, 22.201925, 3616.545654>) Left the safezone
+15:01:36.308 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:01:38.312 [BaseRaiding] BBP_DGate (<919.942444, 151.452820, 7145.557129>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <919.122314, 151.491959, 7143.964355>) and the code is 1505
+15:02:44.578 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:02:44.585 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+15:02:44.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:02:44.585 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+15:02:45.546 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:04:48.375 [BaseRaiding] ExpansionSafeLarge (<144.852448, 106.780434, 7075.848145>) Code set by player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <145.994003, 105.859886, 7076.056641>) and the code is 1776
+15:04:56.773 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer
+15:28:05.511 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<141.244614, 105.429947, 7056.257324>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<140.222580, 105.518425, 7053.765625>)!
+15:37:39.945 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:37:39.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:37:39.960 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:37:40.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:40:12.105 [BaseRaiding] ExpansionSafeMedium (<655.360229, 118.698448, 6958.420410>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <656.869385, 118.846375, 6958.094727>) and the code is 7477
+15:42:13.535 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:46:16.679 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:47:55.640 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:47:55.644 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:47:55.648 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:47:56.613 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:50:07.433 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9050.069336, 20.052523, 2034.077148>) as driver
+15:50:16.679 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9050.069336, 20.052521, 2034.077148>)
+15:50:47.250 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Car Radiator (type=CarRadiator) from vehicle Ada 4x4(id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9050.069336, 20.052521, 2034.077637>)
+15:52:29.507 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<9057.499023, 20.314287, 2073.331299>) used the  ExpansionCarKey to unlock Truck_01_Covered_Blue (id=6E1505058D4B2F0FD014C2A10B409469 pos=<9059.875000, 20.305616, 2074.695557>)
+15:54:24.914 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9050.069336, 20.052525, 2034.077271>) as driver
+15:54:26.699 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9050.069336, 20.052521, 2034.077271>)
+15:54:41.960 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9061.356445, 18.732172, 2042.389404>)
+15:55:23.554 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9061.356445, 18.732172, 2042.389404>) as driver
+15:55:24.980 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9061.356445, 18.732161, 2042.389526>)
+16:13:51.804 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<160.808746, 105.115555, 7041.789063>)
+16:14:04.339 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<160.809265, 105.115532, 7041.789063>) as driver
+16:14:06.898 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<160.808945, 105.115547, 7041.789063>)
+16:14:21.320 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.587769, 105.141396, 7051.600098>)
+16:15:45.535 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.587845, 105.141396, 7051.600098>) as driver
+16:15:47.453 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.588165, 105.141388, 7051.600098>)
+16:16:02.164 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<144.509018, 105.344246, 7057.566895>)
+16:16:04.675 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<144.509079, 105.344246, 7057.566406>)
+16:21:20.054 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:21:20.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+16:21:20.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:21:20.062 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+16:21:21.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:28:20.128 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotta jet for a bit. if he comes back all yours lol
+16:29:42.296 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:30:44.023 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:30:44.027 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+16:30:44.027 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:30:44.027 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+16:30:44.980 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:31:16.171 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:31:43.988 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:31:43.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+16:31:43.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:31:43.992 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+16:31:44.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:32:57.937 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: NXCOPyjwlmgjGPKQTrRzXamLK2r2YKvrJGpL2hBfBOU=
+16:33:33.773 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Medical
+16:41:22.234 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <657.094666, 119.064728, 6956.400879>) failed to enter the correct code.
+16:41:22.234 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) The correct code was 7477 and the player tried 1111
+16:41:25.625 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <657.094666, 119.064728, 6956.400879>) failed to enter the correct code.
+16:41:25.625 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) The correct code was 7477 and the player tried 1111
+16:41:29.226 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <657.094666, 119.064728, 6956.400879>) failed to enter the correct code.
+16:41:29.226 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) The correct code was 7477 and the player tried 1111
+16:41:33.531 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <657.094666, 119.064728, 6956.400879>) failed to enter the correct code.
+16:41:33.531 [BaseRaiding] mmg_locker02_tan (<656.392883, 119.160698, 6955.160645>) The correct code was 7477 and the player tried 1234
+17:03:11.621 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:35:38.597 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:49:24.265 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:49:24.273 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:49:24.273 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:49:24.273 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:49:25.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:55:56.593 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+17:55:56.597 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+17:55:56.597 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+17:55:56.597 [Expansion Quests] - Create new quest instance for quest: 10 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+17:55:57.570 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+17:57:49.945 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+17:58:54.796 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer
+17:59:15.585 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:59:15.589 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:59:15.593 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

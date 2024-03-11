@@ -1,0 +1,107 @@
+12:02:12.511 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6616.522461, 22.706154, 3662.731934>) Entered the safezone
+12:02:12.511 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+12:02:12.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+12:02:12.515 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:02:13.503 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:03:29.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+12:03:29.484 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+12:05:05.421 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+12:06:00.757 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6616.733887, 22.723686, 3662.731934>) Entered the safezone
+12:06:00.757 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+12:06:00.761 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+12:06:00.761 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:06:01.753 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:06:12.210 [AI Patrol] Spawning 2 Trench 94 bots at <3030.104736, 99.884567, 9200.870117>
+12:06:22.949 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<3293.102783, 136.387192, 10164.906250>) Left the safezone
+12:07:13.617 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer
+12:34:17.550 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6596.985352, 21.228817, 3649.759521>) Entered the safezone
+12:35:38.980 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6589.961914, 21.634899, 3681.802979>) Entered the safezone
+12:37:52.273 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+12:42:00.917 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:42:00.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+12:42:00.929 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+12:42:01.902 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:56:38.058 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) joinded the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)
+12:56:38.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+12:56:38.066 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 12
+12:56:38.066 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+12:56:39.027 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 12
+13:21:40.953 [AI Patrol] Spawning 2 Orting bots at <5280.471680, 219.685257, 5161.758789>
+13:25:08.984 [AI Patrol] Spawning 2 Airfield bots at <6784.080078, 18.581884, 1716.427246>
+13:32:38.617 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Medical
+13:32:42.589 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6582.019043, 21.346733, 3644.008301>) Entered the safezone
+13:34:30.335 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Pi6CdXWsyGG1lJlcAKOSX52pJOT8wzUfwNuGCQE42-I=
+13:34:30.335 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Pi6CdXWsyGG1lJlcAKOSX52pJOT8wzUfwNuGCQE42-I=
+13:51:07.535 [Expansion Quests] - CompleteQuest - Player with UID VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= has completed quest 99
+13:51:14.847 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6638.700684, 21.740135, 3700.293945>) Entered the safezone
+13:51:51.433 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= for quest 33
+14:00:20.648 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= for quest 31
+14:02:30.937 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6574.227539, 21.573458, 3672.558594>) Left the safezone
+14:02:56.167 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6576.285156, 21.533602, 3670.383057>) Entered the safezone
+14:03:13.605 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6535.523926, 22.435585, 3692.727051>) Left the safezone
+14:11:16.476 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:41:40.691 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:41:40.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:41:40.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:41:41.664 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:43:40.980 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6583.833008, 21.331566, 3644.285645>) Entered the safezone
+14:44:41.964 [Expansion Quests] - CompleteQuest - Player with UID VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= has completed quest 31
+14:45:29.613 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= for quest 3
+14:46:42.515 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+14:46:42.519 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:46:42.519 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+14:46:43.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:48:38.984 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6582.772461, 21.298674, 3635.283203>) Left the safezone
+14:49:04.332 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4421.083496, 10.452158, 1035.220703>) uncovered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4418.483398, 10.340700, 1032.854858>)!
+14:50:20.542 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4421.130859, 10.408279, 1031.590820>) used the  ExpansionCarKey to unlock Expansion_Landrover_Yellow (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4418.480469, 10.340612, 1032.853516>)
+14:50:29.652 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Land Rover Defender (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4418.480469, 10.340616, 1032.853516>) as driver
+14:50:32.769 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Land Rover Defender (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4418.480957, 10.340627, 1032.853394>)
+14:51:13.027 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Land Rover Defender (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4334.419434, 9.069409, 1088.057983>)
+14:53:18.421 [AI Patrol] Spawning 2 Police Academy bots at <5262.843750, 56.129997, 2139.427002>
+14:53:22.199 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Land Rover Defender (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4334.418945, 9.069410, 1088.057495>) as driver
+14:53:27.980 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Land Rover Defender (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4334.419434, 9.069409, 1088.057861>)
+14:53:47.394 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Land Rover Defender (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4301.161621, 6.318879, 1066.981201>)
+14:53:57.406 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4299.777344, 5.905913, 1065.183472>) used the  ExpansionCarKey to lock Expansion_Landrover_Yellow (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4301.161621, 6.318847, 1066.980957>)
+14:54:11.703 [VehicleDeleted] Expansion_Landrover_Yellow (id=8C2C411DD24FC105ACAC17804C7A79BE pos=<4301.161621, 6.318847, 1066.980957>)
+14:54:11.703 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4299.777344, 5.905913, 1065.183472>) covered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4301.161621, 6.318847, 1066.980957>)!
+14:59:29.625 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Basebuilding
+15:35:51.484 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6609.761230, 21.484905, 3661.697266>) Entered the safezone
+15:35:51.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+15:37:11.437 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6609.387695, 21.996874, 3667.354492>) Entered the safezone
+15:37:11.441 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+15:37:11.441 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+15:38:44.718 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6569.345703, 21.488380, 3634.108154>) Left the safezone
+15:40:56.761 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:41:28.183 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6581.826172, 21.365986, 3647.929443>) Entered the safezone
+15:42:08.726 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:42:08.730 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:42:08.730 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:42:09.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:44:25.304 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6150.324707, 35.787148, 9686.686523>) Left the safezone
+15:46:08.941 [VehicleEnter] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] entered vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<5924.303223, 35.857666, 9352.663086>) as driver
+15:46:12.171 [VehicleEngine] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] started vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<5924.303223, 35.857666, 9352.663086>)
+15:47:05.675 [VehicleLeave] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] left vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<5911.992188, 36.038605, 9364.702148>)
+15:51:56.210 [AI Patrol] Spawning 2 Vagabond Army bots at <3340.264404, 100.449280, 7916.404297>
+15:55:12.265 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6570.601074, 23.030981, 3649.992676>) Left the safezone
+16:08:39.542 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6577.006348, 21.483521, 3659.993164>) Entered the safezone
+16:16:32.882 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+16:16:36.281 [Expansion Quests] - CompleteQuest - Player with UID VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= has completed quest 3
+16:18:41.359 [ATM] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has deposited 300 on his ATM account.
+16:18:52.945 [ATM] Player ShadowMan (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has transfered 300 to the player Chuck_N_Biskitz (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=).
+16:19:02.492 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thanks bud
+16:21:12.468 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= for quest 6
+16:22:39.695 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6661.564453, 21.488003, 3620.507813>) Left the safezone
+16:31:40.625 [MissionAirdrop] An airdrop is heading towards "Harvard" (pos=<5933.540039, 0.000000, 8281.790039> type=Random_Harvard) with a ExpansionAirdropContainer_Military
+16:32:45.261 [AI Patrol] Spawning 2 National Guard bots at <9215.459961, 45.783699, 3453.998535>
+16:38:25.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:38:25.375 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+17:34:21.152 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6656.992188, 21.787638, 3666.573730>) Entered the safezone
+17:38:11.660 [Expansion Quests] - CompleteQuest - Player with UID VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= has completed quest 6
+17:38:21.445 [ATM] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has deposited 100 on his ATM account.
+17:38:36.867 [ATM] Player ShadowMan (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has transfered 100 to the player Captain Chaos (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=).
+17:39:00.964 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Thanks Shadow
+17:40:30.523 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= for quest 33
+17:41:53.269 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6653.985352, 21.236898, 3606.172119>) Left the safezone
+17:55:30.265 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:57:41.625 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Basebuilding
+17:59:15.417 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) left the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)

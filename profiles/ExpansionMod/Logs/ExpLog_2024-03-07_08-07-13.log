@@ -1,0 +1,151 @@
+08:10:45.451 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:10:45.458 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+08:10:45.458 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+08:10:45.458 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+08:10:45.462 [AI Patrol] Spawning 2 Vagabond Army bots at <3420.955322, 99.888504, 7935.875488>
+08:10:46.433 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:12:47.230 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:12:47.240 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+08:12:47.240 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:12:48.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:13:13.072 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4272.967773, 170.608307, 7593.373535>) as passenger
+08:13:22.544 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4272.967773, 170.608307, 7593.373535>) as passenger
+08:13:37.271 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4272.967773, 170.608307, 7593.373535>)
+08:15:49.273 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Military
+08:16:03.371 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4273.048340, 170.618805, 7593.318848>) as passenger
+08:18:07.207 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:18:07.212 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+08:18:07.214 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:18:08.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:18:24.519 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4273.048340, 170.619110, 7593.318359>) as driver
+08:18:26.472 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4273.048340, 170.619141, 7593.318359>)
+08:21:15.582 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4599.190918, 199.976791, 7594.960938>)
+08:21:49.289 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4574.389160, 194.406174, 7467.539551>) as passenger
+08:24:00.349 [AI Patrol] Spawning 2 Orting bots at <5139.091309, 220.666885, 5164.613770>
+08:24:53.306 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<5209.040527, 269.617767, 5752.692383>)
+08:25:08.333 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<5209.040527, 269.617767, 5752.692383>) as passenger
+08:25:52.433 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<5247.580566, 219.758362, 5210.926270>)
+08:26:19.435 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<5247.580566, 219.758499, 5210.918457>) as passenger
+08:27:09.630 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:27:09.644 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:27:09.644 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:27:10.603 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:37:19.375 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4338.709473, 9.130892, 1090.690674>)
+08:37:20.578 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4338.709473, 9.130890, 1090.690552>)
+08:37:21.494 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4338.709473, 9.130890, 1090.690552>)
+08:38:48.318 [Territory] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I= pos=<4331.712402, 9.113332, 1093.635620>) was invited to join the territory Rock Apes at <4311.609375, 9.145354, 1096.800537> by the player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=)
+08:39:07.568 [BaseRaiding] ExpansionSafeLarge (<4313.712891, 9.145354, 1092.507446>) Code set by player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <4312.946777, 9.185344, 1091.565430>) and the code is 7477
+08:40:02.503 [BaseRaiding] ExpansionSafeMedium (<4316.084961, 10.109146, 1080.309692>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <4316.690918, 9.185351, 1081.345215>) and the code is 7477
+08:41:03.923 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+08:41:03.923 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+08:43:57.103 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.962402, 7.828325, 1117.326538>) as passenger
+08:43:59.542 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] switched seats in vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.962402, 7.828325, 1117.326538>) to driver
+08:44:06.154 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.917969, 7.823634, 1117.271729>)
+08:44:06.560 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.917480, 7.823475, 1117.269043>) as passenger
+08:44:11.558 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.861816, 7.818284, 1117.224854>)
+08:44:15.794 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.836426, 7.815378, 1117.189941>)
+08:44:38.966 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.829102, 7.814726, 1117.185181>)
+08:44:43.296 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.829102, 7.814726, 1117.185181>) as passenger
+08:44:44.164 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] switched seats in vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.829102, 7.814726, 1117.185181>) to driver
+08:44:47.832 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.806641, 7.812220, 1117.154541>) as passenger
+08:44:49.380 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4287.794434, 7.811026, 1117.141968>)
+08:47:11.074 [AI Patrol] Spawning 2 Police Academy bots at <5299.935547, 56.129997, 2306.236084>
+08:49:02.064 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<5341.145508, 56.177685, 2213.196533>)
+08:49:03.300 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<5341.145996, 56.177700, 2213.196533>)
+08:59:56.255 [Killfeed] Hawk got killed by Police Academy with Pioneer from a distance of 28 m.
+09:00:26.757 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:00:27.751 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:04:41.361 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:04:42.355 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:10:46.527 [Killfeed] Nachoz got killed by Chuck_N_Biskitz with M200 (408Cheytac) from a distance of 172 m.
+09:11:08.347 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4338.709473, 9.130891, 1090.690918>) as driver
+09:11:09.882 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4338.709473, 9.130890, 1090.690674>)
+09:11:19.332 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4325.530273, 9.268108, 1098.535278>)
+09:11:56.675 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:11:57.667 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:26:11.695 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6584.123535, 21.345236, 3647.935303>) Entered the safezone
+09:26:29.960 [Expansion Quests] - CancelQuestServer - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has cancelled quest 39
+09:26:36.078 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 33
+09:26:46.812 [ATM] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has withdrawn 400 from his ATM account.
+09:27:01.804 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:01.839 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:02.101 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:02.171 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:02.730 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:02.800 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:03.062 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:03.109 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:03.628 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:03.703 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:03.929 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:03.996 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:06.125 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:06.167 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+09:27:26.257 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase twp_ammobox_408cheytac_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+09:27:26.328 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought twp_ammobox_408cheytac_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 24.
+09:35:36.695 [ATM] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 152 on his ATM account.
+09:36:12.828 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6545.208008, 21.999075, 3639.166016>) Left the safezone
+09:42:37.292 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Basebuilding
+09:48:09.750 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:48:55.035 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:57:31.062 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:58:26.535 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:05:33.187 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:05:33.187 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+10:05:33.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:05:33.187 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+10:05:34.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:09:42.984 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:09:42.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+10:09:42.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:09:43.972 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:14:07.187 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+10:14:07.187 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+10:15:04.078 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<5341.145996, 56.177700, 2213.196533>) as driver
+10:15:12.359 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<5341.146973, 56.177692, 2213.196777>)
+10:18:44.074 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<5341.147461, 56.177700, 2213.196777>) as driver
+10:18:51.070 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<5341.148438, 56.177711, 2213.196777>)
+10:20:32.597 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:23:21.320 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:23:21.328 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+10:23:21.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:23:22.316 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:23:40.804 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4421.780273, 15.923521, 1264.224243>)
+10:24:30.765 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] stopped vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4286.272949, 7.709463, 1117.863770>)
+10:24:38.351 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Olga 24 (id=337E1EA000475976A7EE08A28FDF8871 pos=<4286.203125, 7.703457, 1117.826538>)
+10:36:52.808 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:52:28.003 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+11:01:14.695 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+11:01:14.695 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+11:08:06.292 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Military
+11:21:02.402 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6624.971680, 21.492537, 3672.992676>) Entered the safezone
+11:21:02.414 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:21:02.414 [Expansion Quests] - Create new quest instance for quest: 45 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:21:39.867 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6536.964844, 22.219633, 3638.479004>) Left the safezone
+11:23:05.253 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6584.829590, 21.312044, 3641.932129>) Entered the safezone
+11:23:41.945 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6682.481934, 23.207106, 3722.095947>) Left the safezone
+11:31:54.472 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6632.259766, 21.677000, 3702.286865>) Entered the safezone
+11:32:37.882 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6532.139648, 22.365499, 3637.843018>) Left the safezone
+11:33:45.351 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6591.413574, 21.214386, 3634.151855>) Entered the safezone
+11:35:33.386 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6538.041504, 22.565887, 3612.436523>) Left the safezone
+11:36:18.664 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6578.888672, 21.440733, 3657.051514>) Entered the safezone
+11:36:39.730 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: s3oW-DpuRJLREcRb7Akk0Vlg_zPlJANy7q5b7OGFqCs=
+11:38:54.789 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6654.825195, 21.402090, 3626.501709>) Left the safezone
+11:38:58.031 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6641.702148, 21.260765, 3635.524658>) Entered the safezone
+11:39:25.933 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6537.209473, 22.732752, 3623.057861>) Left the safezone
+11:40:05.796 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6583.465820, 21.339966, 3645.422852>) Entered the safezone
+11:41:57.628 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6541.607910, 22.514933, 3611.301270>) Left the safezone
+11:42:43.886 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6587.852539, 21.257212, 3636.255859>) Entered the safezone
+11:43:24.656 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6676.389160, 22.957256, 3721.570313>) Left the safezone
+11:44:47.730 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6643.215332, 21.780216, 3695.646973>) Entered the safezone
+11:45:10.195 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 45
+11:45:19.757 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 46
+11:45:49.531 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6554.187500, 21.796774, 3625.819092>) Left the safezone
+11:46:33.855 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6584.442871, 21.314480, 3641.694336>) Entered the safezone
+11:47:07.902 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6649.683105, 21.824009, 3685.763916>) Entered the safezone
+11:47:21.300 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 500 on his ATM account.
+11:47:47.253 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6684.977051, 23.299538, 3717.716309>) Left the safezone
+11:56:45.660 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6640.775879, 21.757141, 3698.614258>) Entered the safezone
+11:57:19.042 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6530.030273, 22.417727, 3642.546631>) Left the safezone
+11:57:53.101 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6578.516113, 21.447630, 3657.282715>) Entered the safezone
+11:58:10.593 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 46

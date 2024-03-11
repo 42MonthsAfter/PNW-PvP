@@ -1,0 +1,34 @@
+18:01:22.171 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+18:01:22.171 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+18:06:29.550 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Medical
+19:34:53.546 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Military
+19:41:13.093 [VehicleEnter] Player Paspuniak [uid=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=] entered vehicle Olga 24 (id=7B30D2CE5C400E3C016260856B3EFD85 pos=<8127.709473, 2.168726, 794.416809>) as driver
+19:41:17.093 [VehicleEngine] Player Paspuniak [uid=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=] started vehicle Olga 24 (id=7B30D2CE5C400E3C016260856B3EFD85 pos=<8127.709473, 2.168019, 794.397827>)
+19:41:25.898 [VehicleLeave] Player Paspuniak [uid=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=] left vehicle Olga 24 (id=7B30D2CE5C400E3C016260856B3EFD85 pos=<8127.709473, 2.166629, 794.360168>)
+19:57:35.179 [AI Patrol] Spawning 2 Airfield bots at <6545.329590, 20.570858, 1926.924561>
+20:58:35.765 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6626.723633, 21.896751, 3668.833496>) Entered the safezone
+20:58:35.765 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:58:35.773 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:58:35.773 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 14
+20:58:36.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+20:59:37.421 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= for quest 60
+21:00:27.992 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6647.717773, 21.328428, 3631.963867>) Left the safezone
+21:00:29.187 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6645.169922, 21.315300, 3635.624268>) Entered the safezone
+21:01:24.546 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Military
+21:01:25.703 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6570.959961, 21.641203, 3677.164307>) Left the safezone
+21:06:18.796 [AI Patrol] Spawning 2 Orting bots at <5301.224121, 219.794800, 5268.937012>
+21:42:25.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:42:25.601 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:52:58.679 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:52:58.679 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:27:38.546 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer
+22:48:23.250 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+23:03:50.203 [Expansion Quests] - CompleteQuest - Player with UID NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= has completed quest 99
+23:03:55.382 [Safezone] Player "Paspuniak" (id=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= pos=<6580.747559, 21.359716, 3644.340576>) Entered the safezone
+23:08:06.468 [Safezone] Player "Paspuniak" (id=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= pos=<6660.401367, 21.528131, 3629.798584>) Left the safezone
+23:08:15.507 [Safezone] Player "Paspuniak" (id=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= pos=<6646.348633, 21.355516, 3638.125977>) Entered the safezone
+23:32:49.250 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:32:49.265 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:32:49.265 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+23:32:50.210 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:37:21.625 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

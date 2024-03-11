@@ -1,0 +1,71 @@
+14:12:53.617 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:12:53.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:12:53.632 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 14
+14:12:53.636 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:12:54.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:17:53.695 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Medical
+14:24:18.078 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:24:49.183 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:24:49.187 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:24:49.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:24:49.187 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:24:50.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:26:39.222 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:31:10.960 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:31:10.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:31:10.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:31:10.968 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+14:31:11.941 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+14:59:20.000 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+15:07:20.390 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+15:07:20.398 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+15:07:20.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+15:07:20.398 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+15:07:21.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+15:23:00.015 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:23:00.023 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:23:00.023 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:23:00.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:28:42.000 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+15:31:25.417 [AI Patrol] Spawning 2 Police Academy bots at <5177.503418, 56.129997, 2234.759277>
+15:36:02.031 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4333.995605, 9.113455, 1092.723145>) uncovered vehicle "Velociraptor6x6" (GlobalID=8000000080000000800000008000D051 pos=<4336.217285, 9.134228, 1090.512817>)!
+15:37:19.785 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4336.850098, 9.113642, 1093.159302>) used the  ExpansionCarKey to unlock Velociraptor6x6 (id=B539D011AD4500463B2F6A897166524C pos=<4336.219238, 9.134239, 1090.514282>)
+15:38:26.796 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6582.520508, 21.356609, 3647.235840>) Entered the safezone
+15:38:34.882 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4339.667969, 9.113726, 1088.521851>) used the  ExpansionCarKey to lock Velociraptor6x6 (id=B539D011AD4500463B2F6A897166524C pos=<4336.219238, 9.134239, 1090.514282>)
+15:39:39.492 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 60
+15:40:37.546 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= for quest 55
+15:42:20.019 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): leaving an army medic box and box of nails at holler for whoever wants it
+15:43:36.707 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Military
+15:44:03.023 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 200 on his ATM account.
+15:44:03.750 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4256.062500, 5.526140, 1116.175903>) used the  ExpansionCarKey to unlock G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4254.016602, 5.113690, 1114.812988>)
+15:44:15.105 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached  (type=G65_Wheel_destroyed) from vehicle G65(id=D8E0E8A7E643BFF104B71797BE11994C pos=<4254.016602, 5.113690, 1114.812988>)
+15:45:06.402 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached  (type=G65_Wheel_destroyed) from vehicle G65(id=D8E0E8A7E643BFF104B71797BE11994C pos=<4253.907227, 5.136714, 1114.806519>)
+15:45:23.070 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached  (type=G65_Wheel_destroyed) from vehicle G65(id=D8E0E8A7E643BFF104B71797BE11994C pos=<4253.916992, 5.173187, 1114.767456>)
+15:45:47.265 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached  (type=G65_Wheel_destroyed) from vehicle G65(id=D8E0E8A7E643BFF104B71797BE11994C pos=<4253.871094, 5.204642, 1114.728882>)
+15:46:36.246 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6621.003418, 21.924725, 3774.333008>) Left the safezone
+15:52:20.062 [VehicleDeleted] Velociraptor6x6 (id=B539D011AD4500463B2F6A897166524C pos=<4336.219238, 9.134239, 1090.514282>)
+15:52:20.062 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4332.405273, 9.113362, 1093.025879>) covered vehicle "Velociraptor6x6" (GlobalID=8000000080000000800000008000D051 pos=<4336.219238, 9.134239, 1090.514282>)!
+15:52:54.281 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4253.874512, 5.231239, 1114.693726>) as driver
+15:52:58.734 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4253.874512, 5.229823, 1114.667603>)
+15:53:46.417 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4316.541992, 8.862181, 1099.176880>)
+15:53:56.359 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4317.657715, 9.025273, 1100.943359>) used the  ExpansionCarKey to lock G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4316.541504, 8.862186, 1099.177979>)
+15:54:51.000 [BaseRaiding] mmg_armored_cabinet_grey (<6529.957520, 136.727692, 6041.097656>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <6529.030762, 136.720718, 6040.428711>) and the code is 1505
+15:54:51.140 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+16:00:03.097 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID= ownerName=)
+16:00:03.101 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) created a party named Nomads (NMDS)
+16:00:04.097 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 18
+16:08:47.265 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=
+16:11:38.726 [AI Patrol] Spawning 2 Vagabond Army bots at <3429.384521, 99.884567, 7978.017578>
+16:15:05.304 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) joinded the party "Zombie Lives Matter" (id=19 ownerUID= ownerName=)
+16:15:05.304 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) created a party named Zombie Lives Matter (ZLM)
+16:15:06.300 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 19
+16:18:49.312 [AI Patrol] Spawning 2 Airfield bots at <6669.537598, 18.630560, 1820.607178>
+16:22:16.847 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) left the party "Zombie Lives Matter" (id=19 ownerUID=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8= ownerName=HatingonPig)
+16:23:04.035 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) joinded the party "Zombie Lives Matter" (id=19 ownerUID=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8= ownerName=HatingonPig)
+16:23:04.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=
+16:23:04.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 19
+16:23:04.039 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=
+16:23:05.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 19
+16:29:31.875 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+16:30:52.015 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:40:38.113 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) left the party "Zombie Lives Matter" (id=19 ownerUID=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8= ownerName=HatingonPig)

@@ -1,0 +1,351 @@
+00:01:10.113 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:01:10.117 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:01:10.117 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+00:01:10.117 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:01:11.089 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:01:35.089 [Party] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:01:35.093 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=
+00:01:35.093 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:01:35.093 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=
+00:01:36.071 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:01:58.924 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:01:58.928 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:58.928 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:01:58.928 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:59.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:59.140 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:59.145 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:02:59.145 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:00.112 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:00.266 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:03:00.271 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:03:00.271 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:00.271 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:03:01.248 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:02.321 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:03:02.326 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:03:02.326 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:02.326 [Expansion Quests] - Create new quest instance for quest: 44 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:03:03.297 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:04:02.315 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<8606.195313, 2.254013, 1521.701416>) as passenger
+00:04:11.347 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<8606.195313, 2.254013, 1521.701416>)
+00:04:31.853 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8597.736328, 2.225787, 1522.499512>) used the  ExpansionCarKey to unlock BMW_X5_white (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216445, 1521.565552>)
+00:04:52.423 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565552>) as driver
+00:05:01.951 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565552>) as passenger
+00:06:17.093 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Basebuilding
+00:08:41.007 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<8606.195313, 2.254013, 1521.701416>) as passenger
+00:09:02.736 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565430>) as passenger
+00:09:37.405 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.506836, 2.216446, 1521.565552>)
+00:09:37.530 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<8606.195313, 2.254012, 1521.701172>) as driver
+00:09:38.834 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<8606.195313, 2.254012, 1521.701172>)
+00:09:43.640 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565430>) as passenger
+00:10:24.641 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565430>)
+00:10:31.871 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565552>) as passenger
+00:10:34.928 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8599.507813, 2.216446, 1521.565552>)
+00:12:26.082 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9072.841797, 18.986357, 2035.915405>)
+00:12:29.883 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9072.841797, 18.986357, 2035.915405>)
+00:12:37.558 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943888, 2049.542236>)
+00:12:40.316 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943892, 2049.542236>)
+00:13:46.573 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:13:46.577 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+00:13:46.577 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:13:46.577 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+00:13:47.551 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:14:35.775 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9072.841797, 18.986355, 2035.914917>)
+00:16:09.778 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943884, 2049.542236>)
+00:17:23.184 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943888, 2049.542236>) as driver
+00:17:36.147 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943892, 2049.542236>)
+00:17:39.664 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943886, 2049.542236>) as driver
+00:18:36.240 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943897, 2049.542236>)
+00:19:45.045 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943897, 2049.542236>) as passenger
+00:19:57.691 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943886, 2049.542236>) as driver
+00:20:12.167 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9072.841797, 18.986343, 2035.915161>) as driver
+00:20:14.108 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9072.841797, 18.986341, 2035.914917>)
+00:20:14.714 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<9072.841797, 18.986343, 2035.914795>) as passenger
+00:20:17.067 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943890, 2049.542236>) as passenger
+00:20:17.125 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9064.536133, 18.943888, 2049.542236>)
+00:21:02.863 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9039.946289, 21.550283, 2012.806274>)
+00:21:05.162 [AI Patrol] Spawning 2 Police Academy bots at <5269.081055, 56.129997, 2321.006836>
+00:21:29.578 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<9032.840820, 23.047819, 2007.568237>) as passenger
+00:22:32.580 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8927.731445, 2.213940, 1525.649048>)
+00:22:36.048 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8927.731445, 2.213940, 1525.648926>)
+00:23:00.438 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8927.731445, 2.213940, 1525.649048>) as passenger
+00:23:02.378 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<8927.731445, 2.213940, 1525.649048>) as passenger
+00:25:22.966 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 3JazRbqtGrOiIzZTwQJIR8WgQo-eYktcjPFarN_70Sg=
+00:26:10.181 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) invited the player "Dohboyibm" (id=3JazRbqtGrOiIzZTwQJIR8WgQo-eYktcjPFarN_70Sg=)to the party named Misfits
+00:26:49.090 [Party] Player "Dohboyibm" (id=3JazRbqtGrOiIzZTwQJIR8WgQo-eYktcjPFarN_70Sg=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:26:50.090 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:28:25.213 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6645.117676, 22.228058, 3640.678467>) Entered the safezone
+00:28:25.213 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6645.671875, 22.236904, 3641.233887>) Entered the safezone
+00:28:27.198 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6645.290039, 22.162643, 3638.206787>) Entered the safezone
+00:28:27.250 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6644.338379, 22.149887, 3638.052979>) Entered the safezone
+00:28:27.302 [Safezone] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE= pos=<6645.291504, 22.141233, 3638.151367>) Entered the safezone
+00:28:33.235 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6617.267578, 21.264362, 3656.504883>)
+00:28:33.612 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6617.267578, 21.264362, 3656.504883>)
+00:28:33.779 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283005, 3655.814697>)
+00:28:34.315 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283020, 3655.814697>)
+00:28:36.891 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283010, 3655.814697>)
+00:28:43.909 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6617.267578, 21.264362, 3656.504883>)
+00:28:49.987 [Expansion Quests] - CancelQuestServer - Player with UID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= has cancelled quest 44
+00:29:02.525 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= for quest 33
+00:29:27.442 [Safezone] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE= pos=<6581.416504, 21.363302, 3646.498535>) Entered the safezone
+00:29:39.070 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to sell cp_cannabisbagfuture x8 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:29:39.167 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has sold cp_cannabisbagfuture x8 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 18000.
+00:29:48.265 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to sell cp_cannabisbagskunk x5 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:29:48.397 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has sold cp_cannabisbagskunk x5 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 3750.
+00:30:00.122 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:30:00.271 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 350.
+00:30:35.318 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:30:35.419 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 480.
+00:30:44.181 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6627.812988, 21.272697, 3653.955078>) used the  ExpansionCarKey to lock BMW_X5_white (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283014, 3655.814697>)
+00:31:00.802 [Expansion Quests] - CancelQuestServer - Player with UID 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= has cancelled quest 39
+00:31:09.649 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6662.254395, 21.539003, 3624.132813>) Left the safezone
+00:31:17.039 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= for quest 32
+00:31:42.437 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6642.936523, 21.327053, 3641.756348>) Entered the safezone
+00:31:46.329 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= for quest 32
+00:32:05.716 [ATM] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has deposited 21120 on his ATM account.
+00:33:32.619 [ATM] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has withdrawn 21120 from his ATM account.
+00:33:35.872 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6617.267578, 21.264360, 3656.504883>) as passenger
+00:33:47.726 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:47.855 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+00:33:48.473 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:48.618 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+00:33:49.159 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:49.271 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+00:33:49.923 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:50.019 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+00:33:52.562 [Safezone] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE= pos=<6642.322754, 21.299200, 3639.471680>) Entered the safezone
+00:34:00.222 [ATM] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has deposited 20992 on his ATM account.
+00:34:09.166 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6628.655273, 21.317780, 3659.027588>) used the  ExpansionCarKey to unlock BMW_X5_white (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283014, 3655.814697>)
+00:36:09.121 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283026, 3655.814697>) as driver
+00:36:11.849 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6617.267578, 21.264360, 3656.504883>) as driver
+00:36:13.765 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6617.267578, 21.264360, 3656.504883>)
+00:36:26.711 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283100, 3655.814941>) as passenger
+00:36:41.403 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283161, 3655.814941>) as passenger
+00:36:44.739 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283161, 3655.814941>)
+00:36:52.215 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283209, 3655.814941>) as passenger
+00:37:10.970 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6629.381836, 21.283281, 3655.814941>)
+00:37:35.572 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6702.284668, 25.075300, 3629.207031>) Left the safezone
+00:37:35.572 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6702.857422, 25.119316, 3628.672119>) Left the safezone
+00:37:37.641 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6705.239258, 25.575977, 3631.907227>) Left the safezone
+00:37:37.687 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6706.088867, 25.673372, 3631.520996>) Left the safezone
+00:37:37.745 [Safezone] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE= pos=<6705.741211, 25.589558, 3631.247803>) Left the safezone
+00:38:32.638 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6909.166504, 35.699799, 3980.747314>)
+00:38:32.712 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6921.829590, 39.374752, 3945.760498>)
+00:38:32.845 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6909.166992, 35.699821, 3980.747314>)
+00:38:33.477 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6921.829590, 39.374752, 3945.760498>)
+00:38:34.872 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6921.829590, 39.374756, 3945.760498>)
+00:39:08.871 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6921.829590, 39.374760, 3945.760498>) as driver
+00:39:11.772 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6921.829590, 39.374760, 3945.760498>)
+00:39:29.186 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6888.136230, 33.311401, 3995.283203>)
+00:39:32.294 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6888.136230, 33.311394, 3995.283203>) as passenger
+00:39:32.741 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6909.166504, 35.699799, 3980.747314>) as passenger
+00:39:34.230 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6888.136230, 33.311405, 3995.283203>) as passenger
+00:39:38.817 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6909.166992, 35.699818, 3980.747314>) as driver
+00:39:39.421 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<6888.136230, 33.311398, 3995.283203>)
+00:39:40.416 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<6909.166992, 35.699818, 3980.747314>)
+00:41:39.873 [AI Patrol] Spawning 2 Orting bots at <5312.733887, 219.725388, 4963.708008>
+00:50:29.122 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<163.631592, 105.327660, 7033.332031>)
+00:50:34.399 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<160.561035, 105.159462, 7038.998535>)
+00:51:36.310 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<140.327072, 105.515457, 7053.721191>)
+00:51:39.749 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<140.327057, 105.515450, 7053.721191>)
+00:51:54.847 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<145.978897, 105.316170, 7057.911133>)
+00:51:55.354 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<145.978912, 105.316170, 7057.911133>)
+00:51:58.075 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<145.978836, 105.316170, 7057.911133>)
+01:02:12.976 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:13:29.958 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<138.709259, 105.553680, 7055.160156>) used the  ExpansionCarKey to lock BMW_X5_white (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<140.327072, 105.515450, 7053.721191>)
+01:13:42.107 [VehicleDeleted] BMW_X5_white (id=723E7B85A24898E5325ADC9F4812B4C0 pos=<140.327072, 105.515450, 7053.721191>)
+01:13:42.108 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<138.676178, 105.552521, 7055.260254>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<140.327072, 105.515450, 7053.721191>)!
+01:19:19.474 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<145.978928, 105.316170, 7057.911133>) as driver
+01:19:21.361 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<145.978851, 105.316170, 7057.911621>)
+01:19:42.076 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.111206, 105.120651, 7057.228516>)
+01:19:45.029 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.111191, 105.120651, 7057.228516>)
+01:22:10.081 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.126556, 105.120293, 7057.247070>) as passenger
+01:22:20.616 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.126556, 105.120293, 7057.247070>) as passenger
+01:22:27.046 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.126526, 105.120277, 7057.247070>) as driver
+01:23:37.895 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.126526, 105.120277, 7057.247070>)
+01:23:45.898 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.126053, 105.120293, 7057.247070>) as driver
+01:23:47.494 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<157.126083, 105.120293, 7057.247070>)
+01:24:15.032 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<160.699249, 105.198967, 7038.698730>) as passenger
+01:32:59.098 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+01:36:34.810 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4247.182617, 45.591736, 2079.056396>)
+01:36:38.623 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4248.007324, 45.516998, 2077.771973>)
+01:36:40.442 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4248.007324, 45.516987, 2077.771729>)
+01:36:41.351 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4248.007324, 45.516983, 2077.771729>)
+01:39:39.024 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4248.007324, 45.516994, 2077.771973>) as driver
+01:39:40.687 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4248.007813, 45.516998, 2077.771973>)
+01:40:32.970 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721699, 2182.765381>)
+01:40:35.706 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721684, 2182.765381>)
+01:40:48.465 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721550, 2182.765381>)
+01:41:42.943 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721550, 2182.765381>) as passenger
+01:41:48.898 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721550, 2182.765381>) as passenger
+01:42:47.267 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721550, 2182.765381>) as passenger
+01:42:55.092 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721706, 2182.765381>) as driver
+01:42:56.976 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4188.399414, 62.721657, 2182.765381>)
+01:48:22.093 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): any one selling a punch card or want to trade
+01:48:52.111 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i see there is 6 others on
+01:51:52.012 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:52:07.027 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:52:49.836 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): no takers on a punch card
+01:53:08.498 [Party] Player "Dohboyibm" (id=3JazRbqtGrOiIzZTwQJIR8WgQo-eYktcjPFarN_70Sg=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+02:05:41.814 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<165.794601, 105.451256, 7030.285645>)
+02:05:42.436 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<165.795090, 105.451233, 7030.285645>)
+02:06:36.163 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<165.794617, 105.451248, 7030.285645>) as passenger
+02:06:43.534 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<165.795074, 105.451233, 7030.285645>)
+02:18:30.827 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743244, 2178.596436>)
+02:18:31.360 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743328, 2178.596680>)
+02:18:34.375 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743286, 2178.596680>)
+02:18:36.717 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743378, 2178.596680>)
+02:18:40.672 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743378, 2178.596680>)
+02:31:34.983 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743359, 2178.596680>) as driver
+02:31:36.547 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4210.705078, 54.743267, 2178.596680>)
+02:31:49.861 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4238.531250, 52.158504, 2186.849121>) as passenger
+02:31:56.815 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4238.531250, 52.158501, 2186.849121>)
+02:32:01.786 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] switched seats in vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4238.531250, 52.158550, 2186.849121>) to passenger
+02:32:05.734 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4238.531250, 52.158489, 2186.849365>) as driver
+02:32:13.945 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4238.531250, 52.158497, 2186.849121>) as passenger
+02:32:17.363 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<4238.531250, 52.158501, 2186.849121>) as passenger
+02:33:43.749 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652344, 4.376886, 1315.728271>)
+02:33:46.967 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652344, 4.376886, 1315.728027>)
+02:33:51.327 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:33:56.652 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>)
+02:34:03.389 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>)
+02:34:25.000 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+02:34:25.011 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+02:34:25.012 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+02:34:25.012 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+02:34:25.971 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+02:38:40.392 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:38:40.399 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+02:38:40.400 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:38:40.400 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+02:38:41.362 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:39:15.648 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:40:09.672 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>)
+02:40:39.242 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:40:44.475 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:40:47.846 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>)
+02:41:01.488 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>)
+02:52:27.807 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:53:06.908 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:53:34.210 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>)
+02:54:26.309 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:54:46.825 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652588, 4.376887, 1315.728027>) as passenger
+02:54:48.675 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652344, 4.376886, 1315.727661>) as driver
+02:55:01.028 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<3482.652344, 4.376886, 1315.727661>)
+03:00:29.100 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Medical
+03:04:06.005 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): mac
+03:04:46.732 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): do you have a bbp book
+03:07:05.121 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<162.073456, 105.190781, 7037.909668>)
+03:07:09.783 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<162.072983, 105.190804, 7037.909668>)
+03:07:17.031 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): guessing you cant read
+03:07:18.779 [VehicleEnter] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] switched seats in vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<156.336746, 105.147202, 7053.860352>) to passenger
+03:07:23.436 [VehicleLeave] Player twitch258 [uid=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<148.553787, 105.276115, 7055.959961>)
+03:07:28.365 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<147.376602, 105.302467, 7055.737305>)
+03:07:30.500 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Ada 4x4 (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<147.376587, 105.302475, 7055.737305>)
+03:07:43.026 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): hola comoestas
+03:07:46.234 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<149.557449, 105.240448, 7054.748047>) paired a  ExpansionCarKey to OffroadHatchback (id=1F286DAAA4406D66E7FAFBA3251976CE pos=<147.376602, 105.302467, 7055.737305>)
+03:08:52.022 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): bonjour comment allezvous
+03:09:29.443 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok mac. Im gunna find you and give you this dick
+03:09:44.672 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): long and hard like
+03:10:06.712 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): hey mac 
+03:10:17.411 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): holla de mac
+03:10:31.708 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): do you need some cheese
+03:11:24.738 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+03:12:21.657 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ??
+03:13:48.071 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:16:20.749 [Killfeed] twitch258 got killed by DirtyMike with G36C from a distance of 1 m.
+03:17:59.281 [Party] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:28:32.614 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<156.132950, 105.277168, 7065.556641>) used the  ExpansionCarKey to unlock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074905, 105.306839, 7068.958984>)
+03:28:45.364 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<156.132950, 105.277168, 7065.556641>) used the  ExpansionCarKey to lock Offroad_02 (id=7268FCEBB34AD33062CFB694451F2F9D pos=<156.074905, 105.306839, 7068.958984>)
+03:34:32.666 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+04:25:54.248 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Military
+04:26:39.787 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+04:55:56.722 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:55:56.736 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:55:56.738 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+04:55:57.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:58:13.800 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:58:13.810 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:58:13.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:58:13.812 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:58:14.746 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:58:40.419 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:02:34.263 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:02:34.269 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+05:02:34.269 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:02:34.269 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+05:02:35.216 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:23:15.412 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2291.586670, 112.258133, 5284.992188>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2289.453125, 112.229614, 5285.583496>)
+05:23:44.763 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2289.453125, 112.229614, 5285.583496>) as driver
+05:23:50.837 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2289.453125, 112.229614, 5285.583496>)
+05:24:52.441 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.349365, 111.670792, 5320.408691>)
+05:25:48.638 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.349365, 111.670799, 5320.408691>) as driver
+05:26:13.324 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.349365, 111.670799, 5320.408691>) as passenger
+05:26:18.416 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2307.349365, 111.670799, 5320.408691>)
+05:32:55.554 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6643.729004, 21.892557, 3635.291748>) Entered the safezone
+05:32:55.554 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6644.412109, 21.924562, 3635.736816>) Entered the safezone
+05:33:02.984 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.335449, 21.257877, 3655.816162>)
+05:33:05.816 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.335938, 21.257885, 3655.816162>)
+05:33:16.765 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagfuture x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:33:17.054 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagfuture x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 2250.
+05:33:20.787 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagkush x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:33:21.068 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagkush x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 1500.
+05:33:22.988 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbags1 x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:33:23.228 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbags1 x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 2437.
+05:33:24.738 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:33:25.017 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+05:36:40.425 [ATM] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 27599 on his ATM account.
+05:36:43.044 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 27599 on his ATM account.
+05:41:40.031 [ATM] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has withdrawn 27599 from his ATM account.
+05:41:52.556 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= for quest 53
+05:42:15.773 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:16.056 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+05:42:25.308 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:25.589 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:26.189 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:26.484 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:27.220 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:27.505 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:28.373 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:28.636 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:29.345 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:29.632 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:30.320 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:30.652 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:31.728 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:32.007 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:32.796 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:33.089 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:33.777 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:42:34.033 [Market] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+05:42:49.568 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6645.200684, 21.349092, 3639.685059>) Entered the safezone
+05:43:10.320 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.335938, 21.257885, 3655.816162>) as passenger
+05:43:43.992 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.335938, 21.257879, 3655.816162>) as driver
+05:43:47.257 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.335449, 21.257877, 3655.816162>)
+05:44:23.652 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6726.589844, 29.190216, 3660.272705>) Left the safezone
+05:44:23.652 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6727.238770, 29.296520, 3659.789551>) Left the safezone
+05:44:54.248 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6909.173340, 38.532063, 3742.747314>)
+05:44:54.425 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6909.173340, 38.532063, 3742.747314>)
+05:49:43.494 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6909.173340, 38.532063, 3742.747314>) as passenger
+05:49:46.380 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6909.173340, 38.532063, 3742.747314>) as driver
+05:49:49.601 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6909.173340, 38.532059, 3742.747314>)
+05:51:00.599 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6639.392578, 21.884871, 3641.458984>) Entered the safezone
+05:51:00.599 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6640.047852, 21.896235, 3641.945068>) Entered the safezone
+05:51:06.021 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6633.076172, 21.246923, 3650.411621>)
+05:51:07.857 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6633.076172, 21.246923, 3650.411621>)
+05:51:12.248 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer
+05:51:19.324 [ATM] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 26411 on his ATM account.
+05:52:00.605 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6633.076172, 21.246923, 3650.411621>) as driver
+05:52:11.001 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6633.076172, 21.246923, 3650.411621>)
+05:52:16.535 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has withdrawn 900 from his ATM account.
+05:52:34.328 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+05:52:34.503 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+05:53:41.658 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6620.485352, 21.206392, 3657.692383>) as passenger
+05:54:08.830 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6729.427734, 30.202436, 3667.414551>) Left the safezone
+05:54:08.830 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6730.106934, 30.280680, 3666.969482>) Left the safezone
+05:57:17.189 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929377, 5868.720215>)
+05:57:18.949 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>)
+05:57:37.388 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9090.863281, 29.899204, 5869.206055>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>)
+05:58:31.429 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:59:15.443 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

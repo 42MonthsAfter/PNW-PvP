@@ -1,0 +1,100 @@
+06:03:36.349 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:03:36.353 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:03:36.355 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:03:36.359 [AI Patrol] Spawning 2 Vagabond Army bots at <3405.445557, 99.884567, 7952.896484>
+06:03:36.449 [AI Patrol] Spawning 2 Trench 94 bots at <3066.097412, 99.884567, 9152.390625>
+06:03:37.314 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:03:56.531 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3219.505371, 99.914246, 8513.741211>) as driver
+06:03:59.365 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3219.505371, 99.914238, 8513.741211>)
+06:04:18.029 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3235.859375, 99.914246, 8543.014648>)
+06:04:37.957 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached HAMMER_H1 black Rear Right Door (type=HAMMER_Doors_cargo2_black) from vehicle HAMMER_H1 black(id=A80F8DEE27472334D00117B608970D20 pos=<3242.913574, 99.677315, 8546.506836>)
+06:04:40.230 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:04:40.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:04:40.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:04:41.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:05:02.021 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3237.960449, 100.228416, 8541.627930>) used the  ExpansionCarKey to unlock Offroad_02 (id=31DA59112D499464224D7E9F0547001D pos=<3235.859619, 99.914238, 8543.014648>)
+06:05:21.470 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached M1025 Wheel (type=Offroad_02_Wheel) from vehicle M1025(id=31DA59112D499464224D7E9F0547001D pos=<3235.859619, 99.914238, 8543.014648>)
+06:06:42.404 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3242.911377, 99.677116, 8546.508789>) as driver
+06:06:51.947 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<3242.911377, 99.677116, 8546.508789>)
+06:07:03.394 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3235.859375, 99.914238, 8543.014648>) as driver
+06:07:05.085 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3235.859375, 99.914238, 8543.014648>)
+06:07:21.111 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3235.859863, 99.914330, 8543.018555>) as passenger
+06:08:41.808 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer
+06:19:08.744 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<832.232422, 162.179871, 6581.092285>)
+06:19:09.660 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<832.232422, 162.179871, 6581.092285>)
+06:25:36.027 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<832.232544, 162.179855, 6581.092773>) as driver
+06:25:38.501 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<832.232300, 162.179840, 6581.092285>)
+06:26:34.136 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<831.446655, 161.978928, 6581.714355>) as passenger
+06:28:00.707 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<169.389282, 104.798401, 7039.922363>)
+06:28:08.173 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<169.389282, 104.798409, 7039.922363>)
+06:28:36.433 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached Olga 24 Wheel (type=CivSedanWheel) from vehicle Olga 24(id=0C05921F6A47261C7BC1CEB0E76F99CF pos=<151.281906, 105.474380, 7036.533691>)
+06:29:17.972 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<169.389282, 104.798401, 7039.922363>) as driver
+06:29:19.572 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<169.389282, 104.798409, 7039.922363>)
+06:29:21.240 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<169.389282, 104.798409, 7039.922852>) as passenger
+06:29:52.632 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<160.846558, 105.347160, 7079.667969>)
+06:29:57.923 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<160.664795, 105.357483, 7080.407227>)
+06:30:30.394 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<160.664246, 105.357529, 7080.407227>) as driver
+06:30:32.757 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<160.664459, 105.357513, 7080.407227>)
+06:31:17.359 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<160.663498, 105.357620, 7080.410645>) as passenger
+06:33:01.835 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<704.081848, 135.670731, 7588.983887>)
+06:33:03.722 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<704.081787, 135.670731, 7588.983887>)
+06:35:19.156 [VehicleDestroyed] Hatchback_02_Blue (id=5AC3EF9171458779C3F40C9E3556DCC5 pos=<591.748169, 125.902946, 7609.723633>)
+06:35:54.228 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<704.081482, 135.670715, 7588.983887>) as driver
+06:35:59.562 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<704.081543, 135.670715, 7588.983887>)
+06:36:53.480 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<695.239502, 133.067230, 7605.753906>) as passenger
+06:39:06.392 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<262.412292, 102.143806, 8571.538086>)
+06:39:06.488 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<262.412292, 102.143799, 8571.538086>)
+06:41:24.361 [VehicleDeleted] Hatchback_02_Blue (id=5AC3EF9171458779C3F40C9E3556DCC5 pos=<591.748169, 125.902946, 7609.723633>)
+06:42:45.062 [VehicleDeleted] Hatchback_02 (id=D15AAD198C484384BC4A5D99FC4676F3 pos=<3405.335693, 107.719910, 12239.048828>)
+06:49:11.457 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<262.412170, 102.143806, 8571.538086>) as driver
+06:49:13.074 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<262.412109, 102.143799, 8571.538086>)
+06:51:05.078 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<606.079834, 102.145813, 8318.572266>) as passenger
+06:55:51.626 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<2305.546387, 111.737167, 5322.794922>)
+06:55:52.318 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<2305.546631, 111.737160, 5322.794922>)
+06:56:32.058 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached Olga 24 Wheel (type=CivSedanWheel) from vehicle Olga 24(id=3A36CE9D1A4050A2F7E7219061CBF7E3 pos=<2293.067383, 112.126564, 5296.816895>)
+07:06:37.597 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<2305.546631, 111.737160, 5322.794922>) as passenger
+07:06:42.539 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<2305.546631, 111.737167, 5322.794922>) as driver
+07:06:44.242 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<2305.546631, 111.737160, 5322.794922>)
+07:10:39.664 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.320007, 37.925041, 3835.471680>)
+07:10:44.341 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.319763, 37.925041, 3835.471680>)
+07:32:27.835 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.319763, 37.925045, 3835.471680>) as driver
+07:32:39.242 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.319885, 37.925041, 3835.471680>) as passenger
+07:32:40.951 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.319885, 37.925041, 3835.471680>)
+07:32:43.201 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.319885, 37.925041, 3835.471680>)
+07:33:15.302 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<823.319885, 37.925041, 3835.471680>) as passenger
+07:35:05.742 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<739.854675, 20.398947, 3009.769287>)
+07:35:32.806 [MissionAirdrop] An airdrop is heading towards "Rising Ridge" (pos=<3847.399902, 0.000000, 7061.879883> type=Random_RisingRidge) with a ExpansionAirdropContainer_Basebuilding
+07:35:53.404 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<739.854614, 20.398945, 3009.769043>) as passenger
+07:37:49.917 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<976.446838, 37.463917, 3786.775879>)
+07:37:52.679 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<976.446838, 37.463917, 3786.775879>)
+07:38:12.785 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<976.446838, 37.463921, 3786.775879>) as driver
+07:38:14.609 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<976.446716, 37.463921, 3786.775879>)
+07:38:17.039 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<976.449707, 37.463909, 3786.778809>) as passenger
+07:42:58.851 [AI Patrol] Spawning 2 Orting bots at <5181.053711, 220.261139, 4969.739258>
+07:45:49.453 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3916.121582, 188.194855, 6965.381348>)
+07:45:52.255 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3916.121338, 188.194611, 6965.383301>)
+07:52:54.787 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3916.121338, 188.194611, 6965.383301>) as driver
+07:52:57.539 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3916.121338, 188.194611, 6965.383301>)
+07:52:58.023 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3916.121338, 188.194641, 6965.383301>) as passenger
+07:55:07.896 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4199.303223, 189.555496, 7326.621094>)
+07:55:08.503 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4199.303223, 189.555511, 7326.621094>)
+07:55:23.046 [VehicleCover] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4190.054688, 187.572205, 7335.072266>) uncovered vehicle "MotorHome_rust" (GlobalID=80000000800000008000000080002B6C pos=<4191.362793, 187.714844, 7337.251465>)!
+07:55:34.734 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:55:34.748 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+07:55:34.748 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:55:34.748 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+07:55:35.716 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:55:40.519 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4189.846680, 187.616638, 7334.271484>) used the  ExpansionCarKey to unlock MotorHome_rust (id=9733A5A6004955C997C2B9BECAEA775A pos=<4191.319336, 187.706223, 7337.283203>)
+08:04:08.625 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4190.430176, 187.639191, 7334.876465>) used the  ExpansionCarKey to lock MotorHome_rust (id=9733A5A6004955C997C2B9BECAEA775A pos=<4191.319336, 187.706223, 7337.283203>)
+08:04:26.156 [VehicleDeleted] MotorHome_rust (id=9733A5A6004955C997C2B9BECAEA775A pos=<4191.319336, 187.706223, 7337.283203>)
+08:04:26.156 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4194.033691, 188.345779, 7332.285645>) covered vehicle "MotorHome_rust" (GlobalID=80000000800000008000000080002B6C pos=<4191.319336, 187.706223, 7337.283203>)!
+08:04:41.171 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4199.303223, 189.555481, 7326.621094>) as driver
+08:04:43.220 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4199.303223, 189.555496, 7326.621094>) as passenger
+08:04:44.091 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4199.303223, 189.555496, 7326.621094>)
+08:04:50.443 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4199.488770, 189.551956, 7326.917969>) as passenger
+08:05:39.320 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4272.967773, 170.608353, 7593.373535>)
+08:05:44.082 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4272.967773, 170.608307, 7593.373535>)
+08:05:46.226 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4272.967773, 170.608307, 7593.373535>)
+08:05:59.078 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:06:09.031 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:06:28.105 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

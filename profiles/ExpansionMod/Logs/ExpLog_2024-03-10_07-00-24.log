@@ -1,0 +1,52 @@
+07:04:33.208 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:04:33.212 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:04:33.212 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+07:04:34.175 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:05:59.630 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:07:26.375 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:07:26.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:07:26.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:07:27.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:09:38.693 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Basebuilding
+07:10:22.718 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4235.941895, 2.957350, 1031.782593>) uncovered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4238.092285, 2.913786, 1029.771240>)!
+07:12:18.453 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4236.805176, 2.957565, 1031.806030>) used the  ExpansionCarKey to unlock Expansion_Landrover_Yellow (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4238.093750, 2.913784, 1029.771973>)
+07:12:38.941 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4238.093750, 2.913784, 1029.771973>) as passenger
+07:12:50.373 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] switched seats in vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4238.093750, 2.913784, 1029.771973>) to driver
+07:12:56.359 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4238.093750, 2.913784, 1029.771973>)
+07:14:42.607 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4326.092285, 9.069098, 1083.300659>)
+07:14:52.343 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4324.015137, 9.112997, 1083.827637>) used the  ExpansionCarKey to lock Expansion_Landrover_Yellow (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4326.092285, 9.069102, 1083.300781>)
+07:17:15.875 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:17:15.878 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:17:15.878 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:17:16.845 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:18:48.693 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:19:03.560 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4324.713379, 9.113020, 1084.234619>) used the  ExpansionCarKey to unlock Expansion_Landrover_Yellow (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4326.092285, 9.069102, 1083.300781>)
+07:19:13.650 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4326.092285, 9.069101, 1083.300781>) as driver
+07:19:17.484 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Land Rover Defender (Locked) (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4326.092285, 9.069098, 1083.300659>)
+07:21:34.187 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4366.538086, 3.169142, 724.289856>)
+07:24:36.408 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4366.541016, 3.096787, 724.307983>) as driver
+07:24:40.585 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4366.540527, 3.096784, 724.307617>)
+07:25:08.505 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4365.906250, 3.096745, 722.463989>)
+07:25:27.390 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4365.906250, 3.096729, 722.464050>) as driver
+07:25:31.646 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<4365.906250, 3.096718, 722.464050>)
+07:27:16.263 [VehicleDestroyed] Expansion_Landrover_Yellow (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<6128.278320, 2.510552, 692.071960>)
+07:27:36.699 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Land Rover Defender (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<6114.021973, 2.692566, 688.663696>)
+07:33:23.849 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6113.129395, 2.690139, 690.541443>) used the  ExpansionCarKey to lock Expansion_Landrover_Yellow (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<6114.021973, 2.692575, 688.663330>)
+07:35:03.740 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:26:52.488 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+10:26:52.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+10:26:52.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 11
+10:26:52.507 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+10:26:52.507 [AI Patrol] Spawning 2 Trench 94 bots at <3164.402588, 99.884567, 9316.604492>
+10:26:52.601 [AI Patrol] Spawning 2 Vagabond Army bots at <3414.957764, 99.884567, 8020.356445>
+10:26:53.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+10:26:56.722 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Medical
+10:29:04.570 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+10:29:58.710 [VehicleDeleted] Expansion_Landrover_Yellow (id=B7664BA3D24F96F66E94DE9B2AE7ADC4 pos=<6114.021973, 2.692575, 688.663330>)
+11:10:33.093 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+11:19:56.574 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:19:56.585 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+11:19:56.585 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 14
+11:19:57.507 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+11:50:15.148 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:54:33.726 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Military

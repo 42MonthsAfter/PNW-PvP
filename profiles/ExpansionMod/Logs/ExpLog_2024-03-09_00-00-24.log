@@ -1,0 +1,362 @@
+00:01:57.948 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:01:57.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:57.953 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:01:57.953 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:58.912 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:42.693 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:42.697 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:02:42.698 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:43.677 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:55.399 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:55.403 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:02:55.403 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:55.403 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:02:56.368 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:06:59.594 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+00:09:48.523 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+00:09:48.532 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+00:09:48.533 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 11
+00:09:48.533 [Expansion Quests] - Create new quest instance for quest: 10 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+00:09:49.503 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+00:09:53.689 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+00:09:53.700 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+00:09:53.701 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+00:09:53.701 [Expansion Quests] - Create new quest instance for quest: 10 - Player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+00:09:54.669 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+00:10:46.801 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+00:10:46.810 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+00:10:46.810 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+00:10:46.810 [Expansion Quests] - Create new quest instance for quest: 45 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+00:10:46.810 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+00:10:47.784 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+00:19:02.114 [AI Patrol] Spawning 2 Orting bots at <5334.125488, 219.681656, 5138.226563>
+00:24:40.190 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<4375.478516, 100.115250, 8923.585938>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>)
+00:25:00.962 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>) as passenger
+00:25:13.235 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>) as passenger
+00:26:44.957 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.242676, 100.369301, 8926.115234>) as driver
+00:27:05.372 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.242188, 100.369171, 8926.113281>)
+00:27:59.294 [AI Patrol] Spawning 2 Trench 94 bots at <3142.499512, 99.884567, 9361.937500>
+00:28:12.752 [AI Patrol] Spawning 2 Vagabond Army bots at <3436.265625, 100.525429, 7860.529297>
+00:29:53.781 [Safezone] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= pos=<6653.480469, 21.848284, 3679.819580>) Entered the safezone
+00:30:46.645 [Expansion Quests] - CompleteQuest - Player with UID MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= has completed quest 31
+00:31:01.102 [Expansion Quests] - CompleteQuest - Player with UID MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= has completed quest 45
+00:33:03.915 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<161.777328, 105.231697, 7038.507324>)
+00:33:21.939 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:22.087 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+00:33:22.765 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:22.868 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+00:33:23.306 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:23.452 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+00:33:24.016 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:24.121 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+00:33:24.723 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:24.804 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+00:33:25.322 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:33:25.439 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+00:33:52.543 [ATM] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has deposited 460 on his ATM account.
+00:34:09.397 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.874649, 105.373085, 7068.849121>)
+00:34:10.280 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6579.287109, 21.539495, 3684.515381>) Entered the safezone
+00:34:12.663 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.876526, 105.372574, 7068.849121>) as driver
+00:34:13.763 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.876465, 105.372589, 7068.849609>)
+00:34:17.247 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.875732, 105.372589, 7068.849121>)
+00:34:17.988 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6576.711914, 21.563093, 3679.578857>) Entered the safezone
+00:34:37.279 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= for quest 57
+00:34:44.833 [Expansion Quests] - CompleteQuest - Player with UID AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= has completed quest 10
+00:35:24.510 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= for quest 3
+00:35:41.449 [Expansion Quests] - CancelQuestServer - Player with UID MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= has cancelled quest 57
+00:35:41.778 [Expansion Quests] - CompleteQuest - Player with UID P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= has completed quest 10
+00:35:45.769 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= for quest 3
+00:35:46.708 [ATM] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) has deposited 100 on his ATM account.
+00:38:15.447 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= for quest 3
+00:39:42.581 [ATM] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has withdrawn 460 from his ATM account.
+00:40:11.570 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase mag_mp5_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:40:11.703 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought mag_mp5_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 200.
+00:40:13.086 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has send a requested to purchase mag_mp5_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+00:40:13.205 [Market] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has bought mag_mp5_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 200.
+00:41:33.953 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6580.847168, 21.317940, 3635.582520>) Left the safezone
+00:41:35.954 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6586.755371, 21.268816, 3636.588867>) Entered the safezone
+00:41:51.494 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6568.355957, 21.531033, 3639.675537>) Left the safezone
+00:41:56.209 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6588.046875, 21.263411, 3637.833984>) Entered the safezone
+00:43:32.762 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=
+00:44:11.216 [ATM] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has deposited 60 on his ATM account.
+00:45:03.176 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6576.466309, 21.875471, 3597.072754>) Left the safezone
+00:45:08.786 [Safezone] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= pos=<6592.201172, 21.088915, 3610.038330>) Left the safezone
+00:45:11.606 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6591.651367, 21.088606, 3608.932617>) Left the safezone
+00:48:40.911 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.873505, 105.372574, 7068.849121>)
+00:49:27.939 [AI Patrol] Spawning 2 Police Academy bots at <5188.822266, 56.129997, 2333.039063>
+00:50:09.674 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): whats up yall
+00:50:53.656 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): just running around you?
+00:51:09.034 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ]
+00:51:12.710 [Chat - Global]("Thiagod67"(id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=)): me?
+00:51:14.523 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): nothing much
+00:51:29.246 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yall need anything just let me know
+00:53:12.762 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): we feel like were being followed what do we do?
+00:53:31.017 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): like by a mountain lion
+00:53:34.541 [Chat - Global]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): yell fire
+00:53:38.004 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): or bear
+00:54:54.880 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): stop drop and roll. 
+00:55:02.737 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): or a player?
+00:55:19.120 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=
+00:55:29.571 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): just turn around and kill the bitch
+00:55:42.269 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): problem solved
+00:56:26.178 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ill be at the holler in like 120 mins
+00:56:30.295 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): 10 mins
+00:56:55.504 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): meet me there and ill get yall some guns
+00:57:05.856 [Party] Player "Thiagod67" (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=) joinded the party "Green Team" (id=15 ownerUID= ownerName=)
+00:57:05.857 [Party] Player "Thiagod67" (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=) created a party named Green Team (GT)
+00:57:06.856 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 15
+00:57:20.692 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=
+00:57:20.692 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=
+00:57:46.314 [Party] Player "Thiagod67" (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=) invited the player "[VSN] Niander" (id=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=)to the party named Green Team
+00:58:02.092 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): holler is a safe zone
+00:58:05.827 [Party] Player "[VSN] Niander" (id=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=) joinded the party "Green Team" (id=15 ownerUID=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038= ownerName=Thiagod67)
+00:58:06.827 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+00:58:59.706 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): dont waste my time if you dont want to tho
+00:59:04.647 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): haha 120.. we were just there..  were ok ! we like tho explore
+00:59:23.006 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i hit the 2 on accident
+00:59:33.924 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): its was supposed to be 10
+00:59:46.850 [Killfeed] Gustovo got killed by Police Academy with LE-MAS from a distance of 19 m.
+01:00:20.883 [Killfeed] Garry  got killed by Police Academy with LE-MAS from a distance of 2 m.
+01:00:25.434 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+01:00:26.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+01:00:38.864 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol
+01:00:39.480 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): oops
+01:00:53.849 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ai is a bitch when you dont have shit
+01:01:04.905 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+01:01:05.900 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+01:01:33.015 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): Yall just meet me at holler and ill have a bag of gun for free
+01:04:56.417 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+01:04:57.412 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+01:05:19.880 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.872513, 105.372581, 7068.849121>) as driver
+01:05:22.879 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.872559, 105.372574, 7068.849121>)
+01:05:33.171 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.872940, 105.372574, 7068.849121>) as passenger
+01:06:27.758 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<159.975845, 105.493034, 7034.525391>) as passenger
+01:06:34.515 [AI Patrol] Spawning 2 Airfield bots at <6655.253906, 18.470003, 1650.412354>
+01:07:45.766 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): well try, trying to make it back to ouir bodies, dont wait up. 
+01:08:11.797 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): id ask where your at but the truck is full
+01:10:48.214 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): all good :)
+01:12:53.287 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): do we need to send the search party out to help yall
+01:15:22.332 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.117188, 26.809601, 4074.540039>)
+01:15:24.616 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.119141, 26.809612, 4074.541016>)
+01:15:30.638 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.116699, 26.809599, 4074.539795>)
+01:16:23.137 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.116699, 26.809599, 4074.539795>) as passenger
+01:17:07.580 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.116699, 26.809599, 4074.539795>) as passenger
+01:17:14.250 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.115723, 26.809542, 4074.540039>) as driver
+01:17:19.949 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6859.115723, 26.809544, 4074.540039>)
+01:18:27.577 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we be at the trader
+01:18:46.789 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6642.335938, 22.223225, 3639.870850>) Entered the safezone
+01:18:46.789 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6642.976563, 22.320875, 3639.233643>) Entered the safezone
+01:18:46.840 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6642.489746, 22.220364, 3640.892334>) Entered the safezone
+01:18:59.363 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): gunna do a drop for yall. so it will be on the floor of the holler
+01:19:09.033 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6618.677246, 21.284990, 3651.644775>)
+01:19:15.223 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6621.788086, 21.293011, 3650.602051>)
+01:19:20.501 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6621.788086, 21.293026, 3650.604492>)
+01:20:01.246 [Expansion Quests] - CompleteQuest - Player with UID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= has completed quest 55
+01:20:07.503 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= for quest 8
+01:20:13.019 [ATM] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has withdrawn 20904 from his ATM account.
+01:20:15.128 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): we apprecaite it, were trying to get our stuff right now
+01:20:17.881 [ATM] Player DirtyMike (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has transfered 500 to the player Red (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=).
+01:20:32.326 [ATM] Player DirtyMike (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has transfered 250 to the player Thiagod67 (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=).
+01:20:39.093 [ATM] Player DirtyMike (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has transfered 250 to the player Garry  (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=).
+01:20:39.597 [Chat - Global]("Thiagod67"(id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=)): i will search you and i will kill you
+01:20:45.139 [ATM] Player DirtyMike (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has transfered 250 to the player [VSN] Niander (id=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=).
+01:22:23.240 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has send a requested to purchase mag_fnx45_15rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+01:22:23.371 [Market] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has bought mag_fnx45_15rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 40.
+01:22:51.029 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): hahaha good luck
+01:23:03.671 [Chat - Global]("Garry "(id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=)): Thanks man 
+01:23:25.058 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i will find you and kill you
+01:24:56.774 [ATM] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) has deposited 21064 on his ATM account.
+01:25:51.869 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6567.866211, 21.511200, 3633.953613>) Left the safezone
+01:25:55.637 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6584.704590, 21.305204, 3640.147217>) Entered the safezone
+01:25:56.646 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6587.187500, 21.262682, 3636.147705>) Entered the safezone
+01:26:09.058 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6621.791016, 21.293051, 3650.605713>) as driver
+01:26:41.784 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6621.791016, 21.293034, 3650.603271>) as passenger
+01:27:16.288 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6621.790527, 21.293034, 3650.603271>)
+01:27:31.374 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): any one of yall want to do some hood rat shit
+01:27:51.007 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6621.791016, 21.293049, 3650.605713>) as passenger
+01:28:13.593 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6696.242188, 24.195374, 3625.506836>) Left the safezone
+01:28:13.593 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6696.138184, 24.236937, 3624.276855>) Left the safezone
+01:28:13.645 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6697.238281, 24.280392, 3625.264160>) Left the safezone
+01:29:08.919 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): what kind of hood rat shit?
+01:30:13.369 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<7547.776367, 67.227234, 3534.947754>)
+01:30:14.894 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<7547.776855, 67.227257, 3534.948730>)
+01:30:36.531 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): w 
+01:30:56.428 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<7547.776855, 67.227249, 3534.951172>) as driver
+01:31:31.959 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<7547.775879, 67.227203, 3534.948975>)
+01:31:37.335 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): the only good hood rat shit
+01:31:54.767 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<7628.543457, 72.951744, 3524.116943>) as passenger
+01:32:19.737 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): were heading back to holler of you promise not to kill us :P
+01:32:27.822 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): like hit a base or 2
+01:32:41.750 [Chat - Global]("Gustovo"(id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=)): coke and hookers!
+01:33:03.329 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): meth is the only thing i touch
+01:33:24.736 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): sometime i get creative 
+01:33:36.574 [Chat - Global]("Gustovo"(id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=)): thats only good if it was stored in a butthole across the border
+01:33:49.428 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yall should get the guns left at holler you might need them
+01:34:37.567 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6641.297363, 22.198662, 3638.963867>) Entered the safezone
+01:34:37.567 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6642.526855, 22.302975, 3639.004639>) Entered the safezone
+01:34:37.593 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6641.645508, 22.196688, 3639.769043>) Entered the safezone
+01:34:49.680 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): how the fuck did red die to the enviroment
+01:35:12.444 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6623.503906, 21.200504, 3633.692383>)
+01:35:13.662 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): i bleed out saving my comrads
+01:35:14.426 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6623.503906, 21.200502, 3633.692139>)
+01:35:15.147 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6623.503906, 21.200502, 3633.692139>)
+01:35:33.296 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): do you need some tampons?
+01:35:41.999 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): wow...
+01:36:00.567 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): wow??
+01:36:16.610 [Chat - Global]("Gustovo"(id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=)): pads only bruv
+01:36:28.469 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): as a female i find that offensive
+01:37:08.623 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): w
+01:38:14.550 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6553.590820, 21.828337, 3624.626465>) Left the safezone
+01:38:22.716 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6595.942871, 21.151718, 3629.850098>) Entered the safezone
+01:38:28.379 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6600.013184, 21.120342, 3630.913086>) Entered the safezone
+01:38:38.966 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6599.477539, 21.114349, 3628.781250>) Entered the safezone
+01:38:38.966 [Safezone] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= pos=<6598.382813, 21.127743, 3629.473145>) Entered the safezone
+01:39:03.365 [ATM] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has withdrawn 60 from his ATM account.
+01:39:34.593 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Military
+01:40:14.013 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6567.792480, 21.533461, 3638.319824>) Left the safezone
+01:40:22.224 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6560.725098, 24.500145, 3644.848145>) Left the safezone
+01:40:46.786 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6584.005859, 21.327103, 3643.635986>) Entered the safezone
+01:40:56.700 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6586.975098, 21.267122, 3636.647217>) Entered the safezone
+01:42:24.611 [ATM] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) has deposited 60 on his ATM account.
+01:42:29.702 [Party] Player "Thiagod67" (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=) left the party "Green Team" (id=15 ownerUID=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038= ownerName=Thiagod67)
+01:42:51.299 [Party] Player "Thiagod67" (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=) joinded the party "Green Team" (id=15 ownerUID=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038= ownerName=Thiagod67)
+01:42:51.304 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=
+01:42:51.304 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+01:42:51.304 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=
+01:42:52.271 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+01:43:55.674 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6556.829590, 21.737165, 3628.733398>) Left the safezone
+01:44:07.783 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6585.492188, 21.301294, 3640.866699>) Entered the safezone
+01:44:55.807 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= for quest 33
+01:44:57.074 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= for quest 33
+01:45:21.637 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= for quest 33
+01:47:07.196 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6567.131348, 21.534842, 3636.425049>) Left the safezone
+01:49:10.992 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6623.505371, 21.200014, 3633.693115>) as driver
+01:49:20.453 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6583.379883, 21.342331, 3645.778564>) Entered the safezone
+01:51:55.736 [Safezone] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= pos=<6547.925781, 21.984560, 3650.291260>) Left the safezone
+01:51:59.030 [Safezone] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4= pos=<6547.649414, 21.994875, 3651.191895>) Left the safezone
+01:52:00.802 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6623.503906, 21.199997, 3633.691406>)
+01:52:07.751 [Safezone] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM= pos=<6540.475586, 22.205889, 3662.807861>) Left the safezone
+01:54:15.456 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6631.512207, 21.377136, 3652.885254>)
+01:55:18.995 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:55:19.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+01:55:19.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:55:19.000 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+01:55:19.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:56:46.509 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6631.512207, 21.377140, 3652.885254>) as driver
+01:57:30.241 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6635.304199, 21.363390, 3647.058838>)
+01:57:57.509 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:00:23.222 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6633.653320, 21.292828, 3650.442139>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6635.306152, 21.363420, 3647.060791>)
+02:02:19.326 [Killfeed] Red was killed by an explosion caused by 6-M7 Frag Grenade.
+02:02:52.033 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) joinded the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+02:02:53.028 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+02:03:02.031 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): did red kill them selfs
+02:03:12.030 [Chat - Global]("Red"(id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=)): NOOOOOOO?
+02:06:29.223 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6642.490234, 21.308050, 3640.230225>) Entered the safezone
+02:06:30.741 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6637.889648, 21.293411, 3646.039551>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6635.306152, 21.363420, 3647.060791>)
+02:06:35.562 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6635.307129, 21.363430, 3647.061035>) as driver
+02:06:38.225 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6635.305664, 21.363409, 3647.059814>) as passenger
+02:06:47.807 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6635.307129, 21.363428, 3647.061035>)
+02:07:03.161 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<6715.380371, 27.141031, 3648.751953>) Left the safezone
+02:07:03.213 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6715.154297, 27.154671, 3649.770996>) Left the safezone
+02:16:52.609 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<157.061310, 105.173561, 7058.936523>)
+02:17:10.886 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.212601, 105.372589, 7067.898438>)
+02:17:20.130 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<154.919418, 105.578339, 7068.491699>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.212814, 105.372581, 7067.898438>)
+02:18:03.567 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<144.497284, 105.334595, 7055.207031>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.639145, 105.453735, 7054.206543>)!
+02:18:43.539 [VehicleDeleted] BMW_X5_white (id=583859AA714AA17E199CB8B4EDAC96D6 pos=<141.641571, 105.453598, 7054.208496>)
+02:18:43.540 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<145.095978, 105.318382, 7055.103516>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.641571, 105.453598, 7054.208496>)!
+02:21:02.333 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:25:03.355 [Party] Player "Red" (id=AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+02:28:25.649 [AI Patrol] Spawning 2 Manhattan Project bots at <1900.312744, 99.884567, 8805.595703>
+02:52:15.676 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:15.676 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 1357
+02:52:20.598 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:20.598 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 3214
+02:52:24.376 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:24.376 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 1423
+02:52:29.092 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:29.093 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 2024
+02:52:33.006 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:33.006 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 3245
+02:52:47.471 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:47.471 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0000
+02:52:51.107 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:51.107 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 9999
+02:52:53.497 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:53.497 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 8888
+02:52:55.905 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:52:55.905 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 7777
+02:53:06.359 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:06.359 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0001
+02:53:11.943 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:11.943 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0002
+02:53:14.569 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:14.569 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0003
+02:53:17.443 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:17.443 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0004
+02:53:19.851 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:19.851 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0005
+02:53:22.063 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:22.063 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0006
+02:53:24.851 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:24.851 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0006
+02:53:27.801 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:27.801 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0007
+02:53:31.341 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:31.341 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0008
+02:53:34.205 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:34.205 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0009
+02:53:37.311 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:37.311 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 9863
+02:53:41.243 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.676270, 9.113357, 1094.944092>) failed to enter the correct code.
+02:53:41.243 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 5438
+02:53:44.975 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.960938, 9.113382, 1095.306274>) failed to enter the correct code.
+02:53:44.975 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0853
+02:53:48.103 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.960938, 9.113382, 1095.306274>) failed to enter the correct code.
+02:53:48.103 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0439
+02:53:51.513 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.960938, 9.113382, 1095.306274>) failed to enter the correct code.
+02:53:51.513 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 0852
+02:53:55.041 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) player "Thiagod67" (ID = "Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=" at <4331.960938, 9.113382, 1095.306274>) failed to enter the correct code.
+02:53:55.041 [BaseRaiding] BBP_SGate (<4330.396973, 9.198433, 1095.017334>) The correct code was 7477 and the player tried 7325
+02:59:34.337 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:59:35.331 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:06:04.831 [VehicleEnter] Player [VSN] Niander [uid=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=] entered vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.808105, 56.040955, 2304.656006>) as driver
+03:06:11.908 [VehicleEngine] Player [VSN] Niander [uid=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=] started vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.804688, 56.040546, 2304.664307>)
+03:06:14.825 [VehicleEngine] Player [VSN] Niander [uid=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=] started vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.806641, 56.040943, 2304.658936>)
+03:06:19.035 [VehicleLeave] Player [VSN] Niander [uid=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=] left vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.812988, 56.041008, 2304.657227>)
+03:06:52.681 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+03:13:38.176 [VehicleEnter] Player Thiagod67 [uid=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=] entered vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.807129, 56.040630, 2304.666016>) as driver
+03:13:41.636 [VehicleEngine] Player Thiagod67 [uid=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=] started vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5261.791016, 56.040554, 2304.666504>)
+03:14:19.006 [VehicleEngine] Player Thiagod67 [uid=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=] stopped vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5260.494629, 56.040974, 2304.304688>)
+03:14:26.214 [VehicleLeave] Player Thiagod67 [uid=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=] left vehicle M3S Covered (id=1A17458A0B4D05A99B3B8EB97D644150 pos=<5260.497559, 56.041023, 2304.303467>)
+03:19:47.750 [AI Patrol] Spawning 2 FOB Alpha bots at <191.000122, 146.876785, 4897.198242>
+03:19:58.456 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:22:42.090 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:47:32.033 [Party] Player "Garry " (id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+03:47:39.211 [Party] Player "Gustovo" (id=MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=) left the party "REQ" (id=11 ownerUID=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY= ownerName=Garry )
+03:48:45.217 [Party] Player "[VSN] Niander" (id=NXUBGZOfHsGMSyz1tM5KXP2S_IiF7iOybUWQuieQeCI=) left the party "Green Team" (id=15 ownerUID=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038= ownerName=Thiagod67)
+03:52:43.053 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:52:43.057 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+03:52:43.057 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:52:43.057 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+03:52:44.047 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:56:56.877 [Party] Player "Thiagod67" (id=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038=) left the party "Green Team" (id=15 ownerUID=Qupuiz_3RZFrPWh4BMri0h1BSl9Kq4ulruX3ZMdB038= ownerName=Thiagod67)
+03:59:10.035 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:59:11.028 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+04:13:15.338 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:13:15.350 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:13:15.350 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+04:13:16.258 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:18:11.186 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:35:14.685 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+04:43:28.601 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+04:44:01.587 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+04:44:01.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+04:44:01.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+04:44:01.593 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+04:44:02.566 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+04:47:15.255 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+05:46:05.150 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:46:05.154 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+05:46:05.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:46:06.072 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:58:33.970 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

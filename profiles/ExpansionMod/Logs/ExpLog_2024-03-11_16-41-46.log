@@ -1,0 +1,31 @@
+16:42:34.921 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) joinded the party "Zombie Lives Matter" (id=19 ownerUID=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8= ownerName=HatingonPig)
+16:42:34.925 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=
+16:42:34.929 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 19
+16:42:34.929 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=
+16:42:35.910 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 19
+16:47:41.894 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Basebuilding
+16:58:00.035 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) joinded the party "Zombie Lives Matter" (id=19 ownerUID=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8= ownerName=HatingonPig)
+16:58:01.027 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 19
+16:59:04.527 [Party] Player "HatingonPig" (id=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8=) left the party "Zombie Lives Matter" (id=19 ownerUID=4pX4BcXKOWriKsE7hKtJxkbacyiOby0gxbk6LcKn3U8= ownerName=HatingonPig)
+17:28:03.191 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+17:28:03.199 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+17:28:03.199 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 18
+17:28:03.199 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+17:28:04.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+17:36:07.593 [AI Patrol] Spawning 2 FOB Alpha bots at <329.912384, 147.197205, 5051.402832>
+17:54:57.394 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+17:54:57.402 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+17:54:57.402 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+17:54:58.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+17:55:51.289 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4333.307129, 9.113387, 1091.556763>) uncovered vehicle "Velociraptor6x6" (GlobalID=8000000080000000800000008000D051 pos=<4336.219238, 9.134239, 1090.514282>)!
+17:56:10.054 [VehicleDeleted] Velociraptor6x6 (id=4056C3EFAD44C49AD20667B058C18055 pos=<-0.003506, 0.780768, -0.834344>)
+17:56:36.425 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4334.061035, 9.113378, 1088.910645>) used the  ExpansionCarKey to unlock Velociraptor6x6 (id=5D16B047DA403BF487507689EA12F1A1 pos=<4336.218750, 9.134228, 1090.512817>)
+17:57:07.484 [VehicleDeleted] Velociraptor6x6 (id=5D16B047DA403BF487507689EA12F1A1 pos=<4336.218750, 9.134228, 1090.512817>)
+17:57:07.484 [VirtualGarage] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4332.251953, 9.113302, 1090.637329>) stored a vehicle "Velociraptor6x6" (GlobalID=8000000080000000800000008000D051 pos=<4336.218750, 9.134228, 1090.512817>)
+17:57:58.167 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4316.937500, 9.003361, 1101.391235>) used the  ExpansionCarKey to unlock G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4316.541504, 8.862186, 1099.177979>)
+17:58:06.765 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4316.541992, 8.862267, 1099.185059>) as driver
+17:58:09.636 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4316.541992, 8.862405, 1099.199219>)
+17:58:33.195 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+17:58:36.242 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4329.595703, 9.033691, 1086.322266>)
+17:58:55.375 [VehicleDeleted] G65 (id=1BF993AD844445B0AF78C1B6B6F3AA79 pos=<0.005821, 0.644712, 0.207772>)
+17:59:16.121 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

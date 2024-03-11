@@ -1,0 +1,72 @@
+07:47:35.648 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:47:35.664 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:47:35.664 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+07:47:36.613 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:48:58.767 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4303.702637, 6.566495, 1064.570068>) uncovered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4301.127930, 6.311064, 1066.962646>)!
+07:49:16.849 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4299.958008, 5.887486, 1064.782715>) used the  ExpansionCarKey to unlock Expansion_Landrover_Yellow (id=661A6631DD4381221AE16FA7AB7A4C7E pos=<4301.095215, 6.303264, 1066.944092>)
+07:52:40.855 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer
+08:02:40.535 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Land Rover Defender (id=661A6631DD4381221AE16FA7AB7A4C7E pos=<4301.095215, 6.303380, 1066.944580>) as driver
+08:02:43.808 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Land Rover Defender (id=661A6631DD4381221AE16FA7AB7A4C7E pos=<4301.095215, 6.303372, 1066.944336>)
+08:05:27.656 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Land Rover Defender (id=661A6631DD4381221AE16FA7AB7A4C7E pos=<4238.092285, 2.913785, 1029.771484>)
+08:06:22.503 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4236.683105, 2.957342, 1028.513062>) used the  ExpansionCarKey to lock Expansion_Landrover_Yellow (id=661A6631DD4381221AE16FA7AB7A4C7E pos=<4238.092285, 2.913786, 1029.771240>)
+08:06:39.109 [VehicleDeleted] Expansion_Landrover_Yellow (id=661A6631DD4381221AE16FA7AB7A4C7E pos=<4238.092285, 2.913786, 1029.771240>)
+08:06:39.109 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4234.580078, 2.956832, 1028.703247>) covered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4238.092285, 2.913786, 1029.771240>)!
+08:14:53.039 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:07:30.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+09:07:30.964 [AI Patrol] Spawning 2 Vagabond Army bots at <3690.493652, 99.884567, 7908.646484>
+09:08:05.984 [AI Patrol] Spawning 2 Trench 94 bots at <3034.478271, 99.884567, 9363.629883>
+09:10:05.511 [Territory] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) created territory Pablo Escobar's Summer Home at <1743.464233, 138.612869, 10204.407227>
+09:12:14.425 [Territory] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) created territory Escobar Estate at <1719.617310, 136.833344, 10170.086914>
+09:18:02.867 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Basebuilding
+09:22:13.613 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+09:26:03.152 [BaseRaiding] BBP_SDoor (<1725.587280, 125.677353, 10098.030273>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <1726.938843, 125.717346, 10098.214844>) and the code is 800813
+09:26:20.617 [BaseRaiding] BBP_SDoor (<1731.925415, 125.677353, 10099.616211>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <1730.741333, 125.717323, 10099.492188>) and the code is 800813
+09:34:36.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+09:36:18.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+09:36:18.554 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+09:38:26.292 [BaseBuildingRaiding] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= pos=<8206.273438, 2.385266, 735.963623>) deployed ExpansionSatchel at <8206.483398, 3.047088, 736.538452>
+09:42:17.007 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<7917.529785, 1.818477, 879.671448>) as driver
+09:42:24.062 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] started vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<7917.530273, 1.818440, 879.667725>)
+09:42:30.757 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] stopped vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<7917.530273, 1.818439, 879.666016>)
+09:42:36.218 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<7917.530273, 1.818473, 879.663574>)
+09:46:20.707 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<7917.530273, 1.818440, 879.662598>) as driver
+09:46:24.679 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] started vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<7917.530273, 1.818441, 879.661133>)
+09:49:20.214 [AI Patrol] Spawning 2 Airfield bots at <6543.667480, 20.380737, 1892.587158>
+09:53:31.253 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] stopped vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<6505.016602, 23.062071, 3604.382080>)
+09:53:35.718 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<6505.016602, 23.062061, 3604.380859>)
+09:53:56.328 [Safezone] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= pos=<6582.226074, 21.358761, 3647.121094>) Entered the safezone
+09:54:25.445 [Expansion Quests] - CompleteQuest - Player with UID iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= has completed quest 58
+09:56:17.777 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= for quest 33
+09:57:26.609 [ATM] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) has deposited 1200 on his ATM account.
+09:58:04.003 [Safezone] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= pos=<6556.227051, 21.750748, 3633.643066>) Left the safezone
+09:58:55.226 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<6505.016602, 23.062052, 3604.380859>) as driver
+09:59:01.812 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] started vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<6505.016602, 23.062057, 3604.382568>)
+10:01:52.218 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+10:04:52.148 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] stopped vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4302.893555, 159.702942, 3547.351318>)
+10:04:54.207 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4302.893555, 159.702942, 3547.351074>)
+10:10:55.507 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4302.893555, 159.702927, 3547.352295>) as driver
+10:11:02.015 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] started vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4302.893555, 159.702881, 3547.354492>)
+10:13:38.722 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4432.187500, 124.904503, 3119.816650>)
+10:13:49.960 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4432.187500, 124.904449, 3119.816650>) as driver
+10:13:53.718 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] started vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4432.187500, 124.904449, 3119.816650>)
+10:14:20.082 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] stopped vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4430.801270, 125.186928, 3105.811768>)
+10:14:24.421 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4430.801270, 125.186920, 3105.812256>)
+10:16:46.609 [AI Patrol] Spawning 2 Manhattan Project bots at <2043.414429, 99.884567, 8739.719727>
+10:29:38.585 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6594.364258, 21.314041, 3662.807617>) Entered the safezone
+10:34:31.199 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6626.322266, 21.896746, 3668.495117>) Entered the safezone
+10:34:31.210 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:35:09.136 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 33
+10:35:32.296 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6571.229004, 21.456585, 3633.736328>) Left the safezone
+10:40:03.636 [BaseBuildingRaiding] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6567.133301, 21.536331, 3636.739990>) deployed ExpansionSatchel at <6567.440918, 22.197954, 3636.210938>
+10:41:26.992 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6586.782227, 21.301659, 3643.561035>) Entered the safezone
+10:42:12.398 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6685.365723, 22.214895, 3605.636230>) Left the safezone
+10:45:01.898 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Medical
+11:08:56.945 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6628.878906, 21.378670, 3667.955322>) Entered the safezone
+11:08:56.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:08:56.953 [Expansion Quests] - Create new quest instance for quest: 40 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:09:56.425 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6614.813477, 21.734945, 3745.444580>) Left the safezone
+11:32:05.507 [AI Patrol] Spawning 2 National Guard bots at <9137.146484, 45.784222, 3417.791504>
+11:40:58.601 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6645.061523, 21.337500, 3638.554688>) Entered the safezone
+11:41:14.125 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 33
+11:41:17.179 [ATM] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 1000 on his ATM account.
+11:41:30.648 [ATM] Player Chuck_N_Biskitz (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has transfered 69 to the player Hooligan-235 (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=).

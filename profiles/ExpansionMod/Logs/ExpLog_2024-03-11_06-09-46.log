@@ -1,0 +1,89 @@
+06:25:51.123 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:25:51.136 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:25:51.136 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:25:52.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:31:00.445 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Medical
+06:31:04.076 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:32:26.248 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:32:26.255 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:32:26.255 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:32:27.210 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:33:50.458 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:33:50.464 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:33:50.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:33:51.414 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:35:08.923 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4255.764648, 5.531339, 1116.608521>) used the  ExpansionCarKey to unlock G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4254.016602, 5.113690, 1114.812988>)
+06:37:47.291 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4255.980957, 5.497682, 1115.742798>) used the  ExpansionCarKey to lock G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4254.016602, 5.113690, 1114.812988>)
+06:44:54.925 [BaseRaiding] BBP_BDoor (<4324.074219, 9.145354, 1088.719116>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <4322.975098, 9.185312, 1089.291260>) and the code is 7477
+06:52:19.544 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:59:07.462 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:59:34.203 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:59:34.208 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:59:34.208 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:59:35.169 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:05:59.710 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:05:59.716 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:05:59.716 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:06:00.681 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:10:33.525 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:12:25.562 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:12:25.566 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:12:25.566 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:12:26.529 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:14:18.605 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:14:31.539 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) invited the player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)to the party named GRUMPY OLD GITS
+07:14:40.439 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:14:41.439 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:55:59.466 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Military
+08:17:14.777 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:17:14.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:17:14.789 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:17:15.759 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:19:39.843 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:14:54.906 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2511.859131, 2.002785, 2367.186035>) as driver
+09:14:58.781 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2511.861816, 2.002817, 2367.186035>)
+09:15:34.550 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.142578, 2.206630, 2375.372314>)
+09:15:48.675 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.142578, 2.206628, 2375.373291>) as driver
+09:15:52.191 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.142578, 2.206613, 2375.375244>)
+09:16:18.570 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.165039, 2.219945, 2375.695313>)
+09:16:30.175 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.164795, 2.219959, 2375.695313>) as driver
+09:16:31.773 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.164551, 2.219954, 2375.695557>)
+09:16:58.898 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.322021, 2.218723, 2375.486816>)
+09:17:38.890 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.321777, 2.218705, 2375.487061>) as driver
+09:17:40.593 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.321777, 2.218739, 2375.487305>)
+09:18:20.671 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.371826, 2.214708, 2375.113525>)
+09:18:34.359 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached Velociraptor6x6 Wheel (type=Velociraptor6x6_Wheel) from vehicle Velociraptor6x6(id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.371826, 2.214714, 2375.113525>)
+09:18:45.371 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.369629, 2.214958, 2375.128906>) as driver
+09:18:46.546 [VehicleAttachments] Player Lets_G0_Brandon (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached Velociraptor6x6 Wheel (type=Velociraptor6x6_Wheel) from vehicle Velociraptor6x6(id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.369629, 2.214970, 2375.128906>)
+09:18:48.796 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2510.378906, 2.223619, 2375.119873>)
+09:19:38.738 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] stopped vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.955322, 2.343244, 2375.944580>)
+09:19:48.328 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.953857, 2.343102, 2375.944824>)
+09:22:49.468 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Basebuilding
+09:25:44.300 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.880859, 2.193534, 2375.062256>) as driver
+09:25:47.226 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.881104, 2.193554, 2375.062256>)
+09:26:05.468 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2509.889648, 2.193647, 2375.067627>)
+09:35:24.492 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2511.468506, 2.077598, 2372.307129>) as driver
+09:35:28.109 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2511.485840, 2.077362, 2372.281982>)
+09:35:44.746 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2514.794434, 2.010102, 2366.144287>)
+09:36:38.523 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2514.792969, 2.010043, 2366.141602>) as driver
+09:36:41.535 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2514.792725, 2.010031, 2366.140869>)
+09:36:47.328 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<2514.792725, 2.010038, 2366.141357>) as passenger
+09:41:02.757 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556152, 9.134359, 1089.804077>)
+09:41:05.320 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556641, 9.134360, 1089.804565>)
+09:42:12.890 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4337.000488, 9.113544, 1088.112183>) paired a  ExpansionCarKey to Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556641, 9.134360, 1089.804565>)
+09:42:16.488 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4337.000488, 9.113544, 1088.112183>) used the  ExpansionCarKey to lock Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556641, 9.134360, 1089.804565>)
+09:42:18.234 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4337.000488, 9.113544, 1088.112183>) used the  ExpansionCarKey to unlock Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556641, 9.134360, 1089.804565>)
+09:45:40.980 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4337.808105, 9.113604, 1088.471802>) used the  ExpansionCarKey to lock Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556641, 9.134360, 1089.804565>)
+09:56:58.492 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4336.889160, 9.113539, 1088.175659>) used the  ExpansionCarKey to unlock Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.556641, 9.134360, 1089.804565>)
+09:57:08.656 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.555664, 9.134352, 1089.802734>) as driver
+09:57:10.984 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.557129, 9.134360, 1089.805420>)
+09:57:36.957 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.800293, 9.134491, 1096.238892>)
+09:57:57.195 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.803711, 9.134492, 1096.239990>) as driver
+09:58:00.089 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4338.805664, 9.134501, 1096.241211>)
+09:58:14.886 [BaseRaiding] ExpansionSafeMedium (<4316.084961, 10.109146, 1080.309692>) Code set by player "Lets_G0_Brandon" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <4316.362305, 9.185351, 1081.618164>) and the code is 7477
+09:58:16.746 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4336.218262, 9.134232, 1090.513916>)
+09:58:26.695 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4333.675781, 9.113361, 1089.277344>) used the  ExpansionCarKey to lock Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4336.217285, 9.134228, 1090.512817>)
+10:01:26.023 [VehicleDeleted] Velociraptor6x6 (id=582CF2876943EC7B27D07C82EE108E0A pos=<4336.217285, 9.134228, 1090.512817>)
+10:01:26.027 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4332.373047, 9.113355, 1092.727051>) covered vehicle "Velociraptor6x6" (GlobalID=8000000080000000800000008000D051 pos=<4336.217285, 9.134228, 1090.512817>)!
+10:06:00.656 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:12:42.886 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

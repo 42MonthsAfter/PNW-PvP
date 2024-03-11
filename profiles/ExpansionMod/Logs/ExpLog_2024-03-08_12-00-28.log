@@ -1,0 +1,140 @@
+12:02:30.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:02:30.445 [Expansion Quests] - Create new quest instance for quest: 40 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:04:01.589 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+12:04:01.597 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+12:04:01.601 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:04:01.601 [AI Patrol] Spawning 2 Airfield bots at <6785.305664, 18.577757, 1714.947266>
+12:04:02.574 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:07:34.304 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer
+12:25:03.597 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:25:03.613 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:25:03.613 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:25:03.613 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:25:04.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:48:45.019 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): this load out is insane
+12:48:54.851 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ?
+12:57:55.136 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): where would i find the gun for these mags lol
+13:05:20.656 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hey blue you got a second? I have a question for you
+13:05:31.980 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): whats up
+13:13:03.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+13:13:03.820 [Expansion Quests] - Create new quest instance for quest: 40 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+13:13:58.429 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) Code set by player "Lou Sassole" (ID = "ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=" at <918.700012, 151.542908, 7130.663574>) and the code is 1505
+13:14:30.140 [AI Patrol] Spawning 2 Trench 94 bots at <3144.269775, 99.884567, 9372.721680>
+13:15:08.113 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): hooligan want to see tonight prize if you kill me?
+13:17:22.695 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:23:39.050 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): yo hooligan you gunna be trying to kill me tonight in that event
+13:24:04.699 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): what time
+13:24:17.621 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): 6pm est
+13:24:52.636 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): =\ bah ill be gone at work by then....
+13:26:50.390 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): thats why we put out hunts for yall also. 
+13:33:35.710 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): gunna spawn over by you so dont shoot me hooligan
+13:33:46.812 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): ok
+13:34:44.378 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): check it out
+13:35:03.859 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): tie my hands up
+13:35:26.281 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): k
+13:35:39.234 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): whatcha think
+13:35:51.664 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): cool
+13:36:44.531 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): think i covered everything loot wise
+13:37:17.117 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): you need anything while im here??
+13:37:26.136 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): not sure what u mean 
+13:37:36.367 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): unless your talking about the event
+13:37:43.554 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): need a box of ammo or something like that
+13:37:49.589 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): no im good thx
+13:38:04.871 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ok cool man ill see you around.  Thanks for playing on 42
+13:38:18.738 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): no problem i like it for the most part
+13:38:33.035 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6608.548828, 21.336346, 3675.875244>) Entered the safezone
+13:39:55.136 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): if you have any input to make something better feel freee to make a ticket or suggs in discord
+13:39:55.218 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): if you have any input to make something better feel freee to make a ticket or suggs in discord
+13:40:17.328 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Military
+13:40:19.800 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): for sure
+14:00:52.523 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6565.421387, 21.574156, 3638.925781>) Left the safezone
+14:05:27.996 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:05:28.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:05:28.007 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+14:05:28.007 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:05:28.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:10:21.667 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6580.891113, 21.371798, 3647.337158>) Entered the safezone
+14:12:51.582 [AI Patrol] Spawning 2 Manhattan Project bots at <1902.710815, 99.884567, 8796.046875>
+14:28:43.738 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<7506.773438, 36.702084, 2808.887939>) Left the safezone
+14:28:44.042 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<148.674057, 105.236794, 7058.488770>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.454849, 105.347168, 7057.415527>)
+14:28:45.429 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6593.991211, 21.285503, 3655.939941>) Entered the safezone
+14:28:54.910 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<148.313507, 105.245178, 7058.116699>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.454849, 105.347168, 7057.415527>)
+14:36:05.929 [BaseRaiding] BBP_Roof_Hatch (<141.931213, 113.341949, 7066.186035>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <140.668289, 110.599548, 7064.806641>) and the code is 1776
+14:37:12.953 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6564.065918, 24.893843, 3641.982910>) Left the safezone
+14:48:00.601 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6608.307129, 21.496937, 3660.965088>) Entered the safezone
+14:48:00.617 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+14:48:41.812 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6595.866211, 21.185894, 3638.964355>) Entered the safezone
+14:54:30.031 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6589.663574, 21.237959, 3635.687012>) Entered the safezone
+15:06:33.328 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Military
+15:07:11.589 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4708.953125, 102.855949, 9255.232422>) Left the safezone
+15:35:03.554 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+15:35:03.570 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+15:35:03.570 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+15:35:03.570 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+15:35:04.550 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+15:41:56.515 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:43:34.929 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:43:34.937 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:43:34.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:43:34.937 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:43:35.906 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:46:25.046 [BaseRaiding] BBP_Roof_Hatch (<151.551331, 117.720772, 7050.060059>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <152.521454, 116.083153, 7050.368164>) and the code is 1776
+15:50:50.496 [AI Patrol] Spawning 2 Police Academy bots at <5207.904297, 56.129997, 2151.968994>
+15:51:43.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+16:08:53.628 [BaseRaiding] BBP_BDoor (<150.937332, 104.944351, 7052.888672>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <150.857422, 105.229874, 7052.310547>) and the code is 1776
+16:29:40.296 [Killfeed] Invalid Name got beaten to a pulp by Police Academy with bare hands.
+16:30:13.324 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+16:30:14.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+16:31:23.035 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:31:23.042 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+16:31:23.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:31:23.042 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+16:31:24.003 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:33:33.328 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Military
+16:36:28.070 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+16:36:28.070 [AI Patrol] Spawning 2 Orting bots at <5158.286133, 220.624725, 5184.989258>
+16:45:50.312 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:45:50.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+16:45:50.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:45:50.320 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+16:45:51.246 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:48:47.578 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): Dr and blue you guys already doing your thing? lol
+16:53:03.550 [AI Patrol] Spawning 2 Vagabond Army bots at <3659.218994, 99.884567, 7997.568848>
+17:05:23.097 [AI Patrol] Spawning 2 FOB Alpha bots at <221.624557, 146.877243, 5010.875000>
+17:09:06.546 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+17:12:25.375 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): good over there cap?
+17:22:16.085 [Killfeed] Invalid Name got killed by FOB Alpha with M16-A2 from a distance of 25 m.
+17:22:47.343 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+17:22:48.335 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+17:23:16.007 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): hope yall are getting ready LOL
+17:23:33.453 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): we will be, dont you worry
+17:23:58.878 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Been ready.  Just waiting on you, grandpa.
+17:24:08.710 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lmao
+17:24:40.179 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:25:14.800 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): we will be posting pictures in the discord of starting location.  and some random along the way.
+17:26:29.718 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<1731.567139, 128.545868, 10100.112305>) Left the safezone
+17:32:20.234 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ]
+17:32:27.324 [Chat - Team]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): l
+17:32:29.796 [Chat - Team]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): k
+17:39:17.675 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:40:08.308 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:40:08.316 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:40:08.316 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:40:09.242 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:42:11.312 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:42:11.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:42:11.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:42:11.320 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:42:12.277 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:53:35.152 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<145.681503, 105.307640, 7055.156738>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.454849, 105.347168, 7057.415527>)
+17:53:52.234 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.454865, 105.347176, 7057.415527>) as driver
+17:53:55.089 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.454865, 105.347176, 7057.415527>)
+17:54:16.136 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<161.982925, 105.698257, 7028.325684>)
+17:55:13.804 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<161.982712, 105.698250, 7028.325684>) as driver
+17:58:10.710 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1384.249756, 207.011002, 6550.032715>)
+17:58:14.292 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1384.249512, 207.011002, 6550.032715>)
+17:58:34.398 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:58:34.613 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:59:15.257 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+17:59:15.269 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:59:15.281 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

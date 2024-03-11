@@ -1,0 +1,155 @@
+18:01:10.238 [Party] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:01:10.253 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:01:10.253 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+18:01:10.253 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:01:11.222 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:01:11.355 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+18:01:11.359 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:01:11.359 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+18:01:11.359 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:01:12.332 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+18:03:11.242 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+18:03:31.667 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+18:03:31.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:03:31.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+18:03:31.671 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:03:32.648 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+18:03:35.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:03:35.312 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:04:22.226 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:04:22.230 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:04:22.230 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:04:23.207 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:05:11.183 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): What the f are you doing?
+18:05:35.058 [Chat - Team]("(ADMIN)BLUE"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): sucking dick for cement
+18:05:42.902 [Chat - Team]("(ADMIN)BLUE"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i mean seeeeemen
+18:06:07.238 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+18:06:12.175 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Medical
+18:06:13.421 [Party] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:06:52.035 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+18:06:52.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:06:52.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+18:06:52.039 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:06:53.011 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+18:08:02.906 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:08:02.910 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:08:02.910 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:08:02.910 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:08:03.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:16:05.531 [BaseRaiding] BBP_SGate (<4637.301270, 102.343491, 9247.311523>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <4636.010254, 102.383423, 9247.297852>) and the code is 181818
+18:19:19.414 [AI Patrol] Spawning 2 FOB Alpha bots at <345.156525, 146.877243, 4982.129883>
+18:22:18.031 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): '
+18:41:56.421 [BaseRaiding] ExpansionSafeMedium (<4624.026367, 108.082726, 9244.907227>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <4624.920898, 107.483749, 9244.729492>) and the code is 181818
+18:54:17.726 [AI Patrol] Spawning 2 Airfield bots at <6628.012207, 18.656820, 1766.190674>
+19:00:52.945 [AI Patrol] Spawning 2 Vagabond Army bots at <3552.187500, 99.884567, 7940.447266>
+19:02:20.070 [AI Patrol] Spawning 2 National Guard bots at <9003.938477, 46.044365, 3395.069824>
+19:02:23.000 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<144.495010, 105.326790, 7055.553711>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.631882, 105.454155, 7054.200684>)!
+19:11:25.781 [Killfeed] Invalid Name got killed by National Guard with M4-A1 from a distance of 17 m.
+19:11:55.382 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+19:11:56.375 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+19:27:41.726 [AI Patrol] Spawning 2 Orting bots at <5257.386719, 221.129395, 4894.205078>
+19:33:45.171 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Basebuilding
+19:35:17.828 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6608.357422, 21.513142, 3706.432129>) Entered the safezone
+19:35:48.000 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 33
+19:37:12.804 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 40
+19:37:42.265 [Market] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has send a requested to purchase ammobox_556x45_20rnd x10 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+19:37:42.375 [Market] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has bought ammobox_556x45_20rnd x10 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 320.
+19:37:50.554 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 680 on his ATM account.
+19:50:44.023 [VehicleDeleted] BMW_X5_white (id=9E9E0A1F6A4ABE10F0D34E9CBEED9AC4 pos=<141.634293, 105.454010, 7054.202637>)
+19:50:44.023 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<143.348923, 105.351532, 7056.258789>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.634293, 105.454010, 7054.202637>)!
+19:56:07.640 [VehicleDeleted] Nissan_warrior (id=23CEDC63DF4A6683AEF8C9AAAFBF2D4F pos=<656.017395, 117.180054, 6970.051270>)
+20:03:47.250 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<144.537140, 105.339394, 7054.951172>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.634293, 105.454010, 7054.202637>)!
+20:04:40.117 [VehicleDeleted] BMW_X5_white (id=DD9AA8D36E4B7EFABF0E6090FDECC403 pos=<141.636734, 105.453873, 7054.204590>)
+20:04:40.117 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<145.010468, 105.316658, 7055.730957>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.636734, 105.453873, 7054.204590>)!
+20:27:00.351 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:27:00.351 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:27:00.351 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+20:27:00.351 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:27:01.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:43:05.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+20:43:05.867 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+20:43:41.578 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:43:41.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+20:43:41.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:43:41.593 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+20:43:42.546 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:44:19.281 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<602.986572, 128.312546, 7637.001953>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+20:54:33.234 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:54:33.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=
+20:54:33.242 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:54:34.210 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:58:32.046 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.097473, 128.315170, 7637.393555>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+20:59:07.171 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer
+21:05:04.406 [AI Patrol] Spawning 2 Manhattan Project bots at <2016.864746, 99.884567, 8827.562500>
+21:05:44.492 [AI Patrol] Spawning 2 Trench 94 bots at <3157.675781, 99.884567, 9273.183594>
+21:28:29.843 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6580.417480, 21.433790, 3660.240234>) Entered the safezone
+21:28:50.851 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 32
+21:29:11.992 [ATM] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 500 on his ATM account.
+21:30:11.843 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.708252, 128.334595, 7637.328125>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+21:31:02.765 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.966980, 128.340118, 7638.331055>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+21:31:11.507 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.145996, 128.317520, 7637.059082>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+21:32:58.867 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<152.157669, 105.166756, 7059.976074>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<154.313614, 105.183525, 7058.569824>)
+21:43:17.015 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.724182, 128.334427, 7637.599609>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+21:54:39.921 [Killfeed] Invalid Name was killed by an explosion caused by EGD-5 Frag Grenade.
+21:55:32.125 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+21:55:33.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+21:56:07.679 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+22:03:55.523 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+22:06:15.648 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<154.313858, 105.183510, 7058.569824>) as driver
+22:06:28.437 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<154.313797, 105.183517, 7058.569824>)
+22:07:14.726 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<162.648743, 105.259064, 7036.565918>) as passenger
+22:15:53.273 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1660.649658, 111.059990, 4920.781250>)
+22:15:54.031 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1660.649658, 111.059990, 4920.781250>)
+22:16:13.554 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<1662.353760, 111.011528, 4920.640137>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1660.649780, 111.059990, 4920.781250>)
+22:22:26.132 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<1662.493408, 111.011261, 4919.320313>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1660.649780, 111.059990, 4920.781250>)
+22:22:32.328 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1660.649780, 111.059990, 4920.781250>) as passenger
+22:22:50.578 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1660.649780, 111.059990, 4920.781250>)
+22:24:34.187 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1661.253296, 111.059616, 4920.632324>) as driver
+22:24:38.257 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1661.252930, 111.059624, 4920.632324>)
+22:24:39.843 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1661.253296, 111.059624, 4920.632324>) as passenger
+22:26:00.351 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705322, 37.959320, 3909.906738>)
+22:26:02.929 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705200, 37.959316, 3909.906738>)
+22:26:03.726 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705200, 37.959316, 3909.906738>)
+22:26:21.648 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<970.854065, 37.912067, 3907.600830>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705444, 37.959316, 3909.906738>)
+22:30:38.109 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<605.018860, 128.381287, 7635.163086>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+22:31:07.359 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+22:31:07.359 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+22:33:10.875 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<972.328552, 37.912060, 3911.869873>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705444, 37.959316, 3909.906738>)
+22:33:31.593 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705505, 37.959316, 3909.906738>) as driver
+22:33:33.585 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705444, 37.959316, 3909.906738>) as passenger
+22:33:34.921 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<971.705200, 37.959316, 3909.906982>)
+22:37:00.796 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111332, 1071.787720>)
+22:37:04.625 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111331, 1071.787598>)
+22:37:05.062 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111324, 1071.787109>)
+22:37:13.328 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<1470.297363, 8.015615, 1070.535156>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111325, 1071.787109>)
+22:38:04.578 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<604.824890, 128.348785, 7634.552246>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+22:38:31.851 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+22:38:38.007 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+22:39:38.195 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Basebuilding
+22:47:43.656 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<1470.783081, 8.060239, 1073.289429>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111325, 1071.787109>)
+22:48:21.023 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111327, 1071.787354>) as driver
+22:48:24.476 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle MUSTANG Rust  (Locked) (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1472.329590, 8.111327, 1071.787354>)
+22:49:20.890 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1691.116577, 9.418007, 1178.962036>)
+22:49:26.406 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<1692.347168, 9.389508, 1180.445679>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1691.116699, 9.418008, 1178.962036>)
+22:52:56.000 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: TuY5x2jSsTR-mjQpssr1GI96WDMxX5P-GbNhFkNeggQ=
+22:53:24.437 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<1692.259399, 9.386285, 1180.088501>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1691.116699, 9.418008, 1178.962036>)
+22:55:09.960 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1691.116699, 9.418008, 1178.962036>) as passenger
+22:55:12.625 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1691.116699, 9.418006, 1178.962036>) as driver
+22:55:16.031 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1691.116699, 9.418007, 1178.962036>)
+22:56:34.796 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1566.472290, 8.720180, 1164.697021>)
+22:56:52.031 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1566.275757, 8.713862, 1163.792480>) as passenger
+23:00:56.179 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1781.817505, 109.488152, 5335.122070>)
+23:00:56.773 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1781.817505, 109.488152, 5335.122070>)
+23:01:02.531 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1781.817627, 109.488152, 5335.122070>) as passenger
+23:01:06.023 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1781.817139, 109.488129, 5335.122070>) as driver
+23:07:53.632 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<160.169250, 105.317245, 7037.137695>)
+23:08:26.023 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<141.332809, 105.444992, 7057.729492>)
+23:08:29.625 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<141.332809, 105.445114, 7057.729492>)
+23:19:29.218 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<145.311340, 105.314125, 7055.183105>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.636734, 105.453873, 7054.204590>)!
+23:21:45.289 [VehicleDeleted] BMW_X5_white (id=82861AA45D44AB3B02E7B89A235B5132 pos=<141.639145, 105.453735, 7054.206543>)
+23:21:45.289 [VehicleCover] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<143.981323, 105.331772, 7056.363281>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.639145, 105.453735, 7054.206543>)!
+23:25:04.156 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<144.467773, 105.317009, 7057.528809>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<141.332870, 105.445122, 7057.729492>)
+23:47:25.812 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+23:47:25.812 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+23:58:24.796 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:14.859 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

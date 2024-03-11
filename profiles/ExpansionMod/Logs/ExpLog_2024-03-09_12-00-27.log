@@ -1,0 +1,152 @@
+12:01:26.847 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+12:06:18.277 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Managed to get it
+12:06:19.468 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:06:19.472 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:06:19.472 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 14
+12:06:20.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+12:06:26.628 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Sarka was KIA though
+12:06:33.347 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Basebuilding
+12:06:40.410 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ?
+12:09:26.164 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+12:19:10.835 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6583.402344, 21.338276, 3644.915771>) Entered the safezone
+12:19:28.960 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:29.058 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:29.210 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:29.304 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:29.441 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:29.523 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:29.671 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:29.769 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:29.863 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:29.914 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:30.125 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:30.226 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:30.312 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:30.363 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:30.503 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:30.601 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:30.648 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+12:19:30.699 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) and got 750.
+12:19:37.496 [ATM] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 6750 on his ATM account.
+12:26:26.121 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+12:37:19.781 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID= ownerName=)
+12:37:19.781 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) created a party named Evsy (Evsy)
+12:37:20.781 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 16
+12:39:16.496 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): New to this building malarky. How do I get a territory?
+12:39:41.562 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): put rope and a fe small sticks together to make a flagpole kit
+12:39:52.289 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): once you have that just place it and tada
+12:39:56.425 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Ah... ok. Got it!
+12:39:59.722 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): TY so much
+12:40:02.941 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): np
+12:40:20.359 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): rmember to raise your flag too
+12:40:32.515 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Need all the stones to make a flagpole too?
+12:40:42.656 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): nope
+12:41:46.164 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Sweet, Thanks again
+12:41:52.976 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): np
+12:42:17.843 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): time to find some rope!
+12:42:30.097 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): guts from an animal
+12:44:07.972 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i would give you some rope but i'm probably nowhere near you lol
+12:44:19.988 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): found a sheep - ty :D
+12:44:23.707 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): np
+12:45:56.902 [AI Patrol] Spawning 2 Manhattan Project bots at <1941.504150, 99.884567, 8761.883789>
+12:54:49.000 [AI Patrol] Spawning 2 Vagabond Army bots at <3675.806152, 99.884567, 7909.688477>
+12:56:18.757 [Territory] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) created territory Evsy at <3067.088867, 354.618530, 5003.622070>
+13:00:38.652 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) left the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+13:16:53.535 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:16:53.546 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+13:16:53.546 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+13:16:53.546 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+13:16:54.511 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:18:58.394 [AI Patrol] Spawning 2 Orting bots at <5357.660645, 219.722031, 4964.387695>
+13:24:43.234 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6619.386230, 21.493620, 3669.520508>) Entered the safezone
+13:24:43.234 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+13:24:43.246 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+13:24:43.246 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+13:24:44.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:26:05.113 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6240.692871, 65.215523, 8246.191406>) Left the safezone
+13:28:11.253 [Territory] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) created territory Raid This Base at <6221.877441, 69.180031, 8133.506836>
+13:30:21.300 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6583.420898, 21.510996, 3686.647705>) Entered the safezone
+13:31:44.378 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Basebuilding
+13:35:01.984 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:35:03.828 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:35:10.433 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:35:10.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+13:35:10.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:35:11.410 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+13:37:47.871 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<154.857559, 105.277168, 7065.276367>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.212646, 105.267433, 7067.897949>)
+13:44:38.250 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<149.325867, 105.233330, 7056.913086>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<146.356842, 105.292114, 7057.405762>)
+13:45:15.000 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<149.228088, 105.230766, 7057.742676>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<146.356842, 105.292114, 7057.405762>)
+13:51:43.156 [BaseRaiding] BBP_BDoor (<6233.730469, 79.775780, 8148.976563>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6232.197754, 79.802956, 8148.604980>) and the code is 841554
+13:52:27.382 [BaseRaiding] BBP_BDoor (<6228.279297, 79.775986, 8146.469238>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6226.929199, 79.190277, 8145.762695>) and the code is 841554
+13:57:21.000 [BaseRaiding] BBP_SDoor (<147.220917, 105.819901, 7063.665039>) Code set by player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <147.143951, 105.395470, 7062.238770>) and the code is 1776
+14:06:51.386 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+14:06:51.386 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+14:11:03.800 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)to the party named dirtymike
+14:11:11.417 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:11:12.417 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:17:58.597 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): cute
+14:24:44.031 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:27:02.199 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) invited the player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)to the party named dirtymike
+14:27:09.164 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:27:10.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:27:12.000 [Territory] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0= pos=<153.226028, 105.153664, 7058.819824>) was invited to join the territory Of 3rd times a charm at <117.690193, 106.744423, 7118.925293> by the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)
+14:28:15.699 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): rain rain go away
+14:35:47.472 [AI Patrol] Spawning 2 FOB Alpha bots at <291.991333, 146.877243, 5023.805664>
+14:41:03.656 [BaseRaiding] BBP_BDoor (<6239.074219, 82.993790, 8151.191895>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6241.057129, 83.005951, 8150.994629>) and the code is 841554
+14:56:36.148 [BaseRaiding] mmg_old_safe_grey (<6234.107910, 83.025139, 8150.884766>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6234.636719, 83.006172, 8150.402344>) and the code is 841554
+14:57:58.378 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Basebuilding
+14:59:12.875 [BaseRaiding] mmg_old_safe_green (<6235.480957, 83.024040, 8147.644531>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6235.890137, 83.006111, 8148.372070>) and the code is 841554
+14:59:43.746 [BaseRaiding] BBP_BDoor (<6234.711426, 82.992554, 8139.401855>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6234.888184, 83.005127, 8138.014160>) and the code is 841554
+15:12:54.121 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:15:10.632 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:15:10.644 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+15:15:10.644 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:15:11.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:24:54.437 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:26:44.550 [BaseRaiding] BBP_BDoor (<6232.296875, 82.992554, 8144.332520>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6232.003906, 83.004936, 8142.864258>) and the code is 841554
+15:28:27.933 [BaseRaiding] BBP_BDoor (<6232.296875, 82.993172, 8144.332031>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6233.446777, 83.004913, 8143.334961>) and the code is 841554
+15:29:42.210 [BaseRaiding] BBP_SDoor (<6235.703613, 82.993172, 8145.898926>) Code set by player "[ADMIN]DrKilledByDeath" (ID = "spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=" at <6235.018555, 83.004936, 8144.868164>) and the code is 841554
+15:38:32.652 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:38:32.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:38:32.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:38:32.656 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:38:33.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:42:21.507 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:43:18.070 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:43:18.074 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:43:18.074 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:43:18.074 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:43:19.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:24:42.382 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Basebuilding
+16:26:26.710 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<141.643997, 105.453377, 7054.210449>) as driver
+16:26:32.847 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<141.643997, 105.453384, 7054.210449>)
+16:26:52.210 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<141.644043, 105.453384, 7054.210449>) as driver
+16:27:19.250 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<141.644043, 105.453384, 7054.210449>)
+16:29:18.253 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<141.644073, 105.453384, 7054.210449>) as driver
+16:29:21.257 [VehicleEngine] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] started vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<141.644073, 105.453384, 7054.210449>)
+16:36:25.535 [VehicleEngine] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] stopped vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3823.114502, 331.394531, 5110.846191>)
+16:36:28.808 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3823.114502, 331.394501, 5110.846191>)
+16:40:00.195 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yo doc
+16:40:24.144 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3823.114502, 331.394470, 5110.846191>) as driver
+16:40:26.324 [VehicleEngine] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] started vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3823.114502, 331.394501, 5110.846191>)
+16:41:26.718 [VehicleEngine] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] stopped vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3742.518799, 346.328156, 5022.655762>)
+16:41:31.765 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3742.518799, 346.328156, 5022.655762>)
+16:43:49.707 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3742.518799, 346.328156, 5022.655762>) as driver
+16:43:52.734 [VehicleEngine] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] started vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<3742.518799, 346.328125, 5022.655762>)
+16:43:58.726 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6626.601074, 21.907352, 3670.486816>) Entered the safezone
+16:43:58.726 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:43:58.734 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+16:43:58.734 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:43:58.734 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+16:43:59.695 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:45:47.109 [Safezone] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6609.726563, 20.927881, 3596.600342>) Left the safezone
+16:49:19.781 [AI Patrol] Spawning 2 Airfield bots at <6637.333984, 18.636168, 1765.126587>
+16:53:56.015 [AI Patrol] Spawning 2 Police Academy bots at <5198.557129, 56.129997, 2242.248779>
+16:54:45.484 [VehicleEngine] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] stopped vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<140.391754, 105.520973, 7053.398926>)
+16:54:50.496 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<140.391708, 105.520966, 7053.398926>)
+17:08:29.996 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:17:57.375 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:49:49.433 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Basebuilding
+17:57:56.843 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:59:15.171 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:59:15.175 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

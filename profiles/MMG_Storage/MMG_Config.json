@@ -5,7 +5,7 @@
     "EnableRaid": "true",
     "DeleteLockAfterRaid": "true",
     "RaidingTools": [
-        "Hacksaw",
-        "ExpansionBoltCutters"
+        "hacksaw",
+        "expansionboltcutters"
     ]
 }

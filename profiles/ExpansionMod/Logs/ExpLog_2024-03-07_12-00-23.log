@@ -1,0 +1,126 @@
+12:03:01.824 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+12:03:01.824 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+12:04:56.109 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6614.661621, 21.492704, 3670.179932>) Entered the safezone
+12:04:56.113 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:05:16.359 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 33
+12:07:36.617 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<6630.414551, 21.871893, 3733.306885>) Left the safezone
+12:08:07.941 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Basebuilding
+12:11:40.253 [AI Patrol] Spawning 2 Airfield bots at <6599.525879, 20.126455, 1936.662231>
+12:17:04.765 [AI Patrol] Spawning 2 Orting bots at <5234.034180, 219.743729, 5210.129395>
+12:46:29.976 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:46:29.988 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+12:46:29.988 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+12:46:30.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:49:40.660 [Killfeed] Stiffy got killed by Airfield with M16-A2 from a distance of 7 m.
+12:57:57.144 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) joinded the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)
+12:57:57.152 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+12:57:57.152 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 12
+12:57:57.152 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+12:57:58.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 12
+13:18:52.855 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:18:52.855 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:26:49.164 [AI Patrol] Spawning 2 Trench 94 bots at <3174.894775, 99.884567, 9195.126953>
+13:34:04.945 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Military
+13:41:26.210 [AI Patrol] Spawning 2 Police Academy bots at <5206.158691, 56.129997, 2363.747314>
+13:42:32.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+13:42:32.460 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+13:50:18.300 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6649.292480, 21.438852, 3642.479736>) Entered the safezone
+13:50:48.667 [Expansion Quests] - CompleteQuest - Player with UID VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= has completed quest 33
+13:50:55.683 [ATM] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has deposited 1000 on his ATM account.
+13:51:24.019 [ATM] Player ShadowMan (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has transfered 1000 to the player Chuck_N_Biskitz (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=).
+13:53:06.273 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= for quest 1
+13:54:46.269 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6574.680176, 21.555609, 3669.763428>) Entered the safezone
+13:54:56.386 [BaseRaiding] BBP_BDoor (<155.768341, 108.599876, 7066.858887>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <155.796402, 109.036766, 7065.432129>) and the code is 1776
+13:55:54.718 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6676.216309, 23.131712, 3738.662109>) Left the safezone
+13:57:16.714 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<148.888748, 105.236099, 7057.884277>) uncovered vehicle "MUSTANG_rust" (GlobalID=80000000800000008000000080009AAB pos=<145.286407, 105.348595, 7057.723145>)!
+13:58:38.507 [VehicleAttachments] Player ShadowMan (uid=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) detached Gunter 2 Wheel (type=Hatchback_02_Wheel) from vehicle Gunter 2(id=AAD3965F614264F75C6C17B2A16524B1 pos=<6249.680664, 37.223969, 3953.896240>)
+14:05:00.378 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 33
+14:05:24.777 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 32
+14:05:38.828 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:38.914 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:39.156 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:39.242 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:39.640 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:39.718 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:40.085 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:40.164 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:40.484 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:40.562 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:41.085 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:41.167 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:41.851 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:41.937 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:42.175 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:42.214 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:46.187 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:46.261 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:46.386 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+14:05:46.464 [Market] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 32.
+14:05:57.945 [ATM] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 680 on his ATM account.
+14:11:05.000 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6581.519531, 21.657486, 3740.466064>) Left the safezone
+14:25:16.078 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<155.165482, 105.277168, 7065.285645>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.105545, 105.372581, 7068.238281>)
+14:37:50.058 [AI Patrol] Spawning 2 Vagabond Army bots at <3381.425293, 100.113304, 7891.536621>
+14:49:13.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:49:13.890 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:51:43.066 [BaseRaiding] BBP_BDoor (<150.937332, 104.944351, 7052.888672>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <151.177505, 105.222931, 7052.544434>) and the code is 1776
+14:52:53.640 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<145.120789, 105.352081, 7053.549805>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.629440, 105.454292, 7054.198730>)!
+15:00:51.968 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Military
+15:19:52.855 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:19:52.863 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:19:52.863 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:19:53.824 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:31:35.718 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+15:31:35.730 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+15:31:35.730 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+15:31:35.730 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+15:31:36.687 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:35:31.472 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:38:04.628 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:50:07.386 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+15:53:11.019 [Safezone] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6582.938965, 21.347969, 3646.148438>) Entered the safezone
+15:54:11.957 [Expansion Quests] - CompleteQuest - Player with UID VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= has completed quest 1
+15:54:16.859 [ATM] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has deposited 100 on his ATM account.
+15:54:55.015 [Party] Player "ShadowMan" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) left the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)
+16:07:06.195 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:07:06.203 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+16:07:06.203 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:07:07.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:14:37.496 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:15:32.476 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+16:15:32.480 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+16:15:32.480 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:15:33.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+16:25:04.117 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<147.680344, 105.265266, 7056.431641>) paired a  ExpansionCarKey to MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.287048, 105.348579, 7057.723145>)
+16:25:12.242 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.287064, 105.348579, 7057.723145>) as driver
+16:25:14.070 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.287094, 105.348579, 7057.723145>)
+16:25:57.480 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<157.187607, 105.133766, 7059.474121>)
+16:26:37.320 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<157.187775, 105.133759, 7059.474121>) as driver
+16:26:38.718 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<157.187759, 105.133751, 7059.474121>)
+16:27:39.984 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer
+16:27:40.414 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<159.486420, 105.160606, 7044.224121>)
+16:27:51.054 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<154.314072, 105.183510, 7058.569824>)
+16:33:06.968 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<153.432755, 105.162193, 7056.468262>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<154.313614, 105.183525, 7058.569824>)
+16:53:28.371 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:53:28.371 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:54:24.406 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:04:09.351 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6607.831055, 24.540850, 3662.009766>) Entered the safezone
+17:04:09.351 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:04:09.367 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+17:04:09.367 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+17:04:10.343 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:07:20.789 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<5930.327637, 65.033211, 3550.266113>) Left the safezone
+17:16:53.085 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+17:16:53.093 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+17:16:53.093 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+17:16:53.093 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+17:16:54.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+17:20:18.238 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:20:18.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+17:20:18.242 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:20:19.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:22:24.984 [VehicleDeleted] BMW_X5_white (id=73C1161FAA49FA627FDCE5866E7B8C9B pos=<141.631882, 105.454155, 7054.200684>)
+17:22:24.984 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<145.043152, 105.318115, 7055.336914>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.631882, 105.454155, 7054.200684>)!
+17:46:36.152 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+17:52:19.984 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer_Basebuilding
+17:57:07.554 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:59:15.089 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)

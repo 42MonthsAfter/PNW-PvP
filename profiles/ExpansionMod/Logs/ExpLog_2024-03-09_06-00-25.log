@@ -1,0 +1,89 @@
+06:02:15.033 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:02:15.037 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:02:15.039 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:02:15.998 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:07:20.058 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+06:18:15.468 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<7116.652344, 7.148150, 731.669250>) paired a  ExpansionCarKey to G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7118.181152, 7.081196, 731.862915>)
+06:18:17.203 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<7116.652344, 7.148150, 731.669250>) used the  ExpansionCarKey to lock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7118.181152, 7.081196, 731.862915>)
+06:18:18.601 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<7116.652344, 7.148150, 731.669250>) used the  ExpansionCarKey to unlock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7118.181152, 7.081196, 731.862915>)
+06:18:29.734 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7118.181152, 7.081151, 731.862610>) as driver
+06:18:34.730 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7118.181152, 7.081151, 731.862488>)
+06:19:01.269 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7121.055664, 7.081150, 721.602905>)
+06:19:17.767 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7121.055176, 7.081149, 721.602356>) as driver
+06:19:20.939 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7121.055664, 7.081149, 721.602478>)
+06:19:43.199 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7126.599609, 6.564232, 711.809509>)
+06:20:10.705 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7126.599609, 6.564237, 711.809631>) as driver
+06:20:16.257 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<7126.599609, 6.564207, 711.808533>)
+06:28:03.302 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031183, 1071.518677>)
+06:28:13.175 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4324.886719, 9.110798, 1070.286743>) used the  ExpansionCarKey to lock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031185, 1071.518677>)
+06:28:45.486 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4301.688477, 8.020824, 1091.711670>) uncovered vehicle "Truck_01_Covered" (GlobalID=80000000800000008000000080000018 pos=<4303.736328, 8.216668, 1094.976318>)!
+06:32:01.968 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4325.179199, 9.111033, 1070.494995>) used the  ExpansionCarKey to unlock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031185, 1071.518677>)
+06:33:13.199 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4324.463867, 9.110579, 1070.250977>) used the  ExpansionCarKey to lock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031185, 1071.518677>)
+06:33:34.482 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4306.021484, 8.402685, 1094.242920>) used the  ExpansionCarKey to unlock Truck_01_Covered (id=1ED2D3019B4894132A9F94A443B1CD53 pos=<4303.727539, 8.216213, 1094.952759>)
+06:34:09.472 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4321.311523, 9.110437, 1073.229370>) used the  ExpansionCarKey to unlock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031185, 1071.518677>)
+06:35:46.646 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4305.105469, 8.322162, 1093.486938>) used the  ExpansionCarKey to lock Truck_01_Covered (id=1ED2D3019B4894132A9F94A443B1CD53 pos=<4303.727539, 8.216213, 1094.952759>)
+06:36:29.671 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031183, 1071.518677>) as driver
+06:36:33.851 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4323.437500, 9.031183, 1071.518677>)
+06:37:22.257 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4254.195801, 5.264431, 1114.943848>)
+06:37:33.511 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4252.442383, 5.210997, 1114.452759>) used the  ExpansionCarKey to lock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4254.195801, 5.264323, 1114.941528>)
+06:37:45.281 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4252.442383, 5.210997, 1114.452759>) used the  ExpansionCarKey to unlock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4254.195801, 5.264323, 1114.941528>)
+06:38:19.781 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4252.252441, 5.181400, 1114.121338>) used the  ExpansionCarKey to lock G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4254.195801, 5.264323, 1114.941528>)
+06:38:34.132 [VehicleDeleted] G65 (id=CB1B6C89864FEAC1906B9B9EFA4E9741 pos=<4254.195801, 5.264323, 1114.941528>)
+06:38:34.132 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4252.252441, 5.181400, 1114.121338>) covered vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4254.195801, 5.264323, 1114.941528>)!
+06:39:50.988 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:09:12.058 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+09:09:12.058 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+09:09:14.058 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+10:01:13.968 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6612.609375, 21.483297, 3664.044434>) Entered the safezone
+10:01:13.968 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+10:01:13.980 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+10:01:13.984 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+10:01:14.957 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+10:04:17.433 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+10:05:45.218 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6609.290039, 21.491621, 3661.468750>) Entered the safezone
+10:05:45.230 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+10:06:18.277 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6679.502930, 22.098930, 3625.738525>) Left the safezone
+10:13:27.757 [BaseBuildingRaiding] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<162.223206, 105.060585, 7069.539063>) deployed ExpansionSatchel at <162.061005, 105.722206, 7070.128906>
+10:14:41.222 [BaseBuildingRaiding] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<159.863129, 105.105743, 7045.208984>) deployed ExpansionSatchel at <160.240417, 105.767365, 7045.690918>
+10:36:23.195 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+10:53:58.214 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:53:58.226 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+10:53:58.226 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 14
+10:53:59.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+11:12:39.710 [VehicleEnter] Player Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle BMW (rust) (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<99.978157, 105.664787, 6904.047852>) as driver
+11:12:41.750 [VehicleEngine] Player Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<99.978111, 105.664757, 6904.046875>)
+11:13:06.406 [VehicleLeave] Player Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle BMW (rust) (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<31.740067, 110.963646, 6950.634766>)
+11:16:47.843 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+11:16:47.843 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+11:20:02.851 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+11:20:02.851 [BaseBuildingRaiding] Player "Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <143.13, 105.91, 7066.53> damaged ExpansionSafeMedium at <144.59, 106.64, 7066.44>
+11:20:02.851 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+11:20:02.851 [BaseBuildingRaiding]  hitpoints decreased from 15000 to 12030
+11:20:02.851 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+11:24:01.652 [VehicleCover] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<144.781799, 105.362984, 7053.620117>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<141.641571, 105.453598, 7054.208496>)!
+11:26:09.937 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4430.801270, 125.186935, 3105.813965>) as driver
+11:26:20.160 [VehicleEngine] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] started vehicle Sarka 120 (id=93943CDCD841894492A788A19E9CC145 pos=<4430.801270, 125.186943, 3105.815186>)
+11:29:06.281 [AI Patrol] Spawning 2 Orting bots at <5381.630859, 219.684647, 5170.396484>
+11:29:40.781 [VehicleEnter] Player Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle BMW (rust) (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<31.789019, 110.958099, 6950.594238>) as driver
+11:29:44.804 [VehicleEngine] Player Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<31.884748, 110.947235, 6950.515625>)
+11:31:25.945 [AI Patrol] Spawning 2 FOB Alpha bots at <201.633850, 146.877243, 4857.065918>
+11:33:46.480 [VehicleLeave] Player Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle BMW (rust) (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<881.112122, 37.803932, 3732.510986>)
+11:36:30.984 [VehicleDeleted] BMW_rust (id=F51CB32A8547583F11FFF7AC5E1002CD pos=<881.111572, 37.803944, 3732.510254>)
+11:38:59.648 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Well thats annoying :P
+11:39:24.855 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ?
+11:40:57.468 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): whats annoying evsy?
+11:41:34.808 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Driving, Desync, Car smashed into a tree, Dead XD
+11:41:51.523 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh ffs i hate when that shit happens
+11:41:57.808 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oof, thats the worst
+11:42:05.820 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): So if anyone wants loadsa free building mats, They're on my body near Orting
+11:42:37.406 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+11:42:58.308 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): DOubt I can run back there before restart
+11:43:25.437 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm not even close to there lol
+11:49:07.304 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): I might have something for ya evsy, im heading towards the holler ill be there after restart
+11:49:16.789 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): like 5.5k out
+11:49:28.320 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): and bodies do persist over restarts acording to the discord
+11:49:40.191 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i wouldnt exactly trust it though
+11:49:57.445 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Well I might make it back - 3k out from red skull now
+11:50:16.832 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): rev up those lambofeeties
+11:53:59.609 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:55:40.367 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): well bears are frightening when your hands are full of loot

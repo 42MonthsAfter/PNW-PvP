@@ -1,0 +1,255 @@
+00:01:06.727 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:01:06.732 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+00:01:06.732 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+00:01:06.732 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+00:01:07.577 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:01:07.582 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=
+00:01:07.582 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:01:07.582 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=
+00:01:07.583 [AI Patrol] Spawning 2 Manhattan Project bots at <2022.073853, 99.998627, 8804.819336>
+00:01:07.679 [AI Patrol] Spawning 2 Trench 94 bots at <3186.584961, 99.884567, 9297.366211>
+00:01:07.719 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:01:08.501 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:01:12.651 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:01:12.661 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:01:12.661 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:01:12.661 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+00:01:13.626 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:01:28.093 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6000.625977, 66.250237, 8070.658203>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<5998.734863, 66.282890, 8072.015625>)
+00:01:39.007 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:01:39.011 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:01:39.011 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:01:39.012 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+00:01:39.981 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:02:03.094 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<5998.732910, 66.282906, 8072.015625>) as driver
+00:02:05.877 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<5998.733398, 66.282913, 8072.015625>)
+00:02:23.482 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:23.486 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:02:23.486 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:23.486 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:02:24.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:48.059 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:48.064 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:02:48.064 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:02:49.041 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:07.926 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Nissan warrior Camo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<6237.808105, 65.541290, 7962.946777>)
+00:03:11.228 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:03:11.232 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:03:11.233 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:11.233 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:03:11.513 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<6237.808105, 65.541283, 7962.946289>)
+00:03:12.205 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:22.412 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6235.685059, 65.496162, 7960.382324>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<6237.808105, 65.541290, 7962.946777>)
+00:03:31.447 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:03:35.565 [VehicleDeleted] Nissan_warrior_kamo (id=F1F0954D4A4090D6B79E2E87E5300CA3 pos=<6237.808105, 65.541290, 7962.946777>)
+00:03:35.566 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6235.459961, 65.496819, 7960.407227>) covered vehicle "Nissan_warrior_kamo" (GlobalID=80000000800000008000000080008CD0 pos=<6237.808105, 65.541290, 7962.946777>)!
+00:06:09.453 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer
+00:14:34.008 [Killfeed] Invalid Name got killed by Trench 94 with M4-A1 from a distance of 10 m.
+00:15:17.956 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:15:18.947 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:16:37.059 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:16:38.053 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:19:30.041 [AI Patrol] Spawning 2 Airfield bots at <6465.991699, 21.520069, 1768.903931>
+00:25:36.013 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6607.930176, 24.540854, 3662.151611>) Entered the safezone
+00:25:36.013 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+00:25:36.025 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+00:25:36.025 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:25:37.005 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:26:03.167 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+00:26:21.831 [Expansion Quests] - CompleteQuest - Player with UID 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4= has completed quest 99
+00:26:26.948 [Safezone] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4= pos=<6641.763672, 21.273560, 3637.308594>) Entered the safezone
+00:26:34.432 [VehicleEnter] Player Invalid Name [uid=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=] entered vehicle Gunter 2 (id=AAD3965F614264F75C6C17B2A16524B1 pos=<6249.655273, 37.302193, 3953.960938>) as driver
+00:26:36.186 [VehicleEngine] Player Invalid Name [uid=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=] started vehicle Gunter 2 (id=AAD3965F614264F75C6C17B2A16524B1 pos=<6249.658203, 37.302349, 3953.951416>)
+00:26:39.215 [VehicleLeave] Player Invalid Name [uid=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=] left vehicle Gunter 2 (id=AAD3965F614264F75C6C17B2A16524B1 pos=<6249.659668, 37.302780, 3953.940186>)
+00:28:04.117 [AI Patrol] Spawning 2 Orting bots at <5304.816895, 219.696609, 4994.387207>
+00:29:56.577 [Safezone] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4= pos=<6667.630371, 21.810503, 3635.870361>) Left the safezone
+00:30:00.825 [Safezone] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4= pos=<6655.306152, 21.709352, 3661.538818>) Entered the safezone
+00:30:20.196 [Safezone] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4= pos=<6595.656738, 21.665907, 3759.698730>) Left the safezone
+00:31:14.820 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:31:14.824 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:31:14.825 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:31:14.825 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:31:15.806 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:32:00.362 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6235.823730, 65.478058, 7961.811523>) uncovered vehicle "Nissan_warrior_kamo" (GlobalID=80000000800000008000000080008CD0 pos=<6237.808105, 65.541290, 7962.946777>)!
+00:32:12.979 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6238.662109, 65.487656, 7960.044434>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6237.807617, 65.540756, 7962.948242>)
+00:32:33.902 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6237.807129, 65.540779, 7962.948242>) as driver
+00:32:36.629 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6237.806152, 65.540771, 7962.948730>)
+00:34:13.210 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6473.322266, 64.835541, 8400.604492>)
+00:34:45.415 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6473.324219, 64.835518, 8400.606445>) as driver
+00:34:47.965 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<6473.324219, 64.835518, 8400.606445>)
+00:35:40.475 [Chat - Team]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): m
+00:36:00.996 [Killfeed] Invalid Name got killed by Orting with M16-A2 from a distance of 5 m.
+00:36:27.381 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+00:36:28.372 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+00:39:22.534 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3847.440186, 188.069794, 7005.785156>)
+00:40:36.133 [AI Patrol] Spawning 2 Vagabond Army bots at <3339.886230, 99.884567, 7935.641113>
+00:41:07.433 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3847.443604, 188.069931, 7005.784180>) as driver
+00:41:10.181 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3847.443359, 188.069916, 7005.784180>)
+00:41:45.918 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3872.446533, 177.049255, 7127.311035>)
+00:42:36.217 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<3875.290771, 176.901566, 7128.861328>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3872.448975, 177.049423, 7127.309082>)
+00:44:48.218 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<3875.710449, 176.856262, 7129.915527>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3872.448975, 177.049423, 7127.309082>)
+00:46:19.951 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3872.449707, 177.049377, 7127.310059>) as driver
+00:46:22.453 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<3872.449707, 177.049377, 7127.310059>)
+00:50:22.772 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1610.141357, 150.208786, 7206.391602>)
+00:50:57.805 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1610.144409, 150.208633, 7206.390137>) as driver
+00:51:00.302 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1610.144165, 150.208649, 7206.390137>)
+00:55:07.492 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.627106, 105.372589, 7067.751953>)
+00:55:15.427 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.627747, 105.372589, 7067.751953>) as driver
+00:55:28.471 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.820694, 105.372581, 7067.282715>)
+00:55:32.709 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.820236, 105.372581, 7067.282715>)
+01:05:03.962 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<145.286407, 105.348595, 7057.723145>) as passenger
+01:05:08.367 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<145.286407, 105.348595, 7057.723145>) as passenger
+01:05:10.804 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<145.286407, 105.348595, 7057.723145>)
+01:05:14.504 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=BFB6421B76471486AD2CEFB38C046651 pos=<145.286407, 105.348595, 7057.723145>)
+01:09:41.778 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.116760, 127.577515, 7620.137695>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<601.299500, 127.560715, 7624.129395>)
+01:10:53.828 [VehicleEnter] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] entered vehicle M35a2 Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<601.299927, 127.560760, 7624.129395>) as driver
+01:11:01.547 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] started vehicle M35a2 Black (Locked) (id=5F973E2A67470430D8F713A20BFDB44D pos=<601.300659, 127.560783, 7624.128906>)
+01:11:48.489 [VehicleLeave] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] left vehicle M35a2 Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<596.394165, 128.619827, 7657.435547>)
+01:12:03.752 [VehicleEnter] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] entered vehicle M35a2 Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<596.393982, 128.619843, 7657.435547>) as driver
+01:12:05.624 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] started vehicle M35a2 Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<596.393982, 128.619858, 7657.435547>)
+01:12:19.635 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:12:31.747 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] stopped vehicle M35a2 Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.877869, 128.414063, 7636.559570>)
+01:12:37.310 [VehicleLeave] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] left vehicle M35a2 Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.863831, 128.413605, 7636.559082>)
+01:12:50.312 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<605.687012, 128.391052, 7639.682617>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+01:13:45.379 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<607.183289, 128.439377, 7639.269043>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+01:13:52.183 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<607.183289, 128.439377, 7639.269043>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+01:17:41.522 [VehicleDeleted] MUSTANG_rust (id=BFB6421B76471486AD2CEFB38C046651 pos=<145.286407, 105.348595, 7057.723145>)
+01:17:41.522 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<148.684570, 105.236923, 7058.427734>) covered vehicle "MUSTANG_rust" (GlobalID=80000000800000008000000080009AAB pos=<145.286407, 105.348595, 7057.723145>)!
+01:20:29.919 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:21:16.936 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.821762, 105.372581, 7067.282715>) as driver
+01:21:19.869 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<155.819565, 105.372589, 7067.282715>)
+01:21:57.533 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<161.369995, 105.495781, 7033.470703>) as passenger
+01:22:01.377 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<161.371017, 105.495720, 7033.471191>) as passenger
+01:22:06.425 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<161.369598, 105.495781, 7033.471191>) as passenger
+01:27:27.125 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.868408, 111.802925, 5334.248047>)
+01:27:27.790 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867676, 111.802902, 5334.246094>)
+01:27:29.628 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867676, 111.802902, 5334.246582>)
+01:27:31.696 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867432, 111.802910, 5334.246094>)
+01:28:07.513 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:29:16.142 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:29:16.147 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+01:29:16.147 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:29:16.147 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+01:29:17.129 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:31:02.494 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867188, 111.802910, 5334.244141>) as driver
+01:31:08.144 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867188, 111.802910, 5334.244141>) as passenger
+01:31:14.481 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] switched seats in vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867432, 111.802910, 5334.244629>) to passenger
+01:31:21.058 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867920, 111.802902, 5334.245605>) as passenger
+01:31:23.136 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] switched seats in vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867432, 111.802902, 5334.244141>) to passenger
+01:31:31.355 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] switched seats in vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867920, 111.802902, 5334.245605>) to passenger
+01:31:35.911 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867920, 111.802895, 5334.246094>) as passenger
+01:31:39.891 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<2296.867432, 111.802910, 5334.244141>)
+01:36:30.824 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1008.964600, 5.799127, 1009.411743>)
+01:36:38.840 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1009.004089, 5.802677, 1009.247131>)
+01:36:45.330 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1009.003601, 5.802686, 1009.246948>)
+01:37:12.479 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1024.208740, 5.946661, 992.580688>)
+01:37:30.679 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Jerrycan (type=CanisterGasoline) from vehicle Nissan warrior Camo(id=CCB52FBF714030CA90DE54B73160B625 pos=<1024.208740, 5.946784, 992.579651>)
+01:39:22.478 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer
+01:40:07.999 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1024.208618, 5.946402, 992.579590>) as driver
+01:40:10.450 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1024.208618, 5.946716, 992.576294>)
+01:40:55.530 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1031.473267, 6.469547, 987.402100>)
+01:40:58.931 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1031.473267, 6.469547, 987.402222>)
+01:41:06.599 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<1031.421753, 6.374124, 985.513062>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1031.472656, 6.469543, 987.399963>)
+01:49:13.250 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+01:57:37.488 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:41:57.278 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<1032.673706, 6.374099, 985.107056>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1031.472656, 6.469543, 987.399963>)
+02:42:04.966 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1031.473022, 6.469548, 987.401245>) as driver
+02:42:07.614 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1031.473022, 6.469548, 987.401123>)
+02:43:11.256 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1021.379272, 5.942227, 989.169006>) as passenger
+02:44:10.701 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1165.861328, 6.177300, 907.493042>)
+02:44:40.480 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1165.861694, 6.177278, 907.494568>) as driver
+02:45:52.251 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1355.745605, 6.386817, 1107.798584>)
+02:45:58.108 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1355.745483, 6.386814, 1107.797729>)
+02:46:49.448 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Barrel (type=Barrel_Green) from vehicle Nissan warrior Camo(id=CCB52FBF714030CA90DE54B73160B625 pos=<1355.745605, 6.386816, 1107.798706>)
+02:47:11.585 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached Barrel (type=Barrel_Red) from vehicle Nissan warrior Camo(id=CCB52FBF714030CA90DE54B73160B625 pos=<1355.745850, 6.386822, 1107.799561>)
+02:47:19.867 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1355.745361, 6.386819, 1107.797363>) as driver
+02:47:22.725 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1355.745361, 6.386814, 1107.797119>) as passenger
+02:47:59.183 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1567.529663, 8.848316, 1177.597168>)
+02:48:21.570 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1567.530151, 8.848316, 1177.596924>) as driver
+02:48:23.266 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1567.530151, 8.848316, 1177.596924>)
+02:48:39.704 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1650.293701, 9.152596, 1172.632690>)
+02:48:52.467 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1650.293823, 9.152599, 1172.633301>) as driver
+02:49:32.751 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1530.429688, 8.485109, 1240.950806>)
+02:49:54.934 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1530.429443, 8.485114, 1240.949707>) as driver
+02:50:14.885 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1430.471436, 7.620352, 1272.618042>)
+02:50:39.200 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1430.471191, 7.620352, 1272.617432>) as driver
+02:50:52.787 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1380.192261, 7.028781, 1286.385620>)
+02:51:55.429 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1380.191162, 7.028708, 1286.388672>)
+02:53:52.437 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1380.186890, 7.028653, 1286.385620>) as driver
+02:54:29.198 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1180.748535, 4.308250, 1334.229248>) as passenger
+02:54:35.173 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1180.751099, 4.308249, 1334.228027>)
+02:54:38.269 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1180.750732, 4.308230, 1334.228027>)
+02:55:21.970 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1180.749390, 4.308255, 1334.228516>) as driver
+02:57:25.734 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1157.749756, 4.585415, 1278.206909>) as passenger
+02:58:29.293 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<1076.768677, 4.504746, 1297.256470>) as passenger
+03:05:28.497 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Military
+03:05:50.672 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<694.243713, 130.825073, 7657.629883>)
+03:05:52.666 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<694.243469, 130.825043, 7657.629883>)
+03:07:16.111 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<166.792618, 105.415100, 7031.423340>)
+03:07:36.662 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<166.791367, 105.415146, 7031.423340>) as driver
+03:08:37.561 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.104965, 105.372574, 7068.238281>)
+03:08:39.827 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.103378, 105.372589, 7068.238281>)
+03:09:47.594 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<157.212250, 105.277153, 7069.743652>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.105545, 105.372581, 7068.238281>)
+03:11:45.641 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:15:51.692 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:16:57.192 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:55:42.878 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6609.844727, 21.493055, 3667.335693>) Entered the safezone
+03:55:42.879 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+03:55:42.891 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+03:55:42.892 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+03:55:43.816 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+03:57:44.239 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6562.305176, 21.789473, 3682.308838>) Left the safezone
+04:01:29.995 [AI Patrol] Spawning 2 Police Academy bots at <5306.951172, 56.129997, 2193.054688>
+04:23:13.554 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:38:34.312 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:38:34.316 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:38:34.316 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:38:35.263 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:38:37.498 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer
+04:40:42.433 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:44:19.716 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:44:19.720 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:44:19.720 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:44:20.677 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:47:05.974 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:50:50.060 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+04:50:50.064 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:50:50.064 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:50:51.013 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:09:26.697 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4327.031738, 9.238398, 1099.752319>) paired a  ExpansionCarKey to Offroad_02 (id=31DA59112D499464224D7E9F0547001D pos=<4325.793945, 9.268105, 1098.095459>)
+05:12:08.128 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+05:20:33.662 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4325.793945, 9.268106, 1098.095337>) as driver
+05:20:37.972 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4325.793945, 9.268105, 1098.095215>)
+05:20:42.564 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4325.793945, 9.268105, 1098.095215>) as driver
+05:20:45.740 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4325.793945, 9.268104, 1098.095459>)
+05:21:04.210 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4339.625977, 9.130913, 1089.630005>)
+05:21:20.843 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4339.625977, 9.130913, 1089.630127>) as driver
+05:21:24.058 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4339.625977, 9.130913, 1089.630371>)
+05:21:27.738 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4339.625977, 9.130913, 1089.630493>) as driver
+05:21:30.525 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<4339.625977, 9.130913, 1089.630127>)
+05:25:12.076 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<3505.909668, 4.366066, 1369.835938>)
+05:25:24.744 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3508.145020, 4.348882, 1369.541260>) used the  ExpansionCarKey to lock Offroad_02 (id=31DA59112D499464224D7E9F0547001D pos=<3505.909668, 4.366066, 1369.835938>)
+05:25:33.224 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3505.909668, 4.366066, 1369.835938>) as driver
+05:25:35.705 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3505.909668, 4.366065, 1369.835938>)
+05:25:42.306 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3505.816895, 4.366046, 1369.031006>)
+05:31:05.708 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3505.816895, 4.366042, 1369.031006>) as driver
+05:31:07.449 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3505.816895, 4.366042, 1369.031006>)
+05:31:46.660 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:31:46.675 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+05:31:46.675 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:31:47.613 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:32:47.705 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4304.033203, 6.677282, 1065.001465>) uncovered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4301.161621, 6.318847, 1066.980957>)!
+05:33:13.142 [VehicleDeleted] Expansion_Landrover_Yellow (id=C588AD33D94B33AD1DE4BBB0A1EA3245 pos=<4301.127930, 6.311064, 1066.962646>)
+05:33:13.142 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4303.740723, 6.676914, 1065.484863>) covered vehicle "Expansion_Landrover_Yellow" (GlobalID=80000000800000008000000080008CD9 pos=<4301.127930, 6.311064, 1066.962646>)!
+05:34:03.365 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<4317.297852, 4.633894, 986.214478>) as passenger
+05:34:04.457 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<4317.297852, 4.633894, 986.214417>)
+05:34:09.121 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<4317.297852, 4.633893, 986.214661>) as driver
+05:34:10.869 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<4317.297852, 4.633894, 986.214600>)
+05:45:16.984 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<2841.413574, 99.914230, 7935.444824>)
+05:45:20.107 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<2841.413574, 99.914230, 7935.444824>)
+05:52:42.767 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached HAMMER_H1 black Rear Right Door (type=HAMMER_Doors_cargo2_black) from vehicle HAMMER_H1 black(id=A80F8DEE27472334D00117B608970D20 pos=<3242.913574, 99.677315, 8546.506836>)
+05:56:57.984 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<2841.413574, 99.914238, 7935.444824>) as driver
+05:56:59.568 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<2841.413574, 99.914230, 7935.444824>)
+05:58:43.976 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<3251.868652, 99.914238, 8548.023438>)
+05:59:11.636 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+05:59:16.544 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

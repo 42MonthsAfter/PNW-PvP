@@ -1,0 +1,156 @@
+12:03:07.960 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:03:07.964 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:03:07.964 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:03:07.964 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:03:08.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:05:47.953 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:05:47.957 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=
+12:05:47.957 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:05:47.957 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=
+12:05:48.933 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:08:14.539 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer
+12:14:28.511 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:14:28.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+12:14:28.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:14:28.515 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+12:14:28.640 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:14:28.644 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+12:14:28.644 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:14:28.644 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+12:14:29.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:14:29.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:15:02.460 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+12:15:02.464 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+12:15:02.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:15:02.464 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+12:15:03.441 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:15:05.781 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2238.219482, 111.654739, 5432.497070>) as driver
+12:15:08.722 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2238.218750, 111.654747, 5432.496582>)
+12:16:58.917 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.647705, 111.385979, 5313.014160>)
+12:17:01.785 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.655518, 111.385689, 5313.006836>)
+12:17:09.984 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.663330, 111.385452, 5313.000488>) as driver
+12:17:12.394 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.674561, 111.385170, 5312.991699>)
+12:17:20.199 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.606934, 111.386009, 5312.921387>)
+12:17:23.574 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.606689, 111.386520, 5312.921387>)
+12:18:48.773 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+12:18:48.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+12:18:48.789 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+12:18:48.789 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+12:18:49.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+12:28:05.800 [BaseRaiding] BBP_SGate (<2303.850586, 112.213181, 5310.680664>) player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <2303.749268, 112.103447, 5311.902344>) failed to enter the correct code.
+12:28:05.800 [BaseRaiding] BBP_SGate (<2303.850586, 112.213181, 5310.680664>) The correct code was 7477 and the player tried 2156
+12:28:06.988 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.607178, 111.386467, 5312.921387>) as driver
+12:28:19.523 [VehicleEnter] Player Mr_Talkers [uid=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.605713, 111.386452, 5312.920410>) as passenger
+12:28:25.847 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.604004, 111.386459, 5312.918945>)
+12:39:44.585 [Territory] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU= pos=<917.259766, 152.103058, 7112.647461>) was invited to join the territory Reapers Hideaway at <922.901428, 151.454361, 7143.958008> by the player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+12:47:52.160 [VehicleLeave] Player Mr_Talkers [uid=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<905.599792, 150.599274, 7140.444336>)
+12:47:53.035 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<905.600586, 150.599152, 7140.444336>)
+12:47:55.984 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<905.597290, 150.599030, 7140.444336>)
+12:50:32.714 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lou
+12:50:39.277 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): YO
+12:50:48.406 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): need anything
+12:51:05.574 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm good right now thanks
+12:51:46.894 [BaseRaiding] BBP_SWindow (<914.597046, 151.515381, 7144.135742>) Code set by player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <915.548035, 151.489655, 7144.085938>) and the code is 1505
+12:58:55.691 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:10:31.445 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:12:48.625 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+13:16:22.175 [AI Patrol] Spawning 2 FOB Alpha bots at <286.139130, 146.680283, 4990.994141>
+13:16:50.386 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): do you happen to havbe a sledge dirty?
+13:17:13.421 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): im  not sure if we do or not.  not at base atm
+13:17:19.742 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotcha
+13:21:42.195 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:33:12.890 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+13:34:46.660 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Military
+13:45:11.792 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:45:11.792 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:58:00.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+13:58:00.578 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+14:12:36.992 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+14:12:37.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:12:37.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:12:37.003 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:12:37.960 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+14:17:20.476 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+14:32:57.156 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:33:04.136 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+14:34:48.140 [Chat - Global]("Garry "(id=P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=)): Hello everyone!
+14:47:18.566 [AI Patrol] Spawning 2 Orting bots at <5212.861816, 223.948730, 4869.912598>
+14:56:17.433 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:19:29.460 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:19:29.464 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:19:29.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:19:29.464 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:19:30.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:19:33.664 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Medical
+15:22:38.140 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6605.661133, 21.489935, 3702.771729>) Entered the safezone
+15:23:00.351 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6678.896973, 22.925665, 3709.917236>) Left the safezone
+15:26:22.250 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+15:26:22.253 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+15:26:22.253 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:26:22.253 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+15:26:23.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:35:04.011 [AI Patrol] Spawning 2 National Guard bots at <9143.263672, 45.783970, 3397.963623>
+15:38:14.804 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:39:17.390 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+15:39:17.398 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:39:17.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:39:17.398 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:39:18.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+15:40:33.214 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+15:51:32.449 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=C7481B1A864C914D99DC9CB3A6268B32 pos=<9161.458008, 2.199279, 1132.495605>) as driver
+15:51:35.289 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=C7481B1A864C914D99DC9CB3A6268B32 pos=<9161.458008, 2.199274, 1132.495850>)
+16:00:51.980 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:00:51.984 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+16:00:51.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:00:51.984 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+16:00:52.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:00:53.250 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:00:53.253 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+16:00:53.253 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:00:53.253 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+16:00:54.226 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:21:23.835 [BaseRaiding] BBP_SDoor (<924.999146, 154.556519, 7139.388184>) Code set by player "Mr_Talkers" (ID = "lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=" at <925.350830, 154.596527, 7139.786133>) and the code is 1505
+16:32:20.109 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+16:38:06.226 [AI Patrol] Spawning 2 Vagabond Army bots at <3495.211670, 99.884567, 7942.782227>
+16:47:42.664 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Basebuilding
+16:52:34.011 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+16:52:34.015 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+17:02:02.304 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:29:28.773 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:29:28.785 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:29:28.785 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:29:28.785 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+17:29:29.742 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:30:45.457 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+17:30:45.460 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: AJbshzW-0-ShVtoG2Pl-330gqUEuHCJu_0VOEWISix4=
+17:32:05.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+17:32:05.140 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+17:33:35.613 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<139.754593, 105.498138, 7055.758789>) uncovered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<140.327072, 105.515450, 7053.721191>)!
+17:33:43.757 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<136.841187, 105.921814, 7053.168457>) used the  ExpansionCarKey to unlock BMW_X5_white (id=CD80B517484B2414AEDA16915D5FB1DA pos=<140.328125, 105.515381, 7053.722168>)
+17:36:35.398 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<140.328156, 105.515388, 7053.722168>) as driver
+17:36:38.296 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<140.328156, 105.515381, 7053.722168>)
+17:36:55.476 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<163.990952, 105.241310, 7034.849121>)
+17:36:58.664 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<163.990753, 105.241310, 7034.849121>)
+17:37:15.792 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<163.991028, 105.241302, 7034.849121>) as driver
+17:37:19.277 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<163.990891, 105.241310, 7034.849121>)
+17:37:25.128 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<163.990875, 105.241310, 7034.849121>)
+17:39:04.781 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<163.990585, 105.241325, 7034.849121>) as driver
+17:40:01.839 [AI Patrol] Spawning 2 Airfield bots at <6492.777832, 20.608757, 1884.506104>
+17:43:48.480 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<142.793274, 105.695396, 7042.614746>)
+17:44:39.214 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<142.793594, 105.695396, 7042.614746>) as driver
+17:45:35.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+17:45:35.820 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+17:46:55.718 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:46:55.726 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+17:46:55.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+17:46:55.726 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+17:46:56.683 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+17:48:28.980 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: MSzwpJnHPYKrKWbGiYyGFhkSv9pYKv-wqJW6cwh2DBM=
+17:56:34.070 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:56:47.605 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] stopped vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<6271.533691, 6.802601, 628.817627>)
+17:56:50.992 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle BMW X5 White  (id=CD80B517484B2414AEDA16915D5FB1DA pos=<6271.533691, 6.802617, 628.817566>)
+17:57:05.656 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6269.788086, 6.593637, 631.047974>) used the  ExpansionCarKey to lock BMW_X5_white (id=CD80B517484B2414AEDA16915D5FB1DA pos=<6271.533691, 6.802610, 628.817688>)
+17:57:18.578 [VehicleDeleted] BMW_X5_white (id=CD80B517484B2414AEDA16915D5FB1DA pos=<6271.533691, 6.802610, 628.817688>)
+17:57:18.578 [VehicleCover] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<6269.788086, 6.593637, 631.047974>) covered vehicle "BMW_X5_white" (GlobalID=80000000800000008000000080000AAB pos=<6271.533691, 6.802610, 628.817688>)!
+17:57:33.988 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+17:57:45.156 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

@@ -1,0 +1,247 @@
+06:03:30.396 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:03:30.402 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:03:30.402 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:03:30.402 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:03:31.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:03:39.175 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:03:39.181 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:03:39.181 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:03:39.181 [Expansion Quests] - Create new quest instance for quest: 53 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:03:40.148 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:04:21.267 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9091.211914, 29.918871, 5869.539063>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>)
+06:04:24.658 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9090.973633, 29.899275, 5869.020020>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>)
+06:04:27.394 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9091.081055, 29.902798, 5869.002441>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>)
+06:04:32.064 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>) as passenger
+06:04:39.222 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>) as driver
+06:04:42.574 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9092.967773, 29.929367, 5868.720215>)
+06:06:55.121 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9660.331055, 2.486429, 7082.919922>)
+06:06:55.197 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9660.332031, 2.486429, 7082.919922>)
+06:08:35.763 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+06:12:06.699 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9660.332031, 2.486429, 7082.919922>) as passenger
+06:12:10.130 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9660.331055, 2.486429, 7082.919922>) as driver
+06:12:13.027 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9660.332031, 2.486429, 7082.919922>)
+06:14:26.570 [AI Patrol] Spawning 2 Indian Island bots at <8733.065430, 12.723310, 8863.208008>
+06:17:17.527 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9408.171875, 8.096989, 9956.791016>)
+06:17:18.406 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9408.171875, 8.096910, 9956.791992>)
+06:19:50.646 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:20:09.744 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9408.171875, 8.096910, 9956.791992>) as passenger
+06:21:01.294 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:21:01.298 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:21:01.298 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:21:01.300 [Expansion Quests] - Create new quest instance for quest: 60 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:21:02.267 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:21:16.857 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9408.171875, 8.096935, 9956.791016>) as driver
+06:21:20.009 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9408.171875, 8.096932, 9956.791016>)
+06:24:42.308 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9250.574219, 3.986428, 6869.777344>)
+06:24:47.376 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9250.574219, 3.986428, 6869.777344>)
+06:26:56.242 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9250.574219, 3.986428, 6869.777344>) as driver
+06:27:07.845 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9250.574219, 3.986427, 6869.777344>)
+06:27:19.042 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9250.574219, 3.986396, 6869.753418>) as passenger
+06:30:19.677 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8665.531250, 12.694741, 7886.944336>)
+06:30:21.404 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8665.514648, 12.691717, 7886.955566>)
+06:34:13.369 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8665.503906, 12.694740, 7886.971680>) as passenger
+06:34:29.365 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8665.503906, 12.694740, 7886.971680>) as driver
+06:34:32.511 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8665.503906, 12.694741, 7886.971680>)
+06:36:10.042 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8570.707031, 12.694739, 8655.437500>)
+06:36:11.996 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8570.707031, 12.694739, 8655.437500>)
+06:40:23.582 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8570.707031, 12.694739, 8655.437500>) as driver
+06:40:25.263 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8570.707031, 12.694740, 8655.437500>)
+06:40:46.605 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8576.720703, 12.694741, 8787.274414>)
+06:52:55.593 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8576.721680, 12.694741, 8787.274414>) as driver
+06:52:58.574 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8576.720703, 12.694741, 8787.274414>)
+06:53:38.939 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8517.879883, 12.694740, 9239.408203>)
+06:55:00.642 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8517.879883, 12.694740, 9239.408203>) as driver
+06:55:08.824 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8517.879883, 12.694740, 9239.408203>)
+06:55:40.306 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8507.508789, 12.694741, 9254.433594>) as passenger
+06:56:28.117 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.290039>)
+06:56:28.761 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.290039>)
+06:56:37.236 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<8244.257813, 5.207325, 9026.949219>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.291016>)
+07:02:15.679 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<8244.243164, 5.207325, 9026.973633>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.291016>)
+07:02:19.853 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.291016>) as passenger
+07:02:23.605 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.290039>) as driver
+07:02:26.921 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8242.230469, 5.166282, 9027.291016>)
+07:03:04.914 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8331.238281, 4.730548, 8901.496094>)
+07:03:08.242 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8331.238281, 4.730514, 8901.496094>)
+07:03:30.826 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8331.238281, 4.730534, 8901.496094>) as driver
+07:03:32.644 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8331.239258, 4.730559, 8901.496094>) as passenger
+07:03:34.250 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8331.239258, 4.730561, 8901.496094>)
+07:14:43.507 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6645.078125, 21.970791, 3640.574463>) Entered the safezone
+07:14:43.585 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6645.327148, 21.976786, 3641.574707>) Entered the safezone
+07:14:50.263 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.541992, 21.253326, 3654.995361>)
+07:14:54.855 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.541992, 21.253326, 3654.995361>)
+07:15:10.845 [Expansion Quests] - CompleteQuest - Player with UID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= has completed quest 53
+07:15:14.835 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 60
+07:16:12.716 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 58
+07:16:28.039 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= for quest 58
+07:16:32.375 [ATM] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 200 on his ATM account.
+07:16:35.978 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 200 on his ATM account.
+07:16:46.845 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.541992, 21.253328, 3654.995361>) as passenger
+07:16:50.498 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.541992, 21.253323, 3654.995117>) as driver
+07:16:53.777 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<6629.541992, 21.253332, 3654.995361>)
+07:17:13.699 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6728.828613, 30.290895, 3670.573486>) Left the safezone
+07:17:13.750 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6729.818848, 30.438314, 3670.896484>) Left the safezone
+07:19:18.503 [AI Patrol] Spawning 2 National Guard bots at <9165.682617, 45.783825, 3406.394287>
+07:19:41.017 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8401.613281, 69.816544, 2890.197510>)
+07:20:11.777 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8334.836914, 70.528877, 2985.383301>)
+07:22:08.324 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8334.851563, 70.529381, 2985.384033>) as passenger
+07:22:17.277 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8334.851563, 70.529388, 2985.384033>) as driver
+07:22:20.519 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<8334.851563, 70.529388, 2985.384033>)
+07:25:26.453 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624506, 826.809570>)
+07:30:45.720 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624522, 826.809570>)
+07:36:00.847 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:36:11.761 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Military
+07:36:29.449 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:36:29.457 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:36:29.457 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:36:29.457 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:36:30.417 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:39:34.197 [BaseRaiding] BBP_SDoor (<9583.042969, 3.217583, 542.890991>) player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <9582.788086, 3.024285, 540.992737>) failed to enter the correct code.
+07:39:34.197 [BaseRaiding] BBP_SDoor (<9583.042969, 3.217583, 542.890991>) The correct code was 1989 and the player tried 1234
+07:39:50.523 [BaseRaiding] BBP_SDoor (<9583.042969, 3.217583, 542.890991>) player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <9582.788086, 3.024285, 540.992737>) failed to enter the correct code.
+07:39:50.523 [BaseRaiding] BBP_SDoor (<9583.042969, 3.217583, 542.890991>) The correct code was 1989 and the player tried 4242
+07:40:57.873 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:44:51.828 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:44:51.835 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:44:51.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:44:51.837 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:44:52.792 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:45:13.996 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<35f30cd0> at <9583.71, 3.1, 542.65> EXPLOSION range 12 dropoff 3
+07:47:37.888 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:49:54.320 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:49:54.326 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:49:54.326 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:49:54.326 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:49:55.281 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:50:04.664 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624518, 826.809570>) as driver
+07:50:08.197 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624506, 826.809570>)
+07:50:30.396 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624512, 826.809631>)
+07:50:38.332 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624527, 826.809631>) as passenger
+07:53:27.742 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+07:54:49.339 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624523, 826.809631>) as driver
+07:56:10.896 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<9463.290039, 6.624525, 826.809570>)
+07:58:03.095 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD " (id=10 ownerUID= ownerName=)
+07:58:03.097 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) created a party named DIE HARD  (YKMF)
+07:58:04.095 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 10
+08:02:30.738 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<4865.473633, 9.090497, 859.074890>)
+08:02:40.671 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<4865.473633, 9.090516, 859.075256>) as driver
+08:02:50.628 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<4865.473633, 9.090518, 859.075317>)
+08:07:40.580 [VehicleDestroyed] PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2076.497559, 9.041020, 2704.449463>)
+08:07:52.949 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2009.395874, 8.856082, 2656.240234>)
+08:07:56.548 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2005.280640, 8.750629, 2655.395508>)
+08:07:59.269 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<2001.523438, 8.613342, 2654.637695>)
+08:08:10.417 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<1989.971558, 8.521347, 2652.582764>)
+08:08:15.951 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<1989.971924, 8.521308, 2652.582520>)
+08:13:55.023 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<1989.971802, 8.521323, 2652.582764>)
+08:14:58.496 [VehicleEnter] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] entered vehicle Sarka 120 (id=EE06F0EC484DC797EB63E5BC316FD9C0 pos=<1683.539917, 7.663184, 1067.614868>) as driver
+08:15:03.361 [VehicleEngine] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] started vehicle Sarka 120 (id=EE06F0EC484DC797EB63E5BC316FD9C0 pos=<1683.539917, 7.663193, 1067.616699>)
+08:15:06.179 [VehicleEngine] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] stopped vehicle Sarka 120 (id=EE06F0EC484DC797EB63E5BC316FD9C0 pos=<1683.540039, 7.663193, 1067.617065>)
+08:15:10.185 [VehicleLeave] Player tearsofdawn1066 [uid=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=] left vehicle Sarka 120 (id=EE06F0EC484DC797EB63E5BC316FD9C0 pos=<1683.540039, 7.663210, 1067.619629>)
+08:20:21.949 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<1989.692627, 8.618897, 2654.808350>) used the  ExpansionCarKey to lock PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<1989.971802, 8.521323, 2652.582764>)
+08:25:46.246 [VehicleDeleted] PONTIAC_rust (id=180F5B32204A0D6D4EE595BE10DBA16D pos=<1989.971802, 8.521323, 2652.582764>)
+08:28:10.591 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+08:28:11.582 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:32:21.417 [AI Patrol] Spawning 2 Airfield bots at <6539.745605, 20.587177, 1914.061646>
+08:45:34.406 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:45:34.419 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:45:34.419 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:45:35.375 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:56:23.501 [BaseRaiding] mmg_locker02_tan (<2286.683350, 111.707497, 5317.203613>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <2286.622559, 111.719994, 5315.897949>) and the code is 7477
+08:57:33.908 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIE HARD " (id=10 ownerUID=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o= ownerName=tearsofdawn1066)
+09:01:03.761 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Military
+09:06:55.250 [Territory] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4= pos=<2293.124512, 111.719986, 5313.049805>) was invited to join the territory bean flickers at <2286.025635, 111.707527, 5306.324219> by the player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=)
+09:07:12.773 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:08:43.992 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:12:11.203 [Party] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+09:12:11.214 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=
+09:12:11.214 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+09:12:12.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+09:18:43.226 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:51:11.476 [Party] Player "twitch258" (id=EI_paoS_B41s74FNO4YvTjFisS6nKKAy7UhxhqhfbsE=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+10:30:28.554 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:30:28.570 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+10:30:28.570 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+10:30:28.570 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=
+10:30:29.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:30:32.761 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer
+10:39:29.039 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:39:29.046 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+10:39:29.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:39:29.046 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+10:39:30.003 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:45:59.445 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<35f11230> at <788.68, 37.89, 3452.81> EXPLOSION range 12 dropoff 3
+10:49:07.625 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:49:07.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=
+10:49:07.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:49:07.632 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=
+10:49:08.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:52:23.914 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<994.235657, 34.372784, 3364.972168>) as driver
+10:52:28.621 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<994.230469, 34.372807, 3364.971924>)
+10:52:45.796 [VehicleEnter] Player Mr_Talkers [uid=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=] entered vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<994.210083, 34.372829, 3364.972168>) as passenger
+10:53:05.699 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+10:53:05.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+10:53:05.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:53:05.703 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=
+10:53:06.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+10:55:30.179 [VehicleDestroyed] CivilianSedan (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<1276.768188, 82.834389, 4163.261719>)
+10:55:38.933 [VehicleLeave] Player Mr_Talkers [uid=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=] left vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<1302.409424, 90.240685, 4193.145020>)
+10:55:47.199 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<1302.152710, 90.155830, 4192.821777>)
+10:58:27.867 [Territory] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo= pos=<1290.898438, 90.610687, 4203.061035>) was invited to join the territory Reapers Hideaway at <922.901428, 151.454361, 7143.958008> by the player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+10:58:29.375 [Territory] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE= pos=<838.958862, 37.906372, 3838.924072>) was invited to join the territory Reapers Hideaway at <922.901428, 151.454361, 7143.958008> by the player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)
+11:03:16.562 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<1302.093750, 90.134132, 4192.735840>) as driver
+11:03:19.656 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle Olga 24 (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<1302.013550, 90.103867, 4192.613281>)
+11:11:41.550 [VehicleDeleted] CivilianSedan (id=D4E9CA53C0460031D893F6A1CC670A62 pos=<1302.000488, 90.098076, 4192.588379>)
+11:13:48.113 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=
+11:14:30.414 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.602051, 111.099174, 5295.630859>) as driver
+11:14:32.929 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2310.601807, 111.099197, 5295.630859>)
+11:15:41.269 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) invited the player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=)to the party named Reaper
+11:16:06.398 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2271.601807, 111.654755, 5272.625977>)
+11:16:08.300 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:16:09.300 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+11:16:09.726 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2271.602783, 111.654747, 5272.627930>)
+11:17:28.429 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2293.985596, 111.719978, 5315.018555>) failed to enter the correct code.
+11:17:28.429 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 1234
+11:17:37.375 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2293.985596, 111.719978, 5315.018555>) failed to enter the correct code.
+11:17:37.375 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 9999
+11:17:44.367 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2293.985596, 111.719978, 5315.018555>) failed to enter the correct code.
+11:17:44.367 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 6969
+11:17:48.687 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2293.985596, 111.719978, 5315.018555>) failed to enter the correct code.
+11:17:48.687 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 68
+11:17:50.488 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2293.985596, 111.719978, 5315.018555>) failed to enter the correct code.
+11:17:50.488 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 6868
+11:18:33.664 [BaseRaiding] BBP_SGate (<2303.850586, 112.213181, 5310.680664>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2304.738281, 112.100426, 5311.500977>) failed to enter the correct code.
+11:18:33.664 [BaseRaiding] BBP_SGate (<2303.850586, 112.213181, 5310.680664>) The correct code was 7477 and the player tried 6969
+11:19:32.195 [VehicleCover] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE= pos=<2314.082764, 111.175087, 5303.823730>) uncovered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2315.844971, 111.037422, 5300.297852>)!
+11:19:52.656 [VehicleDeleted] Truck_01_Covered_Blue (id=C9E774FE164680F00B2E0985DB5F159E pos=<2315.842529, 111.037804, 5300.293457>)
+11:19:52.656 [VehicleCover] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE= pos=<2313.542236, 111.196014, 5300.270996>) covered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2315.842529, 111.037804, 5300.293457>)!
+11:20:21.039 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2271.601563, 111.654747, 5272.625977>) as driver
+11:20:28.886 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2271.601807, 111.654747, 5272.625977>)
+11:20:41.707 [VehicleEnter] Player Mac [uid=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2271.602783, 111.654747, 5272.626953>) as passenger
+11:21:13.902 [VehicleLeave] Player Mac [uid=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2260.304688, 111.654747, 5278.246582>)
+11:21:21.632 [VehicleEnter] Player Mac [uid=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2260.304199, 111.654747, 5278.246094>) as passenger
+11:24:06.687 [AI Patrol] Spawning 2 Police Academy bots at <5252.923340, 56.129997, 2245.085449>
+11:29:35.343 [VehicleLeave] Player Mac [uid=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<1903.441895, 110.964752, 5602.023438>)
+11:29:56.996 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<1913.325928, 110.964752, 5603.064941>)
+11:30:00.355 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<1913.325806, 110.964760, 5603.066406>)
+11:42:15.687 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<1913.326050, 110.964752, 5603.066895>) as driver
+11:42:18.234 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<1913.326294, 110.964760, 5603.066895>)
+11:45:07.468 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2308.379150, 111.480316, 5313.945801>)
+11:45:10.757 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2308.396484, 111.481987, 5313.913574>)
+11:48:28.539 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<2319.523682, 111.138992, 5304.988281>) uncovered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2315.842529, 111.037804, 5300.293457>)!
+11:48:47.941 [VehicleDeleted] Truck_01_Covered_Blue (id=16FB1256F1412BEBDC023C9D42566A29 pos=<2315.840088, 111.037842, 5300.289551>)
+11:48:47.941 [VehicleCover] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<2319.211426, 111.109451, 5304.225586>) covered vehicle "Truck_01_Covered_Blue" (GlobalID=80000000800000008000000080000019 pos=<2315.840088, 111.037842, 5300.289551>)!
+11:49:17.613 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2291.158447, 111.719978, 5317.528809>) failed to enter the correct code.
+11:49:17.613 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 3333
+11:49:25.929 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2291.158447, 111.719978, 5317.528809>) failed to enter the correct code.
+11:49:25.929 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 4555
+11:49:31.097 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) player "Mac" (ID = "M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=" at <2291.158447, 111.719978, 5317.528809>) failed to enter the correct code.
+11:49:31.097 [BaseRaiding] BBP_BDoor (<2290.077881, 111.707512, 5316.189453>) The correct code was 7477 and the player tried 5555
+11:57:02.761 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Basebuilding
+11:57:20.125 [VehicleEnter] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] entered vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2308.482422, 111.479645, 5313.846191>) as driver
+11:57:23.175 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] started vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2308.479492, 111.479668, 5313.814941>)
+11:57:30.812 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:58:24.351 [VehicleEngine] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] stopped vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2238.219482, 111.655540, 5432.494141>)
+11:58:27.605 [VehicleLeave] Player Mielikki [uid=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=] left vehicle M3S Covered (id=1966CD97564977A72D6E1E9FE55F4660 pos=<2238.219971, 111.654755, 5432.494141>)
+11:58:28.472 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:58:33.500 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:58:50.117 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+11:59:16.210 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)

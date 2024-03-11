@@ -1,0 +1,822 @@
+18:01:51.246 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:01:51.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:01:51.250 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+18:01:51.250 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:01:52.222 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:02:03.222 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+18:02:03.226 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+18:02:03.226 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:02:04.175 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:02:41.574 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:02:41.582 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:02:41.582 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:02:41.585 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:02:42.558 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:02:49.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+18:06:54.992 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+18:07:53.625 [AI Patrol] Spawning 2 Orting bots at <5275.549316, 219.694031, 5187.370117>
+18:08:12.089 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "we gon fuk u" (id=13 ownerUID= ownerName=)
+18:08:12.093 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) created a party named we gon fuk u (fuku)
+18:08:13.089 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 13
+18:10:57.468 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "we gon fuk u" (id=13 ownerUID=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= ownerName=[ADMIN]DrKilledByDeath)
+18:11:21.117 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)to the party named ddd
+18:11:51.179 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+18:11:52.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:15:49.203 [AI Patrol] Spawning 2 Trench 94 bots at <3199.599365, 99.884567, 9308.002930>
+18:15:51.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+18:15:51.968 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+18:19:54.781 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:19:54.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+18:19:54.789 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:19:54.789 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+18:19:55.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:20:04.070 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1384.250000, 207.010986, 6550.032715>) as driver
+18:20:12.054 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<1384.249756, 207.011017, 6550.032715>)
+18:24:19.210 [Chat - Global]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): what chat
+18:24:28.304 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.767090, 241.090805, 4821.059082>)
+18:24:31.523 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): discord
+18:24:37.875 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<4836.883301, 241.599960, 4818.791016>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.766602, 241.090820, 4821.059570>)
+18:28:14.984 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:29:35.671 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:29:35.679 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:29:35.679 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:29:35.679 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+18:29:36.648 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:31:21.531 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: t8SzXkLa1LrYqKdsRAn-rhqz7Di4nlyu65HSbzYaTjs=
+18:31:21.539 [AI Patrol] Spawning 2 Manhattan Project bots at <2028.168701, 99.884567, 8949.041992>
+18:39:58.421 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): careful near the brick building
+18:40:03.109 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): tripwire
+18:40:10.617 [Chat - Team]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): kk
+18:40:33.539 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): tell billy to keep an eye out for traps
+18:41:15.484 [Chat - Team]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): that one?
+18:41:31.304 [Chat - Team]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): there are a couple
+18:41:46.593 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): ill fukn trp ye
+18:42:37.140 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): poo
+18:42:43.984 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): where yall at
+18:42:53.820 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): pookaboo
+18:43:14.531 [Chat - Global]("[ADMIN]DrKilledByDeath"(id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=)): I am everywhere, and nowhere
+18:44:18.882 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): im here waiting for yall
+18:44:51.945 [Killfeed] Stiffy got killed by Manhattan Project with LE-MAS from a distance of 10 m.
+18:45:24.648 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): sounded like a grenade
+18:45:32.625 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): NW, maybe junkyard
+18:48:25.148 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+18:48:25.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:48:25.156 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+18:48:25.156 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+18:48:26.148 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+18:48:59.117 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) invited the player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)to the party named dirtymike
+18:49:18.585 [Chat - Team]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): Invited the guy here just so we all know where we are
+18:49:20.210 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:49:21.210 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:49:22.640 [Chat - Team]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): he is new
+18:49:34.296 [BaseBuildingRaiding] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<7933.955078, 4.627492, 6883.759277>) deployed ExpansionSatchel at <7934.503906, 5.284978, 6883.483887>
+18:49:39.476 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): howdy billy
+18:49:57.304 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): you picked a great day to start here lol
+18:52:41.101 [AI Patrol] Spawning 2 Airfield bots at <6567.034668, 19.739676, 1879.102417>
+18:53:12.937 [Chat - Team]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): gonna go scout
+18:53:47.203 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): why is today a great day lol
+18:54:24.945 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): event going on, two admins geared as hell
+18:54:29.726 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): we're on the hunt
+18:55:00.492 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): oh thats right lol
+18:55:38.937 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): what do you have weapon wise
+18:55:56.609 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): ssg and ruger 556
+18:56:06.101 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): 100 round mag
+18:56:08.726 [AI Patrol] Spawning 2 Police Academy bots at <5161.945313, 56.129997, 2219.458252>
+18:56:23.632 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): ok not bad
+18:59:55.242 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): heard gunshots due east
+18:59:59.257 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): maybe windfarm
+19:00:22.109 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): they should be approaching from the east
+19:00:23.078 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): then its between me and you
+19:00:33.835 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): no im wrong
+19:00:40.898 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): its east of me too
+19:01:00.125 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): about 600m from us to the treeline
+19:01:21.890 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): watch for my ping
+19:07:44.039 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): shots northeast
+19:12:13.984 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): theyre at the treeline
+19:12:25.539 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): dont engage yet, wait for them to go into the open
+19:13:27.984 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): by the hopsitak
+19:14:24.125 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): on the road
+19:14:27.296 [Chat - Team]("Billy Bass"(id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=)): which way are the heading
+19:14:32.625 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): west on the road
+19:14:46.968 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): behind that barn
+19:16:21.796 [BaseBuildingRaiding] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<5300.291992, 219.707733, 4997.749023>) deployed ExpansionSatchel at <5300.122559, 220.368835, 4997.160645>
+19:16:22.773 [Chat - Team]("MaxCaliber"(id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)): west?
+19:16:29.078 [Killfeed] [ADMIN]DrKilledByDeath got killed by Sharkparty with M79 from a distance of 32 m.
+19:16:39.773 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): at the door
+19:16:41.757 [Chat - Team]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): here
+19:17:06.093 [Killfeed] (ADMIN)BLUE got killed by Sharkparty with M79 from a distance of 54 m.
+19:17:10.726 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:17:11.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:17:19.921 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): SAY HELLO TO MY LITTLE FRIEND
+19:17:54.882 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:17:55.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:18:31.687 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): gg
+19:19:02.054 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:19:02.710 [Killfeed] (ADMIN)BLUE got killed by Captain Chaos with LAR from a distance of 43 m.
+19:19:25.359 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:19:26.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:20:19.445 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:20:19.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+19:20:19.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:20:20.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:20:55.250 [AI Patrol] Spawning 2 Vagabond Army bots at <3466.760254, 99.884567, 7889.568848>
+19:21:57.437 [Killfeed] [ADMIN]DrKilledByDeath got killed by Sharkparty with Sawed-off BK-43 from a distance of 3 m.
+19:22:37.765 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:22:38.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:23:07.906 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6613.638184, 21.471447, 3660.872559>) Entered the safezone
+19:24:59.906 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<4837.730469, 240.726028, 4821.525391>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.766602, 241.090820, 4821.059570>)
+19:26:46.468 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6599.031250, 21.302162, 3667.897949>) Entered the safezone
+19:27:29.757 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6563.829590, 24.436350, 3647.435303>) Left the safezone
+19:27:54.101 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.766602, 241.090820, 4821.059570>) as passenger
+19:27:54.195 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:27:55.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:28:00.234 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.766602, 241.090820, 4821.059570>) as passenger
+19:29:01.023 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.766602, 241.090820, 4821.059570>) as passenger
+19:29:22.507 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.766602, 241.090820, 4821.059570>) as driver
+19:29:31.195 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:29:32.992 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<4835.767090, 241.090775, 4821.059082>)
+19:30:58.476 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176270, 312.835175, 5217.062988>)
+19:31:01.789 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176025, 312.835297, 5217.062988>)
+19:31:11.984 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176025, 312.835297, 5217.062988>) as passenger
+19:31:20.546 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176025, 312.835175, 5217.062988>) as driver
+19:31:24.429 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176025, 312.835236, 5217.062988>)
+19:31:27.523 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176270, 312.835175, 5217.062988>) as driver
+19:31:30.179 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<3987.176270, 312.835175, 5217.062988>)
+19:32:17.992 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer
+19:36:39.617 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+19:36:39.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+19:36:39.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+19:36:39.632 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+19:36:39.867 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+19:36:39.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+19:36:39.875 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+19:36:40.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+19:36:40.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+19:36:41.359 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+19:36:41.367 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=
+19:36:41.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+19:36:42.343 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+19:37:07.820 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.580444, 128.330765, 7637.245605>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+19:37:32.648 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.021179, 128.299194, 7636.622070>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+19:37:36.742 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s3oW-DpuRJLREcRb7Akk0Vlg_zPlJANy7q5b7OGFqCs=
+19:37:36.742 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: s3oW-DpuRJLREcRb7Akk0Vlg_zPlJANy7q5b7OGFqCs=
+19:38:21.937 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<172.845215, 105.932449, 7016.695801>)
+19:38:24.695 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<172.845322, 105.932419, 7016.696289>)
+19:38:53.804 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.717926, 105.338936, 7058.094727>)
+19:38:55.898 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.717911, 105.338936, 7058.094727>)
+19:44:04.343 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:04.343 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 1234
+19:44:11.414 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:11.414 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 5005
+19:44:15.593 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:15.593 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 1337
+19:44:20.984 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:20.984 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 8520
+19:44:24.640 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:24.640 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 8008
+19:44:34.585 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:34.585 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 6540
+19:44:38.882 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:38.882 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 4321
+19:44:42.609 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:42.609 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 0000
+19:44:45.539 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:45.539 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 1111
+19:44:49.101 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) player "{MM} meccmax" (ID = "iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=" at <161.694336, 105.032425, 7045.794922>) failed to enter the correct code.
+19:44:49.101 [BaseRaiding] BBP_RGate (<158.095200, 105.177811, 7046.297852>) The correct code was 1776 and the player tried 7890
+19:45:46.078 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6615.843750, 27.078619, 3663.623047>) Entered the safezone
+19:45:46.078 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:45:46.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+19:45:46.085 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:45:47.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:51:08.546 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+19:51:18.195 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<604.517639, 128.342636, 7634.956543>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+19:51:40.109 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.215393, 128.317520, 7637.942871>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+19:51:42.906 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<604.097107, 128.343582, 7638.650879>) used the  ExpansionCarKey to unlock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+19:52:16.312 [VehicleCarKey] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= pos=<603.388245, 128.319366, 7639.404785>) used the  ExpansionCarKey to lock M35a2_Black (id=5F973E2A67470430D8F713A20BFDB44D pos=<607.862305, 128.413528, 7636.559082>)
+19:54:31.109 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+19:54:31.117 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+19:54:31.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:54:32.085 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:03:31.109 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<148.754974, 105.232277, 7059.078613>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.717926, 105.338943, 7058.094727>)
+20:06:55.750 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:06:55.757 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=
+20:06:55.757 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+20:06:55.757 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=
+20:06:56.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:07:23.648 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:09:15.945 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+20:09:22.718 [VehicleEnter] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] entered vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<1803.955444, 140.912216, 7690.608887>) as driver
+20:09:25.031 [VehicleEnter] Player Jason [uid=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=] entered vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<1803.955322, 140.912064, 7690.608398>) as passenger
+20:09:26.140 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] started vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<1803.955322, 140.912079, 7690.608398>)
+20:12:36.945 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:12:36.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:12:36.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:12:36.945 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:12:37.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:15:25.539 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] stopped vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3493.699463, 278.411285, 6012.014648>)
+20:15:27.531 [VehicleLeave] Player Jason [uid=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=] left vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3493.699463, 278.411377, 6012.014160>)
+20:15:30.000 [VehicleLeave] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] left vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3493.699951, 278.411316, 6012.014160>)
+20:18:12.546 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:22:19.148 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:22:29.156 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:22:29.156 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:22:29.164 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+20:22:29.164 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:22:29.164 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:22:29.171 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:22:29.171 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:22:29.226 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:23:04.898 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:23:04.906 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+20:23:04.906 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:23:04.906 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=
+20:23:05.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:23:07.601 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:23:07.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=
+20:23:07.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:23:08.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:23:16.820 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:23:16.828 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+20:23:16.828 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:23:16.828 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+20:23:17.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:23:22.851 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:23:22.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+20:23:22.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:23:22.859 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=
+20:23:23.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:23:37.445 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:23:37.453 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:23:37.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:23:37.453 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:23:38.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:24:13.953 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:24:13.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+20:24:13.960 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:24:14.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:25:07.695 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:25:07.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:25:07.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:25:07.703 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:25:08.664 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:30:18.867 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:30:18.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+20:30:18.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:30:18.875 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+20:30:19.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:33:11.015 [AI Patrol] Spawning 2 FOB Alpha bots at <193.683975, 146.877243, 5023.683594>
+20:34:32.101 [Territory] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0= pos=<149.016235, 117.995354, 7050.116211>) was invited to join the territory Of 3rd times a charm at <117.690193, 106.744423, 7118.925293> by the player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)
+20:37:47.093 [VehicleEnter] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] entered vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3493.700195, 278.411285, 6012.014160>) as driver
+20:37:48.632 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] started vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3493.700195, 278.411285, 6012.014160>)
+20:37:51.226 [VehicleEnter] Player Jason [uid=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=] entered vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3493.700195, 278.411316, 6012.014160>) as passenger
+20:41:31.492 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): j
+20:41:36.351 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lou
+20:42:07.210 [VehicleLeave] Player Jason [uid=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=] left vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3879.644531, 177.142044, 7128.157227>)
+20:42:08.453 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] stopped vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3879.625488, 177.139984, 7128.182129>)
+20:42:12.023 [VehicleLeave] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] left vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3879.577393, 177.134308, 7128.251953>)
+20:43:28.476 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yo
+20:43:32.906 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): heading
+20:44:03.242 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): here or there?
+20:44:08.640 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): there
+20:47:13.101 [Party] Player "Phluphphie" (id=wfuuRCbdBaNj07RLWT_AhzK-QiUPbyphqCuqjLQQwKU=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:47:13.101 [Party] Player "Mac" (id=M29Lb4bPdxyF3qJn9gUU0MA3ayqGZ1rIA6b3xR-gJ7Q=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:47:13.101 [Party] Player "Mr_Talkers" (id=lWcux180yszn4xwt8zemIuREYUUcsM0rSixT6WYYDlE=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:47:13.101 [Party] Player "Mielikki" (id=d1VO0w4LtiOSH1NwDr76uRkYrdMIy0Fjog4WOA2EGmo=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:47:13.101 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=4 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+20:47:25.226 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) invited the player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)to the party named dirtymike
+20:47:27.898 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:47:28.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:53:01.632 [Killfeed] Invalid Name got killed by FOB Alpha with M4-A1 from a distance of 3 m.
+20:53:41.203 [Party] Player "Invalid Name" (id=KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:56:48.875 [VehicleEnter] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] entered vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3879.552734, 177.131073, 7128.293945>) as driver
+20:57:09.781 [VehicleEnter] Player Jason [uid=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=] entered vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3879.274170, 177.097824, 7128.705078>) as passenger
+20:57:12.500 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] started vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<3879.260498, 177.096069, 7128.724609>)
+20:58:32.000 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Military
+20:58:46.726 [BaseRaiding] BBP_LGate (<599.760803, 128.100098, 7641.492188>) player "Sharkparty" (ID = "2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=" at <602.051514, 128.305893, 7641.057129>) failed to enter the correct code.
+20:58:46.726 [BaseRaiding] BBP_LGate (<599.760803, 128.100098, 7641.492188>) The correct code was 25846 and the player tried 6969
+21:03:35.867 [Safezone] Player "JuanCarlosJr" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6624.053223, 21.492512, 3673.542236>) Entered the safezone
+21:03:35.867 [Party] Player "JuanCarlosJr" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) joinded the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)
+21:03:35.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+21:03:35.875 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 12
+21:03:36.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 12
+21:03:53.898 [VehicleLeave] Player Jason [uid=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=] left vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<695.104431, 132.219681, 7665.597656>)
+21:04:21.312 [VehicleEngine] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] stopped vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<620.762268, 128.734497, 7605.342773>)
+21:04:26.531 [VehicleLeave] Player {MM} meccmax [uid=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=] left vehicle Gunter 2 (id=2231851DCB415DEBC4D375A5EA50545E pos=<620.730652, 128.729568, 7605.360352>)
+21:04:30.351 [ATM] Player JuanCarlosJr (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) has transfered 100 to the player Billy Bass (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=).
+21:04:45.914 [Killfeed] DirtyMike got killed by {MM} meccmax with M4-A1 from a distance of 8 m.
+21:05:00.375 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+21:05:00.375 [BaseBuildingRaiding] Player "Lou Sassole" (ID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) at <619, 128.67, 7611.89> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+21:05:00.375 [BaseBuildingRaiding] They dealt 7.5 * 1 = 7.5 damage with Bullet_308Win from M14
+21:05:00.375 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 1000 to 992.5
+21:05:00.375 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+21:05:00.484 [Killfeed] Jason got killed by Sharkparty with DMR from a distance of 4 m.
+21:05:05.632 [Killfeed] Sharkparty got killed by {MM} meccmax with M4-A1 from a distance of 13 m.
+21:05:17.679 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:05:18.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:05:27.937 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:05:28.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:05:50.625 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+21:05:51.617 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+21:06:41.429 [Safezone] Player "JuanCarlosJr" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= pos=<6516.413086, 22.972878, 3671.750000>) Left the safezone
+21:09:29.390 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+21:09:30.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+21:09:38.468 [Killfeed] Lou Sassole got killed by {MM} meccmax with M16A4 from a distance of 8 m.
+21:10:17.359 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:10:18.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:12:19.171 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+21:12:20.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+21:12:32.492 [Party] Player "{MM} meccmax" (id=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+21:17:27.093 [VehicleDestroyed] Hatchback_02 (id=2231851DCB415DEBC4D375A5EA50545E pos=<620.703186, 128.725616, 7605.372559>)
+21:21:30.171 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+21:23:51.984 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:24:44.546 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:24:44.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+21:24:44.554 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:24:45.539 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:25:58.445 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:25:59.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:30:17.492 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:30:17.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+21:30:17.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:30:17.500 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+21:30:18.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:31:44.703 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<146.849243, 105.278999, 7056.647949>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.717911, 105.338936, 7058.095215>)
+21:32:01.054 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.710617, 105.339012, 7058.106934>) as driver
+21:32:11.695 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.710587, 105.339005, 7058.106934>)
+21:32:14.421 [VehicleAttachments] Player MaxCaliber (uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) detached DMR25 (308 Win) (type=TWP_DMR25) from vehicle MUSTANG Rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.710617, 105.339020, 7058.106934>)
+21:32:44.328 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.710602, 105.339005, 7058.106934>) as driver
+21:32:47.226 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<145.710602, 105.339005, 7058.106934>)
+21:33:15.664 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<162.027298, 105.627235, 7029.706543>)
+21:33:36.562 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<162.027222, 105.627228, 7029.706543>) as driver
+21:36:36.976 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<645.821472, 142.321518, 5479.116699>)
+21:37:35.281 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<645.820496, 142.321655, 5479.116699>) as driver
+21:37:48.125 [VehicleEnter] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<645.815247, 142.322113, 5479.116699>) as passenger
+21:37:49.929 [VehicleEngine] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<645.814148, 142.322250, 5479.116699>)
+21:40:42.820 [VehicleLeave] Player Lou Sassole [uid=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<629.819824, 129.119507, 7588.860840>)
+21:41:02.679 [VehicleEnter] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<629.829590, 129.120667, 7588.860352>) as passenger
+21:42:08.421 [VehicleLeave] Player Billy Bass [uid=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<168.413956, 105.343628, 7031.001953>)
+21:42:47.867 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<146.375153, 105.330704, 7057.416504>)
+21:42:57.429 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<147.933884, 105.261627, 7056.258789>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<146.375183, 105.330711, 7057.416504>)
+21:43:55.070 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6615.843750, 27.078619, 3663.623047>) Entered the safezone
+21:43:55.078 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+21:43:55.078 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+21:43:55.078 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:43:56.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:45:45.640 [Party] Player "Billy Bass" (id=UZoPCMLB3N11A-tUm4UvgjfGx78zjm5LF9R7QhaC4c0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:51:21.453 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:51:22.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:52:23.632 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:52:24.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:00:16.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:16.757 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.36, 128.54, 7611.59> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:16.757 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:16.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 992.5 to 985.9
+22:00:16.757 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:17.289 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:17.289 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.45, 128.54, 7611.6> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:17.289 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:17.289 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 985.9 to 979.3
+22:00:17.289 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:18.039 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:18.039 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.35, 128.53, 7611.52> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:18.039 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:18.039 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 979.3 to 972.7
+22:00:18.039 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:18.554 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:18.554 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.39, 128.54, 7611.61> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:18.554 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:18.554 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 972.7 to 966.1
+22:00:18.554 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:19.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:19.281 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.27, 128.83, 7611.83> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:19.281 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:19.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 966.1 to 959.5
+22:00:19.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:19.820 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:19.820 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.35, 128.8, 7611.82> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:19.820 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:19.820 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 959.5 to 952.9
+22:00:19.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:20.546 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:20.546 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.24, 128.8, 7611.79> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:20.546 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:20.546 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 952.9 to 946.3
+22:00:20.546 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:21.085 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:21.085 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.19, 128.99, 7611.94> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:21.093 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:21.093 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 946.3 to 939.7
+22:00:21.093 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:25.484 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:25.484 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.43, 128.54, 7611.5> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:25.484 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:25.484 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 939.7 to 933.1
+22:00:25.484 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:25.992 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:25.992 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.39, 128.54, 7611.58> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:25.992 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:25.992 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 933.1 to 926.5
+22:00:25.992 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:26.718 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:26.718 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.25, 128.53, 7611.53> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:26.718 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:26.718 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 926.5 to 919.9
+22:00:26.718 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:27.265 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:27.265 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.34, 128.53, 7611.49> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:27.265 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:27.265 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 919.9 to 913.3
+22:00:27.265 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:28.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:28.000 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.3, 128.53, 7611.33> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:28.000 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:28.000 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 913.3 to 906.7
+22:00:28.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:28.507 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:28.507 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.36, 128.53, 7611.39> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:28.507 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:28.507 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 906.7 to 900.1
+22:00:28.507 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:29.257 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:29.257 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.25, 128.52, 7611.32> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:29.257 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:29.257 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 900.1 to 893.5
+22:00:29.257 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:29.804 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:29.804 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.29, 128.53, 7611.39> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:29.804 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:29.804 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 893.5 to 886.9
+22:00:29.804 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:30.523 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:30.523 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.17, 128.52, 7611.34> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:30.523 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:30.523 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 886.9 to 880.3
+22:00:30.523 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:31.046 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:31.046 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.23, 128.52, 7611.39> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:31.046 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:31.046 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 880.3 to 873.7
+22:00:31.046 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:32.687 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:32.687 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.29, 128.52, 7611.01> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:32.687 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:32.687 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 873.7 to 867.1
+22:00:32.687 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:33.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:33.281 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.3, 128.52, 7611.12> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:33.281 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:33.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 867.1 to 860.5
+22:00:33.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:33.945 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:33.945 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.14, 128.51, 7611.12> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:33.953 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:33.953 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 860.5 to 853.901
+22:00:33.953 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:34.500 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:34.500 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.12, 128.51, 7611.28> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:34.500 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:34.500 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 853.901 to 847.301
+22:00:34.500 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:35.226 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:35.226 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <616.98, 128.5, 7611.24> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:35.226 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:35.226 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 847.301 to 840.701
+22:00:35.226 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:40.000 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:40.000 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.11, 128.51, 7611.45> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:40.000 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:40.000 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 840.701 to 834.101
+22:00:40.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:41.703 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:41.703 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.03, 128.51, 7611.52> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:41.703 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:41.703 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 834.101 to 827.501
+22:00:41.703 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:42.226 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:42.234 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.09, 128.57, 7611.59> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:42.234 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:42.234 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 827.501 to 820.901
+22:00:42.234 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:00:43.531 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:00:43.531 [BaseBuildingRaiding] Player "Captain Chaos" (ID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) at <617.15, 128.72, 7611.69> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:00:43.531 [BaseBuildingRaiding] They dealt 6.6 * 50 = 330 damage with MeleeSharpLight_4 from AK_Bayonet
+22:00:43.531 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 820.901 to 814.301
+22:00:43.531 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:06:36.132 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<703.790405, 132.269577, 7664.390625>) Left the safezone
+22:10:13.382 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:13.382 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.73, 128.57, 7611.67> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:13.382 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:13.382 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 814.301 to 796.301
+22:10:13.382 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:13.875 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:13.875 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.92, 128.58, 7611.6> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:13.875 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:13.875 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 796.301 to 778.301
+22:10:13.875 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:14.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:14.578 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.81, 128.57, 7611.45> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:14.578 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:14.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 778.301 to 760.301
+22:10:14.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:15.078 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:15.078 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.88, 128.57, 7611.53> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:15.078 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:15.078 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 760.301 to 742.301
+22:10:15.078 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:15.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:15.781 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.67, 128.56, 7611.53> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:15.781 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:15.781 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 742.301 to 724.301
+22:10:15.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:16.273 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:16.273 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.73, 128.57, 7611.65> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:16.273 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:16.273 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 724.301 to 706.301
+22:10:16.273 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:16.976 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:16.976 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.54, 128.55, 7611.7> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:16.976 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:16.976 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 706.301 to 688.301
+22:10:16.984 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:19.781 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:19.781 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.63, 128.56, 7611.61> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:19.781 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:19.781 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 688.301 to 670.301
+22:10:19.781 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:20.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:20.281 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.76, 128.57, 7611.64> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:20.281 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:20.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 670.301 to 652.301
+22:10:20.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:20.984 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:20.984 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.61, 128.55, 7611.55> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:20.984 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:20.984 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 652.301 to 634.301
+22:10:20.984 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:21.476 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:21.476 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.6, 128.56, 7611.68> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:21.476 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:21.476 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 634.301 to 616.301
+22:10:21.476 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:22.179 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:22.179 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.4, 128.54, 7611.68> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:22.179 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:22.179 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 616.301 to 598.301
+22:10:22.179 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:22.679 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:22.679 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <617.48, 128.61, 7611.74> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:22.679 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:22.679 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 598.301 to 580.301
+22:10:22.679 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:28.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:28.914 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.37, 128.62, 7611.94> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:28.914 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:28.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 580.301 to 562.301
+22:10:28.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:29.414 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:29.414 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.47, 128.63, 7612.02> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:29.414 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:29.414 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 562.301 to 544.301
+22:10:29.414 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:30.109 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:30.117 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.32, 128.62, 7611.94> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:30.117 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:30.117 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 544.301 to 526.301
+22:10:30.117 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:30.609 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:30.609 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.4, 128.62, 7612.01> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:30.609 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:30.609 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 526.301 to 508.301
+22:10:30.609 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:31.312 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:31.312 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.26, 128.61, 7611.9> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:31.312 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:31.312 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 508.301 to 490.301
+22:10:31.312 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:31.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:31.812 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.29, 128.62, 7611.98> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:31.812 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:31.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 490.301 to 472.301
+22:10:31.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:38.281 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:38.281 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.9, 128.69, 7613.62> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:38.281 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:38.281 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 472.301 to 454.301
+22:10:38.281 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:39.015 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:39.015 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.92, 128.69, 7613.5> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:39.015 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:39.015 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 454.301 to 436.301
+22:10:39.015 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:39.515 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:39.515 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.84, 128.69, 7613.5> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:39.515 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:39.515 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 436.301 to 418.301
+22:10:39.515 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:40.210 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:40.210 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.83, 128.68, 7613.28> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:40.210 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:40.210 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 418.301 to 400.301
+22:10:40.210 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:40.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:40.710 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.81, 128.68, 7613.38> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:40.710 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:40.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 400.301 to 382.301
+22:10:40.710 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:41.414 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:41.414 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.99, 128.69, 7613.2> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:41.414 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:41.414 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 382.301 to 364.301
+22:10:41.414 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:41.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:41.914 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.97, 128.69, 7613.31> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:41.914 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:41.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 364.301 to 346.301
+22:10:41.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:42.609 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:42.609 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.02, 128.69, 7613.14> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:42.609 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:42.609 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 346.301 to 328.301
+22:10:42.609 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:43.109 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:43.109 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.95, 128.69, 7613.24> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:43.109 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:43.109 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 328.301 to 310.301
+22:10:43.109 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:43.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:43.812 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.06, 128.7, 7613.07> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:43.812 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:43.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 310.301 to 292.301
+22:10:43.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:44.312 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:44.312 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.01, 128.69, 7613.17> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:44.312 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:44.312 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 292.301 to 274.301
+22:10:44.312 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:45.015 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:45.015 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.09, 128.7, 7612.99> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:45.015 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:45.015 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 274.301 to 256.301
+22:10:45.015 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:45.523 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:45.523 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.06, 128.7, 7613.1> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:45.523 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:45.523 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 256.301 to 238.301
+22:10:45.523 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:46.210 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:46.210 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.08, 128.69, 7612.94> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:46.210 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:46.210 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 238.301 to 220.301
+22:10:46.210 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:46.710 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:46.710 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.05, 128.69, 7613.03> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:46.710 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:46.710 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 220.301 to 202.301
+22:10:46.710 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:47.414 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:47.414 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.91, 128.68, 7612.84> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:47.414 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:47.414 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 202.301 to 184.301
+22:10:47.414 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:47.914 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:47.914 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.87, 128.68, 7612.94> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:47.914 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:47.914 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 184.301 to 166.301
+22:10:47.914 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:48.609 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:48.609 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.89, 128.68, 7612.78> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:48.609 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:48.609 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 166.301 to 148.301
+22:10:48.609 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:49.109 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:49.109 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.91, 128.68, 7612.89> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:49.109 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:49.109 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 148.301 to 130.301
+22:10:49.109 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:49.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:49.812 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.05, 128.69, 7612.71> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:49.812 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:49.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 130.301 to 112.301
+22:10:49.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:50.312 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:50.312 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <619.08, 128.69, 7612.82> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:50.312 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:50.312 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 112.301 to 94.3007
+22:10:50.312 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:52.648 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:52.648 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.74, 128.66, 7612.66> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:52.648 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:52.648 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 94.3007 to 76.3007
+22:10:52.648 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:53.140 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:53.140 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.89, 128.68, 7612.73> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:53.140 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:53.140 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 76.3007 to 58.3007
+22:10:53.140 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:53.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:53.843 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.78, 128.66, 7612.57> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:53.843 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:53.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 58.3007 to 40.3007
+22:10:53.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:54.343 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:54.343 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.93, 128.68, 7612.68> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:54.343 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:54.343 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 40.3007 to 22.3007
+22:10:54.343 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:55.046 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:55.046 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.87, 128.67, 7612.52> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:55.046 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:55.046 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 22.3007 to 4.30066
+22:10:55.046 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:10:56.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+22:10:56.250 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <618.5, 129.07, 7612.54> damaged ExpansionCamoTent at <616.96, 128.51, 7612.75>
+22:10:56.250 [BaseBuildingRaiding] They dealt 18 * 50 = 900 damage with MeleeTWP_SmithWesson_Knife from TWP_SmithWesson_Knife_Green
+22:10:56.250 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4.30066 to 0
+22:10:56.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+22:17:58.921 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6594.522461, 21.259750, 3651.763916>) Entered the safezone
+22:22:16.921 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+22:25:32.007 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer_Military
+22:28:16.648 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:28:19.593 [VehicleDeleted] Hatchback_02 (id=2231851DCB415DEBC4D375A5EA50545E pos=<620.697815, 128.723984, 7605.380371>)
+22:28:39.632 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID= ownerName=)
+22:28:39.632 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) created a party named Reaper (REAP)
+22:28:40.632 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 14
+22:28:57.664 [Party] Player "JuanCarlosJr" (id=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=) left the party "ShadowCo" (id=12 ownerUID=VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM= ownerName=ShadowMan)
+22:29:40.296 [VehicleDeleted] Hatchback_02 (id=C9405BA2CD4F1894773D0C86A611CDCA pos=<6520.507813, 59.995152, 11312.982422>)
+22:30:10.656 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:30:21.101 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+22:33:43.617 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:33:43.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:33:43.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:33:44.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:34:33.421 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6608.267578, 21.323626, 3672.042236>) Entered the safezone
+22:34:33.429 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+22:40:11.781 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6648.041504, 21.287231, 3625.027832>) Left the safezone
+22:40:18.015 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6626.804688, 21.088430, 3625.343994>) Entered the safezone
+22:40:32.359 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6587.262207, 22.367493, 3622.577393>) Left the safezone
+22:43:45.648 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6584.222168, 21.328943, 3644.486328>) Entered the safezone
+22:48:40.750 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<155.796265, 105.277184, 7063.994141>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.102295, 105.372589, 7068.239258>)
+22:48:42.078 [VehicleCarKey] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= pos=<155.796265, 105.277184, 7063.994141>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.102295, 105.372589, 7068.239258>)
+22:55:40.132 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.102295, 105.372589, 7068.239258>) as passenger
+22:55:42.828 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.101471, 105.372589, 7068.239258>) as driver
+22:55:46.476 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<156.101471, 105.372589, 7068.239258>)
+22:56:18.007 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<165.930023, 105.200348, 7036.028320>)
+22:56:19.109 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<165.933167, 105.200081, 7036.030762>)
+22:56:21.945 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<165.930252, 105.200310, 7036.029297>) as driver
+22:56:24.445 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<165.930313, 105.200310, 7036.029297>) as passenger
+22:56:27.437 [VehicleEnter] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<165.931931, 105.200172, 7036.030273>) as passenger
+22:56:29.921 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<165.931427, 105.200218, 7036.029785>) as passenger
+23:02:56.562 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240234, 100.368896, 8926.110352>)
+23:02:59.625 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369072, 8926.112305>)
+23:03:01.093 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240234, 100.368942, 8926.111328>)
+23:03:02.218 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240234, 100.368912, 8926.110352>)
+23:03:03.312 [VehicleLeave] Player MaxCaliber [uid=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=] left vehicle Nissan warrior Camo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>)
+23:03:24.914 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4377.320801, 100.624954, 8926.857422>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>)
+23:03:30.953 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4376.560547, 100.645081, 8927.453125>) used the  ExpansionCarKey to unlock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>)
+23:04:19.445 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4374.516602, 100.514290, 8927.664063>) used the  ExpansionCarKey to lock Nissan_warrior_kamo (id=CCB52FBF714030CA90DE54B73160B625 pos=<4373.240723, 100.369148, 8926.114258>)
+23:17:59.984 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:17:59.984 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <4632.24, 102.58, 9248.12> damaged ExpansionCodeLock at <4630.92, 103.83, 9248.52>
+23:17:59.984 [BaseBuildingRaiding] They dealt 20 * 1 = 20 damage with Hacksaw
+23:17:59.984 [BaseBuildingRaiding]  hitpoints decreased from 27.5554 to 7.55544
+23:17:59.984 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:21:00.015 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:21:00.015 [BaseBuildingRaiding] Player "MaxCaliber" (ID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) at <4632.24, 102.58, 9248.12> damaged ExpansionCodeLock at <4630.92, 103.83, 9248.52>
+23:21:00.023 [BaseBuildingRaiding] They dealt 6.55544 * 1 = 6.55544 damage with Hacksaw
+23:21:00.023 [BaseBuildingRaiding]  hitpoints decreased from 7.55544 to 1
+23:21:00.023 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:41:15.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:41:15.250 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <4625.58, 107.88, 9244.86> damaged ExpansionSafeMedium at <4624.03, 108.08, 9244.91>
+23:41:15.250 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+23:41:15.250 [BaseBuildingRaiding]  hitpoints decreased from 13480.3 to 10510.3
+23:41:15.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:43:08.835 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:43:08.835 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <4625.58, 107.88, 9244.86> damaged ExpansionSafeMedium at <4624.03, 108.08, 9244.91>
+23:43:08.835 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+23:43:08.835 [BaseBuildingRaiding]  hitpoints decreased from 10510.3 to 7540.28
+23:43:08.835 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:45:02.445 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:45:02.445 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <4625.58, 107.88, 9244.86> damaged ExpansionSafeMedium at <4624.03, 108.08, 9244.91>
+23:45:02.445 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+23:45:02.445 [BaseBuildingRaiding]  hitpoints decreased from 7540.28 to 4570.28
+23:45:02.445 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:46:56.046 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:46:56.046 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <4625.58, 107.88, 9244.86> damaged ExpansionSafeMedium at <4624.03, 108.08, 9244.91>
+23:46:56.054 [BaseBuildingRaiding] They dealt 2970 * 1 = 2970 damage with Hacksaw
+23:46:56.054 [BaseBuildingRaiding]  hitpoints decreased from 4570.28 to 1600.28
+23:46:56.054 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:48:49.656 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+23:48:49.656 [BaseBuildingRaiding] Player "DirtyMike" (ID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) at <4625.58, 107.88, 9244.86> damaged ExpansionSafeMedium at <4624.03, 108.08, 9244.91>
+23:48:49.656 [BaseBuildingRaiding] They dealt 1450.28 * 1 = 1450.28 damage with Hacksaw
+23:48:49.656 [BaseBuildingRaiding]  hitpoints decreased from 1600.28 to 150
+23:48:49.656 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+23:50:38.312 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:51:41.054 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:51:41.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+23:51:41.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:51:42.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:52:18.015 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+23:54:27.906 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:58:28.500 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:15.500 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:15.507 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
