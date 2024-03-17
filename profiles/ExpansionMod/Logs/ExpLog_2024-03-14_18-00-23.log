@@ -1,0 +1,98 @@
+20:38:11.023 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+20:38:11.046 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+20:38:11.046 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+20:38:12.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+20:43:19.359 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+20:48:18.218 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<155.739365, 105.141449, 7059.330078>) as driver
+20:48:26.570 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<155.739365, 105.141449, 7059.330078>)
+20:48:43.304 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<159.064529, 105.348167, 7036.930176>)
+20:48:55.687 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<159.064102, 105.348175, 7036.930176>) as driver
+20:48:58.242 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<159.064102, 105.348167, 7036.930176>)
+20:55:05.117 [AI Patrol] Spawning 2 Orting bots at <5304.388672, 220.275726, 4889.048340>
+20:59:37.039 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8269.229492, 70.432808, 3485.870605>)
+21:00:42.968 [AI Patrol] Spawning 2 National Guard bots at <9298.642578, 45.628689, 3310.975586>
+21:03:06.468 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8269.229492, 70.432816, 3485.870605>) as driver
+21:03:10.585 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8269.229492, 70.432816, 3485.870605>)
+21:03:58.171 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8351.198242, 70.884972, 3506.979248>)
+21:04:05.781 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8351.198242, 70.884972, 3506.979248>) as driver
+21:04:07.359 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8351.198242, 70.884972, 3506.979248>)
+21:04:30.546 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8355.609375, 70.934807, 3482.503662>)
+21:11:14.546 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+21:11:14.554 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+21:11:14.554 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 18
+21:11:14.554 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+21:11:15.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+21:11:59.906 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8355.609375, 70.934807, 3482.503662>) as driver
+21:12:03.921 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8355.609375, 70.934807, 3482.503662>)
+21:17:30.914 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:17:30.921 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+21:17:30.921 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:17:30.921 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+21:17:31.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:18:58.625 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:19:24.601 [AI Patrol] Spawning 2 Police Academy bots at <5248.797363, 56.129997, 2299.789795>
+21:22:54.320 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<160.264679, 105.249710, 7038.015137>)
+21:23:05.593 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<160.264542, 105.249710, 7038.015137>) as driver
+21:23:08.210 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<160.264343, 105.249718, 7038.015137>)
+21:23:24.085 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<155.691528, 105.141197, 7058.685059>)
+21:33:07.750 [Expansion Quests] - CompleteQuest - Player with UID DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= has completed quest 99
+21:33:12.148 [Safezone] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= pos=<6582.316895, 21.355204, 3646.508301>) Entered the safezone
+21:35:30.812 [Safezone] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= pos=<6647.260254, 21.373877, 3638.505371>) Entered the safezone
+21:36:43.281 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+22:11:33.359 [MissionAirdrop] An airdrop is heading towards "Church Camp" (pos=<8075.850098, 0.000000, 6584.669922> type=Random_ChurchCamp) with a ExpansionAirdropContainer
+22:13:55.968 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:13:55.976 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+22:13:55.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:13:55.976 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+22:13:56.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:18:54.929 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<155.691360, 105.141205, 7058.685059>) as driver
+22:18:56.703 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<155.691452, 105.141205, 7058.685059>)
+22:19:33.226 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<156.897293, 105.520020, 7035.115234>) as passenger
+22:25:35.039 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:25:35.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:25:35.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:25:36.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:28:48.234 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<6417.806152, 175.392471, 5210.701172>)
+22:28:48.765 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<6417.806152, 175.392441, 5210.701172>)
+22:29:48.320 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<6417.806152, 175.392456, 5210.701172>) as driver
+22:29:55.023 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<6417.806152, 175.392471, 5210.701172>) as passenger
+22:33:03.945 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8322.626953, 70.884270, 3481.081299>)
+22:33:05.328 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8322.626953, 70.884270, 3481.081299>)
+22:33:06.960 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle HAMMER_H1 black (id=A80F8DEE27472334D00117B608970D20 pos=<8322.626953, 70.884270, 3481.081299>)
+22:39:51.062 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) created territory of Neutral Grounds at <8316.800781, 70.843872, 3467.720459>
+22:40:25.640 [Territory] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<8316.571289, 70.856400, 3470.840576>) was invited to join the territory of Neutral Grounds at <8316.800781, 70.843872, 3467.720459> by the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)
+22:52:03.476 [BaseRaiding] BBP_DGate (<8348.024414, 70.877220, 3479.942627>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <8349.484375, 70.874046, 3479.404297>) and the code is 1776
+22:56:01.554 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:59:44.062 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+22:59:44.070 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:59:44.078 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+22:59:45.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:00:22.101 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M3S Covered (id=3C25BF35314A3A517F6A0B85AAECC0F1 pos=<8259.990234, 69.621964, 3481.038818>) as driver
+23:00:24.046 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M3S Covered (id=3C25BF35314A3A517F6A0B85AAECC0F1 pos=<8259.990234, 69.621460, 3481.009766>)
+23:00:29.539 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M3S Covered (id=3C25BF35314A3A517F6A0B85AAECC0F1 pos=<8259.991211, 69.619858, 3480.926270>)
+23:01:19.093 [VehicleDestroyed] Truck_01_Covered_Blue (id=3C25BF35314A3A517F6A0B85AAECC0F1 pos=<8259.994141, 69.619514, 3480.906738>)
+23:31:59.343 [Territory] Admin "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) deleted territory ItsyourboyBlue at <9585.054688, 3.865593, 536.890076>
+23:32:27.312 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory Build it back better at <150.667984, 105.394630, 7075.347168>
+23:32:53.812 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<147.613434, 105.278687, 7057.384766>) as driver
+23:32:56.023 [Territory] Admin "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) deleted territory Build it back better at <150.667984, 105.394630, 7075.347168>
+23:33:28.000 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8288.218750, 70.883133, 3498.817871>)
+23:37:28.359 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer_Medical
+23:37:45.195 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<142.008224, 105.431808, 7054.534180>) as driver
+23:37:57.476 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle BMW X5 White  (id=234BCCBC27416C45F8CBBC98662BD2A3 pos=<8333.088867, 70.844543, 3479.877686>)
+23:38:38.546 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<138.914627, 105.546921, 7057.036133>) as driver
+23:38:57.679 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8345.535156, 70.903496, 3470.958496>)
+23:40:02.468 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<137.798828, 105.404587, 7059.791016>) as driver
+23:40:18.890 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle M3S Covered (id=0DAC2B81B54E770BFE8C598B95C10C7D pos=<8348.164063, 70.769279, 3464.785889>)
+23:48:49.609 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8345.535156, 70.903503, 3470.958252>) as driver
+23:48:51.875 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8345.535156, 70.903503, 3470.958252>)
+23:49:33.093 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8325.176758, 71.034233, 3455.338135>)
+23:49:36.312 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle MUSTANG Rust  (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8325.176758, 71.034233, 3455.338135>)
+23:53:25.679 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8288.218750, 70.883133, 3498.817871>) as driver
+23:53:28.062 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8288.218750, 70.883141, 3498.817871>)
+23:53:35.015 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8288.218750, 70.883133, 3498.817871>) as driver
+23:53:36.539 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8288.218750, 70.883133, 3498.817871>)
+23:54:21.250 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8289.849609, 71.086472, 3475.840088>)
+23:57:08.515 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+23:59:09.710 [VehicleDeleted] Truck_01_Covered_Blue (id=3C25BF35314A3A517F6A0B85AAECC0F1 pos=<8259.994141, 69.619514, 3480.906738>)
+23:59:11.132 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:11.156 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

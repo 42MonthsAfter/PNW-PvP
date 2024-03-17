@@ -1,0 +1,15 @@
+07:02:03.765 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:02:03.777 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:02:03.779 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+07:02:03.779 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+07:02:04.730 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:07:10.097 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Medical
+07:19:03.058 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:23:39.066 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+07:23:39.076 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+07:23:39.078 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 16
+07:23:40.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+08:03:34.257 [BaseRaiding] BBP_SDoor (<3070.273193, 354.131927, 5004.890625>) Code set by player "Evsy" (ID = "iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=" at <3071.434326, 354.099365, 5004.812988>) and the code is 1091
+08:14:46.687 [BaseRaiding] BBP_BDoor (<3070.350830, 354.567047, 5001.317383>) Code set by player "Evsy" (ID = "iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=" at <3069.155762, 354.606964, 5001.391113>) and the code is 1091
+08:34:09.097 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Medical
+08:40:14.191 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) left the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)

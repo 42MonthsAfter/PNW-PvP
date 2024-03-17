@@ -1,0 +1,7 @@
+15:14:40.371 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+15:14:40.386 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:14:40.386 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:14:40.386 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:14:41.332 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:19:50.199 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer
+15:35:01.539 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

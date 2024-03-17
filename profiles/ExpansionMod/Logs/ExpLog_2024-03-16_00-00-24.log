@@ -1,0 +1,141 @@
+00:02:02.704 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:02:02.709 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:02:02.709 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:02:02.712 [AI Patrol] Spawning 2 National Guard bots at <9186.137695, 45.783791, 3390.073730>
+00:02:03.682 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:04.449 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:03:04.453 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:03:04.454 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:03:04.454 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:03:05.430 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:04:14.423 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:04:14.427 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:04:14.427 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:04:15.396 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:07:08.801 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer
+00:21:29.742 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+00:21:29.742 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+00:22:20.633 [BaseRaiding] BBP_RGate (<8284.262695, 70.843811, 3492.779053>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <8285.516602, 70.856392, 3493.249023>) and the code is 1776
+00:34:29.223 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8352.495117, 70.895004, 3483.664307>) used the  ExpansionCarKey to unlock HAMMER_H1_black (id=A80F8DEE27472334D00117B608970D20 pos=<8354.381836, 70.935196, 3486.110840>)
+00:34:32.703 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8353.146484, 70.895195, 3483.438477>) used the  ExpansionCarKey to lock HAMMER_H1_black (id=A80F8DEE27472334D00117B608970D20 pos=<8354.381836, 70.935196, 3486.110840>)
+00:34:34.705 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8353.146484, 70.895195, 3483.438477>) used the  ExpansionCarKey to unlock HAMMER_H1_black (id=A80F8DEE27472334D00117B608970D20 pos=<8354.381836, 70.935196, 3486.110840>)
+00:35:15.239 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8353.199219, 70.895210, 3483.763428>) used the  ExpansionCarKey to lock HAMMER_H1_black (id=A80F8DEE27472334D00117B608970D20 pos=<8354.381836, 70.935196, 3486.110840>)
+00:35:46.127 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8323.599609, 70.974487, 3452.156738>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8325.175781, 71.034233, 3455.338135>)
+00:36:12.364 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8325.270508, 70.974442, 3452.482666>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8325.175781, 71.034233, 3455.338135>)
+00:36:56.291 [Party] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+00:36:57.291 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:38:45.808 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8353.221680, 70.895218, 3483.772461>) used the  ExpansionCarKey to unlock HAMMER_H1_black (id=A80F8DEE27472334D00117B608970D20 pos=<8354.381836, 70.935196, 3486.110840>)
+00:39:19.927 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8353.221680, 70.895218, 3483.772461>) used the  ExpansionCarKey to lock HAMMER_H1_black (id=A80F8DEE27472334D00117B608970D20 pos=<8354.381836, 70.935196, 3486.110840>)
+00:39:46.673 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8325.722656, 70.974487, 3452.292480>) used the  ExpansionCarKey to unlock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8325.175781, 71.034233, 3455.338135>)
+00:39:59.161 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<8325.722656, 70.974487, 3452.292480>) used the  ExpansionCarKey to lock MUSTANG_rust (id=A06C13B6E04E25B141A6319C3A196CA8 pos=<8325.175781, 71.034233, 3455.338135>)
+00:44:01.041 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<8289.593750, 71.056625, 3480.778320>) used the  ExpansionCarKey to unlock Offroad_02 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>)
+00:44:18.640 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>) as driver
+00:44:20.116 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086319, 3477.509033>)
+00:45:09.763 [VehicleEnter] Player Hillbilly [uid=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>) as passenger
+00:45:13.936 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>)
+00:45:22.107 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>) as driver
+00:45:29.004 [VehicleLeave] Player Hillbilly [uid=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>)
+00:45:46.464 [VehicleEnter] Player Hillbilly [uid=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8290.281250, 71.086327, 3477.509033>) as passenger
+00:47:32.015 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8265.932617, 70.077324, 3477.126953>) as passenger
+00:47:38.046 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8265.931641, 70.077400, 3477.120850>) as passenger
+00:53:56.319 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.932617, 3.795200, 6803.308594>)
+00:53:57.804 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795228, 6803.308594>)
+00:53:57.974 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795228, 6803.308594>)
+00:53:58.435 [VehicleLeave] Player Hillbilly [uid=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795218, 6803.308594>)
+00:53:59.559 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+00:54:01.550 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached M1025 Rear Left Door (type=Offroad_02_Door_1_2_Rust) from vehicle M1025(id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+00:54:28.459 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<9351.833984, 3.836070, 6804.289063>) used the  ExpansionCarKey to lock Offroad_02 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+01:06:33.867 [AI Patrol] Spawning 2 Indian Island bots at <8811.628906, -0.362295, 8912.121094>
+01:32:21.804 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Basebuilding
+01:35:51.594 [Party] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:43:33.895 [Party] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+01:43:33.899 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+01:43:33.899 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+01:43:33.900 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+01:43:34.866 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:17:05.858 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:20:50.999 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:20:51.004 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+02:20:51.004 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:20:51.961 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:21:59.802 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:22:06.805 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:22:10.804 [Party] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:22:50.072 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:22:50.077 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+02:22:50.077 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:22:50.077 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+02:22:51.048 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:27:31.052 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:27:31.057 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+02:27:31.057 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:27:32.012 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:29:32.917 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (Locked) (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>) as passenger
+02:29:43.868 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<9351.970703, 3.832334, 6801.862793>) used the  ExpansionCarKey to unlock Offroad_02 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+02:30:53.014 [Party] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:30:53.019 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+02:30:53.019 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:30:53.019 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+02:30:53.985 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+02:30:59.339 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>) as passenger
+02:31:34.302 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>) as driver
+02:31:36.001 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+02:31:44.863 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+02:31:48.501 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795220, 6803.308594>) as driver
+02:31:49.850 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795220, 6803.308594>)
+02:31:55.270 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>)
+02:32:01.501 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9355.931641, 3.795223, 6803.308594>) as driver
+02:33:32.436 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9237.460938, 3.981261, 6845.951172>)
+02:34:22.750 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9237.460938, 3.981266, 6845.951660>) as passenger
+02:35:49.018 [VehicleEnter] Player Hillbilly [uid=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=] entered vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<9237.460938, 3.981262, 6845.951172>) as passenger
+02:42:25.178 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8265.360352, 70.210304, 3486.125977>)
+02:42:27.735 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8265.398438, 70.212517, 3486.135986>)
+02:42:32.174 [VehicleLeave] Player Hillbilly [uid=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8265.558594, 70.224503, 3486.238037>)
+02:43:48.422 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8331.769531, 70.873596, 3491.862793>)
+02:43:51.685 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle M1025 (id=31DA59112D499464224D7E9F0547001D pos=<8331.769531, 70.873589, 3491.862793>)
+02:54:00.147 [Territory] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0= pos=<8356.470703, 70.894241, 3483.372803>) was invited to join the territory of Neutral Grounds at <8316.800781, 70.843872, 3467.720459> by the player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)
+02:57:44.348 [Party] Player "Hillbilly" (id=qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+02:59:54.262 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:00:13.794 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+03:14:55.768 [BaseRaiding] BBP_SDoor (<8315.345703, 70.843933, 3486.115967>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <8314.978516, 70.856384, 3486.879883>) and the code is 1776
+03:18:50.054 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8273.806641, 77.177490, 3548.612549>) as driver
+03:18:51.883 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8273.806641, 77.173050, 3548.576416>)
+03:19:16.176 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8215.635742, 84.533974, 3587.590576>)
+03:22:33.840 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8215.685547, 84.287704, 3585.952393>) as driver
+03:23:25.433 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164063>)
+03:23:28.124 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802536, 3474.164307>)
+03:24:38.587 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:24:55.590 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:37.651 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:43.035 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:46.319 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:49.292 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:52.292 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:55.785 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:25:58.087 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:00.964 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:05.522 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:07.892 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:10.250 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:12.525 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:14.719 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:17.983 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:20.793 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:23.222 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:25.622 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:28.021 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:26:31.355 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Wooden Log (type=WoodenLog) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:32:12.166 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached M35a2 Double Wheel (type=M35a2_WheelDouble) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.423828, 70.802544, 3474.164795>)
+03:32:25.128 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached M35a2 Double Wheel (type=M35a2_WheelDouble) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.425781, 70.774323, 3474.161133>)
+03:32:32.591 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached M35a2 Wheel (type=M35a2_Wheel) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.422852, 70.711411, 3474.152832>)
+03:32:40.728 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached M35a2 Double Wheel (type=M35a2_WheelDouble) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.412109, 70.661133, 3474.151367>)
+03:32:46.064 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached M35a2 Double Wheel (type=M35a2_WheelDouble) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.416992, 70.634377, 3474.153809>)
+03:32:53.558 [VehicleAttachments] Player DirtyMike (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached M35a2 Wheel (type=M35a2_Wheel) from vehicle M35a2(id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.445313, 70.510788, 3474.181396>)
+03:33:23.564 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<8328.928711, 70.856407, 3474.284180>) paired a  ExpansionCarKey to M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.445313, 70.510788, 3474.181396>)
+03:34:28.377 [BaseRaiding] BBP_SDoor (<8315.437500, 70.901825, 3485.968994>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <8315.553711, 70.856384, 3487.483643>) and the code is 1776
+03:34:51.624 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.445313, 70.510788, 3474.181396>) as driver
+03:34:54.405 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.445313, 70.510788, 3474.181396>)
+03:35:13.588 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.445313, 70.510788, 3474.181396>)
+03:35:35.723 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<8328.735352, 70.856407, 3473.884766>) used the  ExpansionCarKey to lock M35a2 (id=2529B7C3BF407CF2706F41A6BC655C8F pos=<8326.445313, 70.510788, 3474.181396>)
+03:38:23.523 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+03:42:01.363 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

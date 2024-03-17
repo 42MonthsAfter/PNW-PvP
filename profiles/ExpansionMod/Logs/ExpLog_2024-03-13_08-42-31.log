@@ -1,0 +1,59 @@
+09:43:45.687 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:43:45.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+09:43:45.707 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+09:43:45.707 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+09:43:46.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:46:55.558 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:46:55.566 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+09:46:55.566 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:46:55.566 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+09:46:56.519 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:48:47.632 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Military
+09:51:23.328 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+09:51:23.339 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+09:51:23.339 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+09:51:24.300 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+09:59:32.125 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+10:18:02.261 [BaseRaiding] BBP_BDoor (<4318.971680, 9.145354, 1091.857300>) Code set by player "wiggyspurs" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <4317.918457, 9.185325, 1092.606445>) and the code is 7477
+10:21:05.277 [VehicleDeleted] G65 (id=A72BC72E104D7E89BE3023B2A9ABBBF2 pos=<0.005821, 0.644712, 0.207772>)
+10:21:05.332 [VirtualGarage] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4332.178223, 9.113301, 1090.803101>) retrieved a vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4332.775391, 9.033808, 1087.445435>)
+10:21:18.183 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<4332.775391, 9.033808, 1087.444458>) as driver
+10:21:20.804 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<4332.775391, 9.033809, 1087.444458>) as passenger
+10:21:21.859 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<4332.775391, 9.033807, 1087.444702>)
+10:24:35.300 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244967, 600.377625>)
+10:24:38.199 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244968, 600.377380>)
+10:24:51.226 [VehicleCarKey] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6748.488281, 4.324528, 597.902161>) used the  ExpansionCarKey to lock G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244968, 600.377380>)
+10:31:21.921 [AI Patrol] Spawning 2 Airfield bots at <6775.767578, 18.596117, 1732.442505>
+10:44:27.652 [VehicleCarKey] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6747.466797, 4.324579, 598.375244>) used the  ExpansionCarKey to unlock G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244968, 600.377380>)
+10:44:45.417 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244968, 600.377380>) as driver
+10:44:49.187 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244968, 600.377502>)
+10:44:57.621 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6749.085449, 4.244968, 600.377319>) as passenger
+10:47:00.480 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355398, 838.970642>)
+10:47:01.273 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355388, 838.969666>)
+10:48:16.468 [VehicleCarKey] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<8244.436523, 2.458849, 837.784363>) used the  ExpansionCarKey to lock G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355379, 838.969116>)
+11:14:03.632 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Military
+11:14:44.890 [VehicleCarKey] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<8244.687500, 2.456039, 838.051758>) used the  ExpansionCarKey to unlock G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355379, 838.969116>)
+11:14:52.156 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355379, 838.969116>) as passenger
+11:15:22.093 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355403, 838.967102>) as driver
+11:15:25.011 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<8246.443359, 2.355407, 838.967102>)
+11:17:35.820 [AI Patrol] Spawning 2 National Guard bots at <9190.436523, 45.711628, 3294.158447>
+11:19:55.140 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6446.813965, 170.687698, 5168.975098>)
+11:20:22.234 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6448.432617, 170.437561, 5167.277344>)
+11:20:51.500 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6448.475586, 170.431046, 5167.236328>) as driver
+11:20:53.398 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6448.514160, 170.425217, 5167.197754>)
+11:21:23.179 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<6451.723633, 169.989471, 5165.112305>) as passenger
+11:21:45.605 [AI Patrol] Spawning 2 Orting bots at <5250.300293, 219.699265, 5175.977539>
+11:28:26.019 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864746, 278.180481, 6239.222656>)
+11:28:26.019 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864746, 278.180481, 6239.222656>)
+11:28:31.292 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864746, 278.180481, 6239.222656>) as driver
+11:28:37.460 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864746, 278.180511, 6239.222656>)
+11:28:44.320 [VehicleCarKey] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<3290.856201, 278.259949, 6238.429199>) used the  ExpansionCarKey to lock G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864746, 278.180481, 6239.222168>)
+11:47:09.660 [VehicleCarKey] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<3294.969482, 278.259918, 6239.708984>) used the  ExpansionCarKey to unlock G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864746, 278.180481, 6239.222168>)
+11:47:16.925 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864502, 278.180511, 6239.222656>) as driver
+11:47:20.847 [VehicleEngine] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3292.864502, 278.180481, 6239.222656>)
+11:47:40.511 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3344.487549, 278.180481, 6193.446289>)
+11:55:34.417 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3344.487549, 278.180481, 6193.446289>) as driver
+11:55:40.773 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3344.487549, 278.180481, 6193.446289>)
+11:56:18.761 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3291.701416, 278.180511, 6239.810059>)
+11:57:09.906 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+11:57:10.046 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

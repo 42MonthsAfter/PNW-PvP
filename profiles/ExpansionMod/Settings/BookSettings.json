@@ -32,7 +32,7 @@
             "Rules": [
                 {
                     "RuleParagraph": "One Base Per Player / Group",
-                    "RuleText": "Groups & individual players are allowed one (1) base at a time. If you're in a group, you must base together and have a single (1) base. This is to help server performance."
+                    "RuleText": "Groups & individual players are allowed one (1) base at a time."
                 }
             ]
         },
@@ -42,10 +42,6 @@
             {
                 "RuleParagraph": "Base Raiding Rules",
                 "RuleText": "Base raiding is only allowed on the weekends from 6 pm EST to midnight Monday mornings. Camping bases or shooting at players in bases is considered raiding."
-            },
-            {
-                "RuleParagraph": "Raiding Tools",
-                "RuleText": "Vanilla raidint tools are used to raid both BBP walls and Expansion code locks. Sachels can be used for walls and gates, but not code locks. Hacksaws and blowtorches can only be used for MMG storage and code locks."
             }
             ]
         },

@@ -1,0 +1,10 @@
+00:00:27.717 [VehicleDeleted] Hatchback_02 (id=B8F11F6B8F4260043102D992B0ECE650 pos=<-0.000004, 0.640978, 0.093172>)
+00:06:54.393 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+00:06:54.399 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+00:06:54.400 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 18
+00:06:54.400 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+00:06:55.363 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+00:11:59.784 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Military
+00:46:32.214 [AI Patrol] Spawning 2 FOB Alpha bots at <337.231720, 146.877243, 4978.355957>
+01:37:21.782 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer
+01:42:14.826 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)

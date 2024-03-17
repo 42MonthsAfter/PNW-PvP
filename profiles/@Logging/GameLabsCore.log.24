@@ -1,0 +1,35 @@
+************************** 2024-02-29T23:00:21+00:00 **************************
+2024-02-29T23:00:21+00:00 | [INFO	] GameLabs v1.932 start for server b5de121d-c4a6-4b13-8608-0fb8d49d515f
+2024-02-29T23:00:25+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-02-29T23:00:25+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-29T23:00:25+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-29T23:00:25+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-03-01T00:00:27+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-01T00:00:27+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-01T00:00:28+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-01T01:00:33+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-01T01:00:33+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-01T01:00:33+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-01T02:00:38+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-01T02:00:38+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-01T02:00:38+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-01T03:00:43+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-01T03:00:43+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-01T03:00:43+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-01T03:28:38+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:28:43+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:28:48+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:28:53+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:28:58+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:29:03+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:29:04+00:00 | [ERROR	] PlayerConnect errorCode(8)
+2024-03-01T03:29:08+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:29:13+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:29:18+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T03:29:23+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-01T04:00:48+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-01T04:00:48+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-01T04:00:48+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-01T04:58:38+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<18ffd050>> fired for already disconnected player [steam64=76561198088929178]
+2024-03-01T05:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-03-01T05:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

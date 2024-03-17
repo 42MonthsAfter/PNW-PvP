@@ -1,0 +1,154 @@
+[COT 2024-03-15 03:00:00] 76561199108250772: Set GodMode To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-03-15 03:00:00] 76561199108250772: Set cannot be targeted by AI to true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-03-15 03:00:01] 76561199108250772: Set UnlimitedStamina To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-03-15 03:00:01] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-03-15 03:00:13] 76561199108250772: Set the date to 2024/9/12 12:0
+[COT 2024-03-15 03:00:13] 76561199108250772: Set rain to 0 0 0
+[COT 2024-03-15 03:00:13] 76561199108250772: Set storm to 0 0.8 4000
+[COT 2024-03-15 03:00:13] 76561199108250772: Set fog to 0 0 0
+[COT 2024-03-15 03:00:13] 76561199108250772: Set overcast to 0 0 0
+[COT 2024-03-15 03:00:13] 76561199108250772: Set wind to 0 0 1
+[COT 2024-03-15 03:00:28] 76561199108250772: Teleported to position <142.339310, 105.499756, 7051.234375>
+[COT 2024-03-15 03:00:53] 76561199108250772: Spawned Entity ADMIN GEAR-BLUE-TOP (DOC_ADMIN_BLUE_TOP<339b9740>, 100, 70, 0) at <146.637085, 105.859894, 7070.773438>
+[COT 2024-03-15 03:00:57] 76561199108250772: Spawned Entity ADMIN GEAR-BLUE-BOTTOM (DOC_ADMIN_BLUE_BOTTOM<339ba2d0>, 100, 130, 0) at <146.633881, 106.037064, 7070.907227>
+[COT 2024-03-15 03:02:23] 76561199108250772: Teleported to <8264.955078, 70.082748, 3473.129395> [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+[COT 2024-03-15 03:04:29] 76561199108250772: Teleported to position <141.234695, 105.435280, 7068.774414>
+[COT 2024-03-15 03:09:26] 76561199108250772: Spawned Entity Screwdriver (Screwdriver<9c802260>, 100, 100, 0) at <146.151703, 105.859894, 7077.459961>
+[COT 2024-03-15 03:10:34] 76561199108250772: Teleported to <8322.251953, 70.856384, 3483.728760> [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+[COT 2024-03-15 03:13:52] 76561199108250772: Teleported to position <142.999863, 105.604980, 7045.950195>
+[COT 2024-03-15 03:14:01] 76561199108250772: Entered the Free Camera
+[COT 2024-03-15 03:14:09] 76561199108250772: Left the Free Camera
+[COT 2024-03-15 03:22:00] 76561199108250772: Teleported to <8337.837891, 71.421371, 3464.408691> [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+[COT 2024-03-15 03:30:42] 76561199108250772: Teleported to <146.471542, 105.277649, 7060.951172> [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+[COT 2024-03-15 03:30:57] 76561199108250772: Spawned Entity Flag Pole Kit (TerritoryFlagKit<432db440>, 100, 200, 0) at <150.873627, 105.370895, 7074.256348>
+[COT 2024-03-15 03:33:03] 76561199108250772: Teleported to <8286.055664, 70.856400, 3494.007813> [guid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=]
+[COT 2024-03-15 03:33:16] 76561199108250772: Teleported [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] to <8288.220703, 70.856384, 3498.818359>
+[COT 2024-03-15 03:33:31] 76561199108250772: Spawned Entity Lumber Pile (PileOfWoodenPlanks<14ec99b0>, 252, 100, 0) at <8281.016602, 71.469009, 3507.352295>
+[COT 2024-03-15 03:35:28] 76561199108250772: Teleported to position <106.884857, 106.750778, 7085.000000>
+[COT 2024-03-15 03:35:40] 76561199108250772: ESP: Viewing ESP
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=0 target=mmg_gun_rack_green:6732 position=<147.766068, 108.857887, 7063.003418> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=1 target=mmg_locker02_blue:6668 position=<139.852264, 105.819901, 7078.400879> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=2 target=mmg_gun_rack_tan:6448 position=<137.028549, 105.819901, 7073.999023> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=3 target=mmg_gun_rack_blue:6485 position=<158.716919, 108.857887, 7056.748047> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=4 target=mmg_solo_locker_yellow:5949 position=<143.965393, 105.819901, 7074.506836> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=5 target=ExpansionSignDanger3:5945 position=<171.635971, 105.890846, 7017.103516> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=6 target=mmg_palette_storage:5887 position=<151.345322, 105.232384, 7048.460449> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=7 target=ExpansionSafeMini:5874 position=<149.892029, 108.250862, 7050.945313> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=8 target=mmg_supply_crate_wood:5759 position=<153.873535, 105.237183, 7067.735352> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=9 target=mmg_weapon_crate_wood:5724 position=<148.744980, 105.819901, 7068.269531> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=10 target=mmg_lockable_gun_rack_grey:5702 position=<148.913284, 108.857887, 7063.247559> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=11 target=mmg_locker02_green:5486 position=<141.329269, 105.819901, 7078.636230> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=12 target=mmg_equipment_locker_black:5584 position=<152.097412, 108.857681, 7064.627930> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=13 target=ExpansionSignDanger2:5550 position=<166.641388, 106.030205, 7017.644531> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=14 target=ExpansionSafeMini:5363 position=<142.941650, 106.382736, 7077.118164> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=15 target=mmg_military_case_green:5411 position=<153.745514, 108.260132, 7050.016113> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=16 target=mmg_gun_rack_blue:5382 position=<158.599762, 108.857887, 7057.853027> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=17 target=mmg_equipment_locker_grey:5130 position=<153.134109, 105.427826, 7077.857422> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=18 target=mmg_lockable_gun_rack_grey:4947 position=<154.469864, 114.687294, 7048.200684> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=19 target=mmg_gun_wall_metal:4911 position=<141.909317, 106.304642, 7079.030762> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=20 target=mmg_solo_locker_yellow:5097 position=<136.886917, 105.819901, 7071.477539> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=21 target=mmg_army_box_green:4615 position=<145.912796, 108.857887, 7062.633789> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=22 target=mmg_lockable_gun_rack_grey:4589 position=<145.722687, 105.819901, 7068.263672> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=23 target=ExpansionGunrack:4584 position=<150.468933, 105.292900, 7047.326172> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=24 target=mmg_supply_crate_grey:4512 position=<145.418640, 105.300598, 7062.655273> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=25 target=ExpansionSafeLarge:4439 position=<135.545151, 106.783699, 7064.999023> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=26 target=ExpansionCone:4432 position=<148.653442, 105.819901, 7069.958496> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP index=27 target=mmg_solo_locker_blue:5334 position=<148.321793, 108.858093, 7053.099121> action=delete
+[COT 2024-03-15 03:36:02] 76561199108250772: ESP action=delete_all count=28 attempted=28
+[COT 2024-03-15 03:36:18] 76561199108250772: ESP index=0 target=mmg_locker02_tan:4843 position=<157.237961, 108.642487, 7072.402344> action=delete
+[COT 2024-03-15 03:36:18] 76561199108250772: ESP index=1 target=mmg_gear_stand:4673 position=<157.983719, 108.805382, 7069.107422> action=delete
+[COT 2024-03-15 03:36:18] 76561199108250772: ESP index=2 target=mmg_army_box_green:4513 position=<158.065628, 108.871452, 7067.784180> action=delete
+[COT 2024-03-15 03:36:18] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-03-15 03:36:24] 76561199108250772: ESP index=0 target=mmg_solo_locker_green:6541 position=<143.868759, 105.819901, 7072.194336> action=delete
+[COT 2024-03-15 03:36:24] 76561199108250772: ESP index=1 target=SeaChest:6124 position=<150.274536, 108.857887, 7063.450195> action=delete
+[COT 2024-03-15 03:36:24] 76561199108250772: ESP index=2 target=mmg_solo_locker_yellow:5011 position=<146.896027, 108.857887, 7063.172852> action=delete
+[COT 2024-03-15 03:36:24] 76561199108250772: ESP index=3 target=ExpansionGunrack:4239 position=<143.648178, 108.808678, 7062.027832> action=delete
+[COT 2024-03-15 03:36:24] 76561199108250772: ESP index=4 target=mmg_gear_stand:5290 position=<144.433121, 108.896309, 7062.833008> action=delete
+[COT 2024-03-15 03:36:24] 76561199108250772: ESP action=delete_all count=5 attempted=5
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=0 target=ExpansionSafeMedium:6877 position=<144.587280, 106.642654, 7066.437988> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=1 target=mmg_equipment_locker_black:6712 position=<134.948959, 108.858299, 7058.513184> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=2 target=mmg_crate04_blue:6257 position=<138.764114, 106.736084, 7073.095215> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=3 target=ExpansionSignDanger2:5946 position=<140.938553, 106.902893, 7008.141113> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=4 target=ExpansionGunrack:5792 position=<145.660080, 105.819901, 7069.419434> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=5 target=mmg_gun_wall_wooden:5676 position=<148.880920, 105.819901, 7068.357910> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=6 target=ExpansionSafeLarge:5351 position=<137.347153, 106.697823, 7075.906738> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP index=7 target=mmg_palette_storage:4936 position=<138.085144, 108.858299, 7061.294434> action=delete
+[COT 2024-03-15 03:36:37] 76561199108250772: ESP action=delete_all count=8 attempted=8
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=0 target=mmg_supply_crate_wood:6842 position=<143.153229, 105.335052, 7062.033691> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=1 target=mmg_crate04_black:6650 position=<149.372742, 105.235893, 7063.269531> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=2 target=mmg_gear_stand:6289 position=<133.491364, 105.819901, 7068.411133> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=3 target=mmg_equipment_locker_grey:6264 position=<145.933304, 105.819901, 7066.953125> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=4 target=mmg_gear_stand:6158 position=<153.890503, 105.237183, 7063.999023> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=5 target=mmg_trashcan_red:5820 position=<148.950043, 105.254990, 7051.631348> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=6 target=mmg_armored_cabinet_grey:5678 position=<140.789276, 105.819901, 7063.278320> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=7 target=mmg_locker02_green:4869 position=<136.432510, 105.819901, 7072.492676> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP index=8 target=mmg_armored_cabinet_rusty:5209 position=<141.891006, 105.819901, 7067.615234> action=delete
+[COT 2024-03-15 03:36:43] 76561199108250772: ESP action=delete_all count=9 attempted=9
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP index=0 target=mmg_fridge_minsk_beige:6799 position=<138.722610, 105.819901, 7063.217285> action=delete
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP index=1 target=mmg_solo_locker_yellow:6584 position=<141.557175, 105.819901, 7068.342285> action=delete
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP index=2 target=SeaChest:6223 position=<143.587250, 105.819901, 7063.998047> action=delete
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP index=3 target=mmg_fridge_minsk_blue:5980 position=<139.808884, 105.819901, 7063.446777> action=delete
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP index=4 target=ExpansionSafeLarge:5453 position=<139.026184, 106.736084, 7072.423828> action=delete
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP index=5 target=ExpansionSafeLarge:4864 position=<139.252365, 106.736084, 7071.785645> action=delete
+[COT 2024-03-15 03:36:48] 76561199108250772: ESP action=delete_all count=6 attempted=6
+[COT 2024-03-15 03:36:50] 76561199108250772: ESP index=0 target=mmg_fridge_minsk_beige:5067 position=<137.647415, 105.819901, 7063.085938> action=delete
+[COT 2024-03-15 03:36:50] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-03-15 03:36:57] 76561199108250772: Entered the Free Camera
+[COT 2024-03-15 03:36:59] 76561199108250772: Left the Free Camera
+[COT 2024-03-15 03:37:53] 76561199108250772: Teleported to position <8333.088867, 70.843910, 3479.877930>
+[COT 2024-03-15 03:38:08] 76561199108250772: Teleported to position <142.428268, 105.434319, 7070.858398>
+[COT 2024-03-15 03:38:51] 76561199108250772: Teleported to position <8345.535156, 70.843765, 3470.958984>
+[COT 2024-03-15 03:39:39] 76561199108250772: Teleported to position <3324.017090, 262.480621, 6523.096680>
+[COT 2024-03-15 03:39:46] 76561199108250772: Teleported to position <142.509628, 105.409622, 7068.482422>
+[COT 2024-03-15 03:40:12] 76561199108250772: Teleported to position <8348.166016, 70.843689, 3464.766113>
+[COT 2024-03-15 03:46:23] 76561199108250772: Healed [guid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=]
+[COT 2024-03-15 03:46:28] 76561199108250772: Healed [guid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=]
+[COT 2024-03-15 03:49:20] 76561199108250772: Spawned Entity Firewood (Firewood<2880f070>, 1, 500, 0) at <8336.797852, 70.995056, 3459.894043>
+[COT 2024-03-15 03:49:20] 76561199108250772: Spawned Entity Firewood (Firewood<2513b6b0>, 1, 500, 0) at <8336.906250, 71.171677, 3459.816650>
+[COT 2024-03-15 03:49:20] 76561199108250772: Spawned Entity Firewood (Firewood<251365c0>, 1, 500, 0) at <8337.022461, 71.348289, 3459.737305>
+[COT 2024-03-15 03:51:08] 76561199108250772: Spawned Entity MMG Equipment Locker Green Kit (mmg_equipment_locker_green_kit<a717a480>, 100, 100, 0) at <8327.299805, 70.974487, 3452.022217>
+[COT 2024-03-15 03:51:29] 76561199108250772: Spawned Entity MMG Equipment Locker Green Kit (mmg_equipment_locker_green_kit<3c31c500>, 100, 100, 0) at <8327.351563, 70.974495, 3453.207520>
+[COT 2024-03-15 03:51:29] 76561199108250772: Spawned Entity MMG Equipment Locker Green Kit (mmg_equipment_locker_green_kit<3c31e7b0>, 100, 100, 0) at <8327.368164, 71.228386, 3453.346680>
+[COT 2024-03-15 03:51:32] 76561199108250772: Spawned Entity MMG Equipment Locker Green Kit (mmg_equipment_locker_green_kit<3c31d090>, 100, 100, 0) at <8326.951172, 70.974495, 3453.054199>
+[COT 2024-03-15 03:51:32] 76561199108250772: Spawned Entity MMG Equipment Locker Green Kit (mmg_equipment_locker_green_kit<3c31fed0>, 100, 100, 0) at <8326.939453, 71.228386, 3453.224121>
+[COT 2024-03-15 03:53:17] 76561199108250772: Spawned Entity MMG Metal Crate Red (mmg_storage_openable_noLock_base<2e8f89b0>, 100, 1000, 0) at <8348.262695, 70.893806, 3485.493652>
+[COT 2024-03-15 03:53:20] 76561199108250772: Spawned Entity MMG Metal Crate Yellow (mmg_storage_openable_noLock_base<2e8fcf10>, 100, 1000, 0) at <8348.031250, 70.893723, 3484.286133>
+[COT 2024-03-15 03:53:25] 76561199108250772: Spawned Entity MMG SupplyCrate Wooden (mmg_crate03_base<2e8ffd50>, 100, 1000, 0) at <8348.746094, 70.893906, 3483.219727>
+[COT 2024-03-15 03:53:35] 76561199108250772: Spawned Entity MMG Equipment Locker Green Kit (mmg_equipment_locker_green_kit<28522b40>, 100, 100, 0) at <8349.246094, 70.894119, 3487.054932>
+[COT 2024-03-15 03:53:40] 76561199108250772: Spawned Entity MMG Equipment Locker Black Kit (mmg_equipment_locker_black_kit<28539d40>, 100, 100, 0) at <8349.464844, 70.894173, 3486.529541>
+[COT 2024-03-15 03:53:44] 76561199108250772: Spawned Entity MMG Equipment Locker Rusty Kit (mmg_equipment_locker_grey_kit<3c31d090>, 100, 100, 0) at <8349.326172, 70.894119, 3485.661621>
+[COT 2024-03-15 03:53:52] 76561199108250772: Spawned Entity MMG Armored Cabinet Grey (mmg_armored_cabinet_base<3c31e7b0>, 100, 1000, 0) at <8348.518555, 71.657623, 3488.952148>
+[COT 2024-03-15 03:53:59] 76561199108250772: Spawned Entity MMG Armored Cabinet Green (mmg_armored_cabinet_base<9c2c41b0>, 100, 1000, 0) at <8348.107422, 71.670700, 3490.972168>
+[COT 2024-03-15 03:54:04] 76561199108250772: Spawned Entity MMG TA-50 Locker Kit Blue (mmg_locker02_blue_kit<25147b40>, 100, 100, 0) at <8349.070313, 70.894020, 3487.555908>
+[COT 2024-03-15 03:54:08] 76561199108250772: Spawned Entity MMG TA-50 Locker Kit Green (mmg_locker02_green_kit<15a828d0>, 100, 100, 0) at <8349.686523, 70.894211, 3484.773682>
+[COT 2024-03-15 03:54:11] 76561199108250772: Spawned Entity MMG TA-50 Locker Kit Tan (mmg_locker02_tan_kit<15a7cc50>, 100, 100, 0) at <8349.478516, 70.894188, 3486.894043>
+[COT 2024-03-15 03:54:12] 76561199108250772: Spawned Entity MMG TA-50 Locker Kit Tan (mmg_locker02_tan_kit<15a879c0>, 100, 100, 0) at <8349.625000, 70.953110, 3486.993408>
+[COT 2024-03-15 03:54:15] 76561199108250772: Spawned Entity MMG Solo Locker Yellow Kit (mmg_solo_locker_yellow_kit<15a88550>, 100, 100, 0) at <8349.801758, 71.023949, 3487.111572>
+[COT 2024-03-15 03:54:26] 76561199108250772: Spawned Entity MMG Solo Locker Medic Kit (mmg_solo_locker_medic_kit<15a85710>, 100, 100, 0) at <8349.936523, 71.079506, 3487.208008>
+[COT 2024-03-15 03:54:35] 76561199108250772: Spawned Entity MMG Old Safe Green (mmg_old_safe_base<28812a40>, 100, 1000, 0) at <8349.092773, 70.894058, 3485.769531>
+[COT 2024-03-15 03:54:41] 76561199108250772: Spawned Entity MMG Old Safe Green (mmg_old_safe_base<25149260>, 100, 1000, 0) at <8348.253906, 71.650360, 3486.187256>
+[COT 2024-03-15 03:54:46] 76561199108250772: Spawned Entity MMG Gun Rack Kit Blue (mmg_gun_rack_kit_blue<288135d0>, 100, 100, 0) at <8348.621094, 70.893852, 3487.841064>
+[COT 2024-03-15 03:54:52] 76561199108250772: Spawned Entity MMG Gun Rack Kit Green (mmg_gun_rack_kit_green<28814160>, 100, 100, 0) at <8348.648438, 70.892220, 3488.300049>
+[COT 2024-03-15 03:55:01] 76561199108250772: Spawned Entity MMG Lockable Gun Rack Kit (mmg_lockable_gun_rack_kit_grey<9c2ccc70>, 100, 100, 0) at <8348.894531, 70.984108, 3488.298584>
+[COT 2024-03-15 03:55:02] 76561199108250772: Spawned Entity MMG Lockable Gun Rack Kit (mmg_lockable_gun_rack_kit_grey<9c2c92a0>, 100, 100, 0) at <8349.083008, 71.054237, 3488.290771>
+[COT 2024-03-15 03:55:03] 76561199108250772: Spawned Entity MMG Lockable Gun Rack Kit (mmg_lockable_gun_rack_kit_grey<9c2c9e30>, 100, 100, 0) at <8349.329102, 71.146584, 3488.281006>
+[COT 2024-03-15 03:55:09] 76561199108250772: Spawned Entity MMG Gun Wall Kit Wooden (mmg_gun_wall_kit_wooden<1de4efb0>, 100, 100, 0) at <8349.354492, 70.894135, 3486.125732>
+[COT 2024-03-15 03:55:10] 76561199108250772: Spawned Entity MMG Gun Wall Kit Wooden (mmg_gun_wall_kit_wooden<1de4c170>, 100, 100, 0) at <8349.502930, 70.960594, 3486.207275>
+[COT 2024-03-15 03:55:13] 76561199108250772: Spawned Entity MMG Army Box Green (mmg_army_box_base<1de4fb40>, 100, 1000, 0) at <8349.663086, 71.031181, 3486.285889>
+[COT 2024-03-15 03:55:18] 76561199108250772: Spawned Entity MMG Army Box Medic (mmg_army_box_medic<1de49330>, 100, 1000, 0) at <8348.979492, 70.894005, 3484.726563>
+[COT 2024-03-15 03:55:23] 76561199108250772: Spawned Entity MMG Military Case Green (mmg_military_case_base<1de58600>, 100, 1000, 0) at <8357.930664, 70.893921, 3483.799561>
+[COT 2024-03-15 03:55:25] 76561199108250772: Spawned Entity MMG Military Case Green (mmg_military_case_base<1de49ec0>, 100, 1000, 0) at <8357.976563, 70.893860, 3487.044678>
+[COT 2024-03-15 03:55:30] 76561199108250772: Spawned Entity MMG Weapon Crate Wood (mmg_weapon_crate_base<1de5a8b0>, 100, 1000, 0) at <8357.305664, 70.893860, 3489.539307>
+[COT 2024-03-15 03:55:34] 76561199108250772: Spawned Entity MMG Palette Storage (mmg_storage_placeable_base<1de540a0>, 100, 100, 0) at <8357.265625, 70.893845, 3491.310303>
+[COT 2024-03-15 03:55:38] 76561199108250772: Spawned Entity MMG Fridge Kit Beige (mmg_fridge_kit_beige<1de56ee0>, 100, 100, 0) at <8356.608398, 70.893936, 3493.678955>
+[COT 2024-03-15 03:55:41] 76561199108250772: Spawned Entity MMG Fridge Kit Blue (mmg_fridge_kit_blue<18f247c0>, 100, 100, 0) at <8356.466797, 70.960541, 3493.460938>
+[COT 2024-03-15 03:55:48] 76561199108250772: Spawned Entity MMG Trashcan Red (mmg_trashcan_base<18f25350>, 100, 1000, 0) at <8357.355469, 70.893784, 3495.718994>
+[COT 2024-03-15 03:56:00] 76561199108250772: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<31082400>, 100, 100, 0) at <8349.042969, 70.878662, 3495.748779>
+[COT 2024-03-15 03:56:01] 76561199108250772: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<310916d0>, 100, 100, 0) at <8349.029297, 70.878685, 3495.750977>
+[COT 2024-03-15 03:56:05] 76561199108250772: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<31093980>, 100, 100, 0) at <8349.041016, 70.878723, 3495.755127>
+[COT 2024-03-15 03:56:05] 76561199108250772: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<31094510>, 100, 100, 0) at <8349.084961, 70.895546, 3495.677734>
+[COT 2024-03-15 03:56:06] 76561199108250772: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<3108e890>, 100, 100, 0) at <8349.080078, 70.895737, 3495.675537>
+[COT 2024-03-15 03:56:07] 76561199108250772: Spawned Entity MMG Gear Stand Kit (mmg_gear_stand_kit<3108f420>, 100, 100, 0) at <8349.121094, 70.911804, 3495.601318>
+[COT 2024-03-15 03:56:15] 76561199108250772: Spawned Entity MMG Wall Shelf (mmg_wall_shelf_base<2851e5e0>, 100, 1000, 0) at <8349.159180, 70.929581, 3495.521240>
+[COT 2024-03-15 03:56:21] 76561199108250772: Spawned Entity MMG Old Table (mmg_storage_placeable_base<2882d610>, 100, 2000, 0) at <8350.909180, 70.884628, 3496.447754>
+[COT 2024-03-15 03:56:24] 76561199108250772: Spawned Entity MMG Old Table (mmg_storage_placeable_base<28522b40>, 100, 2000, 0) at <8348.531250, 70.872559, 3493.489258>

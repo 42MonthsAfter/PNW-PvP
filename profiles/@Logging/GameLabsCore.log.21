@@ -1,0 +1,20 @@
+************************** 2024-02-29T15:39:47+00:00 **************************
+2024-02-29T15:39:47+00:00 | [INFO	] GameLabs v1.932 start for server b5de121d-c4a6-4b13-8608-0fb8d49d515f
+2024-02-29T15:39:51+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-02-29T15:39:51+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-29T15:39:51+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-29T15:39:52+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-02-29T16:05:05+00:00 | [WARN	] [Spawn] Spawning DOC_STANAG69_ROYALFOIL (x1) for SurvivorBase<626e5a50>
+2024-02-29T16:18:35+00:00 | [WARN	] [Teleport] SurvivorBase<626e5a50> position=0x00000000e07f0c20 {<6598.89,21.5089,3669.05>}
+2024-02-29T16:18:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-29T16:18:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-29T16:18:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=21.5089u, unitsPerSecond=8.60357 [threshold=8, inVehicle=0, triggers=1])
+2024-02-29T16:18:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-29T16:18:37+00:00 | [WARN	] ****************************************
+2024-02-29T16:19:35+00:00 | [WARN	] [Heal] SurvivorBase<626e5a50>
+2024-02-29T16:19:45+00:00 | [WARN	] [Heal] SurvivorBase<629349e0>
+2024-02-29T16:39:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-29T16:39:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-29T16:39:55+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-29T17:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-02-29T17:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

@@ -1,0 +1,19 @@
+09:22:00.070 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:22:00.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+09:22:00.085 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+09:22:00.085 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+09:22:01.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:27:07.875 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+09:40:32.585 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:47:57.437 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+09:47:57.441 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+09:47:57.441 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 16
+09:47:58.410 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+10:17:56.417 [BaseRaiding] BBP_Roof_Hatch (<3073.390381, 357.127045, 5001.349609>) Code set by player "Evsy" (ID = "iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=" at <3072.532959, 354.248138, 5002.270508>) and the code is 1091
+10:27:15.449 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) left the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+10:27:58.695 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+10:27:58.699 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+10:27:58.699 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+10:27:59.667 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+10:52:53.875 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+11:06:24.097 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) left the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)

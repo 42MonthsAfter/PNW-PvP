@@ -1,0 +1,212 @@
+06:02:50.849 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:02:50.857 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:02:50.857 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:02:50.857 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:02:51.818 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:07:54.431 [MissionAirdrop] An airdrop is heading towards "Black Lake Campground" (pos=<6870.850098, 0.000000, 3747.250000> type=Random_BlackLakeCampground) with a ExpansionAirdropContainer
+06:20:07.255 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+06:20:07.269 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:20:07.269 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:20:07.269 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:20:08.212 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:24:45.810 [BaseRaiding] BBP_BDoor (<4324.074219, 9.145354, 1088.719116>) Code set by player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <4323.012695, 9.185312, 1088.646851>) and the code is 7477
+06:43:22.544 [BaseRaiding] BBP_BDoor (<4324.127930, 9.145354, 1088.754639>) Code set by player "wiggyspurs" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <4322.973633, 9.185311, 1089.182129>) and the code is 7477
+06:52:08.210 [BaseRaiding] BBP_BDoor (<4318.971680, 9.145354, 1091.857300>) Code set by player "Slightly Crazed" (ID = "RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=" at <4320.105469, 9.407537, 1091.094971>) and the code is 7477
+06:54:42.328 [BaseRaiding] BBP_BDoor (<4317.169434, 9.145354, 1091.249023>) Code set by player "wiggyspurs" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <4316.554688, 9.185337, 1090.516479>) and the code is 7477
+07:06:42.599 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+07:06:42.613 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+07:06:42.613 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+07:06:42.613 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+07:06:43.574 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+07:11:14.900 [VehicleDeleted] G65 (id=17EE2F2D5548C4A8375924AF555D3D01 pos=<0.005821, 0.644712, 0.207772>)
+07:11:14.945 [VirtualGarage] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4331.815430, 9.113283, 1090.986694>) retrieved a vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4337.710449, 9.034136, 1089.578735>)
+07:11:36.849 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4337.710449, 9.034135, 1089.578857>) as passenger
+07:11:39.589 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4337.710449, 9.034136, 1089.579468>) as driver
+07:11:43.027 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4337.710449, 9.034136, 1089.579468>)
+07:17:12.023 [AI Patrol] Spawning 2 National Guard bots at <9125.287109, 45.443851, 3285.817627>
+07:19:40.376 [Safezone] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6643.643066, 22.298422, 3639.425781>) Entered the safezone
+07:19:40.427 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6642.759277, 22.279886, 3639.166504>) Entered the safezone
+07:19:49.121 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.820313, 21.227684, 3656.333740>)
+07:20:28.083 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.823242, 21.227146, 3656.316406>)
+07:20:33.802 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.823730, 21.227121, 3656.312012>) as driver
+07:20:37.531 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] stopped vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.823730, 21.227106, 3656.310303>)
+07:20:38.550 [Expansion Quests] - CompleteQuest - Player with UID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= has completed quest 38
+07:20:44.398 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227070, 3656.305908>)
+07:20:55.183 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6627.889648, 21.287975, 3655.895020>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227049, 3656.305420>)
+07:21:10.841 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:21:27.507 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 38
+07:22:21.871 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6627.605469, 21.281616, 3655.354492>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227049, 3656.305420>)
+07:23:27.691 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6628.385742, 21.286301, 3655.148926>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227049, 3656.305420>)
+07:33:47.429 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Basebuilding
+07:40:50.884 [Safezone] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6613.830078, 21.493402, 3666.433105>) Entered the safezone
+07:40:50.884 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+07:40:50.888 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:40:50.888 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:40:51.841 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+07:41:09.199 [ATM] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has withdrawn 18423 from his ATM account.
+07:41:56.667 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:41:56.841 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+07:41:58.371 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:41:58.535 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+07:42:00.328 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:00.484 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_ak9_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 900.
+07:42:14.441 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:14.595 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:15.492 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:15.656 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:16.609 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:16.759 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:17.623 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:17.783 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:18.660 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:18.814 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:19.617 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:19.777 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:20.546 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:20.714 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:21.427 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:21.591 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:22.175 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:22.332 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:22.734 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+07:42:22.898 [Market] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_9x39ap_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 64.
+07:42:28.785 [ATM] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 15083 on his ATM account.
+07:52:03.160 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 46
+07:52:17.523 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= for quest 46
+07:52:36.650 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6627.762695, 21.284607, 3655.583740>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227049, 3656.305420>)
+07:52:42.298 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.226961, 3656.304688>) as driver
+07:52:45.021 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227070, 3656.303711>) as passenger
+07:52:45.605 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6629.824219, 21.227030, 3656.302979>)
+07:53:11.294 [Safezone] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6722.299316, 28.603899, 3654.203125>) Left the safezone
+07:53:11.449 [Safezone] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6722.603516, 28.754225, 3656.316650>) Left the safezone
+07:54:14.113 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6908.169922, 37.188850, 3960.796387>)
+07:54:14.144 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6908.169434, 37.188740, 3960.797363>)
+07:55:32.396 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6908.129395, 37.181179, 3960.858887>) as driver
+07:55:35.505 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6908.068848, 37.169907, 3960.949951>)
+07:55:53.019 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6882.993652, 32.628265, 3999.440186>) as passenger
+08:00:57.425 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9602.899414, 2.447993, 7786.108398>)
+08:00:57.976 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9602.899414, 2.447993, 7786.108398>)
+08:02:39.033 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9602.899414, 2.447993, 7786.108398>) as passenger
+08:02:41.103 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9602.899414, 2.447993, 7786.108398>) as driver
+08:02:44.625 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9602.899414, 2.447993, 7786.108398>)
+08:04:19.662 [AI Patrol] Spawning 2 Indian Island bots at <8510.594727, 12.723310, 8812.792969>
+08:05:52.472 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298007, 9878.382813>)
+08:05:57.132 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298006, 9878.382813>)
+08:06:06.503 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9506.201172, 8.377501, 9879.181641>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298008, 9878.382813>)
+08:06:24.316 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:23:39.455 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+08:25:58.300 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:25:58.304 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+08:25:58.304 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:25:58.304 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+08:25:59.251 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:29:18.933 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9506.365234, 8.377501, 9879.168945>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298008, 9878.382813>)
+08:29:38.449 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298006, 9878.382813>) as driver
+08:29:42.396 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298007, 9878.382813>)
+08:29:55.083 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] stopped vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298007, 9878.382813>)
+08:30:28.183 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9508.045898, 8.298007, 9878.382813>)
+08:30:46.800 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] stopped vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298050, 9874.681641>)
+08:30:55.035 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298049, 9874.681641>)
+08:31:00.705 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] stopped vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298049, 9874.681641>)
+08:31:27.392 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:31:56.652 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+08:31:56.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+08:31:56.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:31:56.656 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+08:31:57.621 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:32:20.433 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9504.456055, 8.377497, 9875.142578>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298050, 9874.681641>)
+08:32:24.890 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298050, 9874.681641>) as passenger
+08:32:32.019 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298050, 9874.681641>) as driver
+08:32:35.582 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9507.104492, 8.298049, 9874.681641>)
+08:34:50.640 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9619.243164, 2.462578, 8140.648438>)
+08:34:52.597 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9619.243164, 2.462592, 8140.648438>)
+08:44:48.333 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9619.243164, 2.462576, 8140.648438>) as driver
+08:44:49.820 [VehicleEngine] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9619.243164, 2.462576, 8140.648438>)
+08:45:02.972 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9616.722656, 2.449663, 8125.173340>)
+08:45:10.046 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9616.722656, 2.449685, 8125.173340>) as driver
+08:45:12.837 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9616.723633, 2.449665, 8125.173340>) as passenger
+08:45:13.167 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9616.723633, 2.449666, 8125.173340>)
+08:47:18.355 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948035, 6211.032715>)
+08:47:20.386 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948035, 6211.032715>)
+08:47:34.888 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9116.963867, 4.027476, 6208.820801>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948035, 6211.032715>)
+08:59:01.429 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Basebuilding
+08:59:16.101 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<9116.414063, 4.027476, 6209.648438>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948035, 6211.032715>)
+08:59:21.617 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948030, 6211.032715>) as driver
+08:59:23.714 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948033, 6211.032715>) as passenger
+08:59:28.443 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<9116.999023, 3.948033, 6211.032715>)
+09:01:56.339 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498008, 6622.727051>)
+09:01:59.392 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498008, 6622.727051>)
+09:02:02.998 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<8094.833984, 8.577508, 6621.558594>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498007, 6622.727051>)
+09:04:49.037 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<8094.985840, 8.577507, 6620.996582>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498007, 6622.727051>)
+09:05:03.433 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498007, 6622.727051>) as driver
+09:05:06.871 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498007, 6622.727051>)
+09:05:17.105 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<8096.241699, 8.498007, 6622.727051>) as passenger
+09:06:58.683 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7953.005859, 3.919527, 7054.183105>)
+09:06:59.218 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7953.006836, 3.919536, 7054.183105>)
+09:09:36.562 [VehicleAttachments] Player wiggyspurs (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached G65 Wheel (type=G65_Wheel) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7953.006836, 3.919536, 7054.183105>)
+09:11:01.203 [VehicleAttachments] Player wiggyspurs (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached G65 Trunk (type=G65_Doors_trunk) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:14:17.710 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached Jerrycan (type=CanisterGasoline) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:14:24.460 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached Barrel (type=Barrel_Green) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:14:30.433 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached Barrel (type=Barrel_Yellow) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:14:57.531 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached MVS Rucksack - Midnight Camo (type=MVS_Rucksack_Black_Camo) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:15:12.652 [VehicleAttachments] Player Slightly Crazed (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached AWM (type=Expansion_AWM) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:16:42.914 [VehicleAttachments] Player wiggyspurs (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached G65 Trunk (type=G65_Doors_trunk) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:19:34.316 [VehicleAttachments] Player wiggyspurs (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached  (type=G65_Wheel_destroyed) from vehicle G65(id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.960449, 3.919535, 7054.184570>)
+09:20:30.546 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.958984, 3.947990, 7054.186523>) as passenger
+09:20:39.753 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.958984, 3.947990, 7054.186523>)
+09:20:41.695 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.958984, 3.947989, 7054.186523>) as driver
+09:20:45.554 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.958984, 3.947990, 7054.186523>)
+09:20:53.113 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<7952.958984, 3.947990, 7054.186523>) as passenger
+09:24:12.296 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+09:24:12.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+09:24:12.312 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+09:24:13.261 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+09:24:27.058 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6582.090332, 21.405529, 3659.846680>) Entered the safezone
+09:24:41.476 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6524.384766, 30.873814, 3631.710938>) Left the safezone
+09:25:06.160 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6604.064941, 22.829184, 3660.136963>) Entered the safezone
+09:25:59.605 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6245.788086, 65.018867, 8036.041504>)
+09:26:01.484 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6245.788086, 65.018867, 8036.041504>)
+09:28:36.625 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+09:30:32.156 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6599.137695, 21.271723, 3659.285645>) Entered the safezone
+09:30:32.156 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) joinded the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+09:30:32.160 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+09:30:32.160 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+09:30:33.125 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+09:35:49.835 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+09:35:49.847 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+09:35:49.847 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 16
+09:35:50.785 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+09:37:08.636 [Party] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) left the party "ddd" (id=0 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=(ADMIN)BLUE)
+09:37:48.289 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6245.788086, 65.018867, 8036.041504>) as driver
+09:37:51.601 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6245.788086, 65.018867, 8036.041504>)
+09:38:25.566 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<6245.788086, 65.018867, 8036.041504>) as passenger
+09:40:59.542 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4512.961426, 178.153320, 7168.802246>)
+09:40:59.988 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4512.970703, 178.150436, 7168.785156>)
+09:41:19.468 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4511.128418, 178.238052, 7167.352051>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4512.981934, 178.147064, 7168.764648>)
+09:42:43.406 [AI Patrol] Spawning 2 Vagabond Army bots at <3614.820068, 99.884567, 7940.522461>
+09:49:55.816 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4511.188965, 178.290665, 7167.858398>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4512.981934, 178.147064, 7168.764648>)
+09:50:04.726 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4513.014648, 178.136810, 7168.702148>) as driver
+09:50:16.343 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (Locked) (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4513.253906, 178.062973, 7168.254883>)
+09:52:17.089 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4526.490723, 177.236954, 7171.642090>) as passenger
+09:57:35.960 [BaseRaiding] BBP_BDoor (<3070.350830, 354.567047, 5001.317383>) Code set by player "Evsy" (ID = "iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=" at <3068.959229, 354.606964, 5001.496094>) and the code is 1091
+09:58:45.984 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.227356, 38.336922, 3713.787109>)
+09:58:47.476 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.229492, 38.336826, 3713.789063>)
+09:58:54.328 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.237671, 38.336403, 3713.797607>) as driver
+09:59:53.718 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:00:30.296 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:00:30.300 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+10:00:30.300 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:00:30.300 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+10:00:31.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:00:36.023 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<913.879883, 38.539349, 3711.762207>) used the  ExpansionCarKey to unlock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.458862, 38.328743, 3713.955078>)
+10:00:41.808 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.458862, 38.328743, 3713.955078>) as passenger
+10:00:48.164 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.465454, 38.328506, 3713.960205>) as driver
+10:00:51.945 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<912.480347, 38.327950, 3713.971680>)
+10:06:35.652 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4339.302734, 9.034194, 1088.082153>)
+10:06:40.460 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:10:18.652 [VehicleCarKey] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4337.482422, 9.113545, 1086.699341>) used the  ExpansionCarKey to lock G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4339.302734, 9.034194, 1088.082275>)
+10:10:29.761 [VehicleDeleted] G65 (id=2B24DEB93E4E36A0881A8D82453E9DD3 pos=<4339.302734, 9.034194, 1088.082275>)
+10:10:29.761 [VirtualGarage] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4330.936523, 9.113215, 1090.359497>) stored a vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4339.302734, 9.034194, 1088.082275>)
+10:16:38.007 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:24:21.429 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer
+11:36:17.441 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) left the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)

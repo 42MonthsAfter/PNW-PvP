@@ -1,0 +1,80 @@
+************************** 2024-03-13T17:05:28+00:00 **************************
+2024-03-13T17:05:28+00:00 | [INFO	] GameLabs v1.932 start for server b5de121d-c4a6-4b13-8608-0fb8d49d515f
+2024-03-13T17:05:32+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-13T17:05:32+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-13T17:05:32+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-13T17:05:32+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-03-13T17:06:46+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:07:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:06+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:11+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:16+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:21+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:26+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:31+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:08:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:26+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:31+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:41+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:46+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:51+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:09:56+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:01+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:06+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:11+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:16+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:21+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:26+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:31+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:41+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:46+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:51+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:10:56+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:01+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:06+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:11+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:16+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:21+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:26+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:31+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:41+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:46+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:51+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:11:56+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:01+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:06+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:13+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-13T17:12:14+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:14+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:21+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:33+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-13T17:12:34+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:12:34+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:38:41+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:46:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:46:41+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:48:56+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:49:01+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:49:31+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:49:36+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:51:01+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:51:06+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:51:11+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T17:51:16+00:00 | [ERROR	] ServerPoll2 errorCode(7)
+2024-03-13T18:05:32+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-13T18:05:32+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-13T18:05:33+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-13T19:05:38+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-13T19:05:38+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-13T19:05:38+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-13T20:05:43+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-13T20:05:43+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-13T20:05:43+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-13T21:05:48+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-13T21:05:48+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-13T21:05:48+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-13T22:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-03-13T22:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

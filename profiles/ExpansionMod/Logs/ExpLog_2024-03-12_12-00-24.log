@@ -1,0 +1,19 @@
+12:02:57.824 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+12:02:57.828 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+12:02:57.832 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 18
+12:02:57.832 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+12:02:58.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+12:04:29.191 [AI Patrol] Spawning 2 FOB Alpha bots at <282.365967, 146.892303, 5039.407227>
+12:07:58.402 [MissionAirdrop] An airdrop is heading towards "Hurrican Ridge" (pos=<3851.189941, 0.000000, 3068.409912> type=Random_HurricanRidge) with a ExpansionAirdropContainer_Military
+13:33:15.007 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+17:11:02.453 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+17:11:02.468 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+17:11:02.468 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+17:11:03.414 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+17:11:10.406 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer
+17:20:44.125 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): NONE OF THESE DOORS ON THIS HOUSE WORK.
+17:23:56.687 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): not sure.  They worked fine and now I get a prompt to open but they wont.
+17:24:29.035 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): No.  I have to to lockpick them as well.
+17:25:06.765 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): tried to lockpick them
+17:25:55.359 [Chat - Global]("Captain Chaos"(id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)): Some of the doors i was able to glitch through, but others I cannot.
+17:57:42.023 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

@@ -1,0 +1,63 @@
+12:01:18.847 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:01:18.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:01:18.851 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+12:01:18.851 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:01:19.808 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:02:43.449 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:02:43.453 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:02:43.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:02:43.453 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:02:44.417 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:03:09.125 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3291.701416, 278.180511, 6239.810059>) as passenger
+12:03:13.039 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3291.701416, 278.180481, 6239.810059>) as driver
+12:03:17.433 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3291.701416, 278.180481, 6239.810059>)
+12:06:23.421 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer
+12:10:13.136 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:10:13.449 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:10:50.359 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:10:50.367 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:10:50.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:10:50.367 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:10:51.324 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:10:56.789 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:10:56.796 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:10:56.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:10:56.796 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:10:57.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:11:06.878 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<1543.800537, 110.730354, 4751.702637>) as driver
+12:11:10.226 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<1543.800537, 110.730362, 4751.702637>)
+12:11:12.667 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<1543.800293, 110.730354, 4751.702637>) as passenger
+12:17:19.296 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:17:19.312 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:18:09.328 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:18:09.332 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:18:09.332 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:18:09.332 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:18:10.289 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:18:10.402 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:18:10.406 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:18:10.406 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:18:10.406 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:18:11.378 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:18:22.058 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3751.596924, 4.467050, 1189.592651>) as driver
+12:18:24.515 [VehicleEnter] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3751.597168, 4.467050, 1189.592651>) as passenger
+12:18:26.226 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<3751.597168, 4.467055, 1189.592651>)
+12:20:04.128 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<4337.710449, 9.034135, 1089.578857>)
+12:20:06.511 [VehicleLeave] Player wiggyspurs [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<4337.710449, 9.034136, 1089.578735>)
+12:25:32.183 [VehicleDeleted] G65 (id=B3C85F74F7466C83A16B27B7EDF548D5 pos=<0.005821, 0.644712, 0.207772>)
+12:25:32.191 [VehicleDeleted] G65 (id=732A71D4AC4B10B02B7A9A8B4BBD507F pos=<4337.710449, 9.034136, 1089.578735>)
+12:25:32.191 [VirtualGarage] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4331.565918, 9.113256, 1090.417480>) stored a vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4337.710449, 9.034136, 1089.578735>)
+12:26:44.562 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:26:44.625 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:27:10.390 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:27:10.394 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:27:10.394 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:27:10.394 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:27:11.347 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:27:26.371 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:27:26.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:27:26.375 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:27:26.378 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:27:27.343 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:36:02.394 [Party] Player "wiggyspurs" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+12:37:48.589 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)

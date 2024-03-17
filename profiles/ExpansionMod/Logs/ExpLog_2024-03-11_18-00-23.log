@@ -1,1 +1,79 @@
 18:00:26.535 [VehicleDeleted] Velociraptor6x6 (id=0755BA12814E4B2C41AE88A2E6131934 pos=<-0.003506, 0.780768, -0.834344>)
+18:05:16.945 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+18:05:16.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+18:05:16.953 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+18:05:17.910 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:06:26.070 [VehicleDeleted] G65 (id=7152A4441C4FB5071630B8B5B7FFB2A4 pos=<0.005821, 0.644712, 0.207772>)
+18:08:52.269 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+18:09:12.777 [VehicleDeleted] G65 (id=D8E0E8A7E643BFF104B71797BE11994C pos=<4329.595703, 9.033690, 1086.322632>)
+18:09:12.777 [VirtualGarage] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4331.693848, 9.113272, 1090.809082>) stored a vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4329.595703, 9.033690, 1086.322632>)
+18:10:17.570 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+18:10:18.675 [MissionAirdrop] An airdrop is heading towards "Lumber Mill" (pos=<268.049988, 0.000000, 5657.290039> type=Random_LumberMill) with a ExpansionAirdropContainer
+18:11:15.156 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9086.026367, 61.042656, 4687.749512>) used the  ExpansionCarAdminKey to lock G65_Pride (id=A1AEB645F64CC35E4D6055937B23803B pos=<9087.564453, 60.818611, 4687.250977>)
+18:11:31.851 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9087.342773, 60.899372, 4684.606445>) used the  ExpansionCarAdminKey to unlock G65_Pride (id=A1AEB645F64CC35E4D6055937B23803B pos=<9087.564453, 60.818611, 4687.250977>)
+18:12:05.386 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9088.265625, 60.817623, 4684.877441>) used the Admin CarKey to unpair G65_Pride (id=A1AEB645F64CC35E4D6055937B23803B pos=<9087.564453, 60.818611, 4687.250977>)
+18:12:09.519 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9086.380859, 61.004921, 4687.015137>) used the  ExpansionCarAdminKey to lock G65_Pride (id=A1AEB645F64CC35E4D6055937B23803B pos=<9087.564453, 60.818611, 4687.250977>)
+18:12:24.898 [VehicleDeleted] G65_Pride (id=A1AEB645F64CC35E4D6055937B23803B pos=<9087.564453, 60.818611, 4687.250977>)
+18:13:24.296 [AdminTools] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9087.159180, 60.934078, 4686.992676>) used the  ExpansionCarAdminKey to lock CivilianSedan_Black (id=7E04F4DD3F449FC1CFFDF0992A22B8CC pos=<9088.841797, 60.758110, 4687.318359>)
+18:18:57.804 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+18:18:57.812 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+18:18:57.812 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 18
+18:18:57.812 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+18:18:58.781 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+18:21:16.976 [VehicleDeleted] CivilianSedan_Black (id=7E04F4DD3F449FC1CFFDF0992A22B8CC pos=<9088.841797, 60.758110, 4687.318359>)
+18:24:13.921 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9076.756836, 61.568413, 4680.564941>) paired a  ExpansionCarKey to Hatchback_02 (id=EAA03B1BEE4CFEADA87B2689E4CBF45E pos=<9078.379883, 61.556122, 4681.091797>)
+18:24:15.984 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9076.756836, 61.568413, 4680.564941>) used the  ExpansionCarKey to lock Hatchback_02 (id=EAA03B1BEE4CFEADA87B2689E4CBF45E pos=<9078.379883, 61.556122, 4681.091797>)
+18:26:37.742 [VehicleDeleted] Hatchback_02 (id=A6F04D128D456AD28ECAB9949FF2564C pos=<-0.000004, 0.640978, 0.093172>)
+18:26:50.484 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9078.433594, 61.432434, 4678.733887>) used the  ExpansionCarKey to unlock Hatchback_02 (id=EAA03B1BEE4CFEADA87B2689E4CBF45E pos=<9078.379883, 61.556122, 4681.091797>)
+18:27:01.656 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9079.583008, 61.526470, 4680.317871>) used the  ExpansionCarKey to lock Hatchback_02 (id=EAA03B1BEE4CFEADA87B2689E4CBF45E pos=<9078.379883, 61.556122, 4681.091797>)
+18:27:06.343 [VehicleDeleted] Hatchback_02 (id=EAA03B1BEE4CFEADA87B2689E4CBF45E pos=<9078.379883, 61.556122, 4681.091797>)
+18:27:06.343 [VirtualGarage] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9085.855469, 61.061977, 4688.252441>) stored a vehicle "Hatchback_02" (GlobalID=8000000080000000800000008000D326 pos=<9078.379883, 61.556122, 4681.091797>)
+18:27:13.914 [AI Patrol] Spawning 2 FOB Alpha bots at <341.052704, 146.877243, 4897.911621>
+18:27:15.539 [VirtualGarage] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9085.677734, 61.074005, 4687.708496>) retrieved a vehicle "Hatchback_02" (GlobalID=8000000080000000800000008000D326 pos=<9078.379883, 61.556122, 4681.091797>)
+18:29:19.234 [VehicleDeleted] Hatchback_02 (id=BD796420E34664C81F947A994A8BC1B5 pos=<9078.379883, 61.555927, 4681.086914>)
+18:29:19.234 [VirtualGarage] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<9085.493164, 61.096214, 4688.429688>) stored a vehicle "Hatchback_02" (GlobalID=8000000080000000800000008000D326 pos=<9078.379883, 61.555927, 4681.086914>)
+18:29:48.601 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6590.976074, 21.265652, 3646.789551>) Entered the safezone
+18:52:24.140 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+19:03:02.835 [Safezone] Player "Paspuniak" (id=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= pos=<6611.095703, 21.535807, 3668.358887>) Entered the safezone
+19:03:02.843 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+19:15:14.515 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= for quest 3
+19:16:42.671 [Safezone] Player "Paspuniak" (id=NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4= pos=<6605.053711, 21.505207, 3664.780029>) Entered the safezone
+19:16:42.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+19:16:42.671 [Expansion Quests] - Create new quest instance for quest: 3 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+19:48:12.882 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+19:48:12.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+19:48:12.890 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 14
+19:48:12.890 [Expansion Quests] - Create new quest instance for quest: 55 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+19:48:13.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+19:48:19.671 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+20:24:06.539 [AI Patrol] Spawning 2 Orting bots at <5328.741211, 219.701782, 5221.720215>
+20:31:05.601 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+20:31:05.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+20:31:05.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+20:31:05.609 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+20:31:06.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+20:31:42.281 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) joinded the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:31:42.289 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=
+20:31:42.289 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+20:31:43.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+20:32:39.429 [AI Patrol] Spawning 2 Airfield bots at <6570.321777, 19.668285, 1879.147583>
+20:45:58.117 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6595.837402, 21.481680, 3698.962646>) Entered the safezone
+20:47:04.078 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: eeNI5LoNNs8_exsAookYBOKVBTaF6KC8G2bUYeJfd5I=
+20:47:27.789 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 55
+20:48:21.093 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= for quest 33
+20:48:43.390 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has send a requested to purchase ammobox_556x45_20rnd x6 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>).
+20:48:43.539 [Market] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has bought ammobox_556x45_20rnd x6 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<6614.000000, 0.000000, 3670.000000>) for a price of 192.
+20:48:49.101 [ATM] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) has deposited 8 on his ATM account.
+20:51:46.242 [Party] Player "Jason" (id=9saIUu-aBxbK8gS7XVwY_ytDD72xwsaTLpM_YZgfHx4=) left the party "Misfits" (id=9 ownerUID=iz1XKCOTQz4rSo4N_2QZvc-38Kw7-vxWkBvMaKVo0cI= ownerName={MM} meccmax)
+20:52:23.968 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6644.793457, 21.343390, 3639.820557>) Entered the safezone
+20:53:20.140 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6577.652832, 23.477598, 3648.947510>) Left the safezone
+20:53:37.656 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6575.584473, 21.497557, 3658.126953>) Entered the safezone
+20:54:13.515 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Reaper" (id=14 ownerUID=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= ownerName=Lou Sassole)
+21:14:21.757 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+21:52:18.031 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+21:52:18.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+21:52:18.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+21:52:18.039 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+21:52:18.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+21:52:22.671 [MissionAirdrop] An airdrop is heading towards "Rising Ridge" (pos=<3847.399902, 0.000000, 7061.879883> type=Random_RisingRidge) with a ExpansionAirdropContainer_Military
+21:53:05.250 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)

@@ -1,0 +1,15 @@
+10:10:12.136 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+10:10:12.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+10:10:12.140 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 16
+10:10:13.113 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+10:11:35.878 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6613.601563, 21.493521, 3665.754883>) Entered the safezone
+10:11:35.886 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:15:17.550 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer_Basebuilding
+10:32:35.078 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) left the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+11:48:17.250 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+11:48:17.261 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+11:48:17.261 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+11:48:17.265 [AI Patrol] Spawning 2 National Guard bots at <9152.657227, 45.780991, 3326.245850>
+11:48:17.562 [MissionAirdrop] An airdrop is heading towards "Point No Point" (pos=<9186.969727, 0.000000, 6223.310059> type=Random_PointNoPoint) with a ExpansionAirdropContainer
+11:48:18.226 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+11:54:08.750 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

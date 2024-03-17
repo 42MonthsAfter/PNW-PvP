@@ -1,0 +1,29 @@
+************************** 2024-03-11T22:00:20+00:00 **************************
+2024-03-11T22:00:20+00:00 | [INFO	] GameLabs v1.932 start for server b5de121d-c4a6-4b13-8608-0fb8d49d515f
+2024-03-11T22:00:24+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-11T22:00:24+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-11T22:00:24+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-11T22:00:24+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-03-11T22:29:49+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-11T22:29:49+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-11T22:29:49+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=2703.22u, unitsPerSecond=1081.29 [threshold=8, inVehicle=0, triggers=1])
+2024-03-11T22:29:49+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-11T22:29:49+00:00 | [WARN	] ****************************************
+2024-03-11T23:00:28+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T23:00:28+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T23:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-12T00:00:33+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-12T00:00:33+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-12T00:00:34+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-12T00:25:53+00:00 | [WARN	] [Heal] SurvivorBase<95037010>
+2024-03-12T01:00:38+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-12T01:00:38+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-12T01:00:39+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-12T02:00:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-12T02:00:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-12T02:00:39+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-12T03:00:44+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-12T03:00:44+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-12T03:00:44+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-12T04:00:02+00:00 | [INFO	] (Reporter) Disabled
+2024-03-12T04:00:02+00:00 | [INFO	] (Core) Attempting graceful exit

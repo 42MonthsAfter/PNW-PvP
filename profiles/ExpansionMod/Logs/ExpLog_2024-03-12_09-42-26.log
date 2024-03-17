@@ -1,0 +1,41 @@
+09:49:55.363 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+09:49:55.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+09:49:55.378 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+09:49:55.378 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+09:49:56.324 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+09:55:01.207 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer_Medical
+10:01:16.113 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<1893.089966, 99.897049, 8978.559570>) used the  ExpansionCarKey to unlock G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<1891.690918, 99.817551, 8979.356445>)
+10:01:48.507 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:01:48.511 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+10:01:48.511 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:01:48.511 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+10:01:49.476 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:02:28.828 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<1891.690918, 99.817558, 8979.356445>) as driver
+10:03:17.742 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<1891.690796, 99.817551, 8979.356445>) as passenger
+10:03:21.859 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<1891.690918, 99.817558, 8979.356445>)
+10:04:04.878 [AI Patrol] Spawning 2 Trench 94 bots at <3179.227051, 99.884567, 9206.055664>
+10:04:12.937 [AI Patrol] Spawning 2 Manhattan Project bots at <1985.880493, 99.884567, 8907.568359>
+10:05:16.468 [AI Patrol] Spawning 2 Vagabond Army bots at <3496.163086, 99.884567, 7980.313477>
+10:08:35.957 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4126.538574, 187.371231, 7165.729004>)
+10:08:36.699 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4126.538574, 187.371185, 7165.729004>)
+10:09:19.562 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4126.538574, 187.371201, 7165.729004>) as driver
+10:09:30.238 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4126.538574, 187.371201, 7165.729492>)
+10:13:44.835 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4194.415527, 185.699692, 7028.910645>)
+10:14:26.582 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4194.415039, 185.696274, 7028.868652>) as driver
+10:14:29.601 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4194.412598, 185.691467, 7028.810059>)
+10:24:13.367 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4271.792480, 196.478683, 7176.047852>) as passenger
+10:38:51.019 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4332.775391, 9.033809, 1087.445068>)
+10:38:59.121 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4332.775391, 9.033808, 1087.445435>)
+10:43:48.109 [VehicleDeleted] G65 (id=B04B828E3641467F373BFA9308F64CCC pos=<0.005821, 0.644712, 0.207772>)
+10:43:48.117 [VehicleDeleted] G65 (id=77A55CB2704B5B8DF0A00890423A63AC pos=<4332.775391, 9.033808, 1087.445435>)
+10:43:48.117 [VirtualGarage] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4331.331055, 9.113253, 1090.981445>) stored a vehicle "G65" (GlobalID=80000000800000008000000080008CE8 pos=<4332.775391, 9.033808, 1087.445435>)
+10:48:02.226 [BaseRaiding] ExpansionSafeMedium (<4318.991699, 9.991485, 1085.357056>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <4319.401855, 9.185340, 1083.477905>) and the code is 7477
+10:50:36.476 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+10:55:37.417 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "GRUMPY OLD GITS" (id=2 ownerUID=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= ownerName=wiggy)
+11:31:26.105 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+11:31:26.117 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+11:31:26.117 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 18
+11:31:26.117 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+11:31:27.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+11:31:33.214 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer
+11:59:15.226 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)

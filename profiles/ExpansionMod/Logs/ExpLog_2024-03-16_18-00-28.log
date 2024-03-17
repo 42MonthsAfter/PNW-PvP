@@ -1,0 +1,13 @@
+18:52:00.570 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+18:57:03.937 [MissionAirdrop] An airdrop is heading towards "Wetlands" (pos=<664.210022, 0.000000, 6312.689941> type=Random_Wetlands) with a ExpansionAirdropContainer_Military
+19:10:27.070 [AI Patrol] Spawning 2 FOB Alpha bots at <296.429016, 146.877243, 5021.415039>
+20:03:05.375 [AI Patrol] Spawning 2 Manhattan Project bots at <2103.029297, 99.884567, 8822.469727>
+20:05:45.476 [AI Patrol] Spawning 2 Vagabond Army bots at <3629.239258, 99.884567, 8041.205566>
+21:09:42.218 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+21:09:42.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+21:09:42.234 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+21:09:42.234 [Expansion Quests] - Create new quest instance for quest: 34 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+21:09:42.234 [AI Patrol] Spawning 2 National Guard bots at <9068.592773, 46.035534, 3433.540771>
+21:09:43.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:09:46.937 [MissionAirdrop] An airdrop is heading towards "Ocean Shores" (pos=<1322.369995, 0.000000, 948.588013> type=Random_OceanShores) with a ExpansionAirdropContainer_Military
+21:16:57.117 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

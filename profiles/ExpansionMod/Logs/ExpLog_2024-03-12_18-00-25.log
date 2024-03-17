@@ -1,0 +1,44 @@
+18:01:11.175 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:01:11.179 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:01:11.179 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+18:01:12.144 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:04:01.824 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) joinded the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+18:04:01.832 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+18:04:01.832 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 18
+18:04:01.832 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=
+18:04:02.769 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 18
+18:06:19.550 [MissionAirdrop] An airdrop is heading towards "Junkyard" (pos=<3364.919922, 0.000000, 6174.080078> type=Random_Junkyard) with a ExpansionAirdropContainer_Medical
+18:11:44.320 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:14:27.664 [Party] Player "Pennywise" (id=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I=) left the party "Nomads" (id=18 ownerUID=DzVLOnusa_P6OAOhre9vNubgNuFYy109hQY6AmxYZ6I= ownerName=Pennywise)
+18:38:22.046 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+18:38:22.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+18:38:22.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:38:22.062 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+18:38:23.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+18:41:01.304 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+22:07:14.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: K_5MMo82UkRTwkyQ7wr9Ws4zDWqKdBQUH5d7DsB8iWE=
+22:07:14.375 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: K_5MMo82UkRTwkyQ7wr9Ws4zDWqKdBQUH5d7DsB8iWE=
+22:07:16.546 [MissionAirdrop] An airdrop is heading towards "Sweet Water" (pos=<4663.779785, 0.000000, 9148.309570> type=Random_SweetWater) with a ExpansionAirdropContainer
+22:31:00.585 [AI Patrol] Spawning 2 Police Academy bots at <5166.826660, 56.129997, 2256.964600>
+23:20:21.132 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:20:21.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:20:21.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:20:22.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:21:01.867 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:22:15.484 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:22:15.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+23:22:15.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:22:16.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:24:34.054 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:24:34.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:24:34.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:24:35.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:34:19.546 [MissionAirdrop] An airdrop is heading towards "Base Camp Bravo" (pos=<3690.439941, 0.000000, 4909.049805> type=Random_BaseCampBravo) with a ExpansionAirdropContainer
+23:49:00.062 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <920.937622, 151.572510, 7129.711914>) failed to enter the correct code.
+23:49:00.062 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) The correct code was 1505 and the player tried 6969
+23:49:10.960 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <920.937622, 151.572510, 7129.711914>) failed to enter the correct code.
+23:49:10.960 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) The correct code was 1505 and the player tried 4206
+23:49:23.812 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <920.937622, 151.572510, 7129.711914>) failed to enter the correct code.
+23:49:23.812 [BaseRaiding] BBP_SGate (<918.024658, 151.439377, 7129.558105>) The correct code was 1505 and the player tried 4269
+23:59:15.609 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)
+23:59:15.609 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtymike" (id=1 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyMike)

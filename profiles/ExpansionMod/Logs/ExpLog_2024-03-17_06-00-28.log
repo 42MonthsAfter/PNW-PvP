@@ -1,0 +1,99 @@
+09:08:38.332 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:13:44.773 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer
+09:22:26.152 [AI Patrol] Spawning 2 Vagabond Army bots at <3474.714355, 99.884567, 7913.915527>
+09:24:56.769 [Party] Player "Evsy" (id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=) joinded the party "Evsy" (id=16 ownerUID=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo= ownerName=Evsy)
+09:24:56.781 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=
+09:24:56.781 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 16
+09:24:57.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 16
+09:25:18.113 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Afternoon o/
+09:27:06.363 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): howdy! another day in running simulator!
+09:27:58.898 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Been wire/metal sheets finding sim for the last couple of days
+09:29:44.203 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Hit up an airdrop yesterday, Aint noone got enough ammo to clear those out :P
+09:30:18.433 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i gave up on them. i was right under one once and like 40 dead spawned around me. no fun
+09:30:45.156 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Apart from wood, you finding good building mats?
+09:31:05.414 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): not even a box of nails this run. 2 hand saws though
+09:31:50.687 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): I'll keep my eyes open for nails, Im after wall upgrades and storage atm
+09:33:10.437 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i saw a locker at the north airfield but i left it there. ill watch for stuff for ya too. i wouldnt mind getting a little hole secured before the big team gets back on
+09:33:29.667 [AI Patrol] Spawning 2 Orting bots at <5125.094238, 222.267273, 5239.969727>
+09:33:37.570 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Big team! You're running with folks?
+09:34:03.613 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): nooooo mike and those boys. they are intense on raid weekends, i want to knock them down a peg again
+09:34:38.195 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): its BBP here right?
+09:34:52.015 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): oh.. crap. I forgot it was the weekend. Logged out miles away from my place. Fingers crossed its still there lol
+09:38:29.398 [Killfeed] Chuck_N_Biskitz got killed by Orting with Pickaxe.
+09:38:40.578 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): O.o
+09:38:57.863 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): well shit lol
+09:39:38.230 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): You gucci_
+09:39:43.632 [AI Patrol] Spawning 2 Airfield bots at <6629.572266, 18.624424, 1691.510498>
+09:40:00.625 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): AI or Environment?
+09:40:46.191 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ai. now im running from the pack of deads i spawned inside of
+09:40:52.699 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): not my day hahaha
+09:41:03.984 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Where'd you spawn? I'm in La Push
+09:41:21.359 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): chinook. making the run of shame back rto my body
+09:44:49.960 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Just found one of the scavenger hunts
+09:45:00.281 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sick! anything good?
+09:45:01.296 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): It has 5 boxes of nails if you want 3 for the run back
+09:45:12.832 [AI Patrol] Spawning 2 Police Academy bots at <5120.237305, 56.129997, 2285.193115>
+09:45:43.164 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sweet! thanks. ill let you know when i head back from getting my body. holler after that i reckon, need more ammo for these ai
+09:46:14.796 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Chinook only down the road from La push and i'm heading that wayif you want them?
+09:46:57.742 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im already passing the police academy lol, thanks though. ill head towards wherever you end up 
+09:47:30.847 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Alrighty
+09:49:15.703 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Making my way along the coast for the industrials
+09:50:54.316 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): nice. got a glock and a dream. 2 k from my body. i almost hope the ai didnt bleed out, i wanna put that round in its skull
+09:59:04.125 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Nails weigh so much! Hot damn!
+09:59:13.082 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Just realised, 3kg a box!
+09:59:21.734 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): holy shit
+09:59:39.113 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): no wonder my stamina is dead
+10:01:26.945 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): You be running or walking when you get your gear?
+10:01:40.820 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Running or driving even
+10:02:10.171 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): running. i just have to find the asshat bot that took my rifle and ill be on me way again
+10:02:33.437 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Said you had died to a pickaxe on the screen :P
+10:02:47.519 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Big upgrade, Pickaxe to rifle!
+10:03:05.714 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i was shooting his little buddy in a field and he just ran up on me
+10:12:00.296 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): How´re ya getting on_
+10:12:06.777 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): clearing this industrial then coming towards holler
+10:14:05.023 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): that ai must have bled out in the grass somewhere, cant find either of em. but i did get a few bits for your pugrades
+10:14:51.156 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Just passing through Chinook myself
+10:16:40.285 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): found a wire a bag of cement and a cement mixer kit. ill have to come see you when i need to mix lol
+10:17:08.062 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Got a cement mixer set up, Just need wire to connect the generator
+10:17:41.453 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): didnt know you can do that! i still use a carbattery and metal wire lol
+10:18:02.652 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): It's the cable reel, that's what I mean
+10:19:46.039 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): evsy
+10:19:50.945 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): you arent going to believe this shit
+10:19:57.039 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): lol
+10:20:17.703 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i just found a cable reel in a broken down base garage
+10:20:50.851 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Now you have a cement mixer!
+10:21:24.656 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6579.709473, 21.491518, 3672.949463>) Entered the safezone
+10:21:34.007 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): I'm just finding loads of mortar and cement
+10:21:36.269 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): O.o
+10:22:06.445 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): made it to holler before dark. aw yess
+10:23:11.554 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): im 3k from  the well at point monroe if you wanna meet there
+10:23:45.347 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Yep, heading that way mate
+10:24:14.015 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6668.523438, 21.642076, 3614.843750>) Left the safezone
+10:26:58.441 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): I'm stupid
+10:27:19.773 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Didn't collect any barbed wire from La push
+10:27:30.183 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): and now just ran past some pliers
+10:27:56.535 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i cant live without pliers
+10:28:15.679 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Could be the title of your new album!
+10:28:34.695 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): hahahaha
+10:31:16.371 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): Which well were you talking about btw_
+10:32:13.652 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ne corner of point monroe, just before it goes into that little peninsula
+10:32:36.511 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): The one at apartments?
+10:33:00.777 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): ill let ya know when i get there. going from the map for another 1.5k
+10:34:19.273 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle Olga 24 (id=7B30D2CE5C400E3C016260856B3EFD85 pos=<8127.709473, 2.166249, 794.350464>) as driver
+10:34:23.648 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle Olga 24 (id=7B30D2CE5C400E3C016260856B3EFD85 pos=<8127.709473, 2.165635, 794.331299>)
+10:37:20.039 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): yep they look apartmentish
+10:37:28.601 [Chat - Global]("Evsy"(id=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=)): 400m out
+10:40:42.781 [MissionAirdrop] An airdrop is heading towards "Base Camp Charlie" (pos=<2675.060059, 0.000000, 2487.120117> type=Random_BaseCampCharlie) with a ExpansionAirdropContainer
+10:40:56.875 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oh yeah. i miss my aur but im good
+10:41:33.562 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): awesome!
+10:41:36.285 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thanks :)
+10:42:21.339 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i gotta get some coffee and scout a base location, get this thing started lol
+10:43:20.304 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sounds like a plan
+10:43:50.476 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): damn. slow, slow run
+10:44:14.976 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): i do actually thanks
+10:44:53.609 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): yeppers
+10:45:32.195 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): oh yeah, i like the sound these make
+10:46:02.070 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): sweet, thanks again, im going to hunker down and get my java on
+10:46:18.312 [Chat - Global]("Chuck_N_Biskitz"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): solid plan
+10:49:02.015 [VehicleEnter] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] entered vehicle M3S Covered (id=C7481B1A864C914D99DC9CB3A6268B32 pos=<9161.458008, 2.199254, 1132.495972>) as driver
+10:49:08.695 [VehicleLeave] Player Evsy [uid=iVutVB0zyf9_ixQlC7_lUZXRzWS1VfyXb3Cova6YJFo=] left vehicle M3S Covered (id=C7481B1A864C914D99DC9CB3A6268B32 pos=<9161.458008, 2.199269, 1132.496094>)
